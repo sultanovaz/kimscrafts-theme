@@ -156,6 +156,30 @@
     .kc-pcard__name { font-size: 14px !important; line-height: 1.25 !important; }
     .kc-pcard__price { font-size: 13px; gap: 6px; }
   }
+
+  .kc-collection__pagination {
+    margin-top: 60px;
+    text-align: center;
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    font-size: 14px;
+  }
+  .kc-collection__pagination a,
+  .kc-collection__pagination span {
+    display: inline-block;
+    padding: 8px 14px;
+    margin: 0 2px;
+    color: var(--kc-navy, #1A3553);
+    text-decoration: none;
+    border-radius: 2px;
+  }
+  .kc-collection__pagination a:hover {
+    background: var(--kc-cream, #F5EDE0);
+  }
+  .kc-collection__pagination .page.current {
+    background: var(--kc-navy, #1A3553);
+    color: #fff;
+    font-weight: 500;
+  }
 </style>
 
 {% schema %}

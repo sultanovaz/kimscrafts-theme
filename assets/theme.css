@@ -3892,3 +3892,52 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   color: var(--kc-ink);
   letter-spacing: -0.01em;
 }
+
+
+/* =============================================================
+   V3 HOTFIX 2 — ATC button no-wrap on mobile
+   ============================================================= */
+.kc-atc-btn {
+  white-space: nowrap;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  padding: 0 18px;
+  min-height: 54px;
+  font-size: 14px;
+  letter-spacing: 0.08em;
+}
+.kc-atc-btn [data-atc-label],
+.kc-atc-btn [data-atc-sep],
+.kc-atc-btn [data-atc-total] {
+  white-space: nowrap;
+  display: inline;
+}
+.kc-atc-btn [data-atc-sep] {
+  margin: 0 6px;
+  opacity: 0.6;
+}
+
+/* On narrow mobile, tighten letter-spacing & shrink separator */
+@media (max-width: 480px) {
+  .kc-atc-btn {
+    letter-spacing: 0.04em;
+    font-size: 13px;
+    padding: 0 12px;
+  }
+  .kc-atc-btn [data-atc-sep] {
+    margin: 0 4px;
+  }
+}
+
+/* Also fix the qty + atc row so button gets enough width */
+.kc-addcart-row {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 12px;
+  margin-top: 20px;
+}
+.kc-qty {
+  width: auto;
+}

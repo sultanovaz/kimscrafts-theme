@@ -73,7 +73,7 @@
 
     {%- if has_coll and section.settings.show_view_all -%}
       <div class="kc-grid__footer">
-        <a class="kc-btn kc-btn--outline" href="{{ section.settings.view_all_link | default: '/collections/all-wallets' }}">
+        <a class="kc-btn kc-btn--outline" href="{{ coll_link }}">
           {{ section.settings.view_all_text | default: 'View all' }}
           <span class="kc-btn__arrow">→</span>
         </a>

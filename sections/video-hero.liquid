@@ -1,0 +1,48 @@
+<section class="kc-vhero" {% if section.settings.height %}style="--vhero-h: {{ section.settings.height }}vh;"{% endif %}>
+  <div class="kc-vhero__media">
+    {%- if section.settings.video_url != blank -%}
+      <video autoplay muted loop playsinline poster="{% if section.settings.poster != blank %}{{ section.settings.poster | image_url: width: 1600 }}{% endif %}">
+        <source src="{{ section.settings.video_url }}" type="video/mp4">
+      </video>
+    {%- elsif section.settings.poster != blank -%}
+      <img src="{{ section.settings.poster | image_url: width: 2000 }}" alt="{{ section.settings.heading | strip_html | escape }}" loading="eager">
+    {%- else -%}
+      <div style="background: linear-gradient(135deg, var(--kc-navy) 0%, var(--kc-navy-deep) 100%);"></div>
+    {%- endif -%}
+    <div class="kc-vhero__tint" style="background: rgba(0,0,0,{{ section.settings.overlay_opacity | default: 35 | divided_by: 100.0 }});"></div>
+  </div>
+  <div class="kc-vhero__content">
+    <div class="kc-wrap">
+      {%- if section.settings.eyebrow != blank -%}
+        <div class="kc-vhero__eyebrow kc-eyebrow kc-reveal" style="color: var(--kc-tan-soft);">{{ section.settings.eyebrow }}</div>
+      {%- endif -%}
+      {%- if section.settings.heading != blank -%}
+        <h1 class="kc-vhero__title kc-reveal" data-delay="1">{{ section.settings.heading }}</h1>
+      {%- endif -%}
+      {%- if section.settings.subtext != blank -%}
+        <p class="kc-vhero__sub kc-reveal" data-delay="2">{{ section.settings.subtext }}</p>
+      {%- endif -%}
+      {%- if section.settings.cta_label != blank -%}
+        <a href="{{ section.settings.cta_url | default: '#' }}" class="kc-btn kc-btn--primary kc-reveal" data-delay="3" style="background: var(--kc-cream); color: var(--kc-navy);">{{ section.settings.cta_label }} →</a>
+      {%- endif -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Video hero",
+  "settings": [
+    { "type": "url", "id": "video_url", "label": "Video URL (MP4)" },
+    { "type": "image_picker", "id": "poster", "label": "Poster image / fallback" },
+    { "type": "range", "id": "height", "label": "Height (vh)", "min": 50, "max": 100, "step": 5, "default": 85 },
+    { "type": "range", "id": "overlay_opacity", "label": "Overlay opacity %", "min": 0, "max": 70, "step": 5, "default": 35 },
+    { "type": "text", "id": "eyebrow", "label": "Eyebrow", "default": "Small-batch · Est. 2024" },
+    { "type": "richtext", "id": "heading", "label": "Heading", "default": "<p>Built to carry, <em>made to last.</em></p>" },
+    { "type": "textarea", "id": "subtext", "label": "Subtext", "default": "Hand-cut leather book wallets, stitched one at a time." },
+    { "type": "text", "id": "cta_label", "label": "CTA label", "default": "Shop the collection" },
+    { "type": "url", "id": "cta_url", "label": "CTA link" }
+  ],
+  "presets": [{ "name": "Video hero" }]
+}
+{% endschema %}

@@ -1,0 +1,45 @@
+{%- liquid
+  assign rec_products = recommendations.products
+  if rec_products.size == 0 and product != blank
+    assign coll = product.collections.first
+    assign rec_products = coll.products
+  endif
+-%}
+<section class="kc-related">
+  <div class="kc-wrap">
+    <div class="kc-related__head">
+      {%- if section.settings.heading != blank -%}<h2 class="kc-related__title">{{ section.settings.heading }}</h2>{%- endif -%}
+    </div>
+    <div class="kc-grid" style="--cols: {{ section.settings.columns | default: '4' }}; --cols-mobile: 2;">
+      {%- for p in rec_products limit: section.settings.limit | default: 4 -%}
+        {%- if p.handle != product.handle -%}
+          <a class="kc-card kc-reveal" data-delay="{{ forloop.index0 | modulo: 4 }}" href="{{ p.url }}">
+            <div class="kc-card__frame">
+              {%- if p.featured_image != blank -%}
+                <img class="kc-card__img" src="{{ p.featured_image | image_url: width: 600 }}" alt="{{ p.featured_image.alt | escape }}" loading="lazy">
+              {%- endif -%}
+              <div class="kc-card__reveal"><span>View</span><span class="arrow">→</span></div>
+            </div>
+            <div class="kc-card__info">
+              <div class="kc-card__name">{{ p.title }}</div>
+              <div class="kc-card__price">{{ p.price | money }}</div>
+            </div>
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Related products",
+  "settings": [
+    { "type": "text", "id": "heading", "label": "Heading", "default": "You might also like" },
+    { "type": "select", "id": "columns", "label": "Columns on desktop",
+      "options": [{"value":"3","label":"3"},{"value":"4","label":"4"}], "default": "4" },
+    { "type": "select", "id": "limit", "label": "Products to show",
+      "options": [{"value":"3","label":"3"},{"value":"4","label":"4"},{"value":"6","label":"6"},{"value":"8","label":"8"}], "default": "4" }
+  ]
+}
+{% endschema %}

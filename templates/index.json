@@ -1,0 +1,120 @@
+{
+  "sections": {
+    "hero": {
+      "type": "editorial-hero",
+      "settings": {
+        "eyebrow": "Handmade · Small-batch · Est. 2024",
+        "heading": "<p>Leather book wallets, <em>stitched by hand.</em></p>",
+        "subtext": "Four covers. One honest wallet. Cut from full-grain leather, saddle-stitched in small runs, and sent out in a cloth sleeve that's worth keeping."
+      }
+    },
+    "grid": {
+      "type": "collection-grid",
+      "settings": { "columns": "4", "columns_mobile": "2", "limit": 4 }
+    },
+    "press": {
+      "type": "press-logos",
+      "settings": { "heading": "As seen in" },
+      "blocks": {
+        "p1": { "type": "logo", "settings": { "name": "Vogue" }},
+        "p2": { "type": "logo", "settings": { "name": "GQ" }},
+        "p3": { "type": "logo", "settings": { "name": "Esquire" }},
+        "p4": { "type": "logo", "settings": { "name": "Hypebeast" }},
+        "p5": { "type": "logo", "settings": { "name": "Monocle" }}
+      },
+      "block_order": ["p1","p2","p3","p4","p5"]
+    },
+    "founder": {
+      "type": "founder-note",
+      "settings": {
+        "eyebrow": "Made by hand",
+        "heading": "<p>No two are <em>exactly</em> alike.</p>",
+        "body": "<p>Each book wallet is cut, folded and saddle-stitched from a single piece of full-grain leather. Small flaws in the grain, slight shifts in color — those aren't defects. They're the reason we work this way.</p><p>Order today and yours goes on the bench this week.</p>",
+        "signature": "— Kim"
+      }
+    },
+    "imgtext": {
+      "type": "image-text",
+      "settings": {
+        "image_position": "right",
+        "eyebrow": "The process",
+        "heading": "<p>Cut. Fold. <em>Stitch.</em></p>",
+        "body": "<p>Every wallet starts as a single hide. We cut by hand, fold by feel, and pull every stitch with waxed linen thread. No machines, no shortcuts, no compromise.</p><p>It's slower. It's why there's a waitlist sometimes. It's why yours will outlast anything else you own.</p>",
+        "cta_label": "Our story",
+        "cta_url": "/pages/our-story"
+      }
+    },
+    "testimonial": {
+      "type": "featured-testimonial",
+      "settings": {
+        "quote": "I've carried a lot of wallets. This one's going with me until it's nothing but patina and memory.",
+        "author": "Marcus H.",
+        "author_detail": "Carried for 14 months"
+      }
+    },
+    "values": {
+      "type": "value-bar",
+      "blocks": {
+        "v1": { "type": "value", "settings": { "icon": "scissors", "title": "Made by hand", "subtitle": "Cut, folded, stitched in small runs" }},
+        "v2": { "type": "value", "settings": { "icon": "leaf", "title": "Full-grain leather", "subtitle": "Ages with you, softer every week" }},
+        "v3": { "type": "value", "settings": { "icon": "truck", "title": "Free US shipping", "subtitle": "Orders over $75 ship on us" }},
+        "v4": { "type": "value", "settings": { "icon": "shield", "title": "30-day returns", "subtitle": "Easy, no-questions policy" }}
+      },
+      "block_order": ["v1","v2","v3","v4"]
+    },
+    "reviews": {
+      "type": "reviews",
+      "settings": { "heading": "<p>Carried every day, <em>for years.</em></p>" },
+      "blocks": {
+        "r1": { "type": "review", "settings": { "rating": 5, "quote": "The leather is already starting to soften where I hold it. It looks better every month.", "author": "Sarah M., Verified Buyer" }},
+        "r2": { "type": "review", "settings": { "rating": 5, "quote": "Switched from a regular bifold and I'm not going back. Feels like something you'd pass down.", "author": "James T., Verified Buyer" }},
+        "r3": { "type": "review", "settings": { "rating": 5, "quote": "Honestly the best gift I've ever given my dad. He carries it everywhere.", "author": "Priya K., Verified Buyer" }}
+      },
+      "block_order": ["r1","r2","r3"]
+    },
+    "social": {
+      "type": "social-grid",
+      "settings": {
+        "eyebrow": "From the community",
+        "heading": "<p>Carried in the <em>wild.</em></p>",
+        "handle": "Follow @kimscrafts"
+      },
+      "blocks": {
+        "s1": { "type": "post" }, "s2": { "type": "post" }, "s3": { "type": "post" }, "s4": { "type": "post" },
+        "s5": { "type": "post" }, "s6": { "type": "post" }, "s7": { "type": "post" }, "s8": { "type": "post" }
+      },
+      "block_order": ["s1","s2","s3","s4","s5","s6","s7","s8"]
+    },
+    "faq": {
+      "type": "faq",
+      "settings": {
+        "eyebrow": "Common questions",
+        "heading": "<p>Everything <em>you're wondering</em>.</p>",
+        "subtext": "Short, honest answers — no fluff.",
+        "first_open": true,
+        "contact_prompt": "Didn't see your question?",
+        "contact_url": "/pages/contact"
+      },
+      "blocks": {
+        "f1": { "type": "faq_item", "settings": { "question": "How long does shipping take?", "answer": "<p>Orders ship within 2 business days from our studio. US delivery is typically 3–5 days after that.</p>" }},
+        "f2": { "type": "faq_item", "settings": { "question": "What leather do you use?", "answer": "<p>Full-grain vegetable-tanned leather from a small tannery we've worked with since day one. It ages beautifully and gets softer with every week of use.</p>" }},
+        "f3": { "type": "faq_item", "settings": { "question": "Can I return it?", "answer": "<p>Yes — 30 days, no questions. If you've used it lightly and it's not your thing, send it back for a full refund.</p>" }},
+        "f4": { "type": "faq_item", "settings": { "question": "Is it really handmade?", "answer": "<p>Every wallet is cut, folded, and saddle-stitched by hand in small batches. We sell out and restock — it's not a factory line.</p>" }},
+        "f5": { "type": "faq_item", "settings": { "question": "Do you ship internationally?", "answer": "<p>We ship to the US, Canada, UK, EU, and Australia. Duties and taxes are calculated at checkout.</p>" }}
+      },
+      "block_order": ["f1","f2","f3","f4","f5"]
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "eyebrow": "The list",
+        "heading": "<p>Restocks, <em>early access</em>, small stories.</p>",
+        "subtext": "One or two emails a month. Never pushy, never daily.",
+        "placeholder": "you@email.com",
+        "button_label": "Subscribe",
+        "disclaimer": "By subscribing you agree to our privacy policy. Unsubscribe any time."
+      }
+    }
+  },
+  "order": ["hero", "grid", "press", "founder", "imgtext", "testimonial", "values", "reviews", "social", "faq", "newsletter"]
+}

@@ -1,0 +1,41 @@
+<section class="kc-customer">
+  <div class="kc-eyebrow" style="text-align:center; margin-bottom:12px;">Account</div>
+  <h1>{{ 'customer.register.title' | t }}</h1>
+
+  {%- form 'create_customer', novalidate: 'novalidate' -%}
+    {%- if form.errors -%}
+      <div class="kc-notif kc-notif--error">
+        <ul style="margin:0; padding-left:20px;">
+          {%- for error in form.errors -%}
+            <li>{{ form.errors.messages[error] }}</li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    {%- endif -%}
+
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px;">
+      <div class="kc-form-row">
+        <label class="kc-label" for="FirstName">{{ 'customer.register.first_name' | t }}</label>
+        <input type="text" name="customer[first_name]" id="FirstName" class="kc-field" autocomplete="given-name">
+      </div>
+      <div class="kc-form-row">
+        <label class="kc-label" for="LastName">{{ 'customer.register.last_name' | t }}</label>
+        <input type="text" name="customer[last_name]" id="LastName" class="kc-field" autocomplete="family-name">
+      </div>
+    </div>
+    <div class="kc-form-row">
+      <label class="kc-label" for="Email">{{ 'customer.register.email' | t }}</label>
+      <input type="email" name="customer[email]" id="Email" class="kc-field" autocomplete="email" required>
+    </div>
+    <div class="kc-form-row">
+      <label class="kc-label" for="Password">{{ 'customer.register.password' | t }}</label>
+      <input type="password" name="customer[password]" id="Password" class="kc-field" autocomplete="new-password" required>
+    </div>
+
+    <button type="submit" class="kc-btn kc-btn--primary kc-btn--full">{{ 'customer.register.submit' | t }}</button>
+  {%- endform -%}
+
+  <div class="kc-customer__links">
+    Already have an account? <a href="{{ routes.account_login_url }}">{{ 'customer.login_page.sign_in' | t }}</a>
+  </div>
+</section>

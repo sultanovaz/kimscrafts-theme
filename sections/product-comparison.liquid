@@ -1,0 +1,80 @@
+{%- liquid
+  assign row_blocks = section.blocks | where: 'type', 'row'
+-%}
+<section class="kc-compare">
+  <div class="kc-wrap--narrow">
+    {%- if section.settings.eyebrow != blank -%}
+      <div class="kc-eyebrow kc-compare__eyebrow kc-reveal">{{ section.settings.eyebrow }}</div>
+    {%- endif -%}
+    {%- if section.settings.heading != blank -%}
+      <h2 class="kc-compare__heading kc-reveal">{{ section.settings.heading }}</h2>
+    {%- endif -%}
+
+    <div class="kc-compare__table kc-reveal">
+      <div class="kc-compare__head">
+        <div class="kc-compare__col-label"></div>
+        <div class="kc-compare__col kc-compare__col--us">
+          <div class="kc-compare__col-name">{{ section.settings.col_us | default: 'Kimscrafts' }}</div>
+        </div>
+        <div class="kc-compare__col kc-compare__col--them">
+          <div class="kc-compare__col-name">{{ section.settings.col_them | default: 'A regular wallet' }}</div>
+        </div>
+      </div>
+
+      {%- for block in row_blocks -%}
+        <div class="kc-compare__row" {{ block.shopify_attributes }}>
+          <div class="kc-compare__label">{{ block.settings.label }}</div>
+          <div class="kc-compare__cell kc-compare__cell--us">
+            <span class="kc-compare__check" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" width="16" height="16"><path d="m5 12 5 5L20 7" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </span>
+            <span class="kc-compare__value">{{ block.settings.us_text }}</span>
+          </div>
+          <div class="kc-compare__cell kc-compare__cell--them">
+            <span class="kc-compare__x" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" width="14" height="14"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            </span>
+            <span class="kc-compare__value">{{ block.settings.them_text }}</span>
+          </div>
+        </div>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Comparison",
+  "settings": [
+    { "type": "text", "id": "eyebrow", "label": "Eyebrow", "default": "Why this wallet" },
+    { "type": "richtext", "id": "heading", "label": "Heading", "default": "<p>Built different. <em>On purpose.</em></p>" },
+    { "type": "text", "id": "col_us", "label": "Our column name", "default": "Kimscrafts" },
+    { "type": "text", "id": "col_them", "label": "Their column name", "default": "A regular wallet" }
+  ],
+  "blocks": [
+    {
+      "type": "row",
+      "name": "Comparison row",
+      "settings": [
+        { "type": "text", "id": "label", "label": "Row label", "default": "Material" },
+        { "type": "text", "id": "us_text", "label": "Our value", "default": "Full-grain vegetable-tanned leather" },
+        { "type": "text", "id": "them_text", "label": "Their value", "default": "Bonded / synthetic leather" }
+      ]
+    }
+  ],
+  "max_blocks": 8,
+  "presets": [
+    {
+      "name": "Comparison",
+      "blocks": [
+        { "type": "row", "settings": { "label": "Material", "us_text": "Full-grain vegetable-tanned leather", "them_text": "Bonded or synthetic leather" }},
+        { "type": "row", "settings": { "label": "Construction", "us_text": "Saddle-stitched by hand", "them_text": "Machine-stitched, mass-produced" }},
+        { "type": "row", "settings": { "label": "Ages over time", "us_text": "Develops a patina, softens yearly", "them_text": "Cracks, peels, looks worn out" }},
+        { "type": "row", "settings": { "label": "Guarantee", "us_text": "Lifetime stitching guarantee", "them_text": "30 to 90 days, if any" }},
+        { "type": "row", "settings": { "label": "How it's made", "us_text": "Small-batch in our studio", "them_text": "Overseas factory floor" }},
+        { "type": "row", "settings": { "label": "Thickness", "us_text": "2mm — holds its shape", "them_text": "Thin, loses form quickly" }}
+      ]
+    }
+  ]
+}
+{% endschema %}

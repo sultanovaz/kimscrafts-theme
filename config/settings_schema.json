@@ -1,0 +1,149 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "KimsCrafts — Book Wallet Atelier",
+    "theme_author": "KimsCrafts",
+    "theme_version": "2.0.0",
+    "theme_documentation_url": "https://kimscrafts.co",
+    "theme_support_url": "https://kimscrafts.co/pages/contact"
+  },
+  {
+    "name": "Brand colors",
+    "settings": [
+      { "type": "header", "content": "Palette" },
+      { "type": "color", "id": "color_navy", "label": "Navy (primary)", "default": "#1A3553" },
+      { "type": "color", "id": "color_navy_deep", "label": "Navy deep", "default": "#0F2238" },
+      { "type": "color", "id": "color_tan", "label": "Tan (accent)", "default": "#C47B47" },
+      { "type": "color", "id": "color_tan_soft", "label": "Tan soft", "default": "#E8C9AD" },
+      { "type": "color", "id": "color_cream", "label": "Cream", "default": "#F5EDE0" },
+      { "type": "color", "id": "color_cream_soft", "label": "Cream soft", "default": "#EFE7D8" },
+      { "type": "color", "id": "color_paper", "label": "Paper background", "default": "#FBFAF7" },
+      { "type": "color", "id": "color_ink", "label": "Ink (text)", "default": "#1C1917" },
+      { "type": "color", "id": "color_ink_soft", "label": "Ink soft", "default": "#3F3A36" },
+      { "type": "color", "id": "color_muted", "label": "Muted text", "default": "#827D78" },
+      { "type": "color", "id": "color_line", "label": "Line / divider", "default": "#E8E1D4" },
+      { "type": "color", "id": "color_success", "label": "Success", "default": "#3D6B4A" },
+      { "type": "color", "id": "color_error", "label": "Error", "default": "#A83232" }
+    ]
+  },
+  {
+    "name": "Typography",
+    "settings": [
+      { "type": "header", "content": "Fonts" },
+      { "type": "paragraph", "content": "Display: Fraunces (variable). Body: DM Sans. Edit in theme.liquid if you want different fonts." },
+      { "type": "range", "id": "h1_size", "label": "H1 size multiplier", "min": 80, "max": 140, "step": 5, "unit": "%", "default": 100 },
+      { "type": "range", "id": "body_size", "label": "Body size multiplier", "min": 90, "max": 115, "step": 5, "unit": "%", "default": 100 },
+      { "type": "range", "id": "letter_spacing", "label": "Letter spacing tweak", "min": -20, "max": 20, "step": 5, "default": 0 },
+      { "type": "select", "id": "heading_style", "label": "Heading style",
+        "options": [
+          { "value": "serif", "label": "Serif (Fraunces)" },
+          { "value": "sans", "label": "Sans (DM Sans bold)" }
+        ], "default": "serif" }
+    ]
+  },
+  {
+    "name": "Layout",
+    "settings": [
+      { "type": "header", "content": "Container widths" },
+      { "type": "range", "id": "container_width", "label": "Max container width (px)", "min": 1200, "max": 1600, "step": 40, "default": 1360 },
+      { "type": "range", "id": "narrow_width", "label": "Narrow container width (px)", "min": 700, "max": 1000, "step": 25, "default": 900 },
+      { "type": "header", "content": "Section spacing" },
+      { "type": "range", "id": "section_spacing", "label": "Vertical spacing scale", "min": 80, "max": 120, "step": 5, "unit": "%", "default": 100 }
+    ]
+  },
+  {
+    "name": "Buttons",
+    "settings": [
+      { "type": "range", "id": "btn_radius", "label": "Button corner radius (px)", "min": 0, "max": 24, "step": 2, "default": 2 },
+      { "type": "range", "id": "btn_y_padding", "label": "Button vertical padding (px)", "min": 12, "max": 24, "step": 2, "default": 16 },
+      { "type": "range", "id": "btn_letter_spacing", "label": "Button letter-spacing", "min": 0, "max": 30, "step": 2, "default": 10 },
+      { "type": "select", "id": "btn_style", "label": "Button style",
+        "options": [
+          { "value": "solid", "label": "Solid" },
+          { "value": "outlined", "label": "Outlined" }
+        ], "default": "solid" }
+    ]
+  },
+  {
+    "name": "Product cards",
+    "settings": [
+      { "type": "range", "id": "card_radius", "label": "Card image radius (px)", "min": 0, "max": 24, "step": 2, "default": 6 },
+      { "type": "select", "id": "card_image_ratio", "label": "Card image ratio",
+        "options": [
+          { "value": "1/1", "label": "Square" },
+          { "value": "4/5", "label": "Portrait (4:5)" },
+          { "value": "3/4", "label": "Portrait (3:4)" }
+        ], "default": "4/5" },
+      { "type": "checkbox", "id": "card_show_vendor", "label": "Show vendor", "default": false },
+      { "type": "checkbox", "id": "card_show_sale_badge", "label": "Show sale badge", "default": true }
+    ]
+  },
+  {
+    "name": "Cart & checkout",
+    "settings": [
+      { "type": "select", "id": "cart_type", "label": "Cart type",
+        "options": [
+          { "value": "page", "label": "Cart page" },
+          { "value": "drawer", "label": "Drawer" }
+        ], "default": "page" },
+      { "type": "checkbox", "id": "show_taxes_note", "label": "Show tax note in summary", "default": true },
+      { "type": "checkbox", "id": "show_payment_icons", "label": "Show payment icons in footer", "default": true }
+    ]
+  },
+  {
+    "name": "Social",
+    "settings": [
+      { "type": "url", "id": "social_instagram", "label": "Instagram URL", "default": "https://instagram.com/kimscrafts" },
+      { "type": "url", "id": "social_tiktok", "label": "TikTok URL" },
+      { "type": "url", "id": "social_facebook", "label": "Facebook URL" },
+      { "type": "url", "id": "social_pinterest", "label": "Pinterest URL" },
+      { "type": "url", "id": "social_youtube", "label": "YouTube URL" }
+    ]
+  },
+  {
+    "name": "Favicon & branding",
+    "settings": [
+      { "type": "image_picker", "id": "favicon", "label": "Favicon (32×32)" },
+      { "type": "image_picker", "id": "logo", "label": "Logo image" },
+      { "type": "range", "id": "logo_height_desktop", "label": "Logo height desktop (px)", "min": 20, "max": 80, "step": 4, "default": 36 },
+      { "type": "range", "id": "logo_height_mobile", "label": "Logo height mobile (px)", "min": 18, "max": 60, "step": 2, "default": 28 }
+    ]
+  },
+  {
+    "name": "Footer",
+    "settings": [
+      { "type": "text", "id": "footer_tagline", "label": "Footer tagline", "default": "Handmade book wallets, stitched in small batches." },
+      { "type": "textarea", "id": "footer_address", "label": "Address / note", "default": "Made slowly in small-town USA · Ships worldwide" },
+      { "type": "checkbox", "id": "show_newsletter_footer", "label": "Show newsletter signup in footer", "default": true }
+    ]
+  },
+  {
+    "name": "Animation",
+    "settings": [
+      { "type": "checkbox", "id": "animate_reveal", "label": "Animate sections on scroll", "default": true },
+      { "type": "range", "id": "reveal_delay", "label": "Stagger delay (ms)", "min": 40, "max": 200, "step": 20, "default": 80 },
+      { "type": "select", "id": "reveal_direction", "label": "Reveal direction",
+        "options": [
+          { "value": "up", "label": "Rise up" },
+          { "value": "fade", "label": "Fade only" }
+        ], "default": "up" }
+    ]
+  },
+  {
+    "name": "Performance",
+    "settings": [
+      { "type": "checkbox", "id": "lazy_load_images", "label": "Lazy-load below-fold images", "default": true },
+      { "type": "checkbox", "id": "preload_fonts", "label": "Preload display font", "default": true },
+      { "type": "checkbox", "id": "prefetch_links", "label": "Prefetch hovered links", "default": true }
+    ]
+  },
+  {
+    "name": "Advanced",
+    "settings": [
+      { "type": "paragraph", "content": "Custom code injections. For experts only." },
+      { "type": "textarea", "id": "head_custom_code", "label": "Custom <head> code (analytics, verification)", "info": "Injected into <head>" },
+      { "type": "textarea", "id": "body_custom_code", "label": "Custom code before </body>", "info": "Injected at end of <body>" },
+      { "type": "textarea", "id": "custom_css", "label": "Custom CSS", "info": "Injected in <head>" }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+<header class="kc-header" role="banner">
+  <div class="kc-header__inner">
+    {%- comment -%} Nav / menu button {%- endcomment -%}
+    <div class="kc-header__nav" role="navigation" aria-label="Main">
+      {%- if section.settings.menu != blank -%}
+        {%- for link in section.settings.menu.links -%}
+          <a href="{{ link.url }}">{{ link.title }}</a>
+        {%- endfor -%}
+      {%- else -%}
+        <a href="/collections/all">Shop</a>
+        <a href="/pages/our-story">Our Story</a>
+        <a href="/pages/care">Care</a>
+      {%- endif -%}
+    </div>
+
+    <button type="button" class="kc-header__icon kc-menu-toggle" data-menu-toggle aria-label="Open menu">
+      {%- render 'icon-menu' -%}
+    </button>
+
+    {%- comment -%} Logo {%- endcomment -%}
+    <a href="/" class="kc-header__logo" aria-label="{{ shop.name }}">
+      {%- if settings.logo != blank -%}
+        <img
+          src="{{ settings.logo | image_url: width: 300 }}"
+          alt="{{ shop.name }}"
+          width="{{ settings.logo.width }}"
+          height="{{ settings.logo.height }}"
+          loading="eager"
+        >
+      {%- else -%}
+        <span class="kc-header__logo-text">{{ shop.name }}</span>
+      {%- endif -%}
+    </a>
+
+    {%- comment -%} Actions {%- endcomment -%}
+    <div class="kc-header__actions">
+      <a href="/search" class="kc-header__icon" aria-label="Search">
+        {%- render 'icon-search' -%}
+      </a>
+      {%- if shop.customer_accounts_enabled -%}
+        <a href="{% if customer %}/account{% else %}/account/login{% endif %}" class="kc-header__icon" aria-label="Account">
+          {%- render 'icon-account' -%}
+        </a>
+      {%- endif -%}
+      <a href="/cart" class="kc-header__icon" aria-label="Cart">
+        {%- render 'icon-cart' -%}
+        <span class="kc-cart-count" data-cart-count{% if cart.item_count == 0 %} hidden{% endif %}>{{ cart.item_count }}</span>
+      </a>
+    </div>
+  </div>
+</header>
+
+{%- comment -%} Mobile drawer {%- endcomment -%}
+<div class="kc-mobile-drawer" data-mobile-drawer aria-hidden="true">
+  <button class="kc-header__icon kc-mobile-drawer__close" data-menu-close aria-label="Close menu">
+    {%- render 'icon-close' -%}
+  </button>
+  {%- if section.settings.menu != blank -%}
+    {%- for link in section.settings.menu.links -%}
+      <a href="{{ link.url }}">{{ link.title }}</a>
+    {%- endfor -%}
+  {%- else -%}
+    <a href="/collections/all">Shop</a>
+    <a href="/pages/our-story">Our Story</a>
+    <a href="/pages/care">Care</a>
+  {%- endif -%}
+  {%- if shop.customer_accounts_enabled -%}
+    <a href="{% if customer %}/account{% else %}/account/login{% endif %}">Account</a>
+  {%- endif -%}
+</div>
+
+{% schema %}
+{
+  "name": "Header",
+  "settings": [
+    {
+      "type": "link_list",
+      "id": "menu",
+      "label": "Menu",
+      "default": "main-menu"
+    }
+  ]
+}
+{% endschema %}

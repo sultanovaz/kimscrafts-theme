@@ -1,0 +1,61 @@
+<section class="kc-cats">
+  <div class="kc-wrap">
+    <div class="kc-cats__head">
+      {%- if section.settings.eyebrow != blank -%}<div class="kc-eyebrow kc-reveal">{{ section.settings.eyebrow }}</div>{%- endif -%}
+      {%- if section.settings.heading != blank -%}<h2 class="kc-cats__title kc-reveal" data-delay="1">{{ section.settings.heading }}</h2>{%- endif -%}
+    </div>
+    <div class="kc-cats__grid">
+      {%- for block in section.blocks -%}
+        {%- assign coll = collections[block.settings.collection] -%}
+        <a href="{% if coll != blank %}{{ coll.url }}{% else %}{{ block.settings.fallback_url | default: '#' }}{% endif %}" class="kc-cat kc-reveal" data-delay="{{ forloop.index0 | modulo: 4 }}" {{ block.shopify_attributes }}>
+          <div class="kc-cat__frame">
+            {%- if block.settings.image != blank -%}
+              <img src="{{ block.settings.image | image_url: width: 800 }}" alt="{{ block.settings.label | escape }}" loading="lazy">
+            {%- elsif coll != blank and coll.image != blank -%}
+              <img src="{{ coll.image | image_url: width: 800 }}" alt="{{ coll.title | escape }}" loading="lazy">
+            {%- elsif coll != blank and coll.products.first.featured_image != blank -%}
+              <img src="{{ coll.products.first.featured_image | image_url: width: 800 }}" alt="" loading="lazy">
+            {%- else -%}
+              <div style="background: var(--kc-cream); aspect-ratio: 1;"></div>
+            {%- endif -%}
+          </div>
+          <div class="kc-cat__label">
+            <span>{{ block.settings.label | default: coll.title | default: 'Shop' }}</span>
+            <span class="kc-cat__arrow">→</span>
+          </div>
+        </a>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Shop by category",
+  "settings": [
+    { "type": "text", "id": "eyebrow", "label": "Eyebrow", "default": "Shop by type" },
+    { "type": "richtext", "id": "heading", "label": "Heading", "default": "<p>Find your <em>carry.</em></p>" }
+  ],
+  "blocks": [
+    {
+      "type": "category",
+      "name": "Category",
+      "settings": [
+        { "type": "collection", "id": "collection", "label": "Collection" },
+        { "type": "image_picker", "id": "image", "label": "Image (optional — overrides collection image)" },
+        { "type": "text", "id": "label", "label": "Label (optional — overrides collection name)" },
+        { "type": "url", "id": "fallback_url", "label": "Fallback URL" }
+      ]
+    }
+  ],
+  "presets": [{
+    "name": "Shop by category",
+    "blocks": [
+      { "type": "category", "settings": { "label": "Slim bifolds" }},
+      { "type": "category", "settings": { "label": "Card holders" }},
+      { "type": "category", "settings": { "label": "8-slot wallets" }},
+      { "type": "category", "settings": { "label": "Gift-ready" }}
+    ]
+  }]
+}
+{% endschema %}

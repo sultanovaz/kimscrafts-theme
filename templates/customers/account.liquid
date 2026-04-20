@@ -1,0 +1,45 @@
+<section class="kc-customer kc-customer--wide">
+  <div class="kc-eyebrow" style="text-align:center; margin-bottom:12px;">Account</div>
+  <h1>Welcome, {{ customer.first_name | default: customer.email }}</h1>
+
+  <div style="display:grid; grid-template-columns:2fr 1fr; gap:48px; margin-top:48px;" class="kc-acc-grid">
+    <div>
+      <h2 style="font-size:24px; margin-bottom:20px;">{{ 'customer.orders.title' | t }}</h2>
+      {%- paginate customer.orders by 20 -%}
+        {%- if customer.orders.size > 0 -%}
+          <div style="border-top:1px solid var(--kc-line);">
+            {%- for order in customer.orders -%}
+              <div style="display:grid; grid-template-columns:1fr 1fr 1fr 1fr; gap:12px; padding:18px 0; border-bottom:1px solid var(--kc-line); font-size:14px; align-items:center;">
+                <div><a href="{{ order.customer_url }}" style="color:var(--kc-navy); text-decoration:underline; text-underline-offset:3px;">{{ order.name }}</a></div>
+                <div>{{ order.created_at | date: "%b %-d, %Y" }}</div>
+                <div style="color:var(--kc-muted);">{{ order.financial_status_label }}</div>
+                <div style="text-align:right;">{{ order.total_price | money }}</div>
+              </div>
+            {%- endfor -%}
+          </div>
+          {%- if paginate.pages > 1 -%}
+            <div class="kc-pagination">{{ paginate | default_pagination }}</div>
+          {%- endif -%}
+        {%- else -%}
+          <p style="color:var(--kc-muted);">{{ 'customer.orders.none' | t }}</p>
+        {%- endif -%}
+      {%- endpaginate -%}
+    </div>
+
+    <aside>
+      <h2 style="font-size:24px; margin-bottom:20px;">{{ 'customer.account.details' | t }}</h2>
+      <div style="padding:24px; background:var(--kc-cream); border-radius:var(--kc-r-md);">
+        {%- if customer.default_address -%}
+          <address style="font-style:normal; font-size:14px; line-height:1.7;">
+            {{ customer.default_address | format_address }}
+          </address>
+        {%- endif -%}
+        <a href="{{ routes.account_addresses_url }}" class="kc-link" style="margin-top:16px; display:inline-flex;">{{ 'customer.account.view_addresses' | t: count: customer.addresses_count }} →</a>
+      </div>
+      <div style="margin-top:24px;">
+        <a href="{{ routes.account_logout_url }}" class="kc-link">{{ 'customer.log_out' | t }} →</a>
+      </div>
+    </aside>
+  </div>
+</section>
+<style>@media (max-width: 749px) { .kc-acc-grid { grid-template-columns: 1fr !important; } }</style>

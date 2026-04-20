@@ -1,0 +1,54 @@
+<section class="kc-search">
+  <div class="kc-wrap">
+    <header class="kc-search__head">
+      <div class="kc-eyebrow">Search</div>
+      <h1 class="kc-search__title">
+        {%- if search.performed -%}
+          {%- if search.results_count > 0 -%}
+            {{ search.results_count }} result{% if search.results_count != 1 %}s{% endif %} for "<em>{{ search.terms | escape }}</em>"
+          {%- else -%}
+            No results for "<em>{{ search.terms | escape }}</em>"
+          {%- endif -%}
+        {%- else -%}
+          What are you looking for?
+        {%- endif -%}
+      </h1>
+
+      <form action="/search" method="get" class="kc-search__form">
+        <input type="search" name="q" placeholder="Search wallets, colors, or features…" value="{{ search.terms | escape }}" required>
+        <button type="submit" class="kc-btn kc-btn--primary">Search</button>
+      </form>
+    </header>
+
+    {%- if search.performed -%}
+      {%- if search.results_count > 0 -%}
+        <div class="kc-grid" style="--cols: 4; --cols-mobile: 2;">
+          {%- for item in search.results -%}
+            {%- if item.object_type == 'product' -%}
+              <a class="kc-card" href="{{ item.url }}">
+                <div class="kc-card__frame">
+                  {%- if item.featured_image != blank -%}
+                    <img class="kc-card__img" src="{{ item.featured_image | image_url: width: 600 }}" alt="" loading="lazy">
+                  {%- endif -%}
+                </div>
+                <div class="kc-card__info">
+                  <div class="kc-card__name">{{ item.title }}</div>
+                  <div class="kc-card__price">{{ item.price | money }}</div>
+                </div>
+              </a>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+      {%- else -%}
+        <div class="kc-search__empty">
+          <img src="{{ 'empty-search.svg' | asset_url }}" alt="" width="200">
+          <p>Try a different word, or browse the <a href="/collections/all">full collection</a>.</p>
+        </div>
+      {%- endif -%}
+    {%- endif -%}
+  </div>
+</section>
+
+{% schema %}
+{ "name": "Search results" }
+{% endschema %}

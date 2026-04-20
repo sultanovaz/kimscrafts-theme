@@ -1,0 +1,23 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-cart",
+      "settings": {
+        "show_shipping_bar": true,
+        "free_ship_threshold": 75,
+        "show_gift_note": true
+      }
+    },
+    "values": {
+      "type": "value-bar",
+      "blocks": {
+        "v1": { "type": "value", "settings": { "icon": "scissors", "title": "Made by hand", "subtitle": "Cut, folded, stitched in small runs" }},
+        "v2": { "type": "value", "settings": { "icon": "leaf", "title": "Full-grain leather", "subtitle": "Ages with you, softer every week" }},
+        "v3": { "type": "value", "settings": { "icon": "truck", "title": "Free US shipping", "subtitle": "Orders over $75 ship on us" }},
+        "v4": { "type": "value", "settings": { "icon": "shield", "title": "30-day returns", "subtitle": "Easy, no-questions policy" }}
+      },
+      "block_order": ["v1","v2","v3","v4"]
+    }
+  },
+  "order": ["main", "values"]
+}

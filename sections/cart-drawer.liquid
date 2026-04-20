@@ -1,0 +1,90 @@
+{% comment %}
+  Cart drawer — slides in from the right when user adds to cart or clicks cart icon.
+  Set "Cart type" = "Drawer" in theme settings to enable.
+{% endcomment %}
+<div class="kc-drawer" data-cart-drawer aria-hidden="true" role="dialog" aria-label="Cart">
+  <div class="kc-drawer__backdrop" data-drawer-close></div>
+  <aside class="kc-drawer__panel">
+    <header class="kc-drawer__head">
+      <div>
+        <div class="kc-eyebrow" style="margin:0;">Your bag</div>
+        <h2 class="kc-drawer__title" data-drawer-count>{{ cart.item_count }} item{% if cart.item_count != 1 %}s{% endif %}</h2>
+      </div>
+      <button type="button" class="kc-drawer__close" data-drawer-close aria-label="Close cart">
+        <svg viewBox="0 0 24 24" fill="none"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </button>
+    </header>
+
+    <div class="kc-drawer__body" data-drawer-body>
+      {%- if cart.item_count > 0 -%}
+        {%- assign ft = section.settings.free_ship_threshold | times: 100 -%}
+        {%- if section.settings.show_shipping_bar and ft > 0 -%}
+          {%- assign pct = cart.total_price | times: 100.0 | divided_by: ft -%}
+          {%- if pct > 100 -%}{%- assign pct = 100 -%}{%- endif -%}
+          {%- assign remaining = ft | minus: cart.total_price -%}
+          <div class="kc-ship-bar">
+            {%- if remaining > 0 -%}
+              <div class="kc-ship-bar__text">Add <strong>{{ remaining | money }}</strong> for free shipping</div>
+            {%- else -%}
+              <div class="kc-ship-bar__text kc-ship-bar__text--done">✓ Free shipping unlocked</div>
+            {%- endif -%}
+            <div class="kc-ship-bar__track"><div class="kc-ship-bar__fill" style="width: {{ pct }}%"></div></div>
+          </div>
+        {%- endif -%}
+
+        {%- for item in cart.items -%}
+          <div class="kc-drawer-item">
+            <a href="{{ item.url }}" class="kc-drawer-item__img">
+              {%- if item.image != blank -%}<img src="{{ item.image | image_url: width: 180 }}" alt="" loading="lazy">{%- endif -%}
+            </a>
+            <div class="kc-drawer-item__body">
+              <a href="{{ item.url }}" class="kc-drawer-item__title">{{ item.product.title }}</a>
+              {%- unless item.product.has_only_default_variant -%}
+                <div class="kc-drawer-item__variant">{{ item.variant.title }}</div>
+              {%- endunless -%}
+              <div class="kc-drawer-item__row">
+                <div class="kc-qty kc-qty--sm">
+                  <button type="button" data-drawer-decrease data-key="{{ item.key }}" aria-label="Decrease">−</button>
+                  <span>{{ item.quantity }}</span>
+                  <button type="button" data-drawer-increase data-key="{{ item.key }}" aria-label="Increase">+</button>
+                </div>
+                <span class="kc-drawer-item__price">{{ item.final_line_price | money }}</span>
+              </div>
+            </div>
+          </div>
+        {%- endfor -%}
+      {%- else -%}
+        <div class="kc-drawer-empty">
+          <img src="{{ 'empty-cart.svg' | asset_url }}" alt="" width="160">
+          <h3>Your bag is empty</h3>
+          <p>Nothing in there yet.</p>
+          <a href="/collections/all" class="kc-btn kc-btn--secondary">Shop the collection</a>
+        </div>
+      {%- endif -%}
+    </div>
+
+    {%- if cart.item_count > 0 -%}
+      <footer class="kc-drawer__foot">
+        <div class="kc-drawer__subtotal">
+          <span>Subtotal</span>
+          <span data-drawer-subtotal>{{ cart.total_price | money }}</span>
+        </div>
+        <p class="kc-drawer__note">Shipping & taxes calculated at checkout</p>
+        <a href="/cart" class="kc-btn kc-btn--secondary kc-btn--full">View bag</a>
+        <form action="/cart" method="post">
+          <button type="submit" name="checkout" class="kc-btn kc-btn--primary kc-btn--full">Checkout →</button>
+        </form>
+      </footer>
+    {%- endif -%}
+  </aside>
+</div>
+
+{% schema %}
+{
+  "name": "Cart drawer",
+  "settings": [
+    { "type": "checkbox", "id": "show_shipping_bar", "label": "Show free-ship progress bar", "default": true },
+    { "type": "number", "id": "free_ship_threshold", "label": "Free ship threshold ($)", "default": 75 }
+  ]
+}
+{% endschema %}

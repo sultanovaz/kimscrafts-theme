@@ -1,0 +1,62 @@
+{%- liquid
+  assign faq_blocks = section.blocks | where: 'type', 'faq'
+-%}
+<section class="kc-pfaq">
+  <div class="kc-wrap--narrow">
+    <div class="kc-pfaq__head kc-reveal">
+      {%- if section.settings.eyebrow != blank -%}
+        <div class="kc-eyebrow">{{ section.settings.eyebrow }}</div>
+      {%- endif -%}
+      {%- if section.settings.heading != blank -%}
+        <h2 class="kc-pfaq__title">{{ section.settings.heading }}</h2>
+      {%- endif -%}
+    </div>
+
+    <div class="kc-pfaq__list kc-reveal">
+      {%- for block in faq_blocks -%}
+        <details class="kc-pfaq__item" {% if forloop.first and section.settings.first_open %}open{% endif %} {{ block.shopify_attributes }}>
+          <summary class="kc-pfaq__q">
+            <span>{{ block.settings.question }}</span>
+            <svg viewBox="0 0 16 16" fill="none" width="14" height="14" class="kc-pfaq__caret"><path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </summary>
+          <div class="kc-pfaq__a">{{ block.settings.answer }}</div>
+        </details>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Product FAQ",
+  "settings": [
+    { "type": "text", "id": "eyebrow", "label": "Eyebrow", "default": "Before you buy" },
+    { "type": "richtext", "id": "heading", "label": "Heading", "default": "<p>Everything you're wondering.</p>" },
+    { "type": "checkbox", "id": "first_open", "label": "Open first question by default", "default": true }
+  ],
+  "blocks": [
+    {
+      "type": "faq",
+      "name": "Question",
+      "settings": [
+        { "type": "text", "id": "question", "label": "Question", "default": "How long will this wallet last?" },
+        { "type": "richtext", "id": "answer", "label": "Answer", "default": "<p>With normal care, a decade or more. We've got customers still carrying wallets from our first batch five years ago — they just get better.</p>" }
+      ]
+    }
+  ],
+  "max_blocks": 12,
+  "presets": [
+    {
+      "name": "Product FAQ",
+      "blocks": [
+        { "type": "faq", "settings": { "question": "How long will this wallet last?", "answer": "<p>With normal care, a decade or more. Full-grain leather ages — it doesn't wear out. Our lifetime stitching guarantee means if a stitch ever comes loose, we fix it.</p>" }},
+        { "type": "faq", "settings": { "question": "How many cards does it fit?", "answer": "<p>8 cards comfortably. Up to 12 if you pack them tight. Plus a billfold compartment for cash and a hidden inner pocket.</p>" }},
+        { "type": "faq", "settings": { "question": "When will I get it?", "answer": "<p>Orders placed before 2pm ET ship the same day. US delivery is typically 3–5 business days after that. International 7–14 days.</p>" }},
+        { "type": "faq", "settings": { "question": "What if I don't like it?", "answer": "<p>Send it back within 30 days for a full refund — no questions, no restocking fees. Free return label included.</p>" }},
+        { "type": "faq", "settings": { "question": "Is the leather really handmade?", "answer": "<p>Every wallet is cut, folded, and saddle-stitched by hand in our studio. Small batches, no factory line. Tiny variations in grain and color are part of what makes yours yours.</p>" }},
+        { "type": "faq", "settings": { "question": "Will the color fade?", "answer": "<p>The opposite — it deepens. Vegetable-tanned leather darkens and develops a patina with use. A year in, yours won't look like anyone else's.</p>" }}
+      ]
+    }
+  ]
+}
+{% endschema %}

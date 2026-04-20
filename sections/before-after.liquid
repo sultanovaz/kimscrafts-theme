@@ -1,0 +1,51 @@
+<section class="kc-bfa" style="background: {{ section.settings.bg_color | default: 'var(--kc-cream-soft)' }};">
+  <div class="kc-wrap--narrow">
+    <div class="kc-bfa__head">
+      {%- if section.settings.eyebrow != blank -%}<div class="kc-eyebrow kc-reveal">{{ section.settings.eyebrow }}</div>{%- endif -%}
+      {%- if section.settings.heading != blank -%}<h2 class="kc-bfa__title kc-reveal" data-delay="1">{{ section.settings.heading }}</h2>{%- endif -%}
+      {%- if section.settings.subtext != blank -%}<p class="kc-bfa__sub kc-reveal" data-delay="2">{{ section.settings.subtext }}</p>{%- endif -%}
+    </div>
+    <div class="kc-bfa__grid kc-reveal" data-delay="3">
+      <div class="kc-bfa__col">
+        <div class="kc-bfa__label">{{ section.settings.before_label | default: 'New' }}</div>
+        <div class="kc-bfa__frame">
+          {%- if section.settings.before_image != blank -%}
+            <img src="{{ section.settings.before_image | image_url: width: 800 }}" alt="{{ section.settings.before_label | escape }}">
+          {%- else -%}{{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}{%- endif -%}
+        </div>
+        <div class="kc-bfa__caption">{{ section.settings.before_caption }}</div>
+      </div>
+      <div class="kc-bfa__arrow">→</div>
+      <div class="kc-bfa__col">
+        <div class="kc-bfa__label">{{ section.settings.after_label | default: 'After 1 year' }}</div>
+        <div class="kc-bfa__frame">
+          {%- if section.settings.after_image != blank -%}
+            <img src="{{ section.settings.after_image | image_url: width: 800 }}" alt="{{ section.settings.after_label | escape }}">
+          {%- else -%}{{ 'lifestyle-2' | placeholder_svg_tag: 'placeholder-svg' }}{%- endif -%}
+        </div>
+        <div class="kc-bfa__caption">{{ section.settings.after_caption }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Before / After",
+  "settings": [
+    { "type": "color", "id": "bg_color", "label": "Background color" },
+    { "type": "text", "id": "eyebrow", "label": "Eyebrow", "default": "Ages beautifully" },
+    { "type": "richtext", "id": "heading", "label": "Heading", "default": "<p>Day one <em>vs.</em> year one.</p>" },
+    { "type": "textarea", "id": "subtext", "label": "Subtext", "default": "Every wallet develops a patina unique to its owner. Softer edges, richer color, permanent character." },
+    { "type": "header", "content": "Before" },
+    { "type": "image_picker", "id": "before_image", "label": "Image" },
+    { "type": "text", "id": "before_label", "label": "Label", "default": "Day one" },
+    { "type": "text", "id": "before_caption", "label": "Caption", "default": "Crisp edges, uniform color, firm fold." },
+    { "type": "header", "content": "After" },
+    { "type": "image_picker", "id": "after_image", "label": "Image" },
+    { "type": "text", "id": "after_label", "label": "Label", "default": "One year in" },
+    { "type": "text", "id": "after_caption", "label": "Caption", "default": "Softened edges, deeper tan, hand-worn fold." }
+  ],
+  "presets": [{ "name": "Before / After" }]
+}
+{% endschema %}

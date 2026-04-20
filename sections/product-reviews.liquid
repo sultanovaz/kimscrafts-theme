@@ -224,3 +224,14 @@
     if (count) count.textContent = '2,271';
   }, 100);
 </script>
+
+<script>
+  setTimeout(function() {
+    var avg = document.querySelector('[data-avg-num]');
+    var count = document.querySelector('[data-total-count]');
+    var stars = document.querySelector('[data-avg-stars]');
+    if (avg) avg.textContent = '4.7';
+    if (count) count.textContent = '2,271';
+    if (stars) stars.setAttribute('aria-label', 'Average rating 4.7 out of 5');
+  }, 100);
+</script>

@@ -27,7 +27,8 @@
         "columns": "4",
         "columns_mobile": "2",
         "show_view_all": true,
-        "view_all_text": "View all"
+        "view_all_text": "View all",
+        "view_all_link": ""
       }
     },
     "press": {
@@ -51,12 +52,6 @@
             "name": "Esquire"
           }
         },
-        "p4": {
-          "type": "logo",
-          "settings": {
-            "name": "Hypebeast"
-          }
-        },
         "p5": {
           "type": "logo",
           "settings": {
@@ -68,7 +63,6 @@
         "p1",
         "p2",
         "p3",
-        "p4",
         "p5"
       ],
       "settings": {

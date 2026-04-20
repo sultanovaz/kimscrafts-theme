@@ -1,190 +1,391 @@
 {%- liquid
   assign cols = section.settings.columns | default: 4
   assign cols_m = section.settings.columns_mobile | default: 2
-  assign lim = section.settings.limit | default: 8
-  assign coll_handle = section.settings.collection
-  assign has_coll = false
-  assign coll_link = '/collections/all'
-  if coll_handle != blank
-    assign coll = collections[coll_handle]
-    if coll != blank and coll.products_count > 0
-      assign has_coll = true
-      assign coll_link = coll.url
-    endif
-  endif
+  assign per_page = section.settings.per_page | default: 24
+  assign show_sort = section.settings.show_sort
 -%}
 
-<section class="kc-grid-section">
+{%- paginate collection.products by per_page -%}
+<section class="kc-col">
   <div class="kc-wrap">
 
-    {%- if section.settings.heading != blank or section.settings.subheading != blank -%}
-      <div class="kc-grid__header">
-        {%- if section.settings.subheading != blank -%}
-          <span class="kc-grid__eyebrow">{{ section.settings.subheading }}</span>
-        {%- endif -%}
-        {%- if section.settings.heading != blank -%}
-          <h2 class="kc-grid__title">{{ section.settings.heading }}</h2>
-        {%- endif -%}
-      </div>
-    {%- endif -%}
+    <header class="kc-col__head">
+      <span class="kc-col__eyebrow">The Collection</span>
+      <h1 class="kc-col__title">{{ collection.title }}</h1>
+      {%- if collection.description != blank -%}
+        <div class="kc-col__desc">{{ collection.description }}</div>
+      {%- endif -%}
+    </header>
 
-    <div class="kc-grid" style="--cols: {{ cols }}; --cols-mobile: {{ cols_m }};">
-      {%- if has_coll -%}
-        {%- for product in coll.products limit: lim -%}
-          <a class="kc-pcard" href="{{ product.url }}">
-            <div class="kc-pcard__media">
-              {%- if product.featured_image != blank -%}
-                <img src="{{ product.featured_image | image_url: width: 800 }}"
-                     alt="{{ product.featured_image.alt | default: product.title | escape }}"
-                     loading="lazy"
-                     width="800" height="800">
-              {%- endif -%}
-              {%- if product.available == false -%}
-                <span class="kc-pcard__badge">Sold out</span>
-              {%- elsif product.compare_at_price > product.price -%}
-                <span class="kc-pcard__badge kc-pcard__badge--sale">Sale</span>
-              {%- endif -%}
-            </div>
-            <div class="kc-pcard__body">
-              <h3 class="kc-pcard__name">{{ product.title }}</h3>
-              <div class="kc-pcard__price">
-                {%- if product.compare_at_price > product.price -%}
-                  <span class="kc-pcard__price-sale">{{ product.price | money }}</span>
-                  <span class="kc-pcard__price-compare">{{ product.compare_at_price | money }}</span>
-                {%- else -%}
-                  <span>{{ product.price | money }}</span>
-                {%- endif -%}
-              </div>
-            </div>
-          </a>
-        {%- endfor -%}
-      {%- else -%}
-        {%- for i in (1..4) -%}
-          <div class="kc-pcard kc-pcard--placeholder">
-            <div class="kc-pcard__media"></div>
-            <div class="kc-pcard__body">
-              <h3 class="kc-pcard__name">Book wallet</h3>
-              <div class="kc-pcard__price"><span>$—</span></div>
-            </div>
-          </div>
-        {%- endfor -%}
+    <div class="kc-col__bar">
+      <div class="kc-col__count">
+        {{ collection.products_count }} {% if collection.products_count == 1 %}wallet{% else %}wallets{% endif %}
+      </div>
+      {%- if show_sort -%}
+        <form class="kc-col__sort" method="get">
+          <label for="sort-by" class="kc-col__sort-label">Sort</label>
+          <select id="sort-by" name="sort_by" onchange="this.form.submit()">
+            <option value="manual" {% if collection.sort_by == 'manual' %}selected{% endif %}>Featured</option>
+            <option value="best-selling" {% if collection.sort_by == 'best-selling' %}selected{% endif %}>Best selling</option>
+            <option value="price-ascending" {% if collection.sort_by == 'price-ascending' %}selected{% endif %}>Price, low to high</option>
+            <option value="price-descending" {% if collection.sort_by == 'price-descending' %}selected{% endif %}>Price, high to low</option>
+            <option value="title-ascending" {% if collection.sort_by == 'title-ascending' %}selected{% endif %}>Alphabetical, A–Z</option>
+            <option value="created-descending" {% if collection.sort_by == 'created-descending' %}selected{% endif %}>Newest</option>
+          </select>
+        </form>
       {%- endif -%}
     </div>
 
-    {%- if has_coll and section.settings.show_view_all -%}
-      <div class="kc-grid__footer">
-        <a class="kc-btn kc-btn--outline" href="{{ coll_link }}">
-          {{ section.settings.view_all_text | default: 'View all' }}
-          <span class="kc-btn__arrow">→</span>
+    <div class="kc-grid" style="--cols: {{ cols }}; --cols-mobile: {{ cols_m }};">
+      {%- for product in collection.products -%}
+        <a class="kc-pcard" href="{{ product.url }}">
+          <div class="kc-pcard__media">
+            {%- if product.featured_image != blank -%}
+              <img src="{{ product.featured_image | image_url: width: 800 }}"
+                   alt="{{ product.featured_image.alt | default: product.title | escape }}"
+                   loading="lazy"
+                   width="800" height="800">
+              {%- if product.images[1] != blank -%}
+                <img class="kc-pcard__hover" src="{{ product.images[1] | image_url: width: 800 }}"
+                     alt="" loading="lazy" width="800" height="800">
+              {%- endif -%}
+            {%- else -%}
+              {{ 'product-1' | placeholder_svg_tag: 'placeholder-svg' }}
+            {%- endif -%}
+            {%- if product.available == false -%}
+              <span class="kc-pcard__badge kc-pcard__badge--sold">Sold out</span>
+            {%- elsif product.compare_at_price > product.price -%}
+              {%- assign discount = product.compare_at_price | minus: product.price | times: 100.0 | divided_by: product.compare_at_price | round -%}
+              <span class="kc-pcard__badge kc-pcard__badge--sale">−{{ discount }}%</span>
+            {%- endif -%}
+          </div>
+          <div class="kc-pcard__body">
+            <h3 class="kc-pcard__name">{{ product.title }}</h3>
+            <div class="kc-pcard__price">
+              {%- if product.compare_at_price > product.price -%}
+                <span class="kc-pcard__price-sale">{{ product.price | money }}</span>
+                <span class="kc-pcard__price-compare">{{ product.compare_at_price | money }}</span>
+              {%- else -%}
+                <span>{{ product.price | money }}</span>
+              {%- endif -%}
+            </div>
+          </div>
         </a>
-      </div>
+      {%- else -%}
+        <p class="kc-col__empty">No products yet — check back soon.</p>
+      {%- endfor -%}
+    </div>
+
+    {%- if paginate.pages > 1 -%}
+      <nav class="kc-page" aria-label="Pagination">
+        {%- if paginate.previous -%}
+          <a class="kc-page__nav" href="{{ paginate.previous.url }}" aria-label="Previous page">←</a>
+        {%- else -%}
+          <span class="kc-page__nav kc-page__nav--disabled" aria-hidden="true">←</span>
+        {%- endif -%}
+
+        {%- for part in paginate.parts -%}
+          {%- if part.is_link -%}
+            <a class="kc-page__num" href="{{ part.url }}">{{ part.title }}</a>
+          {%- else -%}
+            {%- if part.title == paginate.current_page -%}
+              <span class="kc-page__num kc-page__num--current" aria-current="page">{{ part.title }}</span>
+            {%- else -%}
+              <span class="kc-page__num kc-page__num--dots">{{ part.title }}</span>
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor -%}
+
+        {%- if paginate.next -%}
+          <a class="kc-page__nav" href="{{ paginate.next.url }}" aria-label="Next page">→</a>
+        {%- else -%}
+          <span class="kc-page__nav kc-page__nav--disabled" aria-hidden="true">→</span>
+        {%- endif -%}
+      </nav>
     {%- endif -%}
 
   </div>
 </section>
+{%- endpaginate -%}
 
 <style>
-.kc-collection__pagination {
-    margin-top: 60px;
-    text-align: center;
+  .kc-col { padding: 50px 0 80px; background: var(--kc-paper, #FBFAF7); overflow: hidden; box-sizing: border-box; }
+  .kc-col * { box-sizing: border-box; }
+  .kc-col .kc-wrap { max-width: 1320px; margin: 0 auto; padding: 0 20px; }
+  @media (min-width: 768px) { .kc-col .kc-wrap { padding: 0 32px; } }
+
+  /* ── Header ── */
+  .kc-col__head { text-align: center; margin-bottom: 30px; }
+  .kc-col__eyebrow {
+    display: inline-block;
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    font-size: 11px; letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--kc-tan, #C47B47);
+    margin-bottom: 14px;
+  }
+  .kc-col__title {
+    font-family: var(--kc-font-serif, 'Fraunces', serif);
+    font-size: clamp(32px, 5vw, 56px);
+    font-weight: 400;
+    color: var(--kc-navy, #1A3553);
+    margin: 0 0 12px;
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+  }
+  .kc-col__desc {
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    color: var(--kc-navy, #1A3553);
+    max-width: 560px;
+    margin: 0 auto;
+    line-height: 1.55;
+    font-size: 15px;
+    opacity: 0.8;
+  }
+
+  /* ── Toolbar (count + sort) ── */
+  .kc-col__bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 16px 0;
+    margin-bottom: 20px;
+    border-top: 1px solid rgba(26, 53, 83, 0.1);
+    border-bottom: 1px solid rgba(26, 53, 83, 0.1);
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    font-size: 13px;
+  }
+  .kc-col__count {
+    color: var(--kc-muted, #8a8786);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .kc-col__sort { display: flex; align-items: center; gap: 10px; }
+  .kc-col__sort-label {
+    color: var(--kc-muted, #8a8786);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-size: 12px;
+  }
+  .kc-col__sort select {
+    appearance: none;
+    -webkit-appearance: none;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--kc-navy, #1A3553);
+    padding: 4px 24px 4px 4px;
+    font-family: inherit;
+    font-size: 13px;
+    color: var(--kc-navy, #1A3553);
+    cursor: pointer;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%231A3553' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 4px center;
+  }
+  .kc-col__sort select:focus { outline: none; }
+
+  /* ── Product grid ── */
+  .kc-grid {
+    display: grid;
+    grid-template-columns: repeat(var(--cols-mobile, 2), minmax(0, 1fr));
+    gap: 32px 12px;
+  }
+  @media (min-width: 768px) {
+    .kc-grid { grid-template-columns: repeat(var(--cols, 4), minmax(0, 1fr)); gap: 48px 28px; }
+  }
+
+  .kc-pcard {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.3s ease;
+    min-width: 0;
+  }
+  .kc-pcard:hover { transform: translateY(-3px); }
+
+  .kc-pcard__media {
+    position: relative;
+    aspect-ratio: 1/1;
+    background: var(--kc-cream, #F5EDE0);
+    border-radius: 4px;
+    overflow: hidden;
+    width: 100%;
+  }
+  .kc-pcard__media img {
+    position: absolute;
+    inset: 0;
+    width: 100%; height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: opacity 0.45s ease, transform 0.7s ease;
+  }
+  .kc-pcard__hover { opacity: 0; }
+  @media (hover: hover) {
+    .kc-pcard:hover .kc-pcard__media img:not(.kc-pcard__hover) { opacity: 0; }
+    .kc-pcard:hover .kc-pcard__hover { opacity: 1; }
+  }
+
+  .kc-pcard__badge {
+    position: absolute;
+    top: 12px; left: 12px;
+    padding: 5px 9px;
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    border-radius: 2px;
+    z-index: 2;
+    line-height: 1;
+  }
+  .kc-pcard__badge--sale { background: var(--kc-tan, #C47B47); color: #fff; }
+  .kc-pcard__badge--sold { background: var(--kc-navy, #1A3553); color: #fff; }
+
+  .kc-pcard__body {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 0 2px;
+    min-width: 0;
+  }
+  .kc-pcard__name {
+    font-family: var(--kc-font-serif, 'Fraunces', serif);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.3;
+    color: var(--kc-navy, #1A3553);
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    word-break: break-word;
+  }
+  @media (min-width: 768px) { .kc-pcard__name { font-size: 16px; } }
+  .kc-pcard__price {
     font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
     font-size: 14px;
+    color: var(--kc-navy, #1A3553);
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+    flex-wrap: wrap;
   }
-  .kc-collection__pagination a,
-  .kc-collection__pagination span {
-    display: inline-block;
-    padding: 8px 14px;
-    margin: 0 2px;
+  .kc-pcard__price-sale { color: var(--kc-tan, #C47B47); font-weight: 500; }
+  .kc-pcard__price-compare { color: var(--kc-muted, #8a8786); text-decoration: line-through; font-size: 13px; }
+
+  .kc-col__empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 80px 20px;
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    color: var(--kc-muted, #8a8786);
+  }
+
+  /* ── Pagination ── */
+  .kc-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    margin-top: 70px;
+    padding-top: 30px;
+    border-top: 1px solid rgba(26, 53, 83, 0.1);
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    flex-wrap: wrap;
+  }
+  .kc-page__num,
+  .kc-page__nav {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 40px;
+    height: 40px;
+    padding: 0 10px;
+    font-size: 14px;
     color: var(--kc-navy, #1A3553);
     text-decoration: none;
     border-radius: 2px;
+    transition: background 0.15s ease, color 0.15s ease;
   }
-  .kc-collection__pagination a:hover {
-    background: var(--kc-cream, #F5EDE0);
-  }
-  .kc-collection__pagination .page.current {
+  .kc-page__num:hover,
+  .kc-page__nav:hover { background: var(--kc-cream, #F5EDE0); }
+  .kc-page__num--current {
     background: var(--kc-navy, #1A3553);
     color: #fff;
     font-weight: 500;
+    pointer-events: none;
   }
-  .kc-collection__pagination a:hover {
-    border-color: var(--kc-navy, #1A3553);
-  }
-  .kc-collection__pagination .page.current,
-  .kc-collection__pagination span.page.current {
-    background: var(--kc-navy, #1A3553);
-    color: #fff;
-    border-color: var(--kc-navy, #1A3553);
-    font-weight: 500;
-  }
-  .kc-collection__pagination .prev,
-  .kc-collection__pagination .next,
-  .kc-collection__pagination .deprecated {
-    font-size: 13px;
-    letter-spacing: 0.02em;
-  }
-  .kc-collection__pagination .deprecated {
+  .kc-page__num--dots {
+    pointer-events: none;
     color: var(--kc-muted, #8a8786);
-    cursor: default;
+  }
+  .kc-page__nav {
+    font-size: 18px;
+    letter-spacing: -0.03em;
+  }
+  .kc-page__nav--disabled {
+    color: rgba(26, 53, 83, 0.2);
+    pointer-events: none;
   }
   @media (max-width: 600px) {
-    .kc-collection__pagination { gap: 4px; font-size: 13px; }
-    .kc-collection__pagination > * { min-width: 36px; height: 36px; padding: 0 8px; }
+    .kc-page { gap: 2px; }
+    .kc-page__num, .kc-page__nav { min-width: 36px; height: 36px; font-size: 13px; padding: 0 8px; }
   }
-
-
-  /* Force badge back onto image */
-  .kc-pcard__media {
-    position: relative !important;
-  }
-  .kc-pcard__badge {
-    position: absolute !important;
-    top: 10px !important;
-    left: 10px !important;
-    display: inline-block !important;
-    padding: 3px 8px !important;
-    font-size: 10px !important;
-    letter-spacing: 0.12em !important;
-    text-transform: uppercase !important;
-    z-index: 2 !important;
-  }
-  /* Tighten mobile spacing */
-  @media (max-width: 600px) {
-    .kc-pcard { gap: 8px; }
-    .kc-pcard__name { font-size: 14px !important; line-height: 1.25 !important; }
-    .kc-pcard__price { font-size: 13px; gap: 6px; }
-  }
-
-  
 </style>
 
 {% schema %}
 {
-  "name": "Product grid",
+  "name": "Collection page",
   "settings": [
-    { "type": "header", "content": "Heading" },
-    { "type": "text", "id": "subheading", "label": "Eyebrow text", "default": "The collection" },
-    { "type": "text", "id": "heading", "label": "Heading", "default": "Our book wallets" },
-    { "type": "header", "content": "Products" },
-    { "type": "collection", "id": "collection", "label": "Collection to display" },
-    { "type": "range", "id": "limit", "label": "Products to show", "min": 4, "max": 24, "step": 2, "default": 8 },
-    { "type": "header", "content": "Layout" },
-    { "type": "select", "id": "columns", "label": "Columns on desktop",
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "range",
+      "id": "per_page",
+      "label": "Products per page",
+      "min": 8,
+      "max": 48,
+      "step": 4,
+      "default": 24
+    },
+    {
+      "type": "select",
+      "id": "columns",
+      "label": "Columns on desktop",
       "options": [
         { "value": "2", "label": "2" },
         { "value": "3", "label": "3" },
         { "value": "4", "label": "4" },
         { "value": "5", "label": "5" }
-      ], "default": "4" },
-    { "type": "select", "id": "columns_mobile", "label": "Columns on mobile",
+      ],
+      "default": "4"
+    },
+    {
+      "type": "select",
+      "id": "columns_mobile",
+      "label": "Columns on mobile",
       "options": [
         { "value": "1", "label": "1" },
         { "value": "2", "label": "2" }
-      ], "default": "2" },
-    { "type": "header", "content": "View all button" },
-    { "type": "checkbox", "id": "show_view_all", "label": "Show View all button", "default": true },
-    { "type": "text", "id": "view_all_text", "label": "Button text", "default": "View all" }
-  ],
-  "presets": [ { "name": "Product grid" } ]
+      ],
+      "default": "2"
+    },
+    {
+      "type": "header",
+      "content": "Features"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_sort",
+      "label": "Show sort dropdown",
+      "default": true
+    }
+  ]
 }
 {% endschema %}

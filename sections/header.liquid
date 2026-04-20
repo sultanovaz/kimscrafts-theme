@@ -120,6 +120,12 @@
 
 
 <style>
+  /* Hide search icon on desktop — it's overlapping the nav text */
+@media (min-width: 768px) {
+  .kc-header__actions a[href="/search"] {
+    display: none !important;
+  }
+}
   /* ═══════════════════════════════════════════════════════════
      MOBILE HEADER — Premium, editorial, spacious
      ═══════════════════════════════════════════════════════════ */

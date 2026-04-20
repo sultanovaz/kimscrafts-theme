@@ -343,22 +343,3 @@
   ]
 }
 {% endschema %}
-<script>
-  function forceProductReviewStats() {
-    var els = document.querySelectorAll('.kc-pdp__rating, [data-product-rating], .kc-rating');
-    document.querySelectorAll('*').forEach(function(el) {
-      if (el.children.length === 0 && el.textContent.trim() === '4.9') {
-        el.textContent = '4.7';
-      }
-      if (el.children.length === 0 && el.textContent.includes('(121 reviews)')) {
-        el.textContent = el.textContent.replace('(121 reviews)', '(2,271 reviews)');
-      }
-      if (el.children.length === 0 && el.textContent.includes('121 reviews')) {
-        el.textContent = el.textContent.replace('121 reviews', '2,271 reviews');
-      }
-    });
-  }
-  setTimeout(forceProductReviewStats, 100);
-  setTimeout(forceProductReviewStats, 500);
-  setTimeout(forceProductReviewStats, 1500);
-</script>

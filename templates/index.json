@@ -23,7 +23,7 @@
         "collection": "all-wallets",
         "columns": "4",
         "columns_mobile": "2",
-        "limit": 4
+        "limit": 12
       }
     },
     "press": {

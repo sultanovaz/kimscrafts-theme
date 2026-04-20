@@ -215,3 +215,12 @@
   ]
 }
 {% endschema %}
+
+<script>
+  setTimeout(function() {
+    var avg = document.querySelector('[data-avg-num]');
+    var count = document.querySelector('[data-total-count]');
+    if (avg) avg.textContent = '4.7';
+    if (count) count.textContent = '2,271';
+  }, 100);
+</script>

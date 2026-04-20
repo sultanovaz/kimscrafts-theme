@@ -1,23 +1,69 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-cart",
       "settings": {
         "show_shipping_bar": true,
-        "free_ship_threshold": 75,
+        "free_ship_threshold": 4,
         "show_gift_note": true
       }
     },
     "values": {
       "type": "value-bar",
       "blocks": {
-        "v1": { "type": "value", "settings": { "icon": "scissors", "title": "Made by hand", "subtitle": "Cut, folded, stitched in small runs" }},
-        "v2": { "type": "value", "settings": { "icon": "leaf", "title": "Full-grain leather", "subtitle": "Ages with you, softer every week" }},
-        "v3": { "type": "value", "settings": { "icon": "truck", "title": "Free US shipping", "subtitle": "Orders over $75 ship on us" }},
-        "v4": { "type": "value", "settings": { "icon": "shield", "title": "30-day returns", "subtitle": "Easy, no-questions policy" }}
+        "v1": {
+          "type": "value",
+          "settings": {
+            "icon": "scissors",
+            "title": "Made by hand",
+            "subtitle": "Cut, folded, stitched in small runs"
+          }
+        },
+        "v2": {
+          "type": "value",
+          "settings": {
+            "icon": "leaf",
+            "title": "Full-grain leather",
+            "subtitle": "Ages with you, softer every week"
+          }
+        },
+        "v3": {
+          "type": "value",
+          "settings": {
+            "icon": "truck",
+            "title": "Free US shipping",
+            "subtitle": "Orders over $75 ship on us"
+          }
+        },
+        "v4": {
+          "type": "value",
+          "settings": {
+            "icon": "shield",
+            "title": "30-day returns",
+            "subtitle": "Easy, no-questions policy"
+          }
+        }
       },
-      "block_order": ["v1","v2","v3","v4"]
+      "block_order": [
+        "v1",
+        "v2",
+        "v3",
+        "v4"
+      ],
+      "settings": {}
     }
   },
-  "order": ["main", "values"]
+  "order": [
+    "main",
+    "values"
+  ]
 }

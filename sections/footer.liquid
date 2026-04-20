@@ -1,9 +1,13 @@
 <footer class="kc-footer" role="contentinfo">
   <div class="kc-footer__inner">
-    <div class="kc-footer__col">
-      <div class="kc-footer__brand">{{ section.settings.brand_name | default: shop.name }}</div>
-      <p class="kc-footer__tag">{{ section.settings.tagline }}</p>
-      {%- if section.settings.newsletter_enabled -%}
+    {%- if section.settings.newsletter_enabled -%}
+      <div class="kc-footer__col kc-footer__col--newsletter">
+        {%- if section.settings.newsletter_heading != blank -%}
+          <h4>{{ section.settings.newsletter_heading }}</h4>
+        {%- endif -%}
+        {%- if section.settings.newsletter_text != blank -%}
+          <p class="kc-footer__tag">{{ section.settings.newsletter_text }}</p>
+        {%- endif -%}
         <form class="kc-footer__newsletter" action="/contact#contact_form" method="post" id="ContactFooter">
           <input type="hidden" name="form_type" value="customer">
           <input type="hidden" name="utf8" value="✓">
@@ -14,8 +18,8 @@
           </label>
           <button type="submit">Subscribe →</button>
         </form>
-      {%- endif -%}
-    </div>
+      </div>
+    {%- endif -%}
 
     {%- for block in section.blocks -%}
       {%- if block.type == 'links' -%}
@@ -34,7 +38,27 @@
   </div>
 
   <div class="kc-footer__bottom">
-    <div>© {{ 'now' | date: "%Y" }} {{ shop.name }} · Handmade book wallets</div>
+    <div class="kc-footer__legal">
+      <span>© {{ 'now' | date: "%Y" }} {{ shop.name }}</span>
+      {%- if section.settings.show_policies -%}
+        <span class="kc-footer__divider">·</span>
+        {%- if shop.privacy_policy != blank -%}
+          <a href="{{ shop.privacy_policy.url }}">{{ shop.privacy_policy.title }}</a>
+        {%- endif -%}
+        {%- if shop.terms_of_service != blank -%}
+          <a href="{{ shop.terms_of_service.url }}">{{ shop.terms_of_service.title }}</a>
+        {%- endif -%}
+        {%- if shop.shipping_policy != blank -%}
+          <a href="{{ shop.shipping_policy.url }}">{{ shop.shipping_policy.title }}</a>
+        {%- endif -%}
+        {%- if shop.refund_policy != blank -%}
+          <a href="{{ shop.refund_policy.url }}">{{ shop.refund_policy.title }}</a>
+        {%- endif -%}
+        {%- if shop.contact_information != blank -%}
+          <a href="/pages/contact">Contact</a>
+        {%- endif -%}
+      {%- endif -%}
+    </div>
     <div class="kc-footer__social">
       {%- if settings.social_instagram != blank -%}
         <a href="{{ settings.social_instagram }}" aria-label="Instagram" target="_blank" rel="noopener">
@@ -60,27 +84,69 @@
   </div>
 </footer>
 
+<style>
+  .kc-footer__legal {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px 16px;
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    font-size: 12px;
+    color: var(--kc-muted, #8a8786);
+    letter-spacing: 0.02em;
+  }
+  .kc-footer__legal a {
+    color: var(--kc-muted, #8a8786);
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  .kc-footer__legal a:hover {
+    color: var(--kc-navy, #1A3553);
+  }
+  .kc-footer__divider {
+    opacity: 0.5;
+  }
+</style>
+
 {% schema %}
 {
   "name": "Footer",
   "settings": [
     {
-      "type": "text",
-      "id": "brand_name",
-      "label": "Brand name (display)",
-      "default": "Kimscrafts"
-    },
-    {
-      "type": "textarea",
-      "id": "tagline",
-      "label": "Tagline",
-      "default": "Handmade book wallets, cut and stitched in small batches. Built to patina, made to last."
+      "type": "header",
+      "content": "Newsletter"
     },
     {
       "type": "checkbox",
       "id": "newsletter_enabled",
       "label": "Show newsletter signup",
       "default": true
+    },
+    {
+      "type": "text",
+      "id": "newsletter_heading",
+      "label": "Newsletter heading",
+      "default": "Join the list"
+    },
+    {
+      "type": "textarea",
+      "id": "newsletter_text",
+      "label": "Newsletter description",
+      "default": "First looks at new releases, small-batch drops, and restocks."
+    },
+    {
+      "type": "header",
+      "content": "Legal"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_policies",
+      "label": "Show policy links in footer",
+      "default": true
+    },
+    {
+      "type": "paragraph",
+      "content": "Policy links (Privacy, Terms, Shipping, Returns) auto-pull from your Shopify policy pages. Edit those in Settings → Policies."
     }
   ],
   "blocks": [

@@ -43,7 +43,7 @@
         "up_conditioner": {
           "type": "upsell",
           "settings": {
-            "product": "name-a-rescue",
+            "product": "advanced-potion-making",
             "title_override": "",
             "description": "Doubles the life. Apply once a quarter.",
             "icon": "leaf",
@@ -56,7 +56,7 @@
         "up_giftbox": {
           "type": "upsell",
           "settings": {
-            "product": "",
+            "product": "alice-in-wonderland-1865",
             "title_override": "",
             "description": "Matte kraft box with hand-tied twine.",
             "icon": "box",
@@ -69,7 +69,7 @@
         "up_initials": {
           "type": "upsell",
           "settings": {
-            "product": "",
+            "product": "anne-of-green-gables-1908",
             "title_override": "",
             "description": "Up to 3 letters, debossed by hand before shipping.",
             "icon": "pencil",

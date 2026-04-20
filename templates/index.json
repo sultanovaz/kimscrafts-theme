@@ -37,24 +37,28 @@
         "p1": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/VOGUE_revista_-_logo.jpg",
             "name": "Vogue"
           }
         },
         "p2": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/GQ_Logo_svg.jpg",
             "name": "GQ"
           }
         },
         "p3": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Esquire_logo__1993__svg.jpg",
             "name": "Esquire"
           }
         },
         "p5": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Monocle_brand_logo_svg.jpg",
             "name": "Monocle"
           }
         }

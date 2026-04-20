@@ -115,58 +115,126 @@
 
 
 <style>
+  /* ═══════════════════════════════════════════════════════════
+     MOBILE HEADER — Premium, editorial, spacious
+     ═══════════════════════════════════════════════════════════ */
   @media (max-width: 767px) {
+    .kc-header {
+      padding: 14px 16px !important;
+      background: var(--kc-paper, #FBFAF7);
+      border-bottom: 1px solid rgba(26, 53, 83, 0.08);
+    }
+
     .kc-header__inner {
       display: grid !important;
       grid-template-columns: 1fr auto 1fr !important;
       align-items: center;
-      gap: 8px;
+      gap: 0;
+      position: relative;
+      max-width: 100%;
     }
 
-    /* LEFT — hamburger + search */
-    .kc-header__nav {
-      display: none !important;
-    }
+    /* ── LEFT GROUP: hamburger + search ── */
+    .kc-header__nav { display: none !important; }
+
     .kc-menu-toggle {
       grid-column: 1;
-      grid-row: 1;
       justify-self: start;
-      order: 1;
+      width: 38px;
+      height: 38px;
+      display: inline-flex !important;
+      align-items: center;
+      justify-content: center;
+      background: transparent;
+      border: none;
+      padding: 0;
+      margin: 0;
+      color: var(--kc-navy, #1A3553);
+      cursor: pointer;
+      transition: opacity 0.2s ease;
     }
-    /* Move search from right group to left — pull it out via absolute position */
-    .kc-header__inner {
-      position: relative;
-    }
+    .kc-menu-toggle:hover { opacity: 0.6; }
+    .kc-menu-toggle svg { width: 20px; height: 20px; }
+
+    /* Pull search icon next to hamburger */
     .kc-header__actions a[href="/search"] {
       position: absolute;
-      left: 44px;
+      left: 42px;
       top: 50%;
       transform: translateY(-50%);
+      width: 38px;
+      height: 38px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--kc-navy, #1A3553);
+      transition: opacity 0.2s ease;
     }
+    .kc-header__actions a[href="/search"]:hover { opacity: 0.6; }
+    .kc-header__actions a[href="/search"] svg { width: 18px; height: 18px; }
 
-    /* CENTER — logo */
+    /* ── CENTER: logo ── */
     .kc-header__logo {
       grid-column: 2;
       justify-self: center;
+      display: block;
+      line-height: 0;
+      padding: 0 8px;
     }
     .kc-header__logo img {
-      height: 32px !important;
-      max-width: 160px;
+      height: 36px !important;
+      max-width: 180px;
+      width: auto;
       object-fit: contain;
       display: block;
     }
 
-    /* RIGHT — account + cart (search is removed visually from here) */
+    /* ── RIGHT GROUP: account + cart ── */
     .kc-header__actions {
       grid-column: 3;
       justify-self: end;
       display: flex;
-      gap: 4px;
+      align-items: center;
+      gap: 2px;
     }
+    .kc-header__actions > a:not([href="/search"]) {
+      width: 38px;
+      height: 38px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--kc-navy, #1A3553);
+      position: relative;
+      transition: opacity 0.2s ease;
+    }
+    .kc-header__actions > a:hover { opacity: 0.6; }
+    .kc-header__actions svg { width: 18px; height: 18px; }
 
-    .kc-header {
-      padding-top: 10px;
-      padding-bottom: 10px;
+    /* Cart count badge — premium look */
+    .kc-cart-count {
+      position: absolute;
+      top: 4px;
+      right: 2px;
+      min-width: 16px;
+      height: 16px;
+      padding: 0 4px;
+      background: var(--kc-tan, #C47B47);
+      color: #fff;
+      font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+      font-size: 10px;
+      font-weight: 500;
+      line-height: 16px;
+      border-radius: 999px;
+      text-align: center;
+      letter-spacing: 0;
     }
+  }
+
+  /* ═══════════════════════════════════════════════════════════
+     DESKTOP HEADER — stays clean
+     ═══════════════════════════════════════════════════════════ */
+  @media (min-width: 768px) {
+    .kc-header__icon svg { width: 18px; height: 18px; }
+    .kc-header__actions { gap: 4px; }
   }
 </style>

@@ -3978,3 +3978,108 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   }
   .kc-atc-btn [data-atc-sep] { margin: 0 6px; }
 }
+
+
+/* ═══════════════════════════════════════════════════════════════
+   PDP Gallery fix — clean layout, proper thumbnail strip
+   Paste this into your base.css / theme.css, OR add at the top of
+   sections/main-product.liquid inside a <style> tag.
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Main gallery container */
+.kc-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 100%;
+}
+
+/* Main hero image — large, square, clean */
+.kc-gallery__main {
+  aspect-ratio: 1 / 1;
+  background: var(--kc-cream, #F5EDE0);
+  border-radius: 4px;
+  overflow: hidden;
+  position: relative;
+}
+
+.kc-gallery__main img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* ── Thumbnail strip ────────────────────────────────────────── */
+.kc-gallery__thumbs {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Responsive: fewer thumbnails = larger thumbs on desktop */
+@media (min-width: 768px) {
+  .kc-gallery__thumbs {
+    grid-template-columns: repeat(6, 1fr);
+    gap: 12px;
+  }
+}
+
+/* Each thumbnail — clean square */
+.kc-gallery__thumb {
+  aspect-ratio: 1 / 1;
+  background: var(--kc-cream, #F5EDE0);
+  border-radius: 3px;
+  overflow: hidden;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+  padding: 0;
+  display: block;
+}
+
+.kc-gallery__thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.kc-gallery__thumb:hover {
+  border-color: var(--kc-tan, #C47B47);
+}
+
+/* Active / selected thumbnail */
+.kc-gallery__thumb--active,
+.kc-gallery__thumb.is-active,
+.kc-gallery__thumb[aria-current="true"] {
+  border-color: var(--kc-navy, #1A3553);
+}
+
+/* ── Override any broken inline positioning ────────────────── */
+.kc-pdp__gallery {
+  display: block !important;
+  width: 100% !important;
+}
+
+.kc-pdp__gallery .kc-gallery__thumbs {
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  width: 100% !important;
+  float: none !important;
+  position: static !important;
+}
+
+/* Mobile: slightly tighter gap, 4 thumbs per row */
+@media (max-width: 767px) {
+  .kc-gallery__thumbs {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+  }
+  .kc-gallery {
+    gap: 12px;
+  }
+}

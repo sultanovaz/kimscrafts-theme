@@ -382,4 +382,26 @@
     .kc-header__actions { gap: 4px; }
     .kc-header__icon svg { width: 18px; height: 18px; }
   }
+
+  /* Force right side icons to match left side spacing */
+@media (max-width: 767px) {
+  .kc-header__actions {
+    gap: 16px !important;
+    justify-content: flex-end !important;
+  }
+  .kc-header__actions > * {
+    margin: 0 !important;
+  }
+  .kc-header__actions > a {
+    flex: 0 0 auto !important;
+    width: 24px !important;
+    height: 24px !important;
+  }
+  /* Remove any trailing space-pushing element */
+  .kc-header__actions::after,
+  .kc-header__actions::before {
+    display: none !important;
+  }
+}
 </style>
+

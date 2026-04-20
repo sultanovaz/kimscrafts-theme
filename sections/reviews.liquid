@@ -1,22 +1,221 @@
-<section class="kc-reviews">
-  <div class="kc-wrap--narrow">
-    {%- if section.settings.heading != blank -%}
-      <h2 class="kc-reviews__title kc-reveal">{{ section.settings.heading }}</h2>
+<section class="kc-reviews-v2">
+  <div class="kc-wrap">
+
+    {%- if section.settings.heading != blank or section.settings.eyebrow != blank -%}
+      <div class="kc-reviews-v2__header">
+        {%- if section.settings.eyebrow != blank -%}
+          <span class="kc-reviews-v2__eyebrow">{{ section.settings.eyebrow }}</span>
+        {%- endif -%}
+        {%- if section.settings.heading != blank -%}
+          <div class="kc-reviews-v2__title">{{ section.settings.heading }}</div>
+        {%- endif -%}
+        {%- if section.settings.subheading != blank -%}
+          <p class="kc-reviews-v2__sub">{{ section.settings.subheading }}</p>
+        {%- endif -%}
+      </div>
     {%- endif -%}
-    <div class="kc-reviews__grid">
+
+    <div class="kc-reviews-v2__grid">
       {%- for block in section.blocks -%}
-        <figure class="kc-review kc-reveal" data-delay="{{ forloop.index0 | modulo: 3 }}" {{ block.shopify_attributes }}>
-          <div class="kc-review__stars">
+        <figure class="kc-review-v2" {{ block.shopify_attributes }}>
+          <span class="kc-review-v2__mark">"</span>
+          <div class="kc-review-v2__stars" aria-label="{{ block.settings.rating }} out of 5">
             {%- assign rating = block.settings.rating | default: 5 -%}
-            {%- for i in (1..rating) -%}★{%- endfor -%}
+            {%- for i in (1..5) -%}
+              {%- if i <= rating -%}
+                <span class="kc-review-v2__star kc-review-v2__star--filled">★</span>
+              {%- else -%}
+                <span class="kc-review-v2__star">★</span>
+              {%- endif -%}
+            {%- endfor -%}
           </div>
-          <blockquote class="kc-review__quote">{{ block.settings.quote }}</blockquote>
-          <figcaption class="kc-review__author">— {{ block.settings.author }}</figcaption>
+          <blockquote class="kc-review-v2__quote">{{ block.settings.quote }}</blockquote>
+          <figcaption class="kc-review-v2__caption">
+            <span class="kc-review-v2__name">{{ block.settings.author }}</span>
+            {%- if block.settings.location != blank -%}
+              <span class="kc-review-v2__meta">{{ block.settings.location }} · Verified Buyer</span>
+            {%- else -%}
+              <span class="kc-review-v2__meta">Verified Buyer</span>
+            {%- endif -%}
+          </figcaption>
         </figure>
       {%- endfor -%}
     </div>
+
+    {%- if section.settings.footer_text != blank -%}
+      <div class="kc-reviews-v2__footer">{{ section.settings.footer_text }}</div>
+    {%- endif -%}
+
   </div>
 </section>
+
+<style>
+  .kc-reviews-v2 {
+    padding: 80px 0 100px;
+    background: var(--kc-paper, #FBFAF7);
+    overflow: hidden;
+  }
+  .kc-reviews-v2 .kc-wrap {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  @media (min-width: 768px) {
+    .kc-reviews-v2 .kc-wrap { padding: 0 40px; }
+  }
+
+  /* Header */
+  .kc-reviews-v2__header {
+    text-align: center;
+    margin-bottom: 60px;
+    max-width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
+  }
+  .kc-reviews-v2__eyebrow {
+    display: inline-block;
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    font-size: 11px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--kc-tan, #C47B47);
+    margin-bottom: 18px;
+  }
+  .kc-reviews-v2__title {
+    font-family: var(--kc-font-serif, 'Fraunces', serif);
+    font-size: clamp(32px, 5vw, 52px);
+    font-weight: 400;
+    color: var(--kc-navy, #1A3553);
+    line-height: 1.05;
+    letter-spacing: -0.015em;
+    margin: 0;
+  }
+  .kc-reviews-v2__title p { margin: 0; }
+  .kc-reviews-v2__title em {
+    color: var(--kc-tan, #C47B47);
+    font-style: italic;
+  }
+  .kc-reviews-v2__sub {
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    font-size: 15px;
+    color: var(--kc-navy, #1A3553);
+    opacity: 0.7;
+    line-height: 1.55;
+    margin: 18px 0 0;
+  }
+
+  /* Grid */
+  .kc-reviews-v2__grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  @media (min-width: 768px) {
+    .kc-reviews-v2__grid {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 32px;
+    }
+  }
+
+  /* Review card */
+  .kc-review-v2 {
+    position: relative;
+    padding: 48px 32px 36px;
+    background: #FFFFFF;
+    border: 1px solid rgba(26, 53, 83, 0.08);
+    border-radius: 6px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  }
+  .kc-review-v2:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 20px 50px rgba(26, 53, 83, 0.08);
+  }
+
+  /* Big quote mark (subtle decorative) */
+  .kc-review-v2__mark {
+    position: absolute;
+    top: 12px;
+    left: 24px;
+    font-family: var(--kc-font-serif, 'Fraunces', serif);
+    font-size: 90px;
+    line-height: 1;
+    color: var(--kc-tan, #C47B47);
+    opacity: 0.14;
+    pointer-events: none;
+    user-select: none;
+  }
+
+  /* Stars */
+  .kc-review-v2__stars {
+    display: flex;
+    gap: 3px;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1;
+  }
+  .kc-review-v2__star {
+    font-size: 15px;
+    color: #d9cfc0;
+    line-height: 1;
+  }
+  .kc-review-v2__star--filled {
+    color: var(--kc-tan, #C47B47);
+  }
+
+  /* Quote */
+  .kc-review-v2__quote {
+    font-family: var(--kc-font-serif, 'Fraunces', serif);
+    font-size: 17px;
+    line-height: 1.55;
+    color: var(--kc-navy, #1A3553);
+    margin: 0 0 28px;
+    flex: 1;
+    position: relative;
+    z-index: 1;
+    font-weight: 400;
+  }
+  @media (min-width: 768px) {
+    .kc-review-v2__quote { font-size: 18px; }
+  }
+
+  /* Caption (author + location) */
+  .kc-review-v2__caption {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(26, 53, 83, 0.1);
+  }
+  .kc-review-v2__name {
+    font-family: var(--kc-font-serif, 'Fraunces', serif);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--kc-navy, #1A3553);
+    letter-spacing: 0.01em;
+  }
+  .kc-review-v2__meta {
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--kc-muted, #8a8786);
+  }
+
+  /* Footer */
+  .kc-reviews-v2__footer {
+    margin-top: 48px;
+    text-align: center;
+    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--kc-muted, #8a8786);
+  }
+</style>
 
 {% schema %}
 {
@@ -24,10 +223,28 @@
   "max_blocks": 6,
   "settings": [
     {
+      "type": "text",
+      "id": "eyebrow",
+      "label": "Eyebrow text",
+      "default": "What our customers say"
+    },
+    {
       "type": "richtext",
       "id": "heading",
       "label": "Heading",
       "default": "<p>Carried every day, <em>for years.</em></p>"
+    },
+    {
+      "type": "textarea",
+      "id": "subheading",
+      "label": "Subheading",
+      "default": "Real words from real customers. Every review is from a verified purchase."
+    },
+    {
+      "type": "text",
+      "id": "footer_text",
+      "label": "Footer text",
+      "default": "3,094 verified reviews · Updated weekly"
     }
   ],
   "blocks": [
@@ -51,8 +268,14 @@
         {
           "type": "text",
           "id": "author",
-          "label": "Author",
-          "default": "Sarah M., Verified Buyer"
+          "label": "Author name",
+          "default": "Sarah M."
+        },
+        {
+          "type": "text",
+          "id": "location",
+          "label": "Location (e.g. Austin, TX)",
+          "default": "Austin, TX"
         }
       ]
     }
@@ -61,9 +284,30 @@
     {
       "name": "Reviews",
       "blocks": [
-        { "type": "review" },
-        { "type": "review", "settings": { "quote": "Switched from a regular bifold and I'm not going back. It feels like something you'd pass down.", "author": "James T., Verified Buyer" }},
-        { "type": "review", "settings": { "quote": "Honestly the best gift I've ever given my dad. He carries it everywhere.", "author": "Priya K., Verified Buyer" }}
+        {
+          "type": "review",
+          "settings": {
+            "quote": "The leather is already starting to soften where I hold it. It looks better every month.",
+            "author": "Sarah M.",
+            "location": "Austin, TX"
+          }
+        },
+        {
+          "type": "review",
+          "settings": {
+            "quote": "Switched from a regular bifold and I'm not going back. Feels like something you'd pass down.",
+            "author": "James T.",
+            "location": "Brooklyn, NY"
+          }
+        },
+        {
+          "type": "review",
+          "settings": {
+            "quote": "Honestly the best gift I've ever given my dad. He carries it everywhere.",
+            "author": "Priya K.",
+            "location": "Seattle, WA"
+          }
+        }
       ]
     }
   ]

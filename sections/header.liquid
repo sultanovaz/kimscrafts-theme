@@ -1,5 +1,6 @@
 <header class="kc-header" role="banner">
   <div class="kc-header__inner">
+
     {%- comment -%} Nav / menu button {%- endcomment -%}
     <div class="kc-header__nav" role="navigation" aria-label="Main">
       {%- if section.settings.menu != blank -%}
@@ -19,12 +20,18 @@
 
     {%- comment -%} Logo {%- endcomment -%}
     <a href="/" class="kc-header__logo" aria-label="{{ shop.name }}">
-      {%- if settings.logo != blank -%}
+      {%- if section.settings.custom_logo != blank -%}
         <img
-          src="{{ settings.logo | image_url: width: 300 }}"
+          src="{{ section.settings.custom_logo | image_url: width: 600 }}"
           alt="{{ shop.name }}"
-          width="{{ settings.logo.width }}"
-          height="{{ settings.logo.height }}"
+          style="height: {{ section.settings.logo_height | default: 40 }}px; width: auto;"
+          loading="eager"
+        >
+      {%- elsif settings.logo != blank -%}
+        <img
+          src="{{ settings.logo | image_url: width: 600 }}"
+          alt="{{ shop.name }}"
+          style="height: {{ section.settings.logo_height | default: 40 }}px; width: auto;"
           loading="eager"
         >
       {%- else -%}
@@ -74,10 +81,33 @@
   "name": "Header",
   "settings": [
     {
+      "type": "header",
+      "content": "Navigation"
+    },
+    {
       "type": "link_list",
       "id": "menu",
       "label": "Menu",
       "default": "main-menu"
+    },
+    {
+      "type": "header",
+      "content": "Logo"
+    },
+    {
+      "type": "image_picker",
+      "id": "custom_logo",
+      "label": "Logo image",
+      "info": "Upload your logo here. PNG with transparent background works best."
+    },
+    {
+      "type": "range",
+      "id": "logo_height",
+      "label": "Logo height (px)",
+      "min": 20,
+      "max": 80,
+      "step": 2,
+      "default": 40
     }
   ]
 }

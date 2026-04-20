@@ -13,7 +13,7 @@
       "type": "main-cart",
       "settings": {
         "show_shipping_bar": true,
-        "free_ship_threshold": 4,
+        "free_ship_threshold": 75,
         "show_gift_note": true
       }
     },

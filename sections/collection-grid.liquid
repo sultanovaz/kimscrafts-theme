@@ -84,152 +84,78 @@
 </section>
 
 <style>
-  .kc-grid-section {
-    padding: 60px 0;
-    background: var(--kc-paper);
-    overflow: hidden;
-    box-sizing: border-box;
-  }
-  .kc-grid-section * { box-sizing: border-box; }
-  .kc-grid-section .kc-wrap {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 0 20px;
-    width: 100%;
-  }
-  @media (min-width: 768px) {
-    .kc-grid-section .kc-wrap { padding: 0 32px; }
-  }
-  .kc-grid__header { text-align: center; margin-bottom: 40px; }
-  .kc-grid__eyebrow {
-    display: inline-block;
-    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
-    font-size: 12px;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--kc-tan, #C47B47);
-    margin-bottom: 12px;
-  }
-  .kc-grid__title {
-    font-family: var(--kc-font-serif, 'Fraunces', serif);
-    font-size: clamp(28px, 4vw, 42px);
-    font-weight: 400;
-    color: var(--kc-navy, #1A3553);
-    margin: 0;
-    line-height: 1.1;
-  }
-  .kc-grid {
-    display: grid;
-    grid-template-columns: repeat(var(--cols-mobile, 2), minmax(0, 1fr));
-    gap: 24px 12px;
-    width: 100%;
-  }
-  @media (min-width: 768px) {
-    .kc-grid {
-      grid-template-columns: repeat(var(--cols, 4), minmax(0, 1fr));
-      gap: 40px 24px;
-    }
-  }
-  .kc-pcard {
+.kc-collection__pagination {
+    margin-top: 60px;
     display: flex;
-    flex-direction: column;
-    gap: 14px;
-    text-decoration: none;
-    color: inherit;
-    transition: transform 0.3s ease;
-    min-width: 0;
-  }
-  .kc-pcard:hover { transform: translateY(-4px); }
-  .kc-pcard--placeholder { pointer-events: none; }
-  .kc-pcard__media {
-    position: relative;
-    aspect-ratio: 1 / 1;
-    background: var(--kc-cream, #F5EDE0);
-    border-radius: 4px;
-    overflow: hidden;
-    width: 100%;
-  }
-  .kc-pcard__media img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-    transition: transform 0.6s ease;
-  }
-  .kc-pcard:hover .kc-pcard__media img { transform: scale(1.04); }
-  .kc-pcard__badge {
-    position: absolute;
-    top: 12px;
-    left: 12px;
-    padding: 4px 10px;
-    background: var(--kc-navy, #1A3553);
-    color: #fff;
-    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
-    font-size: 11px;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    border-radius: 2px;
-  }
-  .kc-pcard__badge--sale { background: var(--kc-tan, #C47B47); }
-  .kc-pcard__body {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-    padding: 0 2px;
-    min-width: 0;
-  }
-  .kc-pcard__name {
-    font-family: var(--kc-font-serif, 'Fraunces', serif);
-    font-size: 15px;
-    font-weight: 400;
-    line-height: 1.3;
-    color: var(--kc-navy, #1A3553);
-    margin: 0;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    word-break: break-word;
-  }
-  @media (min-width: 768px) {
-    .kc-pcard__name { font-size: 16px; }
-  }
-  .kc-pcard__price {
-    font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
-    font-size: 14px;
-    color: var(--kc-navy, #1A3553);
-    display: flex;
-    gap: 8px;
-    align-items: baseline;
-    flex-wrap: wrap;
-  }
-  .kc-pcard__price-sale { color: var(--kc-tan, #C47B47); font-weight: 500; }
-  .kc-pcard__price-compare { color: var(--kc-muted, #8a8786); text-decoration: line-through; font-size: 13px; }
-  .kc-grid__footer { text-align: center; margin-top: 48px; }
-  .kc-btn {
-    display: inline-flex;
+    justify-content: center;
     align-items: center;
-    gap: 8px;
-    padding: 14px 32px;
+    gap: 6px;
+    flex-wrap: wrap;
     font-family: var(--kc-font-sans, 'DM Sans', sans-serif);
     font-size: 14px;
-    letter-spacing: 0.05em;
-    text-decoration: none;
-    border-radius: 2px;
-    transition: all 0.3s ease;
-    cursor: pointer;
   }
-  .kc-btn--outline {
-    background: transparent;
-    border: 1px solid var(--kc-navy, #1A3553);
+  .kc-collection__pagination > * {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    min-width: 40px;
+    height: 40px;
+    padding: 0 12px;
+    margin: 0 !important;
     color: var(--kc-navy, #1A3553);
+    text-decoration: none;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    transition: all 0.2s ease;
+    white-space: nowrap;
   }
-  .kc-btn--outline:hover {
+  .kc-collection__pagination a:hover {
+    border-color: var(--kc-navy, #1A3553);
+  }
+  .kc-collection__pagination .page.current,
+  .kc-collection__pagination span.page.current {
     background: var(--kc-navy, #1A3553);
     color: #fff;
+    border-color: var(--kc-navy, #1A3553);
+    font-weight: 500;
   }
-  .kc-btn__arrow { transition: transform 0.3s ease; }
-  .kc-btn:hover .kc-btn__arrow { transform: translateX(4px); }
+  .kc-collection__pagination .prev,
+  .kc-collection__pagination .next,
+  .kc-collection__pagination .deprecated {
+    font-size: 13px;
+    letter-spacing: 0.02em;
+  }
+  .kc-collection__pagination .deprecated {
+    color: var(--kc-muted, #8a8786);
+    cursor: default;
+  }
+  @media (max-width: 600px) {
+    .kc-collection__pagination { gap: 4px; font-size: 13px; }
+    .kc-collection__pagination > * { min-width: 36px; height: 36px; padding: 0 8px; }
+  }
+
+
+  /* Force badge back onto image */
+  .kc-pcard__media {
+    position: relative !important;
+  }
+  .kc-pcard__badge {
+    position: absolute !important;
+    top: 10px !important;
+    left: 10px !important;
+    display: inline-block !important;
+    padding: 3px 8px !important;
+    font-size: 10px !important;
+    letter-spacing: 0.12em !important;
+    text-transform: uppercase !important;
+    z-index: 2 !important;
+  }
+  /* Tighten mobile spacing */
+  @media (max-width: 600px) {
+    .kc-pcard { gap: 8px; }
+    .kc-pcard__name { font-size: 14px !important; line-height: 1.25 !important; }
+    .kc-pcard__price { font-size: 13px; gap: 6px; }
+  }
 </style>
 
 {% schema %}

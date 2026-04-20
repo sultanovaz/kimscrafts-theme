@@ -31,48 +31,6 @@
         "view_all_link": ""
       }
     },
-    "press": {
-      "type": "press-logos",
-      "blocks": {
-        "p1": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/VOGUE_revista_-_logo.jpg",
-            "name": "Vogue"
-          }
-        },
-        "p2": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/GQ_Logo_svg.jpg",
-            "name": "GQ"
-          }
-        },
-        "p3": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Esquire_logo__1993__svg.jpg",
-            "name": "Esquire"
-          }
-        },
-        "p5": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Monocle_brand_logo_svg.jpg",
-            "name": "Monocle"
-          }
-        }
-      },
-      "block_order": [
-        "p1",
-        "p2",
-        "p3",
-        "p5"
-      ],
-      "settings": {
-        "heading": "As seen in"
-      }
-    },
     "founder": {
       "type": "founder-note",
       "settings": {
@@ -80,19 +38,6 @@
         "heading": "<p>No two are <em>exactly</em> alike.</p>",
         "body": "<p>Each book wallet is cut, folded and saddle-stitched from a single piece of full-grain leather. Small flaws in the grain, slight shifts in color — those aren't defects. They're the reason we work this way.</p><p>Order today and yours goes on the bench this week.</p>",
         "signature": "— Kim"
-      }
-    },
-    "imgtext": {
-      "type": "image-text",
-      "settings": {
-        "image_position": "right",
-        "bg_color": "",
-        "eyebrow": "The process",
-        "heading": "<p>Cut. Fold. <em>Stitch.</em></p>",
-        "body": "<p>Every wallet starts as a single hide. We cut by hand, fold by feel, and pull every stitch with waxed linen thread. No machines, no shortcuts, no compromise.</p><p>It's slower. It's why there's a waitlist sometimes. It's why yours will outlast anything else you own.</p>",
-        "cta_label": "Our story",
-        "cta_url": "/pages/our-story",
-        "cta_style": "secondary"
       }
     },
     "testimonial": {
@@ -245,9 +190,7 @@
   "order": [
     "hero",
     "grid",
-    "press",
     "founder",
-    "imgtext",
     "testimonial",
     "values",
     "reviews",

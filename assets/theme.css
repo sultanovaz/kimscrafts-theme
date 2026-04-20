@@ -3895,49 +3895,86 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 
 
 /* =============================================================
-   V3 HOTFIX 2 — ATC button no-wrap on mobile
+   V3 HOTFIX 3 — compact qty, wider ATC
    ============================================================= */
+.kc-addcart-row {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 10px;
+  margin-top: 20px;
+  align-items: stretch;
+}
+
+.kc-qty {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid var(--kc-line-dark);
+  border-radius: var(--kc-r-sm);
+  overflow: hidden;
+  width: auto;
+  height: 54px;
+}
+.kc-qty button {
+  width: 32px;
+  height: 100%;
+  border: none;
+  background: transparent;
+  font-size: 18px;
+  color: var(--kc-ink);
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.kc-qty button:hover {
+  background: var(--kc-cream-soft);
+}
+.kc-qty input {
+  width: 32px;
+  height: 100%;
+  border: none;
+  background: transparent;
+  text-align: center;
+  font-family: var(--kc-f-body);
+  font-size: 14px;
+  color: var(--kc-ink);
+  padding: 0;
+  -moz-appearance: textfield;
+}
+.kc-qty input::-webkit-outer-spin-button,
+.kc-qty input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* ATC full-width with breathing room */
 .kc-atc-btn {
   white-space: nowrap;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 0;
-  padding: 0 18px;
   min-height: 54px;
+  padding: 0 16px;
   font-size: 14px;
-  letter-spacing: 0.08em;
-}
-.kc-atc-btn [data-atc-label],
-.kc-atc-btn [data-atc-sep],
-.kc-atc-btn [data-atc-total] {
-  white-space: nowrap;
-  display: inline;
+  letter-spacing: 0.06em;
 }
 .kc-atc-btn [data-atc-sep] {
-  margin: 0 6px;
+  margin: 0 8px;
   opacity: 0.6;
 }
 
-/* On narrow mobile, tighten letter-spacing & shrink separator */
 @media (max-width: 480px) {
+  .kc-qty {
+    height: 50px;
+  }
+  .kc-qty button { width: 28px; font-size: 16px; }
+  .kc-qty input { width: 26px; font-size: 13px; }
   .kc-atc-btn {
-    letter-spacing: 0.04em;
+    min-height: 50px;
     font-size: 13px;
-    padding: 0 12px;
+    letter-spacing: 0.04em;
+    padding: 0 10px;
   }
-  .kc-atc-btn [data-atc-sep] {
-    margin: 0 4px;
-  }
-}
-
-/* Also fix the qty + atc row so button gets enough width */
-.kc-addcart-row {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 12px;
-  margin-top: 20px;
-}
-.kc-qty {
-  width: auto;
+  .kc-atc-btn [data-atc-sep] { margin: 0 6px; }
 }

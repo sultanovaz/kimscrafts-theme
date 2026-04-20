@@ -1,0 +1,57 @@
+<section class="kc-lookbook">
+  <div class="kc-wrap">
+    <div class="kc-lookbook__head">
+      {%- if section.settings.eyebrow != blank -%}<div class="kc-eyebrow kc-reveal">{{ section.settings.eyebrow }}</div>{%- endif -%}
+      {%- if section.settings.heading != blank -%}<h2 class="kc-lookbook__title kc-reveal" data-delay="1">{{ section.settings.heading }}</h2>{%- endif -%}
+    </div>
+    <div class="kc-lookbook__grid">
+      {%- for block in section.blocks -%}
+        <a href="{{ block.settings.link | default: '#' }}" class="kc-lookbook__tile kc-reveal" data-delay="{{ forloop.index0 | modulo: 4 }}" {{ block.shopify_attributes }} {% if block.settings.size == 'large' %}data-size="large"{% endif %}>
+          {%- if block.settings.image != blank -%}
+            <img src="{{ block.settings.image | image_url: width: 1200 }}" alt="{{ block.settings.label | escape }}" loading="lazy">
+          {%- else -%}
+            {{ 'lifestyle-2' | placeholder_svg_tag: 'placeholder-svg' }}
+          {%- endif -%}
+          {%- if block.settings.label != blank -%}
+            <div class="kc-lookbook__label">
+              <span>{{ block.settings.label }}</span>
+              <span class="arrow">→</span>
+            </div>
+          {%- endif -%}
+        </a>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Lookbook",
+  "settings": [
+    { "type": "text", "id": "eyebrow", "label": "Eyebrow", "default": "Shop the look" },
+    { "type": "richtext", "id": "heading", "label": "Heading", "default": "<p>Styled <em>your way.</em></p>" }
+  ],
+  "blocks": [
+    {
+      "type": "tile",
+      "name": "Tile",
+      "settings": [
+        { "type": "image_picker", "id": "image", "label": "Image" },
+        { "type": "text", "id": "label", "label": "Label", "default": "Shop now" },
+        { "type": "url", "id": "link", "label": "Link" },
+        { "type": "select", "id": "size", "label": "Size",
+          "options": [{"value":"normal","label":"Normal"},{"value":"large","label":"Large (2x)"}], "default": "normal" }
+      ]
+    }
+  ],
+  "presets": [{
+    "name": "Lookbook",
+    "blocks": [
+      { "type": "tile", "settings": { "size": "large", "label": "The slim bifold" }},
+      { "type": "tile", "settings": { "label": "Everyday carry" }},
+      { "type": "tile", "settings": { "label": "The 8-slot" }},
+      { "type": "tile", "settings": { "label": "Card-only" }}
+    ]
+  }]
+}
+{% endschema %}

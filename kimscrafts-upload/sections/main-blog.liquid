@@ -1,0 +1,36 @@
+<section class="kc-collection">
+  <div class="kc-wrap">
+    <header class="kc-collection__head">
+      <div class="kc-eyebrow">Journal</div>
+      <h1 class="kc-collection__title">{{ blog.title }}</h1>
+    </header>
+
+    <div class="kc-grid" style="--cols: 3; --cols-mobile: 2;">
+      {%- paginate blog.articles by 12 -%}
+        {%- for article in blog.articles -%}
+          <a class="kc-card kc-reveal" data-delay="{{ forloop.index0 | modulo: 4 }}" href="{{ article.url }}">
+            <div class="kc-card__frame">
+              {%- if article.image != blank -%}
+                <img class="kc-card__img" src="{{ article.image | image_url: width: 800 }}" alt="{{ article.image.alt | escape }}" loading="lazy" width="800" height="1000">
+              {%- endif -%}
+            </div>
+            <div class="kc-card__info">
+              <div class="kc-card__name" style="font-size:22px;">{{ article.title }}</div>
+            </div>
+            <div class="kc-card__meta">{{ article.published_at | date: "%B %d, %Y" }}</div>
+          </a>
+        {%- endfor -%}
+
+        {%- if paginate.pages > 1 -%}
+          <div class="kc-pagination" style="grid-column:1/-1;">
+            {{ paginate | default_pagination }}
+          </div>
+        {%- endif -%}
+      {%- endpaginate -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{ "name": "Blog" }
+{% endschema %}

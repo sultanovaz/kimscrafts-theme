@@ -1,0 +1,39 @@
+{%- liquid
+  assign dt = section.settings.deadline | default: '2026-12-31'
+  assign dt_iso = dt | append: 'T23:59:59'
+-%}
+<section class="kc-countdown" data-countdown data-deadline="{{ dt_iso }}" style="background: {{ section.settings.bg_color | default: 'var(--kc-navy)' }}; color: {{ section.settings.text_color | default: 'var(--kc-cream)' }};">
+  <div class="kc-wrap">
+    <div class="kc-countdown__inner">
+      <div class="kc-countdown__text">
+        {%- if section.settings.eyebrow != blank -%}<div class="kc-eyebrow" style="color:inherit; opacity:.7;">{{ section.settings.eyebrow }}</div>{%- endif -%}
+        {%- if section.settings.heading != blank -%}<div class="kc-countdown__heading">{{ section.settings.heading }}</div>{%- endif -%}
+      </div>
+      <div class="kc-countdown__timer" data-countdown-timer>
+        <div class="kc-countdown__unit"><span data-d>00</span><small>days</small></div>
+        <div class="kc-countdown__unit"><span data-h>00</span><small>hrs</small></div>
+        <div class="kc-countdown__unit"><span data-m>00</span><small>min</small></div>
+        <div class="kc-countdown__unit"><span data-s>00</span><small>sec</small></div>
+      </div>
+      {%- if section.settings.cta_label != blank and section.settings.cta_url != blank -%}
+        <a href="{{ section.settings.cta_url }}" class="kc-btn kc-btn--primary kc-countdown__cta" style="background: {{ section.settings.text_color | default: 'var(--kc-cream)' }}; color: {{ section.settings.bg_color | default: 'var(--kc-navy)' }};">{{ section.settings.cta_label }}</a>
+      {%- endif -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Countdown banner",
+  "settings": [
+    { "type": "color", "id": "bg_color", "label": "Background color" },
+    { "type": "color", "id": "text_color", "label": "Text color" },
+    { "type": "text", "id": "eyebrow", "label": "Eyebrow", "default": "Limited batch" },
+    { "type": "text", "id": "heading", "label": "Heading", "default": "Spring drop ends" },
+    { "type": "text", "id": "deadline", "label": "Deadline (YYYY-MM-DD)", "default": "2026-12-31", "info": "Use YYYY-MM-DD format" },
+    { "type": "text", "id": "cta_label", "label": "CTA label" },
+    { "type": "url", "id": "cta_url", "label": "CTA link" }
+  ],
+  "presets": [{ "name": "Countdown banner" }]
+}
+{% endschema %}

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="{{ request.locale.iso_code }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{{ 'gift_cards.issued.title' | t: value: gift_card.initial_value | money, shop: shop.name }}</title>
+    {%- if settings.favicon != blank -%}
+      <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32 }}">
+    {%- endif -%}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,400&family=Fraunces:ital,opsz,wght,SOFT@0,9..144,300..700,30..100;1,9..144,300..700,30..100&display=swap" rel="stylesheet">
+    {{ 'theme.css' | asset_url | stylesheet_tag }}
+    {{ content_for_header }}
+  </head>
+  <body class="template-gift_card" style="background:var(--kc-cream);">
+    <div style="min-height:100vh; display:flex; flex-direction:column; justify-content:center; align-items:center; padding:40px 20px; text-align:center;">
+      <div style="margin-bottom:24px;">
+        {%- if settings.logo != blank -%}
+          <img src="{{ settings.logo | image_url: width: 200 }}" alt="{{ shop.name }}" style="max-height:56px;">
+        {%- else -%}
+          <span style="font-family:var(--kc-f-display); font-size:28px; color:var(--kc-navy);">{{ shop.name }}</span>
+        {%- endif -%}
+      </div>
+
+      <div class="kc-eyebrow">Gift card</div>
+      <h1 style="font-family:var(--kc-f-display); font-size:clamp(32px,5vw,56px); margin:12px 0 8px; font-variation-settings:'opsz' 96, 'SOFT' 40;">
+        {{ gift_card.initial_value | money }}
+      </h1>
+      <p style="color:var(--kc-muted); margin-bottom:40px;">
+        {%- if gift_card.expired -%}{{ 'gift_cards.issued.expired' | t }}{%- else -%}{{ 'gift_cards.issued.subtext' | t }}{%- endif -%}
+      </p>
+
+      <div style="background:var(--kc-paper); padding:32px; border-radius:var(--kc-r-md); max-width:440px; width:100%; box-shadow:0 2px 24px rgba(20,20,20,.04);">
+        {%- if gift_card.qr_identifier -%}
+          {%- assign qr_alt = 'gift_cards.issued.qr_image_alt' | t -%}
+          <div style="margin-bottom:24px;">{{ gift_card | gift_card_qr_code_tag: alt: qr_alt }}</div>
+        {%- endif -%}
+        <div class="kc-eyebrow" style="margin-bottom:8px;">{{ 'gift_cards.issued.gift_card_code' | t }}</div>
+        <div style="font-family:monospace; font-size:20px; letter-spacing:.1em; color:var(--kc-ink); word-break:break-all;">
+          {{ gift_card.code | format_code }}
+        </div>
+      </div>
+
+      <div style="margin-top:32px; display:flex; gap:12px; flex-wrap:wrap; justify-content:center;">
+        <a href="{{ shop.url }}" class="kc-btn kc-btn--primary">{{ 'gift_cards.issued.shop_link' | t }}</a>
+        <button type="button" onclick="window.print()" class="kc-btn kc-btn--secondary">{{ 'gift_cards.issued.print_gift_card' | t }}</button>
+      </div>
+
+      {%- if gift_card.pass_url -%}
+        <a href="{{ gift_card.pass_url }}" style="margin-top:16px; color:var(--kc-navy); font-size:13px;">{{ 'gift_cards.issued.add_to_apple_wallet' | t }}</a>
+      {%- endif -%}
+    </div>
+  </body>
+</html>

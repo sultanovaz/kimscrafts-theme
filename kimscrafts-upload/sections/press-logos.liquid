@@ -1,0 +1,47 @@
+<section class="kc-press">
+  <div class="kc-wrap">
+    {%- if section.settings.heading != blank -%}
+      <div class="kc-press__heading kc-eyebrow kc-reveal">{{ section.settings.heading }}</div>
+    {%- endif -%}
+    <div class="kc-press__track kc-reveal" data-delay="1">
+      {%- for block in section.blocks -%}
+        <div class="kc-press__logo" {{ block.shopify_attributes }}>
+          {%- if block.settings.logo != blank -%}
+            <img src="{{ block.settings.logo | image_url: width: 300 }}" alt="{{ block.settings.name | escape }}" loading="lazy" width="140" height="40">
+          {%- else -%}
+            <span class="kc-press__name">{{ block.settings.name }}</span>
+          {%- endif -%}
+        </div>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Press logos",
+  "settings": [
+    { "type": "text", "id": "heading", "label": "Heading", "default": "As seen in" }
+  ],
+  "blocks": [
+    {
+      "type": "logo",
+      "name": "Logo / publication",
+      "settings": [
+        { "type": "image_picker", "id": "logo", "label": "Logo image (optional)" },
+        { "type": "text", "id": "name", "label": "Publication name", "default": "Publication" }
+      ]
+    }
+  ],
+  "presets": [{
+    "name": "Press logos",
+    "blocks": [
+      { "type": "logo", "settings": { "name": "Vogue" }},
+      { "type": "logo", "settings": { "name": "GQ" }},
+      { "type": "logo", "settings": { "name": "Esquire" }},
+      { "type": "logo", "settings": { "name": "Hypebeast" }},
+      { "type": "logo", "settings": { "name": "Monocle" }}
+    ]
+  }]
+}
+{% endschema %}

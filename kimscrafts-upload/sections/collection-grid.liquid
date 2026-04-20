@@ -1,0 +1,82 @@
+{%- liquid
+  assign cols = section.settings.columns | default: 4
+  assign cols_m = section.settings.columns_mobile | default: 2
+  assign lim = section.settings.limit | default: 4
+  assign coll_handle = section.settings.collection
+  assign has_coll = false
+  if coll_handle != blank
+    assign coll = collections[coll_handle]
+    if coll != blank and coll.products_count > 0
+      assign has_coll = true
+    endif
+  endif
+-%}
+
+<section class="kc-grid-section">
+  <div class="kc-wrap">
+    <div class="kc-grid" style="--cols: {{ cols }}; --cols-mobile: {{ cols_m }};">
+      {%- if has_coll -%}
+        {%- for product in coll.products limit: lim -%}
+          <a class="kc-card kc-reveal" data-delay="{{ forloop.index0 | modulo: 4 }}" href="{{ product.url }}">
+            <div class="kc-card__frame">
+              <span class="kc-card__num">№ {{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
+              {%- if product.featured_image != blank -%}
+                <img class="kc-card__img" src="{{ product.featured_image | image_url: width: 900 }}" alt="{{ product.featured_image.alt | escape }}" loading="lazy" width="900" height="1125">
+              {%- else -%}
+                <div class="kc-card__img" style="background: var(--kc-cream);"></div>
+              {%- endif -%}
+              <div class="kc-card__reveal">
+                <span>View</span>
+                <span class="arrow">→</span>
+              </div>
+            </div>
+            <div class="kc-card__info">
+              <div class="kc-card__name">{{ product.title }}</div>
+              <div class="kc-card__price">{{ product.price | money }}</div>
+            </div>
+            {%- if product.available == false -%}
+              <div class="kc-card__meta"><span class="kc-card__sold">Sold out — back soon</span></div>
+            {%- endif -%}
+          </a>
+        {%- endfor -%}
+      {%- else -%}
+        {%- for i in (1..4) -%}
+          <div class="kc-card">
+            <div class="kc-card__frame" style="background: var(--kc-cream);">
+              <span class="kc-card__num">№ 0{{ forloop.index }}</span>
+            </div>
+            <div class="kc-card__info">
+              <div class="kc-card__name">Book wallet</div>
+              <div class="kc-card__price">$—</div>
+            </div>
+          </div>
+        {%- endfor -%}
+        <div style="grid-column:1/-1; text-align:center; padding:24px 20px; color:var(--kc-muted); font-size:13px;">
+          <p>Pick a collection in this section's settings to show your products.</p>
+        </div>
+      {%- endif -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Product grid",
+  "settings": [
+    { "type": "collection", "id": "collection", "label": "Collection to display" },
+    { "type": "select", "id": "columns", "label": "Columns on desktop",
+      "options": [
+        { "value": "2", "label": "2" },
+        { "value": "3", "label": "3" },
+        { "value": "4", "label": "4" }
+      ], "default": "4" },
+    { "type": "select", "id": "columns_mobile", "label": "Columns on mobile",
+      "options": [
+        { "value": "1", "label": "1" },
+        { "value": "2", "label": "2" }
+      ], "default": "2" },
+    { "type": "range", "id": "limit", "label": "Products to show", "min": 2, "max": 12, "step": 1, "default": 4 }
+  ],
+  "presets": [ { "name": "Product grid" } ]
+}
+{% endschema %}

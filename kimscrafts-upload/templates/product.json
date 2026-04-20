@@ -1,0 +1,73 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "settings": {
+        "eyebrow": "Handmade Book Wallet",
+        "tagline": "Full-grain leather, saddle-stitched by hand. Softens with every week.",
+        "review_count_label": "121 reviews",
+        "show_installments": true,
+        "show_delivery_estimate": true,
+        "show_trust_row": true,
+        "show_payment_badges": true
+      },
+      "blocks": {
+        "b1": { "type": "benefit", "settings": { "icon": "leaf", "text": "Full-grain vegetable-tanned leather — ages, doesn't wear out" }},
+        "b2": { "type": "benefit", "settings": { "icon": "hand", "text": "Cut, folded, and saddle-stitched by hand in our studio" }},
+        "b3": { "type": "benefit", "settings": { "icon": "card", "text": "Fits 8+ cards, cash, and an inner hidden pocket" }},
+        "b4": { "type": "benefit", "settings": { "icon": "shield", "text": "Lifetime stitching guarantee — we fix it if it ever fails" }},
+        "up_conditioner": { "type": "upsell", "settings": { "description": "Doubles the life. Apply once a quarter.", "icon": "leaf", "input_max": "3" }},
+        "up_giftbox": { "type": "upsell", "settings": { "description": "Matte kraft box with hand-tied twine.", "icon": "box", "input_max": "3" }},
+        "up_initials": { "type": "upsell", "settings": { "description": "Up to 3 letters, debossed by hand before shipping.", "icon": "pencil", "needs_input": true, "input_label": "Initials", "input_placeholder": "ABC", "input_max": "3" }},
+        "details": { "type": "accordion", "settings": { "title": "Details", "body": "<p>Full-grain vegetable-tanned leather, 2mm thick. 8 card slots, two billfold compartments, one hidden inner pocket. Approx. 4.25 × 3.5 inches closed. Saddle-stitched with waxed linen thread. Burnished edges.</p>" }},
+        "care": { "type": "accordion", "settings": { "title": "Care", "body": "<p>Wipe gently with a dry cloth. A light leather conditioner once or twice a year keeps it soft. Avoid soaking — if it gets wet, air dry away from heat. The leather will darken and develop a patina with daily use. That's the good stuff.</p>" }},
+        "shipping": { "type": "accordion", "settings": { "title": "Shipping & returns", "body": "<p>Free US shipping on orders over $75. Most orders ship same day if placed before 2pm ET. US delivery typically 3–5 business days. International 7–14 days. 30-day returns, no questions, free return label.</p>" }}
+      },
+      "block_order": ["b1", "b2", "b3", "b4", "up_conditioner", "up_giftbox", "up_initials", "details", "care", "shipping"]
+    },
+    "compare": {
+      "type": "product-comparison",
+      "settings": {
+        "eyebrow": "Why this wallet",
+        "heading": "<p>Built different. <em>On purpose.</em></p>",
+        "col_us": "Kimscrafts",
+        "col_them": "A regular wallet"
+      },
+      "blocks": {
+        "r1": { "type": "row", "settings": { "label": "Material", "us_text": "Full-grain vegetable-tanned leather", "them_text": "Bonded or synthetic leather" }},
+        "r2": { "type": "row", "settings": { "label": "Construction", "us_text": "Saddle-stitched by hand", "them_text": "Machine-stitched, mass-produced" }},
+        "r3": { "type": "row", "settings": { "label": "Ages over time", "us_text": "Develops a patina, softens yearly", "them_text": "Cracks, peels, looks worn out" }},
+        "r4": { "type": "row", "settings": { "label": "Guarantee", "us_text": "Lifetime stitching guarantee", "them_text": "30 to 90 days, if any" }},
+        "r5": { "type": "row", "settings": { "label": "How it's made", "us_text": "Small-batch in our studio", "them_text": "Overseas factory floor" }},
+        "r6": { "type": "row", "settings": { "label": "Thickness", "us_text": "2mm — holds its shape", "them_text": "Thin, loses form quickly" }}
+      },
+      "block_order": ["r1", "r2", "r3", "r4", "r5", "r6"]
+    },
+    "reviews": {
+      "type": "product-reviews",
+      "settings": { "per_page": 8 }
+    },
+    "pfaq": {
+      "type": "product-faq",
+      "settings": {
+        "eyebrow": "Before you buy",
+        "heading": "<p>Everything you're <em>wondering</em>.</p>",
+        "first_open": true
+      },
+      "blocks": {
+        "f1": { "type": "faq", "settings": { "question": "How long will this wallet last?", "answer": "<p>With normal care, a decade or more. Full-grain leather ages — it doesn't wear out. Our lifetime stitching guarantee means if a stitch ever comes loose, we fix it.</p>" }},
+        "f2": { "type": "faq", "settings": { "question": "How many cards does it fit?", "answer": "<p>8 cards comfortably. Up to 12 if you pack them tight. Plus a billfold compartment for cash and a hidden inner pocket.</p>" }},
+        "f3": { "type": "faq", "settings": { "question": "When will I get it?", "answer": "<p>Orders placed before 2pm ET ship the same day. US delivery is typically 3–5 business days after that. International 7–14 days.</p>" }},
+        "f4": { "type": "faq", "settings": { "question": "What if I don't like it?", "answer": "<p>Send it back within 30 days for a full refund — no questions, no restocking fees. Free return label included.</p>" }},
+        "f5": { "type": "faq", "settings": { "question": "Is the leather really handmade?", "answer": "<p>Every wallet is cut, folded, and saddle-stitched by hand in our studio. Small batches, no factory line. Tiny variations in grain and color are part of what makes yours yours.</p>" }},
+        "f6": { "type": "faq", "settings": { "question": "Will the color fade?", "answer": "<p>The opposite — it deepens. Vegetable-tanned leather darkens and develops a patina with use. A year in, yours won't look like anyone else's.</p>" }}
+      },
+      "block_order": ["f1", "f2", "f3", "f4", "f5", "f6"]
+    },
+    "related": {
+      "type": "related-products",
+      "settings": { "heading": "You might also like", "columns": "4", "limit": "4" }
+    }
+  },
+  "order": ["main", "compare", "reviews", "pfaq", "related"]
+}

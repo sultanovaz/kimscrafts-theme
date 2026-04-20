@@ -1,0 +1,61 @@
+<section class="kc-faq">
+  <div class="kc-wrap--narrow">
+    <div class="kc-faq__head">
+      {%- if section.settings.eyebrow != blank -%}<div class="kc-eyebrow kc-reveal">{{ section.settings.eyebrow }}</div>{%- endif -%}
+      {%- if section.settings.heading != blank -%}<h2 class="kc-faq__title kc-reveal" data-delay="1">{{ section.settings.heading }}</h2>{%- endif -%}
+      {%- if section.settings.subtext != blank -%}<p class="kc-faq__sub kc-reveal" data-delay="2">{{ section.settings.subtext }}</p>{%- endif -%}
+    </div>
+
+    <div class="kc-faq__list kc-reveal" data-delay="3">
+      {%- for block in section.blocks -%}
+        <details class="kc-faq__item" {{ block.shopify_attributes }} {% if forloop.first and section.settings.first_open %}open{% endif %}>
+          <summary>
+            <span>{{ block.settings.question }}</span>
+            <span class="kc-faq__mark" aria-hidden="true"></span>
+          </summary>
+          <div class="kc-faq__answer">{{ block.settings.answer }}</div>
+        </details>
+      {%- endfor -%}
+    </div>
+
+    {%- if section.settings.contact_prompt != blank -%}
+      <div class="kc-faq__foot kc-reveal" data-delay="4">
+        <p>{{ section.settings.contact_prompt }} <a href="{{ section.settings.contact_url | default: '/pages/contact' }}">Get in touch →</a></p>
+      </div>
+    {%- endif -%}
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "FAQ",
+  "settings": [
+    { "type": "text", "id": "eyebrow", "label": "Eyebrow", "default": "Common questions" },
+    { "type": "richtext", "id": "heading", "label": "Heading", "default": "<p>Everything <em>you're wondering</em>.</p>" },
+    { "type": "textarea", "id": "subtext", "label": "Subtext", "default": "Short, honest answers — no fluff." },
+    { "type": "checkbox", "id": "first_open", "label": "Open first item by default", "default": true },
+    { "type": "text", "id": "contact_prompt", "label": "Contact prompt", "default": "Didn't see your question?" },
+    { "type": "url", "id": "contact_url", "label": "Contact link" }
+  ],
+  "blocks": [
+    {
+      "type": "faq_item",
+      "name": "Question",
+      "settings": [
+        { "type": "text", "id": "question", "label": "Question", "default": "How long will it take to ship?" },
+        { "type": "richtext", "id": "answer", "label": "Answer", "default": "<p>Most orders go out within 2 business days. If you added personalized initials, add 1 more day.</p>" }
+      ]
+    }
+  ],
+  "presets": [{
+    "name": "FAQ",
+    "blocks": [
+      { "type": "faq_item", "settings": { "question": "How long does shipping take?", "answer": "<p>Orders ship within 2 business days from our studio. US delivery is typically 3–5 days after that.</p>" }},
+      { "type": "faq_item", "settings": { "question": "What leather do you use?", "answer": "<p>Full-grain vegetable-tanned leather from a small tannery we've worked with since day one. It ages beautifully and gets softer with every week of use.</p>" }},
+      { "type": "faq_item", "settings": { "question": "Can I return it?", "answer": "<p>Yes — 30 days, no questions. If you've used it lightly and it's not your thing, send it back for a full refund.</p>" }},
+      { "type": "faq_item", "settings": { "question": "Is it really handmade?", "answer": "<p>Every wallet is cut, folded, and saddle-stitched by hand in small batches. We sell out and restock — it's not a factory line.</p>" }},
+      { "type": "faq_item", "settings": { "question": "Do you ship internationally?", "answer": "<p>We ship to the US, Canada, UK, EU, and Australia. Duties and taxes are calculated at checkout.</p>" }}
+    ]
+  }]
+}
+{% endschema %}

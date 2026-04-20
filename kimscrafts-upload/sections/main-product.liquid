@@ -1,0 +1,346 @@
+{%- liquid
+  assign current_variant = product.selected_or_first_available_variant
+  assign upsell_blocks = section.blocks | where: 'type', 'upsell'
+  assign benefit_blocks = section.blocks | where: 'type', 'benefit'
+  assign accordion_blocks = section.blocks | where: 'type', 'accordion'
+  assign savings = 0
+  if current_variant.compare_at_price > current_variant.price
+    assign savings = current_variant.compare_at_price | minus: current_variant.price
+  endif
+-%}
+
+<section class="kc-pdp" data-pdp>
+  <div class="kc-pdp__grid">
+
+    {%- comment -%} ── GALLERY ── {%- endcomment -%}
+    <div class="kc-gallery" data-gallery>
+      <div class="kc-gallery__main" data-gallery-main>
+        {%- for image in product.images limit: 6 -%}
+          <div class="kc-gallery__slide {% if forloop.first %}is-active{% endif %}" data-gallery-slide>
+            <img src="{{ image | image_url: width: 1400 }}" alt="{{ image.alt | escape }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" width="1400" height="1400">
+          </div>
+        {%- else -%}
+          <div class="kc-gallery__slide is-active" data-gallery-slide>{{ 'product-1' | placeholder_svg_tag: 'placeholder-svg' }}</div>
+        {%- endfor -%}
+      </div>
+      {%- if product.images.size > 1 -%}
+        <div class="kc-gallery__thumbs">
+          {%- for image in product.images limit: 6 -%}
+            <button type="button" class="kc-gallery__thumb {% if forloop.first %}is-active{% endif %}" data-gallery-thumb aria-label="Image {{ forloop.index }}">
+              <img src="{{ image | image_url: width: 200 }}" alt="{{ image.alt | escape }}" loading="lazy" width="100" height="100">
+            </button>
+          {%- endfor -%}
+        </div>
+      {%- endif -%}
+    </div>
+
+    {%- comment -%} ── BUY BOX ── {%- endcomment -%}
+    <div class="kc-pinfo">
+
+      <div class="kc-pinfo__eyebrow kc-eyebrow">{{ section.settings.eyebrow | default: 'Handmade Book Wallet' }}</div>
+      <h1 class="kc-pinfo__title">{{ product.title }}</h1>
+
+      <a href="#reviews" class="kc-pinfo__rating" data-scroll-reviews>
+        <span class="kc-stars">★★★★★</span>
+        <span class="kc-rating-score" data-rating-score>4.9</span>
+        <span class="kc-rating-count" data-rating-count>({{ section.settings.review_count_label | default: '121 reviews' }})</span>
+      </a>
+
+      <div class="kc-pinfo__price" data-price>
+        {%- if savings > 0 -%}
+          <span class="kc-price__now">{{ current_variant.price | money }}</span>
+          <del class="kc-price__was">{{ current_variant.compare_at_price | money }}</del>
+          <span class="kc-price__save">Save {{ savings | money_without_trailing_zeros }}</span>
+        {%- else -%}
+          <span class="kc-price__now">{{ current_variant.price | money }}</span>
+        {%- endif -%}
+      </div>
+
+      {%- if section.settings.tagline != blank -%}
+        <p class="kc-pinfo__tagline">{{ section.settings.tagline }}</p>
+      {%- endif -%}
+
+      {%- comment -%} ── BENEFIT BULLETS ── {%- endcomment -%}
+      {%- if benefit_blocks.size > 0 -%}
+        <ul class="kc-benefits">
+          {%- for block in benefit_blocks -%}
+            <li class="kc-benefit" {{ block.shopify_attributes }}>
+              <span class="kc-benefit__icon" aria-hidden="true">
+                {%- case block.settings.icon -%}
+                  {%- when 'leaf' -%}<svg viewBox="0 0 24 24" fill="none"><path d="M19 5c0 9-5 14-13 14 0-8 5-14 13-14z" stroke="currentColor" stroke-width="1.5"/><path d="M6 19 15 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+                  {%- when 'hand' -%}<svg viewBox="0 0 24 24" fill="none"><path d="M7 11V6a1.5 1.5 0 1 1 3 0v4m0-1V4.5a1.5 1.5 0 1 1 3 0V10m0-.5V5.5a1.5 1.5 0 1 1 3 0V14m0-3a1.5 1.5 0 1 1 3 0v4c0 4-2 7-6 7s-7-2-8-6l-2-5c-.5-1.5 1-2.5 2-1.5l2 2" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg>
+                  {%- when 'shield' -%}<svg viewBox="0 0 24 24" fill="none"><path d="M12 3l8 3v7c0 5-3 8-8 9-5-1-8-4-8-9V6l8-3z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><path d="m9 12 2 2 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+                  {%- when 'stitch' -%}<svg viewBox="0 0 24 24" fill="none"><path d="M3 12h3m3 0h3m3 0h3m3 0h3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M5 8l2 4-2 4M19 8l-2 4 2 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                  {%- when 'truck' -%}<svg viewBox="0 0 24 24" fill="none"><path d="M3 6h13v11H3zM16 10h5l2 3v4h-7" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><circle cx="7" cy="18.5" r="1.8" stroke="currentColor" stroke-width="1.5"/><circle cx="18" cy="18.5" r="1.8" stroke="currentColor" stroke-width="1.5"/></svg>
+                  {%- when 'return' -%}<svg viewBox="0 0 24 24" fill="none"><path d="M4 12a8 8 0 1 0 2.3-5.6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M4 4v5h5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                  {%- when 'card' -%}<svg viewBox="0 0 24 24" fill="none"><rect x="3" y="6" width="18" height="13" rx="1.5" stroke="currentColor" stroke-width="1.5"/><path d="M3 10h18M7 15h4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+                  {%- else -%}<svg viewBox="0 0 24 24" fill="none"><path d="m5 12 5 5L20 7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                {%- endcase -%}
+              </span>
+              <span class="kc-benefit__text">{{ block.settings.text }}</span>
+            </li>
+          {%- endfor -%}
+        </ul>
+      {%- endif -%}
+
+      {%- comment -%} ── FORM: Variants → Upsells → Qty+ATC ── {%- endcomment -%}
+      <form class="kc-variants-form" data-product-form action="/cart/add" method="post" enctype="multipart/form-data">
+
+        {%- unless product.has_only_default_variant -%}
+          {%- for option in product.options_with_values -%}
+            <div class="kc-variants">
+              <label class="kc-variants__label">
+                {{ option.name }}: <strong data-option-selected="{{ forloop.index0 }}">{{ option.selected_value }}</strong>
+              </label>
+              <div class="kc-variants__opts">
+                {%- for value in option.values -%}
+                  <button type="button" class="kc-variant-btn {% if value == option.selected_value %}is-active{% endif %}" data-option-btn data-option-idx="{{ forloop.parentloop.index0 }}" data-option-value="{{ value | escape }}">{{ value }}</button>
+                {%- endfor -%}
+              </div>
+            </div>
+          {%- endfor -%}
+        {%- endunless -%}
+
+        <input type="hidden" name="id" value="{{ current_variant.id }}">
+
+        {%- if upsell_blocks.size > 0 -%}
+          <div class="kc-upsells" data-upsells>
+            <div class="kc-upsells__header">
+              <span class="kc-upsells__label">Complete your wallet</span>
+              <span class="kc-upsells__meta"><span data-upsells-selected>0</span> added</span>
+            </div>
+            <div class="kc-upsells__list">
+              {%- for block in upsell_blocks -%}
+                {%- assign up_product = block.settings.product -%}
+                {%- if up_product != blank -%}
+                  {%- assign up_variant = up_product.selected_or_first_available_variant -%}
+                  <label class="kc-upsell" {{ block.shopify_attributes }}>
+                    <input type="checkbox" class="kc-upsell__cb" data-upsell-id="{{ up_variant.id }}" data-price="{{ up_variant.price | divided_by: 100.0 }}">
+                    <span class="kc-upsell__check" aria-hidden="true">
+                      <svg viewBox="0 0 16 16" fill="none"><path d="M3 8l3.5 3.5L13 5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </span>
+                    <div class="kc-upsell__icon" aria-hidden="true">
+                      {%- case block.settings.icon -%}
+                        {%- when 'leaf' -%}<svg viewBox="0 0 24 24" fill="none"><path d="M19 5c0 9-5 14-13 14 0-8 5-14 13-14z" stroke="currentColor" stroke-width="1.5"/><path d="M6 19 15 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+                        {%- when 'box' -%}<svg viewBox="0 0 24 24" fill="none"><path d="M4 8l8-4 8 4v10l-8 4-8-4z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><path d="M4 8l8 4 8-4M12 12v10" stroke="currentColor" stroke-width="1.5"/></svg>
+                        {%- when 'truck' -%}<svg viewBox="0 0 24 24" fill="none"><path d="M3 6h13v11H3zM16 10h5l2 3v4h-7" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><circle cx="7" cy="18.5" r="1.8" stroke="currentColor" stroke-width="1.5"/><circle cx="18" cy="18.5" r="1.8" stroke="currentColor" stroke-width="1.5"/></svg>
+                        {%- when 'pencil' -%}<svg viewBox="0 0 24 24" fill="none"><path d="M4 20l4-1 11-11-3-3L5 16z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>
+                        {%- when 'shield' -%}<svg viewBox="0 0 24 24" fill="none"><path d="M12 3l8 3v7c0 5-3 8-8 9-5-1-8-4-8-9V6z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><path d="m9 12 2 2 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+                        {%- else -%}<svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.5"/></svg>
+                      {%- endcase -%}
+                    </div>
+                    <div class="kc-upsell__body">
+                      <div class="kc-upsell__row">
+                        <span class="kc-upsell__title">{{ block.settings.title_override | default: up_product.title }}</span>
+                        <span class="kc-upsell__price">+{{ up_variant.price | money }}</span>
+                      </div>
+                      {%- if block.settings.description != blank -%}
+                        <div class="kc-upsell__desc">{{ block.settings.description }}</div>
+                      {%- endif -%}
+                      {%- if block.settings.needs_input -%}
+                        <input type="text" class="kc-upsell__input" data-upsell-input-for="{{ up_variant.id }}" data-input-label="{{ block.settings.input_label | default: 'Custom' | escape }}" placeholder="{{ block.settings.input_placeholder | default: 'ABC' | escape }}" maxlength="{{ block.settings.input_max | default: 3 }}">
+                      {%- endif -%}
+                    </div>
+                  </label>
+                {%- endif -%}
+              {%- endfor -%}
+            </div>
+          </div>
+        {%- endif -%}
+
+        <div class="kc-addcart-row">
+          <div class="kc-qty" data-qty>
+            <button type="button" data-qty-minus aria-label="Decrease">−</button>
+            <input type="number" name="quantity" value="1" min="1" max="10" inputmode="numeric">
+            <button type="button" data-qty-plus aria-label="Increase">+</button>
+          </div>
+          <button type="submit" class="kc-btn kc-btn--primary kc-btn--full kc-atc-btn" data-add-to-cart data-base-price="{{ current_variant.price | divided_by: 100.0 }}" {% unless current_variant.available %}disabled{% endunless %}>
+            {%- if current_variant.available -%}
+              <span data-atc-label>Add to cart</span><span data-atc-sep> — </span><span data-atc-total>{{ current_variant.price | money }}</span>
+            {%- else -%}
+              Sold out — notify me
+            {%- endif -%}
+          </button>
+        </div>
+
+        {%- if section.settings.show_installments -%}
+          <div class="kc-installments">
+            or 4 interest-free payments of <strong data-installments>{{ current_variant.price | divided_by: 4 | money }}</strong> · <span>Shop Pay</span>
+          </div>
+        {%- endif -%}
+
+        {%- if section.settings.show_delivery_estimate -%}
+          <div class="kc-delivery" data-delivery>
+            <span class="kc-delivery__icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" width="18" height="18"><path d="M3 6h13v11H3zM16 10h5l2 3v4h-7" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/><circle cx="7" cy="18.5" r="1.8" stroke="currentColor" stroke-width="1.5"/><circle cx="18" cy="18.5" r="1.8" stroke="currentColor" stroke-width="1.5"/></svg>
+            </span>
+            <span class="kc-delivery__text">Order in the next <strong data-delivery-cutoff></strong> for delivery by <strong data-delivery-date></strong></span>
+          </div>
+        {%- endif -%}
+
+        {%- if section.settings.show_trust_row -%}
+          <div class="kc-trust-row">
+            <div class="kc-trust-item">
+              <svg viewBox="0 0 24 24" fill="none" width="16" height="16"><path d="M3 6h13v11H3zM16 10h5l2 3v4h-7" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/><circle cx="7" cy="18.5" r="1.6" stroke="currentColor" stroke-width="1.4"/><circle cx="18" cy="18.5" r="1.6" stroke="currentColor" stroke-width="1.4"/></svg>
+              <span>Free US shipping over $75</span>
+            </div>
+            <div class="kc-trust-item">
+              <svg viewBox="0 0 24 24" fill="none" width="16" height="16"><path d="M4 12a8 8 0 1 0 2.3-5.6" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/><path d="M4 4v5h5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              <span>30-day returns</span>
+            </div>
+            <div class="kc-trust-item">
+              <svg viewBox="0 0 24 24" fill="none" width="16" height="16"><path d="M12 3l8 3v7c0 5-3 8-8 9-5-1-8-4-8-9V6z" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/><path d="m9 12 2 2 4-4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>
+              <span>Lifetime stitching guarantee</span>
+            </div>
+          </div>
+        {%- endif -%}
+
+        {%- if section.settings.show_payment_badges -%}
+          <div class="kc-pay-badges" aria-label="Accepted payment methods">
+            <span class="kc-pay-badge" title="Visa"><svg viewBox="0 0 36 24" width="34" height="22"><rect width="36" height="24" rx="3" fill="#1A1F71"/><text x="18" y="16" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="10" font-weight="bold" font-style="italic">VISA</text></svg></span>
+            <span class="kc-pay-badge" title="Mastercard"><svg viewBox="0 0 36 24" width="34" height="22"><rect width="36" height="24" rx="3" fill="#fff" stroke="#e0e0e0"/><circle cx="14" cy="12" r="6" fill="#EB001B"/><circle cx="22" cy="12" r="6" fill="#F79E1B"/><path d="M18 7.5a6 6 0 0 0 0 9 6 6 0 0 0 0-9z" fill="#FF5F00"/></svg></span>
+            <span class="kc-pay-badge" title="American Express"><svg viewBox="0 0 36 24" width="34" height="22"><rect width="36" height="24" rx="3" fill="#2E77BB"/><text x="18" y="16" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="7" font-weight="bold">AMEX</text></svg></span>
+            <span class="kc-pay-badge" title="PayPal"><svg viewBox="0 0 36 24" width="34" height="22"><rect width="36" height="24" rx="3" fill="#fff" stroke="#e0e0e0"/><text x="18" y="15" text-anchor="middle" fill="#003087" font-family="Arial,sans-serif" font-size="8" font-weight="bold" font-style="italic">PayPal</text></svg></span>
+            <span class="kc-pay-badge" title="Apple Pay"><svg viewBox="0 0 36 24" width="34" height="22"><rect width="36" height="24" rx="3" fill="#000"/><text x="18" y="15" text-anchor="middle" fill="#fff" font-family="-apple-system,Arial,sans-serif" font-size="8" font-weight="600">Pay</text></svg></span>
+            <span class="kc-pay-badge" title="Google Pay"><svg viewBox="0 0 36 24" width="34" height="22"><rect width="36" height="24" rx="3" fill="#fff" stroke="#e0e0e0"/><text x="18" y="15" text-anchor="middle" fill="#5F6368" font-family="Arial,sans-serif" font-size="7" font-weight="500">G Pay</text></svg></span>
+            <span class="kc-pay-badge kc-pay-badge--shop" title="Shop Pay"><svg viewBox="0 0 36 24" width="34" height="22"><rect width="36" height="24" rx="3" fill="#5A31F4"/><text x="18" y="15" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="7" font-weight="bold">shop</text></svg></span>
+          </div>
+        {%- endif -%}
+
+        <script type="application/json" data-product-json>{{ product | json }}</script>
+      </form>
+
+      {%- if accordion_blocks.size > 0 -%}
+        <div class="kc-accordion">
+          {%- for block in accordion_blocks -%}
+            <details {% if forloop.first %}open{% endif %} {{ block.shopify_attributes }}>
+              <summary>
+                {{ block.settings.title }}
+                <svg class="kc-accordion__caret" viewBox="0 0 16 16" fill="none" width="14" height="14"><path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              </summary>
+              <div class="kc-accordion__body">{{ block.settings.body }}</div>
+            </details>
+          {%- endfor -%}
+        </div>
+      {%- endif -%}
+
+    </div>
+  </div>
+</section>
+
+{%- comment -%} ── MOBILE STICKY ATC ── {%- endcomment -%}
+<div class="kc-sticky-atc" data-sticky-atc aria-hidden="true">
+  <div class="kc-sticky-atc__img">
+    {%- if product.featured_image != blank -%}
+      <img src="{{ product.featured_image | image_url: width: 140 }}" alt="" width="56" height="56">
+    {%- endif -%}
+  </div>
+  <div class="kc-sticky-atc__text">
+    <div class="kc-sticky-atc__title">{{ product.title | truncate: 26 }}</div>
+    <div class="kc-sticky-atc__price" data-sticky-price>{{ current_variant.price | money }}</div>
+  </div>
+  <button type="button" class="kc-btn kc-btn--primary kc-sticky-atc__btn" data-sticky-atc-btn>Add to cart</button>
+</div>
+
+{%- comment -%} ── SCHEMA.ORG ── {%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": {{ product.title | json }},
+  "url": "{{ shop.url }}{{ product.url }}",
+  "image": [{%- for image in product.images limit: 4 -%}"https:{{ image | image_url: width: 1200 }}"{% unless forloop.last %},{% endunless %}{%- endfor -%}],
+  "description": {{ product.description | strip_html | json }},
+  "sku": {{ current_variant.sku | json }},
+  "brand": { "@type": "Brand", "name": {{ shop.name | json }} },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "121",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": {{ cart.currency.iso_code | json }},
+    "price": {{ current_variant.price | divided_by: 100.00 | json }},
+    "availability": "{% if current_variant.available %}https://schema.org/InStock{% else %}https://schema.org/OutOfStock{% endif %}",
+    "url": "{{ shop.url }}{{ product.url }}"
+  }
+}
+</script>
+
+{% schema %}
+{
+  "name": "Product",
+  "settings": [
+    { "type": "text", "id": "eyebrow", "label": "Eyebrow text", "default": "Handmade Book Wallet" },
+    { "type": "text", "id": "tagline", "label": "Tagline (under price)", "default": "Full-grain leather, saddle-stitched by hand. Softens with every week." },
+    { "type": "text", "id": "review_count_label", "label": "Review count label", "default": "121 reviews" },
+    { "type": "header", "content": "Trust elements" },
+    { "type": "checkbox", "id": "show_installments", "label": "Show 4-payment installments line", "default": true },
+    { "type": "checkbox", "id": "show_delivery_estimate", "label": "Show delivery estimate", "default": true },
+    { "type": "checkbox", "id": "show_trust_row", "label": "Show trust row", "default": true },
+    { "type": "checkbox", "id": "show_payment_badges", "label": "Show payment badges", "default": true }
+  ],
+  "blocks": [
+    {
+      "type": "benefit",
+      "name": "Benefit bullet",
+      "settings": [
+        { "type": "select", "id": "icon", "label": "Icon",
+          "options": [
+            { "value": "leaf", "label": "Leaf (material)" },
+            { "value": "hand", "label": "Hand (handmade)" },
+            { "value": "shield", "label": "Shield (guarantee)" },
+            { "value": "stitch", "label": "Stitch (craft)" },
+            { "value": "truck", "label": "Truck (shipping)" },
+            { "value": "return", "label": "Return arrow" },
+            { "value": "card", "label": "Card (capacity)" }
+          ],
+          "default": "leaf"
+        },
+        { "type": "text", "id": "text", "label": "Benefit text", "default": "Full-grain vegetable-tanned leather" }
+      ]
+    },
+    {
+      "type": "accordion",
+      "name": "Accordion row",
+      "settings": [
+        { "type": "text", "id": "title", "label": "Title", "default": "Details" },
+        { "type": "richtext", "id": "body", "label": "Body", "default": "<p>Full-grain vegetable-tanned leather, 2mm thick.</p>" }
+      ]
+    },
+    {
+      "type": "upsell",
+      "name": "Upsell",
+      "settings": [
+        { "type": "product", "id": "product", "label": "Upsell product" },
+        { "type": "text", "id": "title_override", "label": "Title override" },
+        { "type": "textarea", "id": "description", "label": "Short description" },
+        { "type": "select", "id": "icon", "label": "Icon",
+          "options": [
+            { "value": "leaf", "label": "Leaf" },
+            { "value": "box", "label": "Box" },
+            { "value": "truck", "label": "Truck" },
+            { "value": "pencil", "label": "Pencil" },
+            { "value": "shield", "label": "Shield" }
+          ],
+          "default": "leaf"
+        },
+        { "type": "checkbox", "id": "needs_input", "label": "Needs text input", "default": false },
+        { "type": "text", "id": "input_label", "label": "Input label", "default": "Initials" },
+        { "type": "text", "id": "input_placeholder", "label": "Placeholder", "default": "ABC" },
+        { "type": "select", "id": "input_max", "label": "Max chars",
+          "options": [
+            { "value": "3", "label": "3" },
+            { "value": "5", "label": "5" },
+            { "value": "10", "label": "10" }
+          ],
+          "default": "3"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

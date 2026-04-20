@@ -1,0 +1,60 @@
+<section class="kc-collection">
+  <div class="kc-wrap">
+    <header class="kc-collection__head">
+      <div class="kc-eyebrow">Collection</div>
+      <h1 class="kc-collection__title">{{ collection.title }}</h1>
+      {%- if collection.description != blank -%}
+        <div class="kc-collection__desc">{{ collection.description }}</div>
+      {%- endif -%}
+    </header>
+
+    <div class="kc-grid" style="--cols: {{ section.settings.columns | default: 4 }}; --cols-mobile: {{ section.settings.columns_mobile | default: 2 }};">
+      {%- paginate collection.products by 24 -%}
+        {%- for product in collection.products -%}
+          <a class="kc-card kc-reveal" data-delay="{{ forloop.index0 | modulo: 4 }}" href="{{ product.url }}">
+            <div class="kc-card__frame">
+              <span class="kc-card__num">№ {{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
+              {%- if product.featured_image != blank -%}
+                <img class="kc-card__img" src="{{ product.featured_image | image_url: width: 900 }}" alt="{{ product.featured_image.alt | escape }}" loading="lazy" width="900" height="{{ 900 | divided_by: product.featured_image.aspect_ratio | round }}">
+              {%- else -%}
+                {{ 'product-1' | placeholder_svg_tag: 'placeholder-svg' }}
+              {%- endif -%}
+              <div class="kc-card__reveal"><span>View</span><span class="arrow">→</span></div>
+            </div>
+            <div class="kc-card__info">
+              <div class="kc-card__name">{{ product.title }}</div>
+              <div class="kc-card__price">{{ product.price | money }}</div>
+            </div>
+          </a>
+        {%- else -%}
+          <p style="grid-column:1/-1;text-align:center;color:var(--kc-muted);padding:60px 20px;">No products yet.</p>
+        {%- endfor -%}
+
+        {%- if paginate.pages > 1 -%}
+          <div class="kc-pagination" style="grid-column:1/-1;">
+            {{ paginate | default_pagination }}
+          </div>
+        {%- endif -%}
+      {%- endpaginate -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Collection",
+  "settings": [
+    { "type": "select", "id": "columns", "label": "Columns on desktop",
+      "options": [
+        { "value": "2", "label": "2" },
+        { "value": "3", "label": "3" },
+        { "value": "4", "label": "4" }
+      ], "default": "4" },
+    { "type": "select", "id": "columns_mobile", "label": "Columns on mobile",
+      "options": [
+        { "value": "1", "label": "1" },
+        { "value": "2", "label": "2" }
+      ], "default": "2" }
+  ]
+}
+{% endschema %}

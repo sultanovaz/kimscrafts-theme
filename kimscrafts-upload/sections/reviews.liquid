@@ -1,0 +1,71 @@
+<section class="kc-reviews">
+  <div class="kc-wrap--narrow">
+    {%- if section.settings.heading != blank -%}
+      <h2 class="kc-reviews__title kc-reveal">{{ section.settings.heading }}</h2>
+    {%- endif -%}
+    <div class="kc-reviews__grid">
+      {%- for block in section.blocks -%}
+        <figure class="kc-review kc-reveal" data-delay="{{ forloop.index0 | modulo: 3 }}" {{ block.shopify_attributes }}>
+          <div class="kc-review__stars">
+            {%- assign rating = block.settings.rating | default: 5 -%}
+            {%- for i in (1..rating) -%}★{%- endfor -%}
+          </div>
+          <blockquote class="kc-review__quote">{{ block.settings.quote }}</blockquote>
+          <figcaption class="kc-review__author">— {{ block.settings.author }}</figcaption>
+        </figure>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Reviews",
+  "max_blocks": 6,
+  "settings": [
+    {
+      "type": "richtext",
+      "id": "heading",
+      "label": "Heading",
+      "default": "<p>Carried every day, <em>for years.</em></p>"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "review",
+      "name": "Review",
+      "settings": [
+        {
+          "type": "range",
+          "id": "rating",
+          "label": "Rating",
+          "min": 1, "max": 5, "step": 1,
+          "default": 5
+        },
+        {
+          "type": "textarea",
+          "id": "quote",
+          "label": "Quote",
+          "default": "The leather is already starting to soften where I hold it. It looks better every month."
+        },
+        {
+          "type": "text",
+          "id": "author",
+          "label": "Author",
+          "default": "Sarah M., Verified Buyer"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Reviews",
+      "blocks": [
+        { "type": "review" },
+        { "type": "review", "settings": { "quote": "Switched from a regular bifold and I'm not going back. It feels like something you'd pass down.", "author": "James T., Verified Buyer" }},
+        { "type": "review", "settings": { "quote": "Honestly the best gift I've ever given my dad. He carries it everywhere.", "author": "Priya K., Verified Buyer" }}
+      ]
+    }
+  ]
+}
+{% endschema %}

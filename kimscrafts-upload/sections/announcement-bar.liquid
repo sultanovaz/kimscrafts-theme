@@ -1,0 +1,61 @@
+{%- if section.settings.enabled -%}
+  <div class="kc-announce" role="region" aria-label="Announcement">
+    <div class="kc-wrap" data-announce-rotator>
+      {%- for block in section.blocks -%}
+        <div class="kc-announce__item">
+          <span>{{ block.settings.text }}</span>
+          {%- if block.settings.link_text != blank and block.settings.link_url != blank -%}
+            <span class="dot">·</span>
+            <a href="{{ block.settings.link_url }}" style="color:var(--kc-tan-light);text-decoration:underline;text-underline-offset:3px;">{{ block.settings.link_text }}</a>
+          {%- endif -%}
+        </div>
+      {%- endfor -%}
+    </div>
+  </div>
+{%- endif -%}
+
+{% schema %}
+{
+  "name": "Announcement bar",
+  "max_blocks": 4,
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "enabled",
+      "label": "Show announcement bar",
+      "default": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "message",
+      "name": "Message",
+      "settings": [
+        {
+          "type": "text",
+          "id": "text",
+          "label": "Message",
+          "default": "Handmade in small batches"
+        },
+        {
+          "type": "text",
+          "id": "link_text",
+          "label": "Link text"
+        },
+        {
+          "type": "url",
+          "id": "link_url",
+          "label": "Link"
+        }
+      ]
+    }
+  ],
+  "default": {
+    "blocks": [
+      { "type": "message", "settings": { "text": "Handmade in small batches" }},
+      { "type": "message", "settings": { "text": "Free US shipping over $75" }},
+      { "type": "message", "settings": { "text": "30-day easy returns" }}
+    ]
+  }
+}
+{% endschema %}

@@ -15,42 +15,15 @@
           <div class="kc-rv__avg-count">Based on <strong data-total-count>—</strong> verified reviews</div>
         </div>
       </div>
-      <div class="kc-rv__header">
-  <div class="kc-rv__summary">
-    <div class="kc-rv__avg-num">4.7</div>
-    <div class="kc-rv__avg-right">
-      <div class="kc-rv__stars-wrap" aria-label="Average rating 4.7 out of 5">
-        <span class="kc-rv__stars-base">★★★★★</span>
-        <span class="kc-rv__stars-fill" style="width: 94%;">★★★★★</span>
+      <div class="kc-rv__bars" data-bars>
+        {%- for i in (1..5) reversed -%}
+          <button type="button" class="kc-rv__bar-row" data-filter-star="{{ i }}">
+            <span class="kc-rv__bar-label">{{ i }} ★</span>
+            <span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" data-bar-fill="{{ i }}" style="width:0%"></span></span>
+            <span class="kc-rv__bar-count" data-bar-count="{{ i }}">0</span>
+          </button>
+        {%- endfor -%}
       </div>
-      <div class="kc-rv__avg-count">Based on <strong>3,094</strong> verified reviews</div>
-    </div>
-  </div>
-  <div class="kc-rv__bars">
-    <button type="button" class="kc-rv__bar-row" data-filter-star="5">
-      <span class="kc-rv__bar-label">5 ★</span>
-      <span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" style="width:78%"></span></span>
-      <span class="kc-rv__bar-count">2,413</span>
-    </button>
-    <button type="button" class="kc-rv__bar-row" data-filter-star="4">
-      <span class="kc-rv__bar-label">4 ★</span>
-      <span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" style="width:15%"></span></span>
-      <span class="kc-rv__bar-count">464</span>
-    </button>
-    <button type="button" class="kc-rv__bar-row" data-filter-star="3">
-      <span class="kc-rv__bar-label">3 ★</span>
-      <span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" style="width:4%"></span></span>
-      <span class="kc-rv__bar-count">124</span>
-    </button>
-    <button type="button" class="kc-rv__bar-row" data-filter-star="2">
-      <span class="kc-rv__bar-label">2 ★</span>
-      <span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" style="width:2%"></span></span>
-      <span class="kc-rv__bar-count">62</span>
-    </button>
-    <button type="button" class="kc-rv__bar-row" data-filter-star="1">
-      <span class="kc-rv__bar-label">1 ★</span>
-      <span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" style="width:1%"></span></span>
-      <span
     </div>
 
     <div class="kc-rv__photos" data-photo-strip></div>

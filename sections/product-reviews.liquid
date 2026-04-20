@@ -1,90 +1,71 @@
 {%- comment -%}
   Product Reviews — 120 verified reviews, rendered client-side for fast filtering.
-  Summary hardcoded to 4.7 stars / 3,094 reviews (display only).
   To swap images: upload photo to Shopify Files → copy URL → paste in "img" field below.
   To edit a review: change any value in the JSON array below, save.
 {%- endcomment -%}
+
 <section class="kc-rv" id="reviews" data-reviews-section data-per-page="{{ section.settings.per_page | default: 8 }}">
-<div class="kc-wrap">
-<div class="kc-rv__header">
-<div class="kc-rv__summary">
-<div class="kc-rv__avg-num">4.7</div>
-<div class="kc-rv__avg-right">
-<div class="kc-rv__stars-wrap" aria-label="Average rating 4.7 out of 5">
-<span class="kc-rv__stars-base">★★★★★</span>
-<span class="kc-rv__stars-fill" style="width: 94%;">★★★★★</span>
-</div>
-<div class="kc-rv__avg-count">Based on <strong>3,094</strong> verified reviews</div>
-<div class="kc-rv__avg-sub">Updated weekly · 100% from real customers</div>
-</div>
-</div>
-<div class="kc-rv__bars">
-<button type="button" class="kc-rv__bar-row" data-filter-star="5">
-<span class="kc-rv__bar-label">5 ★</span>
-<span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" style="width:78%"></span></span>
-<span class="kc-rv__bar-count">2,413</span>
-</button>
-<button type="button" class="kc-rv__bar-row" data-filter-star="4">
-<span class="kc-rv__bar-label">4 ★</span>
-<span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" style="width:15%"></span></span>
-<span class="kc-rv__bar-count">464</span>
-</button>
-<button type="button" class="kc-rv__bar-row" data-filter-star="3">
-<span class="kc-rv__bar-label">3 ★</span>
-<span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" style="width:4%"></span></span>
-<span class="kc-rv__bar-count">124</span>
-</button>
-<button type="button" class="kc-rv__bar-row" data-filter-star="2">
-<span class="kc-rv__bar-label">2 ★</span>
-<span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" style="width:2%"></span></span>
-<span class="kc-rv__bar-count">62</span>
-</button>
-<button type="button" class="kc-rv__bar-row" data-filter-star="1">
-<span class="kc-rv__bar-label">1 ★</span>
-<span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" style="width:1%"></span></span>
-<span class="kc-rv__bar-count">31</span>
-</button>
-</div>
-</div>
-<div class="kc-rv__photos" data-photo-strip></div>
-<div class="kc-rv__controls">
-<div class="kc-rv__filters" data-filters>
-<button type="button" class="kc-rv__chip is-active" data-filter="all">All</button>
-<button type="button" class="kc-rv__chip" data-filter="photos">With photos</button>
-<button type="button" class="kc-rv__chip" data-filter="5">5 stars</button>
-<button type="button" class="kc-rv__chip" data-filter="4">4 stars</button>
-<button type="button" class="kc-rv__chip" data-filter="3">3 stars</button>
-</div>
-<div class="kc-rv__sort">
-<label>Sort by <select data-sort>
-<option value="recent">Most recent</option>
-<option value="helpful">Most helpful</option>
-<option value="high">Highest rated</option>
-<option value="low">Lowest rated</option>
-</select></label>
-</div>
-</div>
-<div class="kc-rv__list" data-review-list>
-<div class="kc-rv__loading">Loading reviews…</div>
-</div>
-<div class="kc-rv__empty" data-empty hidden>
-<p>No reviews match that filter yet.</p>
-</div>
-<div class="kc-rv__loadmore" data-loadmore-wrap hidden>
-<button type="button" class="kc-btn kc-btn--ghost" data-load-more>Show more reviews</button>
-<div class="kc-rv__pager"><span data-shown>0</span> of <span data-filtered>0</span></div>
-</div>
-</div>
-<div class="kc-rv__lightbox" data-lightbox hidden>
-<button type="button" class="kc-rv__lightbox-close" data-lightbox-close aria-label="Close">×</button>
-<img data-lightbox-img src="" alt="">
-</div>
-<style>
-.kc-rv__stars-wrap { position: relative; display: inline-block; color: #d9cfc0; line-height: 1; font-size: 18px; letter-spacing: 2px; }
-.kc-rv__stars-fill { position: absolute; top: 0; left: 0; color: #C47B47; overflow: hidden; white-space: nowrap; letter-spacing: 2px; }
-.kc-rv__avg-sub { font-family: var(--kc-font-sans, 'DM Sans', sans-serif); font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--kc-muted, #8a8786); margin-top: 6px; }
-</style>
-<script type="application/json" data-reviews-data>
+  <div class="kc-wrap">
+
+    <div class="kc-rv__header">
+      <div class="kc-rv__summary">
+        <div class="kc-rv__avg-num" data-avg-num>—</div>
+        <div class="kc-rv__avg-right">
+          <div class="kc-rv__avg-stars" data-avg-stars aria-label="Average rating">★★★★★</div>
+          <div class="kc-rv__avg-count">Based on <strong data-total-count>—</strong> verified reviews</div>
+        </div>
+      </div>
+      <div class="kc-rv__bars" data-bars>
+        {%- for i in (1..5) reversed -%}
+          <button type="button" class="kc-rv__bar-row" data-filter-star="{{ i }}">
+            <span class="kc-rv__bar-label">{{ i }} ★</span>
+            <span class="kc-rv__bar-track"><span class="kc-rv__bar-fill" data-bar-fill="{{ i }}" style="width:0%"></span></span>
+            <span class="kc-rv__bar-count" data-bar-count="{{ i }}">0</span>
+          </button>
+        {%- endfor -%}
+      </div>
+    </div>
+
+    <div class="kc-rv__photos" data-photo-strip></div>
+
+    <div class="kc-rv__controls">
+      <div class="kc-rv__filters" data-filters>
+        <button type="button" class="kc-rv__chip is-active" data-filter="all">All</button>
+        <button type="button" class="kc-rv__chip" data-filter="photos">With photos</button>
+        <button type="button" class="kc-rv__chip" data-filter="5">5 stars</button>
+        <button type="button" class="kc-rv__chip" data-filter="4">4 stars</button>
+        <button type="button" class="kc-rv__chip" data-filter="3">3 stars</button>
+      </div>
+      <div class="kc-rv__sort">
+        <label>Sort by <select data-sort>
+          <option value="recent">Most recent</option>
+          <option value="helpful">Most helpful</option>
+          <option value="high">Highest rated</option>
+          <option value="low">Lowest rated</option>
+        </select></label>
+      </div>
+    </div>
+
+    <div class="kc-rv__list" data-review-list>
+      <div class="kc-rv__loading">Loading reviews…</div>
+    </div>
+
+    <div class="kc-rv__empty" data-empty hidden>
+      <p>No reviews match that filter yet.</p>
+    </div>
+
+    <div class="kc-rv__loadmore" data-loadmore-wrap hidden>
+      <button type="button" class="kc-btn kc-btn--ghost" data-load-more>Show more reviews</button>
+      <div class="kc-rv__pager"><span data-shown>0</span> of <span data-filtered>0</span></div>
+    </div>
+  </div>
+
+  <div class="kc-rv__lightbox" data-lightbox hidden>
+    <button type="button" class="kc-rv__lightbox-close" data-lightbox-close aria-label="Close">×</button>
+    <img data-lightbox-img src="" alt="">
+  </div>
+
+  <script type="application/json" data-reviews-data>
 [
 {"n":"Sarah M.","l":"Austin, TX","v":"Classic Walnut","r":5,"t":"Better than I hoped","b":"Got this as a birthday gift to myself and honestly it's the nicest thing I own. The leather already has that warm patina after a few weeks. Holds all my cards without bulking up.","d":"2 days ago","o":2,"h":18,"img":""},
 {"n":"James T.","l":"Brooklyn, NY","v":"Classic Walnut","r":5,"t":"Exactly what I was looking for","b":"Switched from a regular bifold and I'm not going back. Feels like something you'd actually pass down to your kid.","d":"3 days ago","o":3,"h":24,"img":""},

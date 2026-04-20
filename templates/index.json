@@ -20,7 +20,7 @@
     "grid": {
       "type": "collection-grid",
       "settings": {
-        "collection": "frontpage",
+        "collection": "all-wallets",
         "columns": "4",
         "columns_mobile": "2",
         "limit": 4

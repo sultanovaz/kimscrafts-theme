@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -63,11 +72,8 @@
         "f6": { "type": "faq", "settings": { "question": "Will the color fade?", "answer": "<p>The opposite — it deepens. Vegetable-tanned leather darkens and develops a patina with use. A year in, yours won't look like anyone else's.</p>" }}
       },
       "block_order": ["f1", "f2", "f3", "f4", "f5", "f6"]
-    },
-    "related": {
-      "type": "related-products",
-      "settings": { "heading": "You might also like", "columns": "4", "limit": "4" }
     }
+  
   },
-  "order": ["main", "compare", "reviews", "pfaq", "related"]
+  "order": ["main", "compare", "reviews", "pfaq"]
 }

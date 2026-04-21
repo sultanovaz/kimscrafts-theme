@@ -4083,3 +4083,102 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
     gap: 12px;
   }
 }
+
+
+/* ===== Page content polish ===== */
+.kc-page__content .kc-lead {
+  font-family: var(--kc-f-display);
+  font-size: 22px;
+  font-style: italic;
+  font-variation-settings: "opsz" 48, "SOFT" 100, "wght" 400;
+  color: var(--kc-navy);
+  line-height: 1.4;
+  margin-bottom: 32px;
+  text-align: center;
+}
+.kc-page__content p {
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--kc-ink);
+  margin-bottom: 18px;
+}
+.kc-page__content strong {
+  color: var(--kc-navy);
+  font-weight: 600;
+}
+.kc-page__content a {
+  color: var(--kc-tan);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  transition: color 0.2s ease;
+}
+.kc-page__content a:hover {
+  color: var(--kc-navy);
+}
+.kc-page__content .kc-cta-wrap {
+  text-align: center;
+  margin: 40px 0;
+}
+.kc-page__content .kc-btn--cta {
+  display: inline-block;
+  padding: 16px 36px;
+  font-size: 14px;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  color: var(--kc-cream) !important;
+  font-family: var(--kc-f-body);
+  font-weight: 500;
+  background: var(--kc-navy);
+  border-radius: 2px;
+  transition: all 0.25s ease;
+}
+.kc-page__content .kc-btn--cta:hover {
+  background: var(--kc-tan);
+  color: var(--kc-cream) !important;
+  transform: translateY(-1px);
+}
+.kc-page__content .kc-stitch {
+  border: none;
+  border-top: 1px dashed var(--kc-line-dark);
+  margin: 48px 0;
+}
+.kc-page__content .kc-subhead {
+  font-family: var(--kc-f-display);
+  font-size: 22px;
+  font-variation-settings: "opsz" 48, "SOFT" 50, "wght" 500;
+  color: var(--kc-navy);
+  margin: 36px 0 20px;
+  letter-spacing: -0.01em;
+}
+.kc-page__content .kc-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 24px;
+}
+.kc-page__content .kc-list li {
+  padding: 12px 0 12px 24px;
+  position: relative;
+  border-bottom: 1px solid var(--kc-line);
+  font-size: 15px;
+  line-height: 1.6;
+}
+.kc-page__content .kc-list li:last-child {
+  border-bottom: none;
+}
+.kc-page__content .kc-list li::before {
+  content: "—";
+  position: absolute;
+  left: 0;
+  color: var(--kc-tan);
+  font-weight: 500;
+}
+.kc-page__content .kc-closing {
+  margin-top: 36px;
+  padding-top: 24px;
+  border-top: 1px solid var(--kc-line);
+  font-size: 14px;
+  color: var(--kc-muted);
+  text-align: center;
+  font-style: italic;
+}

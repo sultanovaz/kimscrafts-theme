@@ -154,12 +154,8 @@
             <input type="number" name="quantity" value="1" min="1" max="10" inputmode="numeric">
             <button type="button" data-qty-plus aria-label="Increase">+</button>
           </div>
-          <button type="submit" class="kc-btn kc-btn--primary kc-btn--full kc-atc-btn" data-add-to-cart data-base-price="{{ current_variant.price | divided_by: 100.0 }}" {% unless current_variant.available %}disabled{% endunless %}>
-            {%- if current_variant.available -%}
-              <span data-atc-label>Add to cart</span><span data-atc-sep> — </span><span data-atc-total>{{ current_variant.price | money }}</span>
-            {%- else -%}
-              Sold out — notify me
-            {%- endif -%}
+           <button type="submit" class="kc-btn kc-btn--primary kc-btn--full kc-atc-btn" data-add-to-cart data-base-price="{{ current_variant.price | divided_by: 100.0 }}">
+            <span data-atc-label>Add to cart</span><span data-atc-sep> — </span><span data-atc-total>{{ current_variant.price | money }}</span>
           </button>
         </div>
 

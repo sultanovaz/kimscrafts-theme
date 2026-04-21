@@ -117,14 +117,8 @@
       }
 
       if (submitBtn) {
-        if (variant.available) {
-          submitBtn.disabled = false;
-          submitBtn.textContent = submitBtn.dataset.labelAdd || 'Add to cart';
-        } else {
-          submitBtn.disabled = true;
-          submitBtn.textContent = 'Sold out';
-        }
-      }
+  submitBtn.disabled = false;
+}
 
       // Update URL (shallow, for sharing)
       if (window.history.replaceState) {

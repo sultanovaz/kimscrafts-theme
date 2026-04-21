@@ -102,9 +102,8 @@
       );
 
       if (!variant) {
-        if (submitBtn) { submitBtn.disabled = true; submitBtn.textContent = 'Unavailable'; }
-        return;
-      }
+  return;
+}
 
       if (variantIdInput) variantIdInput.value = variant.id;
 

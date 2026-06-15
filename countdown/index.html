@@ -2,248 +2,164 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="theme-color" content="#1A3553" />
-<title>The Countdown — Lock In</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#0a0a0a" />
+<title>The Countdown</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
 <style>
-  :root {
-    --accent: #C47B47;
-    --accent-soft: #e0a878;
-    --primary: #1A3553;
-    --bg: #FBFAF7;
-    --bg-soft: #F5EDE0;
-    --ink: #1A3553;
-    --muted: #6b7a8d;
-    --done: #2f9e6f;
-    --shadow: 0 10px 30px rgba(26, 53, 83, 0.12);
+  :root{
+    --bg:#0a0a0a;
+    --ink:#ffffff;
+    --muted:#8b8b8b;
+    --line:#1f1f1f;
+    --gold:#c9a25e;
+    --done:#2bb673;
   }
-
-  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-
-  html, body { margin: 0; padding: 0; }
-
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background: radial-gradient(1200px 600px at 50% -10%, #21466d 0%, var(--primary) 55%, #122740 100%);
-    color: var(--bg);
-    min-height: 100vh;
-    line-height: 1.5;
-    padding: 28px 18px 60px;
+  *{ box-sizing:border-box; margin:0; padding:0; -webkit-tap-highlight-color:transparent; }
+  html,body{ background:var(--bg); color:var(--ink); }
+  body{
+    font-family:"Space Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    -webkit-font-smoothing:antialiased;
+    line-height:1.05;
+    overflow-x:hidden;
   }
+  img{ display:block; }
+  .up{ text-transform:uppercase; letter-spacing:.18em; }
 
-  .wrap { max-width: 620px; margin: 0 auto; }
+  /* top progress */
+  #top{ position:fixed; top:0; left:0; height:4px; width:0; background:var(--gold); z-index:100; transition:width .6s ease; }
 
-  header { text-align: center; margin-bottom: 26px; }
-
-  .kicker {
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    font-size: 12px;
-    color: var(--accent-soft);
-    font-weight: 700;
+  /* HERO */
+  .hero{
+    position:relative; min-height:100svh; display:flex; flex-direction:column; justify-content:flex-end;
+    background:#111 center/cover no-repeat;
+    background-image:linear-gradient(180deg, rgba(10,10,10,.25) 0%, rgba(10,10,10,.55) 55%, rgba(10,10,10,.96) 100%), url("https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1400&q=70&auto=format&fit=crop");
   }
-
-  h1 {
-    font-size: clamp(26px, 7vw, 40px);
-    margin: 8px 0 6px;
-    line-height: 1.1;
-    font-weight: 800;
+  .hero-inner{ padding:0 18px 26px; }
+  .hero .label{ font-size:13px; color:var(--gold); font-weight:600; margin-bottom:4px; }
+  .count{
+    font-size:clamp(110px, 42vw, 300px); font-weight:700; line-height:.82; letter-spacing:-.04em;
   }
+  .count small{ font-size:clamp(22px,7vw,46px); color:var(--muted); font-weight:500; letter-spacing:0; }
+  .hero .date{ font-size:clamp(16px,4.5vw,22px); color:#d8d8d8; margin-top:10px; font-weight:500; }
+  .clock{ display:flex; gap:26px; margin-top:14px; }
+  .clock b{ font-size:26px; font-weight:600; }
+  .clock span{ font-size:11px; color:var(--muted); display:block; margin-top:2px; }
 
-  .sub { color: #c7d4e4; font-size: 15px; margin: 0; }
-
-  /* Countdown card */
-  .count-card {
-    background: linear-gradient(160deg, #ffffff 0%, var(--bg-soft) 100%);
-    color: var(--ink);
-    border-radius: 22px;
-    padding: 26px 22px;
-    box-shadow: var(--shadow);
-    text-align: center;
-    margin-bottom: 20px;
+  /* CHECK-IN */
+  .checkin{
+    width:100%; border:0; background:var(--gold); color:#0a0a0a;
+    font-family:inherit; font-weight:700; font-size:clamp(20px,6vw,30px);
+    padding:28px 18px; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:14px;
+    transition:background .15s ease;
   }
+  .checkin.done{ background:var(--done); color:#fff; }
+  .checkin:active{ filter:brightness(.92); }
 
-  .count-label { font-size: 13px; color: var(--muted); text-transform: uppercase; letter-spacing: 2px; font-weight: 700; }
+  .stats{ display:grid; grid-template-columns:repeat(3,1fr); border-bottom:1px solid var(--line); }
+  .stats div{ padding:24px 10px; text-align:center; border-right:1px solid var(--line); }
+  .stats div:last-child{ border-right:0; }
+  .stats b{ font-size:clamp(40px,13vw,68px); font-weight:700; display:block; line-height:1; }
+  .stats span{ font-size:11px; color:var(--muted); margin-top:8px; display:block; }
 
-  .big-days {
-    font-size: clamp(64px, 22vw, 120px);
-    font-weight: 900;
-    line-height: 0.95;
-    color: var(--primary);
-    margin: 6px 0 2px;
-    letter-spacing: -2px;
+  /* DAILY MESSAGE */
+  .msg{ padding:48px 18px; border-bottom:1px solid var(--line); }
+  .msg .k{ font-size:11px; color:var(--gold); margin-bottom:16px; }
+  .msg p{ font-size:clamp(26px,8vw,44px); font-weight:500; line-height:1.12; }
+
+  /* VISION bands */
+  .band{
+    position:relative; min-height:46svh; display:flex; align-items:flex-end;
+    background:#161616 center/cover no-repeat;
+    border-bottom:1px solid var(--line);
   }
+  .band::after{ content:""; position:absolute; inset:0; background:linear-gradient(180deg, rgba(10,10,10,.15), rgba(10,10,10,.85)); }
+  .band .t{ position:relative; z-index:2; padding:0 18px 24px; }
+  .band .n{ font-size:12px; color:var(--gold); font-weight:600; }
+  .band h3{ font-size:clamp(32px,10vw,60px); font-weight:700; line-height:1; margin-top:6px; letter-spacing:-.02em; }
+  .b1{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1200&q=70&auto=format&fit=crop"); }
+  .b2{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=70&auto=format&fit=crop"); }
+  .b3{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200&q=70&auto=format&fit=crop"); }
+  .b4{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=70&auto=format&fit=crop"); }
 
-  .big-days .unit { font-size: 22px; color: var(--accent); font-weight: 700; letter-spacing: 0; vertical-align: middle; }
+  /* JOURNEY */
+  .journey{ padding:44px 18px; border-bottom:1px solid var(--line); }
+  .journey .k{ font-size:11px; color:var(--gold); margin-bottom:6px; }
+  .journey h2{ font-size:clamp(24px,7vw,38px); font-weight:700; margin-bottom:20px; }
+  #grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(16px,1fr)); gap:4px; }
+  .cell{ aspect-ratio:1; background:#1a1a1a; }
+  .cell.done{ background:var(--gold); }
+  .cell.today{ outline:2px solid #fff; outline-offset:-2px; }
 
-  .target-date { color: var(--muted); font-size: 14px; margin-top: 4px; }
+  footer{ padding:30px 18px 50px; color:#555; font-size:12px; }
+  .reset{ background:none; border:0; color:#555; text-decoration:underline; cursor:pointer; font:inherit; font-size:12px; }
 
-  .clock {
-    display: flex; justify-content: center; gap: 14px; margin-top: 16px;
+  #toast{
+    position:fixed; left:0; right:0; bottom:0; background:var(--done); color:#fff;
+    text-align:center; padding:18px; font-weight:600; font-size:16px;
+    transform:translateY(100%); transition:transform .3s ease; z-index:90;
   }
-  .clock div { background: var(--primary); color: #fff; border-radius: 12px; padding: 8px 12px; min-width: 58px; }
-  .clock .n { font-size: 22px; font-weight: 800; line-height: 1; }
-  .clock .l { font-size: 10px; text-transform: uppercase; letter-spacing: 1px; opacity: .8; }
-
-  /* Progress */
-  .progress-shell { margin: 18px 0 0; }
-  .bar { height: 12px; background: #e6dccb; border-radius: 99px; overflow: hidden; }
-  .fill { height: 100%; width: 0; background: linear-gradient(90deg, var(--accent), var(--accent-soft)); border-radius: 99px; transition: width .6s ease; }
-  .progress-meta { display: flex; justify-content: space-between; font-size: 12px; color: var(--muted); margin-top: 6px; }
-
-  /* Daily check-in */
-  .card {
-    background: rgba(255,255,255,0.06);
-    border: 1px solid rgba(255,255,255,0.12);
-    border-radius: 20px;
-    padding: 22px;
-    margin-bottom: 20px;
-    backdrop-filter: blur(4px);
-  }
-
-  .card h2 { margin: 0 0 4px; font-size: 18px; }
-  .card .hint { color: #b9c6d8; font-size: 13px; margin: 0 0 16px; }
-
-  .checkin-btn {
-    width: 100%;
-    border: none;
-    border-radius: 16px;
-    padding: 18px;
-    font-size: 17px;
-    font-weight: 800;
-    cursor: pointer;
-    background: linear-gradient(135deg, var(--accent), var(--accent-soft));
-    color: #fff;
-    box-shadow: 0 8px 20px rgba(196,123,71,0.4);
-    transition: transform .12s ease, filter .12s ease;
-  }
-  .checkin-btn:active { transform: scale(0.98); }
-  .checkin-btn.done {
-    background: linear-gradient(135deg, var(--done), #57c08c);
-    box-shadow: 0 8px 20px rgba(47,158,111,0.4);
-    cursor: default;
-  }
-
-  .streak-row { display: flex; gap: 12px; margin-top: 16px; }
-  .stat {
-    flex: 1; text-align: center; background: rgba(0,0,0,0.18);
-    border-radius: 14px; padding: 12px 8px;
-  }
-  .stat .v { font-size: 26px; font-weight: 900; color: var(--accent-soft); }
-  .stat .k { font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #b9c6d8; }
-
-  /* Daily message */
-  .quote {
-    font-size: 17px; font-weight: 600; font-style: italic;
-    color: #fff; margin: 0;
-  }
-  .quote::before { content: "“"; color: var(--accent); font-size: 28px; vertical-align: -8px; }
-  .quote::after { content: "”"; color: var(--accent); font-size: 28px; vertical-align: -8px; }
-
-  /* Vision list */
-  .vision li { margin: 0 0 12px; padding-left: 4px; color: #e9eef5; }
-  .vision { padding-left: 22px; margin: 6px 0 0; }
-  .vision li::marker { content: "✦  "; color: var(--accent); }
-  .vision strong { color: #fff; }
-
-  /* Calendar grid */
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(22px, 1fr)); gap: 6px; margin-top: 8px; }
-  .cell { aspect-ratio: 1; border-radius: 6px; background: rgba(255,255,255,0.10); }
-  .cell.done { background: var(--accent); }
-  .cell.today { outline: 2px solid #fff; outline-offset: 1px; }
-  .legend { display: flex; gap: 16px; font-size: 12px; color: #b9c6d8; margin-top: 12px; }
-  .legend span { display: inline-flex; align-items: center; gap: 6px; }
-  .swatch { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
-
-  footer { text-align: center; color: #8fa1b8; font-size: 12px; margin-top: 30px; }
-  .reset { background: none; border: none; color: #8fa1b8; text-decoration: underline; cursor: pointer; font-size: 12px; }
-
-  .toast {
-    position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(120%);
-    background: var(--done); color: #fff; padding: 12px 20px; border-radius: 99px;
-    font-weight: 700; box-shadow: var(--shadow); transition: transform .35s cubic-bezier(.2,1.3,.4,1);
-    z-index: 50;
-  }
-  .toast.show { transform: translateX(-50%) translateY(0); }
+  #toast.show{ transform:translateY(0); }
 </style>
 </head>
 <body>
-<div class="wrap">
+<div id="top"></div>
 
-  <header>
-    <div class="kicker">The road to your new life</div>
-    <h1>Lock In.</h1>
-    <p class="sub">Every day you show up is one day closer to the life you're building.</p>
-  </header>
-
-  <section class="count-card">
-    <div class="count-label">Days until everything changes</div>
-    <div class="big-days"><span id="days">--</span><span class="unit"> days</span></div>
-    <div class="target-date">Departure: <strong id="targetDate">September 1, 2026</strong></div>
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="label up">Days until everything changes</div>
+    <div class="count"><span id="days">--</span><small> days</small></div>
+    <div class="date">Target — <span id="targetDate">September 11, 2026</span></div>
     <div class="clock">
-      <div><div class="n" id="ch">--</div><div class="l">hours</div></div>
-      <div><div class="n" id="cm">--</div><div class="l">mins</div></div>
-      <div><div class="n" id="cs">--</div><div class="l">secs</div></div>
+      <div><b id="ch">--</b><span class="up">hrs</span></div>
+      <div><b id="cm">--</b><span class="up">min</span></div>
+      <div><b id="cs">--</b><span class="up">sec</span></div>
     </div>
-    <div class="progress-shell">
-      <div class="bar"><div class="fill" id="fill"></div></div>
-      <div class="progress-meta"><span id="pctText">0% there</span><span id="elapsedText"></span></div>
-    </div>
-  </section>
+  </div>
+</section>
 
-  <section class="card">
-    <h2>Today's check-in</h2>
-    <p class="hint" id="todayDate"></p>
-    <button class="checkin-btn" id="checkinBtn">I showed up today ✓</button>
-    <div class="streak-row">
-      <div class="stat"><div class="v" id="streak">0</div><div class="k">Day streak 🔥</div></div>
-      <div class="stat"><div class="v" id="total">0</div><div class="k">Days locked in</div></div>
-      <div class="stat"><div class="v" id="best">0</div><div class="k">Best streak</div></div>
-    </div>
-  </section>
-
-  <section class="card">
-    <h2>Your reminder for today</h2>
-    <p class="quote" id="dailyMsg"></p>
-  </section>
-
-  <section class="card">
-    <h2>Why you're doing this</h2>
-    <ul class="vision">
-      <li>Your <strong>own place</strong> — quiet, yours, nobody else's rules.</li>
-      <li><strong>Lock in</strong> on your work until it pays the bills.</li>
-      <li>Keep a <strong>steady routine</strong> you can be proud of, every day.</li>
-      <li>Build a calm life you actually <strong>chose</strong> — not one you got stuck with.</li>
-    </ul>
-  </section>
-
-  <section class="card">
-    <h2>The journey so far</h2>
-    <p class="hint">Each square is a day. Filled = you showed up.</p>
-    <div class="grid" id="grid"></div>
-    <div class="legend">
-      <span><i class="swatch" style="background:var(--accent)"></i> showed up</span>
-      <span><i class="swatch" style="background:rgba(255,255,255,0.10)"></i> not yet</span>
-      <span><i class="swatch" style="background:rgba(255,255,255,0.10);outline:2px solid #fff"></i> today</span>
-    </div>
-  </section>
-
-  <footer>
-    Saved on this device only. Open it every morning. <br />
-    <button class="reset" id="resetBtn">reset everything</button>
-  </footer>
-
+<!-- CHECK-IN -->
+<button class="checkin" id="checkinBtn">I showed up today</button>
+<div class="stats">
+  <div><b id="streak">0</b><span class="up">Streak</span></div>
+  <div><b id="total">0</b><span class="up">Days in</span></div>
+  <div><b id="best">0</b><span class="up">Best</span></div>
 </div>
 
-<div class="toast" id="toast">Logged. One day closer.</div>
+<!-- MESSAGE -->
+<section class="msg">
+  <div class="k up">Today</div>
+  <p id="dailyMsg"></p>
+</section>
+
+<!-- VISION -->
+<section class="band b1"><div class="t"><div class="n up">01</div><h3>Your own place</h3></div></section>
+<section class="band b2"><div class="t"><div class="n up">02</div><h3>Lock in on the work</h3></div></section>
+<section class="band b3"><div class="t"><div class="n up">03</div><h3>A routine you’re proud of</h3></div></section>
+<section class="band b4"><div class="t"><div class="n up">04</div><h3>Peace you chose</h3></div></section>
+
+<!-- JOURNEY -->
+<section class="journey">
+  <div class="k up">The journey</div>
+  <h2>Every square is a day</h2>
+  <div id="grid"></div>
+</section>
+
+<footer>
+  Saved on this device. Open it every morning.<br /><br />
+  <button class="reset" id="resetBtn">reset everything</button>
+</footer>
+
+<div id="toast">Logged. One day closer.</div>
 
 <script>
-  // ---- Config ----
-  var TARGET = new Date(2026, 8, 1, 0, 0, 0); // Sept 1, 2026 (month is 0-indexed)
-  var START  = new Date(2026, 5, 15, 0, 0, 0); // June 15, 2026 — the day this began
-  var STORE = "lockin_countdown_v1";
+  var TARGET = new Date(2026, 8, 11, 0, 0, 0);  // Sept 11, 2026 — 88 days from June 15
+  var START  = new Date(2026, 5, 15, 0, 0, 0);  // June 15, 2026
+  var STORE  = "lockin_countdown_v1";
 
-  // ---- Daily messages (rotate by day) ----
   var MESSAGES = [
     "You don't have to feel like it. You just have to do it.",
     "The version of you living that life is built by what you do today.",
@@ -262,152 +178,86 @@
     "Lock in. The door to the life you want only opens from your side."
   ];
 
-  // ---- Helpers ----
-  function todayKey(d){ d = d || new Date(); return d.getFullYear()+"-"+(d.getMonth()+1)+"-"+d.getDate(); }
+  function dayKey(d){ d = d || new Date(); return d.getFullYear()+"-"+(d.getMonth()+1)+"-"+d.getDate(); }
   function pad(n){ return n < 10 ? "0"+n : ""+n; }
   function dayDiff(a, b){ return Math.round((b - a) / 86400000); }
+  function $(id){ return document.getElementById(id); }
 
-  function load(){
-    try { return JSON.parse(localStorage.getItem(STORE)) || {days:{}}; }
-    catch(e){ return {days:{}}; }
-  }
-  function save(s){ try { localStorage.setItem(STORE, JSON.stringify(s)); } catch(e){ /* storage unavailable (e.g. opened as a data link) — keep going in-memory */ } }
-
+  function load(){ try{ return JSON.parse(localStorage.getItem(STORE)) || {days:{}}; }catch(e){ return {days:{}}; } }
+  function save(s){ try{ localStorage.setItem(STORE, JSON.stringify(s)); }catch(e){} }
   var state = load();
 
-  // ---- Countdown ----
   function tick(){
     var now = new Date();
-    var ms = TARGET - now;
-    if (ms < 0) ms = 0;
-    var totalSecs = Math.floor(ms/1000);
-    var days = Math.floor(totalSecs/86400);
-    var hrs  = Math.floor((totalSecs%86400)/3600);
-    var mins = Math.floor((totalSecs%3600)/60);
-    var secs = totalSecs%60;
+    var ms = Math.max(0, TARGET - now);
+    var s = Math.floor(ms/1000);
+    $("days").textContent = Math.ceil(ms/86400000); // days-to-go, counts down at midnight
+    $("ch").textContent = pad(Math.floor((s%86400)/3600));
+    $("cm").textContent = pad(Math.floor((s%3600)/60));
+    $("cs").textContent = pad(s%60);
 
-    document.getElementById("days").textContent = days;
-    document.getElementById("ch").textContent = pad(hrs);
-    document.getElementById("cm").textContent = pad(mins);
-    document.getElementById("cs").textContent = pad(secs);
-
-    var totalSpan = dayDiff(START, TARGET);
-    var elapsed = dayDiff(START, now);
-    if (elapsed < 0) elapsed = 0;
-    if (elapsed > totalSpan) elapsed = totalSpan;
-    var pct = totalSpan > 0 ? Math.round((elapsed/totalSpan)*100) : 100;
-    document.getElementById("fill").style.width = pct + "%";
-    document.getElementById("pctText").textContent = pct + "% of the way there";
-    document.getElementById("elapsedText").textContent = elapsed + " / " + totalSpan + " days";
+    var span = dayDiff(START, TARGET);
+    var elapsed = Math.min(Math.max(0, dayDiff(START, now)), span);
+    $("top").style.width = (span > 0 ? (elapsed/span)*100 : 100) + "%";
   }
 
-  // ---- Streaks & stats ----
-  function computeStats(){
-    var keys = Object.keys(state.days).filter(function(k){ return state.days[k]; });
-    var total = keys.length;
+  function stats(){
+    var total = 0, k;
+    for(k in state.days){ if(state.days[k]) total++; }
 
-    // current streak: count back from today
-    var streak = 0;
-    var d = new Date();
-    if (!state.days[todayKey(d)]) {
-      // if today not marked, streak measured up to yesterday
-      d.setDate(d.getDate()-1);
-    }
-    while (state.days[todayKey(d)]) { streak++; d.setDate(d.getDate()-1); }
+    var streak = 0, d = new Date();
+    if(!state.days[dayKey(d)]) d.setDate(d.getDate()-1);
+    while(state.days[dayKey(d)]){ streak++; d.setDate(d.getDate()-1); }
 
-    // best streak: scan the whole span
-    var best = 0, run = 0;
-    var cur = new Date(START);
-    var end = new Date();
-    while (cur <= end) {
-      if (state.days[todayKey(cur)]) { run++; if (run > best) best = run; }
-      else { run = 0; }
+    var best = 0, run = 0, cur = new Date(START), end = new Date();
+    while(cur <= end){
+      if(state.days[dayKey(cur)]){ run++; if(run>best) best=run; } else run = 0;
       cur.setDate(cur.getDate()+1);
     }
-
-    return { total: total, streak: streak, best: best };
+    $("streak").textContent = streak;
+    $("total").textContent = total;
+    $("best").textContent = best;
   }
 
-  function renderStats(){
-    var s = computeStats();
-    document.getElementById("streak").textContent = s.streak;
-    document.getElementById("total").textContent = s.total;
-    document.getElementById("best").textContent = s.best;
-  }
-
-  // ---- Calendar grid ----
-  function renderGrid(){
-    var grid = document.getElementById("grid");
-    grid.innerHTML = "";
-    var totalSpan = dayDiff(START, TARGET);
-    var tk = todayKey();
-    for (var i = 0; i <= totalSpan; i++){
-      var d = new Date(START);
-      d.setDate(d.getDate()+i);
-      var k = todayKey(d);
-      var cell = document.createElement("div");
-      cell.className = "cell";
-      if (state.days[k]) cell.className += " done";
-      if (k === tk) cell.className += " today";
-      cell.title = d.toDateString();
-      grid.appendChild(cell);
+  function grid(){
+    var g = $("grid"); g.innerHTML = "";
+    var span = dayDiff(START, TARGET), tk = dayKey();
+    for(var i=0; i<=span; i++){
+      var d = new Date(START); d.setDate(d.getDate()+i);
+      var k = dayKey(d), c = document.createElement("div");
+      c.className = "cell" + (state.days[k] ? " done" : "") + (k===tk ? " today" : "");
+      g.appendChild(c);
     }
   }
 
-  // ---- Button state ----
-  function renderButton(){
-    var btn = document.getElementById("checkinBtn");
-    if (state.days[todayKey()]) {
-      btn.classList.add("done");
-      btn.textContent = "Locked in for today ✓";
-    } else {
-      btn.classList.remove("done");
-      btn.textContent = "I showed up today ✓";
-    }
+  function button(){
+    var b = $("checkinBtn");
+    if(state.days[dayKey()]){ b.classList.add("done"); b.textContent = "Locked in for today ✓"; }
+    else{ b.classList.remove("done"); b.textContent = "I showed up today"; }
   }
 
-  var toastT;
-  function toast(){
-    var t = document.getElementById("toast");
-    t.classList.add("show");
-    clearTimeout(toastT);
-    toastT = setTimeout(function(){ t.classList.remove("show"); }, 2200);
-  }
+  var tt;
+  function toast(){ var t=$("toast"); t.classList.add("show"); clearTimeout(tt); tt=setTimeout(function(){ t.classList.remove("show"); },2000); }
 
   function checkin(){
-    var k = todayKey();
-    if (state.days[k]) return; // already done today
-    state.days[k] = true;
-    save(state);
-    renderButton(); renderStats(); renderGrid();
-    toast();
+    var k = dayKey();
+    if(state.days[k]) return;
+    state.days[k] = true; save(state);
+    button(); stats(); grid(); toast();
   }
 
-  // ---- Daily message ----
-  function renderMessage(){
-    var dayIndex = Math.abs(dayDiff(START, new Date()));
-    document.getElementById("dailyMsg").textContent = MESSAGES[dayIndex % MESSAGES.length];
-    var now = new Date();
-    var opts = { weekday:'long', year:'numeric', month:'long', day:'numeric' };
-    document.getElementById("todayDate").textContent = now.toLocaleDateString(undefined, opts);
-    document.getElementById("targetDate").textContent = TARGET.toLocaleDateString(undefined, { year:'numeric', month:'long', day:'numeric' });
+  function message(){
+    var i = Math.abs(dayDiff(START, new Date()));
+    $("dailyMsg").textContent = MESSAGES[i % MESSAGES.length];
+    $("targetDate").textContent = TARGET.toLocaleDateString(undefined, {year:"numeric", month:"long", day:"numeric"});
   }
 
-  // ---- Init ----
-  document.getElementById("checkinBtn").addEventListener("click", checkin);
-  document.getElementById("resetBtn").addEventListener("click", function(){
-    if (confirm("Reset all your check-ins and streaks? This can't be undone.")) {
-      state = { days:{} };
-      save(state);
-      renderButton(); renderStats(); renderGrid();
-    }
+  $("checkinBtn").addEventListener("click", checkin);
+  $("resetBtn").addEventListener("click", function(){
+    if(confirm("Reset all your check-ins and streaks?")){ state={days:{}}; save(state); button(); stats(); grid(); }
   });
 
-  renderMessage();
-  renderButton();
-  renderStats();
-  renderGrid();
-  tick();
+  message(); button(); stats(); grid(); tick();
   setInterval(tick, 1000);
 </script>
 </body>

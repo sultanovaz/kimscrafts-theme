@@ -2,14 +2,10 @@ name: Deploy countdown to GitHub Pages
 
 # Publishes the countdown app so it has a permanent public URL:
 #   https://sultanovaz.github.io/kimscrafts-theme/
+# Manual only for now. The repo is private, so GitHub Pages can't publish until
+# it's made public (or put on a paid plan). Once that's done, run this workflow
+# from the Actions tab (or re-enable the push trigger below) to publish.
 on:
-  push:
-    branches:
-      - claude/countdown-goal-tracker-1cqkul
-      - main
-    paths:
-      - "countdown/**"
-      - ".github/workflows/pages.yml"
   workflow_dispatch:
 
 permissions:

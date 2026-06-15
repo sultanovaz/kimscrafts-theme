@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="theme-color" content="#1A3553" />
+<title>The Countdown — Lock In</title>
+<style>
+  :root {
+    --accent: #C47B47;
+    --accent-soft: #e0a878;
+    --primary: #1A3553;
+    --bg: #FBFAF7;
+    --bg-soft: #F5EDE0;
+    --ink: #1A3553;
+    --muted: #6b7a8d;
+    --done: #2f9e6f;
+    --shadow: 0 10px 30px rgba(26, 53, 83, 0.12);
+  }
+
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+  html, body { margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: radial-gradient(1200px 600px at 50% -10%, #21466d 0%, var(--primary) 55%, #122740 100%);
+    color: var(--bg);
+    min-height: 100vh;
+    line-height: 1.5;
+    padding: 28px 18px 60px;
+  }
+
+  .wrap { max-width: 620px; margin: 0 auto; }
+
+  header { text-align: center; margin-bottom: 26px; }
+
+  .kicker {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 12px;
+    color: var(--accent-soft);
+    font-weight: 700;
+  }
+
+  h1 {
+    font-size: clamp(26px, 7vw, 40px);
+    margin: 8px 0 6px;
+    line-height: 1.1;
+    font-weight: 800;
+  }
+
+  .sub { color: #c7d4e4; font-size: 15px; margin: 0; }
+
+  /* Countdown card */
+  .count-card {
+    background: linear-gradient(160deg, #ffffff 0%, var(--bg-soft) 100%);
+    color: var(--ink);
+    border-radius: 22px;
+    padding: 26px 22px;
+    box-shadow: var(--shadow);
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .count-label { font-size: 13px; color: var(--muted); text-transform: uppercase; letter-spacing: 2px; font-weight: 700; }
+
+  .big-days {
+    font-size: clamp(64px, 22vw, 120px);
+    font-weight: 900;
+    line-height: 0.95;
+    color: var(--primary);
+    margin: 6px 0 2px;
+    letter-spacing: -2px;
+  }
+
+  .big-days .unit { font-size: 22px; color: var(--accent); font-weight: 700; letter-spacing: 0; vertical-align: middle; }
+
+  .target-date { color: var(--muted); font-size: 14px; margin-top: 4px; }
+
+  .clock {
+    display: flex; justify-content: center; gap: 14px; margin-top: 16px;
+  }
+  .clock div { background: var(--primary); color: #fff; border-radius: 12px; padding: 8px 12px; min-width: 58px; }
+  .clock .n { font-size: 22px; font-weight: 800; line-height: 1; }
+  .clock .l { font-size: 10px; text-transform: uppercase; letter-spacing: 1px; opacity: .8; }
+
+  /* Progress */
+  .progress-shell { margin: 18px 0 0; }
+  .bar { height: 12px; background: #e6dccb; border-radius: 99px; overflow: hidden; }
+  .fill { height: 100%; width: 0; background: linear-gradient(90deg, var(--accent), var(--accent-soft)); border-radius: 99px; transition: width .6s ease; }
+  .progress-meta { display: flex; justify-content: space-between; font-size: 12px; color: var(--muted); margin-top: 6px; }
+
+  /* Daily check-in */
+  .card {
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: 20px;
+    padding: 22px;
+    margin-bottom: 20px;
+    backdrop-filter: blur(4px);
+  }
+
+  .card h2 { margin: 0 0 4px; font-size: 18px; }
+  .card .hint { color: #b9c6d8; font-size: 13px; margin: 0 0 16px; }
+
+  .checkin-btn {
+    width: 100%;
+    border: none;
+    border-radius: 16px;
+    padding: 18px;
+    font-size: 17px;
+    font-weight: 800;
+    cursor: pointer;
+    background: linear-gradient(135deg, var(--accent), var(--accent-soft));
+    color: #fff;
+    box-shadow: 0 8px 20px rgba(196,123,71,0.4);
+    transition: transform .12s ease, filter .12s ease;
+  }
+  .checkin-btn:active { transform: scale(0.98); }
+  .checkin-btn.done {
+    background: linear-gradient(135deg, var(--done), #57c08c);
+    box-shadow: 0 8px 20px rgba(47,158,111,0.4);
+    cursor: default;
+  }
+
+  .streak-row { display: flex; gap: 12px; margin-top: 16px; }
+  .stat {
+    flex: 1; text-align: center; background: rgba(0,0,0,0.18);
+    border-radius: 14px; padding: 12px 8px;
+  }
+  .stat .v { font-size: 26px; font-weight: 900; color: var(--accent-soft); }
+  .stat .k { font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #b9c6d8; }
+
+  /* Daily message */
+  .quote {
+    font-size: 17px; font-weight: 600; font-style: italic;
+    color: #fff; margin: 0;
+  }
+  .quote::before { content: "“"; color: var(--accent); font-size: 28px; vertical-align: -8px; }
+  .quote::after { content: "”"; color: var(--accent); font-size: 28px; vertical-align: -8px; }
+
+  /* Vision list */
+  .vision li { margin: 0 0 12px; padding-left: 4px; color: #e9eef5; }
+  .vision { padding-left: 22px; margin: 6px 0 0; }
+  .vision li::marker { content: "✦  "; color: var(--accent); }
+  .vision strong { color: #fff; }
+
+  /* Calendar grid */
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(22px, 1fr)); gap: 6px; margin-top: 8px; }
+  .cell { aspect-ratio: 1; border-radius: 6px; background: rgba(255,255,255,0.10); }
+  .cell.done { background: var(--accent); }
+  .cell.today { outline: 2px solid #fff; outline-offset: 1px; }
+  .legend { display: flex; gap: 16px; font-size: 12px; color: #b9c6d8; margin-top: 12px; }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .swatch { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+
+  footer { text-align: center; color: #8fa1b8; font-size: 12px; margin-top: 30px; }
+  .reset { background: none; border: none; color: #8fa1b8; text-decoration: underline; cursor: pointer; font-size: 12px; }
+
+  .toast {
+    position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(120%);
+    background: var(--done); color: #fff; padding: 12px 20px; border-radius: 99px;
+    font-weight: 700; box-shadow: var(--shadow); transition: transform .35s cubic-bezier(.2,1.3,.4,1);
+    z-index: 50;
+  }
+  .toast.show { transform: translateX(-50%) translateY(0); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="kicker">The road to your new life</div>
+    <h1>Lock In.</h1>
+    <p class="sub">Every day you show up is one day closer to the life you're building.</p>
+  </header>
+
+  <section class="count-card">
+    <div class="count-label">Days until everything changes</div>
+    <div class="big-days"><span id="days">--</span><span class="unit"> days</span></div>
+    <div class="target-date">Departure: <strong id="targetDate">September 1, 2026</strong></div>
+    <div class="clock">
+      <div><div class="n" id="ch">--</div><div class="l">hours</div></div>
+      <div><div class="n" id="cm">--</div><div class="l">mins</div></div>
+      <div><div class="n" id="cs">--</div><div class="l">secs</div></div>
+    </div>
+    <div class="progress-shell">
+      <div class="bar"><div class="fill" id="fill"></div></div>
+      <div class="progress-meta"><span id="pctText">0% there</span><span id="elapsedText"></span></div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Today's check-in</h2>
+    <p class="hint" id="todayDate"></p>
+    <button class="checkin-btn" id="checkinBtn">I showed up today ✓</button>
+    <div class="streak-row">
+      <div class="stat"><div class="v" id="streak">0</div><div class="k">Day streak 🔥</div></div>
+      <div class="stat"><div class="v" id="total">0</div><div class="k">Days locked in</div></div>
+      <div class="stat"><div class="v" id="best">0</div><div class="k">Best streak</div></div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Your reminder for today</h2>
+    <p class="quote" id="dailyMsg"></p>
+  </section>
+
+  <section class="card">
+    <h2>Why you're doing this</h2>
+    <ul class="vision">
+      <li>Your <strong>own place</strong> — quiet, yours, nobody else's rules.</li>
+      <li><strong>Lock in</strong> on your work until it pays the bills.</li>
+      <li>Keep a <strong>steady routine</strong> you can be proud of, every day.</li>
+      <li>Build a calm life you actually <strong>chose</strong> — not one you got stuck with.</li>
+    </ul>
+  </section>
+
+  <section class="card">
+    <h2>The journey so far</h2>
+    <p class="hint">Each square is a day. Filled = you showed up.</p>
+    <div class="grid" id="grid"></div>
+    <div class="legend">
+      <span><i class="swatch" style="background:var(--accent)"></i> showed up</span>
+      <span><i class="swatch" style="background:rgba(255,255,255,0.10)"></i> not yet</span>
+      <span><i class="swatch" style="background:rgba(255,255,255,0.10);outline:2px solid #fff"></i> today</span>
+    </div>
+  </section>
+
+  <footer>
+    Saved on this device only. Open it every morning. <br />
+    <button class="reset" id="resetBtn">reset everything</button>
+  </footer>
+
+</div>
+
+<div class="toast" id="toast">Logged. One day closer.</div>
+
+<script>
+  // ---- Config ----
+  var TARGET = new Date(2026, 8, 1, 0, 0, 0); // Sept 1, 2026 (month is 0-indexed)
+  var START  = new Date(2026, 5, 15, 0, 0, 0); // June 15, 2026 — the day this began
+  var STORE = "lockin_countdown_v1";
+
+  // ---- Daily messages (rotate by day) ----
+  var MESSAGES = [
+    "You don't have to feel like it. You just have to do it.",
+    "The version of you living that life is built by what you do today.",
+    "Discipline is choosing what you want most over what you want now.",
+    "Win the morning and the day follows.",
+    "One small step. That's all today asks of you.",
+    "Peace isn't found, it's built — one disciplined day at a time.",
+    "You're not stuck. You're in transit. Keep moving.",
+    "The work you avoid today is the freedom you lose tomorrow.",
+    "You can do today. Just today. That's the whole job.",
+    "Future you is begging you not to quit. Don't quit.",
+    "Show up small, but show up. Streaks are built, not summoned.",
+    "Every bit of work is a brick in the house of your freedom.",
+    "Hard now, soft later. Easy now, hard forever.",
+    "You crossed the whole journey in your mind already. Now do the days.",
+    "Lock in. The door to the life you want only opens from your side."
+  ];
+
+  // ---- Helpers ----
+  function todayKey(d){ d = d || new Date(); return d.getFullYear()+"-"+(d.getMonth()+1)+"-"+d.getDate(); }
+  function pad(n){ return n < 10 ? "0"+n : ""+n; }
+  function dayDiff(a, b){ return Math.round((b - a) / 86400000); }
+
+  function load(){
+    try { return JSON.parse(localStorage.getItem(STORE)) || {days:{}}; }
+    catch(e){ return {days:{}}; }
+  }
+  function save(s){ try { localStorage.setItem(STORE, JSON.stringify(s)); } catch(e){ /* storage unavailable (e.g. opened as a data link) — keep going in-memory */ } }
+
+  var state = load();
+
+  // ---- Countdown ----
+  function tick(){
+    var now = new Date();
+    var ms = TARGET - now;
+    if (ms < 0) ms = 0;
+    var totalSecs = Math.floor(ms/1000);
+    var days = Math.floor(totalSecs/86400);
+    var hrs  = Math.floor((totalSecs%86400)/3600);
+    var mins = Math.floor((totalSecs%3600)/60);
+    var secs = totalSecs%60;
+
+    document.getElementById("days").textContent = days;
+    document.getElementById("ch").textContent = pad(hrs);
+    document.getElementById("cm").textContent = pad(mins);
+    document.getElementById("cs").textContent = pad(secs);
+
+    var totalSpan = dayDiff(START, TARGET);
+    var elapsed = dayDiff(START, now);
+    if (elapsed < 0) elapsed = 0;
+    if (elapsed > totalSpan) elapsed = totalSpan;
+    var pct = totalSpan > 0 ? Math.round((elapsed/totalSpan)*100) : 100;
+    document.getElementById("fill").style.width = pct + "%";
+    document.getElementById("pctText").textContent = pct + "% of the way there";
+    document.getElementById("elapsedText").textContent = elapsed + " / " + totalSpan + " days";
+  }
+
+  // ---- Streaks & stats ----
+  function computeStats(){
+    var keys = Object.keys(state.days).filter(function(k){ return state.days[k]; });
+    var total = keys.length;
+
+    // current streak: count back from today
+    var streak = 0;
+    var d = new Date();
+    if (!state.days[todayKey(d)]) {
+      // if today not marked, streak measured up to yesterday
+      d.setDate(d.getDate()-1);
+    }
+    while (state.days[todayKey(d)]) { streak++; d.setDate(d.getDate()-1); }
+
+    // best streak: scan the whole span
+    var best = 0, run = 0;
+    var cur = new Date(START);
+    var end = new Date();
+    while (cur <= end) {
+      if (state.days[todayKey(cur)]) { run++; if (run > best) best = run; }
+      else { run = 0; }
+      cur.setDate(cur.getDate()+1);
+    }
+
+    return { total: total, streak: streak, best: best };
+  }
+
+  function renderStats(){
+    var s = computeStats();
+    document.getElementById("streak").textContent = s.streak;
+    document.getElementById("total").textContent = s.total;
+    document.getElementById("best").textContent = s.best;
+  }
+
+  // ---- Calendar grid ----
+  function renderGrid(){
+    var grid = document.getElementById("grid");
+    grid.innerHTML = "";
+    var totalSpan = dayDiff(START, TARGET);
+    var tk = todayKey();
+    for (var i = 0; i <= totalSpan; i++){
+      var d = new Date(START);
+      d.setDate(d.getDate()+i);
+      var k = todayKey(d);
+      var cell = document.createElement("div");
+      cell.className = "cell";
+      if (state.days[k]) cell.className += " done";
+      if (k === tk) cell.className += " today";
+      cell.title = d.toDateString();
+      grid.appendChild(cell);
+    }
+  }
+
+  // ---- Button state ----
+  function renderButton(){
+    var btn = document.getElementById("checkinBtn");
+    if (state.days[todayKey()]) {
+      btn.classList.add("done");
+      btn.textContent = "Locked in for today ✓";
+    } else {
+      btn.classList.remove("done");
+      btn.textContent = "I showed up today ✓";
+    }
+  }
+
+  var toastT;
+  function toast(){
+    var t = document.getElementById("toast");
+    t.classList.add("show");
+    clearTimeout(toastT);
+    toastT = setTimeout(function(){ t.classList.remove("show"); }, 2200);
+  }
+
+  function checkin(){
+    var k = todayKey();
+    if (state.days[k]) return; // already done today
+    state.days[k] = true;
+    save(state);
+    renderButton(); renderStats(); renderGrid();
+    toast();
+  }
+
+  // ---- Daily message ----
+  function renderMessage(){
+    var dayIndex = Math.abs(dayDiff(START, new Date()));
+    document.getElementById("dailyMsg").textContent = MESSAGES[dayIndex % MESSAGES.length];
+    var now = new Date();
+    var opts = { weekday:'long', year:'numeric', month:'long', day:'numeric' };
+    document.getElementById("todayDate").textContent = now.toLocaleDateString(undefined, opts);
+    document.getElementById("targetDate").textContent = TARGET.toLocaleDateString(undefined, { year:'numeric', month:'long', day:'numeric' });
+  }
+
+  // ---- Init ----
+  document.getElementById("checkinBtn").addEventListener("click", checkin);
+  document.getElementById("resetBtn").addEventListener("click", function(){
+    if (confirm("Reset all your check-ins and streaks? This can't be undone.")) {
+      state = { days:{} };
+      save(state);
+      renderButton(); renderStats(); renderGrid();
+    }
+  });
+
+  renderMessage();
+  renderButton();
+  renderStats();
+  renderGrid();
+  tick();
+  setInterval(tick, 1000);
+</script>
+</body>
+</html>

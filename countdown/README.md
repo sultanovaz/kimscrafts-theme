@@ -1,8 +1,7 @@
-# 🤲 The Road to Uzbekistan — Daily Lock-In
+# The Countdown — Daily Lock-In
 
-A personal countdown + daily check-in tracker to keep you moving toward the day
-you leave: **September 1, 2026** — your own apartment, your faceless YouTube
-business, and prayers on time, in peace.
+A personal countdown + daily check-in tracker to keep you moving toward a big
+goal with a deadline: **September 1, 2026**.
 
 ## How to use it
 
@@ -25,15 +24,15 @@ That's the whole ritual. Show up, mark the day, keep your streak alive.
 
 - Your progress is saved **on the device/browser** you use (localStorage).
   Use the same browser each day. Clearing browser data will reset it.
-- Want it on your phone? In your mobile browser, open the file (or host it) and
-  use **"Add to Home Screen"** so it feels like a real app.
+- Want it on your phone? In your mobile browser, open the page and use
+  **"Add to Home Screen"** so it feels like a real app.
 
 ## Changing the date or messages
 
 Open `index.html` and look near the top of the `<script>` section:
 
-- `TARGET` — your departure date (currently Sept 1, 2026).
+- `TARGET` — your target date (currently Sept 1, 2026).
 - `START` — the day you began (currently June 15, 2026).
 - `MESSAGES` — the list of daily reminders. Add your own.
 
-Keep going. One disciplined day at a time. 🌙
+Keep going. One disciplined day at a time.

@@ -35,7 +35,7 @@
   .hero{
     position:relative; min-height:100svh; display:flex; flex-direction:column; justify-content:flex-end;
     background:#111 center/cover no-repeat;
-    background-image:linear-gradient(180deg, rgba(10,10,10,.25) 0%, rgba(10,10,10,.55) 55%, rgba(10,10,10,.96) 100%), url("https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1400&q=70&auto=format&fit=crop");
+    background-image:linear-gradient(180deg, rgba(10,10,10,.25) 0%, rgba(10,10,10,.55) 55%, rgba(10,10,10,.96) 100%), url("https://commons.wikimedia.org/wiki/Special:FilePath/Registan_Samarkand_Uzbekistan.JPG?width=1400");
   }
   .hero-inner{ padding:0 18px 26px; }
   .hero .label{ font-size:13px; color:var(--gold); font-weight:600; margin-bottom:4px; }
@@ -79,10 +79,10 @@
   .band .t{ position:relative; z-index:2; padding:0 18px 24px; }
   .band .n{ font-size:12px; color:var(--gold); font-weight:600; }
   .band h3{ font-size:clamp(32px,10vw,60px); font-weight:700; line-height:1; margin-top:6px; letter-spacing:-.02em; }
-  .b1{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1200&q=70&auto=format&fit=crop"); }
-  .b2{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=70&auto=format&fit=crop"); }
-  .b3{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200&q=70&auto=format&fit=crop"); }
-  .b4{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=70&auto=format&fit=crop"); }
+  .b1{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://commons.wikimedia.org/wiki/Special:FilePath/TashkentCity.jpg?width=1200"); }
+  .b2{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://commons.wikimedia.org/wiki/Special:FilePath/Sher-Dor_Madrasah,_Registan_Sq,_Samarkand.jpg?width=1200"); }
+  .b3{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://commons.wikimedia.org/wiki/Special:FilePath/Bukhara_Kalyan_Mosque_iwan_in_the_yard.JPG?width=1200"); }
+  .b4{ background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1)), url("https://commons.wikimedia.org/wiki/Special:FilePath/Registan,_main_square_in_Samarkand.JPG?width=1200"); }
 
   /* JOURNEY */
   .journey{ padding:44px 18px; border-bottom:1px solid var(--line); }
@@ -110,7 +110,7 @@
 <!-- HERO -->
 <section class="hero">
   <div class="hero-inner">
-    <div class="label up">Days until everything changes</div>
+    <div class="label up">Days until Uzbekistan</div>
     <div class="count"><span id="days">--</span><small> days</small></div>
     <div class="date">Target — <span id="targetDate">September 11, 2026</span></div>
     <div class="clock">
@@ -149,8 +149,7 @@
 </section>
 
 <footer>
-  Saved on this device. Open it every morning.<br /><br />
-  <button class="reset" id="resetBtn">reset everything</button>
+  This is the 90. No reset. No undo. Don't break the chain.
 </footer>
 
 <div id="toast">Logged. One day closer.</div>
@@ -255,9 +254,6 @@
   }
 
   $("checkinBtn").addEventListener("click", checkin);
-  $("resetBtn").addEventListener("click", function(){
-    if(confirm("Reset all your check-ins and streaks?")){ state={days:{}}; save(state); button(); stats(); grid(); }
-  });
 
   message(); button(); stats(); grid(); tick();
   setInterval(tick, 1000);

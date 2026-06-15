@@ -156,8 +156,8 @@
 <div id="toast">Logged. One day closer.</div>
 
 <script>
-  var TARGET = new Date(2026, 8, 11, 0, 0, 0);  // Sept 11, 2026 — 88 days from June 15
-  var START  = new Date(2026, 5, 15, 0, 0, 0);  // June 15, 2026
+  var TARGET = new Date(2026, 8, 11, 0, 0, 0);  // Sept 11, 2026 — the finish line
+  var START  = new Date(2026, 5, 13, 0, 0, 0);  // June 13, 2026 — day 1 of the 90-day plan
   var STORE  = "lockin_countdown_v1";
 
   var MESSAGES = [
@@ -183,7 +183,9 @@
   function dayDiff(a, b){ return Math.round((b - a) / 86400000); }
   function $(id){ return document.getElementById(id); }
 
-  function load(){ try{ return JSON.parse(localStorage.getItem(STORE)) || {days:{}}; }catch(e){ return {days:{}}; } }
+  // First 2 days of the plan are already done (worked them before this tracker existed).
+  function seed(){ return {days:{ "2026-6-13":true, "2026-6-14":true }}; }
+  function load(){ try{ var v = localStorage.getItem(STORE); return v ? JSON.parse(v) : seed(); }catch(e){ return seed(); } }
   function save(s){ try{ localStorage.setItem(STORE, JSON.stringify(s)); }catch(e){} }
   var state = load();
 

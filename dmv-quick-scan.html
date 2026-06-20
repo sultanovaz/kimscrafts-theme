@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CO DMV Quick Scanner</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, system-ui, sans-serif; background: #1a1a2e; color: #eee; padding: 20px; }
+  h1 { color: #00ff88; font-size: 20px; margin-bottom: 15px; }
+  .step { background: #16213e; border-radius: 12px; padding: 15px; margin: 10px 0; border-left: 4px solid #00ff88; }
+  .step-num { color: #00ff88; font-weight: bold; font-size: 18px; }
+  .code-box { background: #0f3460; border-radius: 8px; padding: 12px; margin: 10px 0; font-family: monospace; font-size: 11px; word-break: break-all; max-height: 150px; overflow-y: auto; user-select: all; -webkit-user-select: all; }
+  button { background: #00ff88; color: #1a1a2e; border: none; border-radius: 8px; padding: 12px 20px; font-size: 16px; font-weight: bold; width: 100%; margin: 8px 0; cursor: pointer; }
+  button:active { background: #00cc6a; }
+  .warning { background: #e94560; color: white; border-radius: 8px; padding: 10px; margin: 10px 0; font-size: 13px; }
+  a { color: #00ff88; }
+  .small { font-size: 12px; color: #888; }
+</style>
+</head>
+<body>
+
+<h1>CO DMV - Find Soonest Appointment</h1>
+
+<div class="warning">
+  You're on iPhone so the easiest method is the bookmarklet. Follow the steps below.
+</div>
+
+<div class="step">
+  <span class="step-num">Step 1</span> - Open the DMV appointment page<br><br>
+  <a href="https://coloradoappt.cxmflow.com/Appointment/Index/d74f48b1-33a9-428c-acd1-d7d1bfc9555c" target="_blank">
+    <button>Open DMV Scheduler →</button>
+  </a>
+</div>
+
+<div class="step">
+  <span class="step-num">Step 2</span> - On that page, select your service type first (Reinstatement / Financial Responsibility)
+</div>
+
+<div class="step">
+  <span class="step-num">Step 3</span> - Then manually check each location by selecting it from the dropdown. The calendar will show the first available date highlighted.<br><br>
+  <b style="color:#ffcc00">Check these offices (closest to Westminster):</b><br><br>
+  1. Westminster (0 min drive)<br>
+  2. Lakewood (20 min) ← usually shortest wait!<br>
+  3. Golden (25 min)<br>
+  4. Denver Central (25 min)<br>
+  5. Denver - Peoria (30 min)<br>
+  6. Boulder (35 min)<br>
+  7. Aurora (35 min)<br>
+</div>
+
+<div class="step">
+  <span class="step-num">FAST METHOD</span> - Paste this script in your browser console (Desktop only: F12 → Console)<br><br>
+  <div class="code-box" id="script-box">javascript:void(function(){var r=[],s=document.createElement('div');s.style.cssText='position:fixed;top:0;left:0;right:0;z-index:999999;background:#1a1a2e;color:#0f8;font:14px monospace;padding:15px;max-height:80vh;overflow-y:auto;border-bottom:3px solid #0f8';document.body.appendChild(s);function l(m){s.innerHTML+=m+'<br>';s.scrollTop=s.scrollHeight}l('Scanning all locations...');var sel=null;document.querySelectorAll('select').forEach(function(e){if(e.options.length>3)sel=e});if(!sel){l('No location dropdown found');l('Page selects: '+document.querySelectorAll('select').length);l('Page inputs: '+document.querySelectorAll('input').length);document.querySelectorAll('select').forEach(function(e,i){l('Select #'+i+': id='+e.id+' name='+e.name+' opts='+e.options.length);Array.from(e.options).forEach(function(o){l('  '+o.value+': '+o.text)})});return}var opts=Array.from(sel.options).filter(function(o){return o.value&&o.value!='0'&&o.value!='-1'&&o.value!=''});l('Found '+opts.length+' locations');var idx=0;function next(){if(idx>=opts.length){r.sort(function(a,b){return new Date(a.d)-new Date(b.d)});l('<br>===RESULTS===');r.forEach(function(x,i){l((i==0?'BEST: ':'  '+(i+1)+'. ')+x.n+': '+x.d)});if(r[0]){sel.value=r[0].v;sel.dispatchEvent(new Event('change',{bubbles:true}))}return}var o=opts[idx];l('['+idx+'/'+opts.length+'] '+o.text);sel.value=o.value;sel.dispatchEvent(new Event('change',{bubbles:true}));if(window.jQuery)try{jQuery(sel).trigger('change')}catch(e){}setTimeout(function(){var d=document.querySelector('td.available a,td:not(.disabled):not(.unavailable) a,.ui-datepicker td:not(.ui-state-disabled) a,.available-day,.first-available,[class*=highlight]');if(d){var dt=d.getAttribute('data-date')||d.getAttribute('title')||d.textContent.trim();r.push({n:o.text.trim(),d:dt,v:o.value});l('  Found: '+dt)}else l('  No dates');idx++;setTimeout(next,1500)},2500)}next()}())</div>
+  <button onclick="navigator.clipboard.writeText(document.getElementById('script-box').textContent).then(function(){alert('Copied!')})">Copy Script</button>
+</div>
+
+<div class="step">
+  <span class="step-num">☎️ PHONE SHORTCUT</span><br><br>
+  Call <a href="tel:7202952965"><b>720-295-2965</b></a> and ask for the soonest cancellation slot at any Denver-metro office for reinstatement.<br><br>
+  <a href="tel:7202952965"><button style="background:#e94560;color:white">Call DMV Now</button></a>
+</div>
+
+<p class="small" style="margin-top:20px">
+  Tip: Lakewood (1881 Pierce St) typically has ~5-day waits vs 16 days at Westminster.
+  Check Lakewood first! Also try early morning - cancellation slots appear overnight.
+</p>
+
+</body>
+</html>

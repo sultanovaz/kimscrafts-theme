@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#0a0a0a" />
+<title>The 90 — Uzbekistan</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --bg:#0a0a0a; --panel:#0f0f0f; --ink:#fff; --muted:#8b8b8b;
+    --line:#1e1e1e; --gold:#c9a25e; --done:#2bb673; --pad:20px;
+  }
+  *{ box-sizing:border-box; margin:0; padding:0; -webkit-tap-highlight-color:transparent; }
+  html,body{ background:var(--bg); color:var(--ink); }
+  body{
+    font-family:"Space Grotesk",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    -webkit-font-smoothing:antialiased; line-height:1.1; overflow-x:hidden;
+  }
+  .up{ text-transform:uppercase; letter-spacing:.2em; }
+  .eyebrow{ font-size:11px; color:var(--gold); font-weight:600; margin-bottom:14px; }
+
+  /* progress + top bar */
+  #top{ position:fixed; top:0; left:0; height:3px; width:0; background:var(--gold); z-index:100; transition:width .6s ease; }
+  .bar{ position:absolute; top:0; left:0; right:0; z-index:5; display:flex; justify-content:space-between; align-items:center; padding:16px var(--pad); }
+  .bar .brand{ font-size:13px; font-weight:700; letter-spacing:.12em; }
+  .bar .brand b{ color:var(--gold); }
+  .bar .mini{ font-size:13px; color:#d8d8d8; font-weight:600; }
+
+  /* HERO */
+  .hero{
+    position:relative; min-height:100svh; display:flex; flex-direction:column; justify-content:flex-end;
+    background:#111 center/cover no-repeat;
+    background-image:linear-gradient(180deg,rgba(10,10,10,.30) 0%,rgba(10,10,10,.55) 52%,rgba(10,10,10,.97) 100%), url("https://commons.wikimedia.org/wiki/Special:FilePath/Registan_Samarkand_Uzbekistan.JPG?width=1400");
+  }
+  .hero-inner{ padding:0 var(--pad) 30px; }
+  .hero .eyebrow{ margin-bottom:6px; }
+  .count{ font-size:clamp(120px,44vw,320px); font-weight:700; line-height:.80; letter-spacing:-.045em; }
+  .count small{ font-size:clamp(22px,7vw,46px); color:var(--muted); font-weight:500; letter-spacing:0; }
+  .hero .date{ font-size:clamp(15px,4.4vw,21px); color:#d8d8d8; margin-top:12px; font-weight:500; }
+  .clock{ display:flex; gap:0; margin-top:18px; border:1px solid var(--line); width:max-content; }
+  .clock div{ padding:10px 18px; border-right:1px solid var(--line); text-align:center; }
+  .clock div:last-child{ border-right:0; }
+  .clock b{ font-size:24px; font-weight:600; display:block; }
+  .clock span{ font-size:10px; color:var(--muted); margin-top:3px; display:block; }
+
+  /* CHECK-IN */
+  .checkin{
+    width:100%; border:0; background:var(--gold); color:#0a0a0a; font-family:inherit; font-weight:700;
+    font-size:clamp(19px,5.5vw,28px); padding:30px var(--pad); cursor:pointer; display:flex;
+    align-items:center; justify-content:center; gap:12px; transition:background .15s ease;
+  }
+  .checkin.done{ background:var(--done); color:#fff; }
+  .checkin:active{ filter:brightness(.92); }
+  .stats{ display:grid; grid-template-columns:repeat(3,1fr); border-bottom:1px solid var(--line); }
+  .stats div{ padding:26px 8px; text-align:center; border-right:1px solid var(--line); }
+  .stats div:last-child{ border-right:0; }
+  .stats b{ font-size:clamp(42px,13vw,66px); font-weight:700; display:block; line-height:1; }
+  .stats span{ font-size:11px; color:var(--muted); margin-top:9px; display:block; }
+
+  /* SECTIONS (even rhythm) */
+  .block{ padding:46px var(--pad); border-bottom:1px solid var(--line); }
+  .block h2{ font-size:clamp(24px,7vw,38px); font-weight:700; line-height:1.05; }
+
+  .msg p{ font-size:clamp(25px,7.5vw,42px); font-weight:500; line-height:1.14; }
+
+  /* VISION BOARD — tidy 2x2 grid */
+  .board-grid{ display:grid; grid-template-columns:1fr 1fr; gap:3px; margin-top:20px; }
+  .tile{
+    position:relative; aspect-ratio:3/4; background:#161616 center/cover no-repeat;
+    display:flex; align-items:flex-end; overflow:hidden;
+  }
+  .tile::after{ content:""; position:absolute; inset:0; background:linear-gradient(180deg,rgba(10,10,10,.05),rgba(10,10,10,.88)); }
+  .tile .cap{ position:relative; z-index:2; padding:14px; }
+  .tile .num{ font-size:11px; color:var(--gold); font-weight:700; letter-spacing:.12em; }
+  .tile h3{ font-size:clamp(17px,4.6vw,24px); font-weight:700; line-height:1.05; margin-top:5px; }
+  .t1{ background-image:url("https://commons.wikimedia.org/wiki/Special:FilePath/TashkentCity.jpg?width=900"); }
+  .t2{ background-image:url("https://commons.wikimedia.org/wiki/Special:FilePath/Sher-Dor_Madrasah,_Registan_Sq,_Samarkand.jpg?width=900"); }
+  .t3{ background-image:url("https://commons.wikimedia.org/wiki/Special:FilePath/Bukhara_Kalyan_Mosque_iwan_in_the_yard.JPG?width=900"); }
+  .t4{ background-image:url("https://commons.wikimedia.org/wiki/Special:FilePath/Registan,_main_square_in_Samarkand.JPG?width=900"); }
+
+  /* JOURNEY */
+  #grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(15px,1fr)); gap:4px; margin-top:20px; }
+  .cell{ aspect-ratio:1; background:#1a1a1a; }
+  .cell.done{ background:var(--gold); }
+  .cell.today{ outline:2px solid #fff; outline-offset:-2px; }
+  .legend{ display:flex; gap:18px; margin-top:16px; font-size:11px; color:var(--muted); }
+  .legend i{ width:11px; height:11px; display:inline-block; margin-right:6px; vertical-align:-1px; }
+
+  footer{ padding:34px var(--pad) 52px; color:#666; font-size:13px; line-height:1.5; }
+
+  #toast{
+    position:fixed; left:0; right:0; bottom:0; background:var(--done); color:#fff; text-align:center;
+    padding:18px; font-weight:600; font-size:16px; transform:translateY(100%); transition:transform .3s ease; z-index:90;
+  }
+  #toast.show{ transform:translateY(0); }
+</style>
+</head>
+<body>
+<div id="top"></div>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="bar">
+    <div class="brand">THE <b>90</b></div>
+    <div class="mini" id="topDays">— days</div>
+  </div>
+  <div class="hero-inner">
+    <div class="eyebrow up">Days until Uzbekistan</div>
+    <div class="count"><span id="days">--</span><small> days</small></div>
+    <div class="date">Finish line — <span id="targetDate">September 11, 2026</span></div>
+    <div class="clock">
+      <div><b id="ch">--</b><span class="up">hrs</span></div>
+      <div><b id="cm">--</b><span class="up">min</span></div>
+      <div><b id="cs">--</b><span class="up">sec</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- CHECK-IN -->
+<button class="checkin" id="checkinBtn">I showed up today</button>
+<div class="stats">
+  <div><b id="streak">0</b><span class="up">Streak</span></div>
+  <div><b id="total">0</b><span class="up">Days in</span></div>
+  <div><b id="best">0</b><span class="up">Best</span></div>
+</div>
+
+<!-- TODAY -->
+<section class="block msg">
+  <div class="eyebrow up">Today</div>
+  <p id="dailyMsg"></p>
+</section>
+
+<!-- VISION BOARD -->
+<section class="block board">
+  <div class="eyebrow up">Vision board</div>
+  <h2>Why I'm doing this</h2>
+  <div class="board-grid">
+    <div class="tile t1"><div class="cap"><div class="num up">01</div><h3>My own place</h3></div></div>
+    <div class="tile t2"><div class="cap"><div class="num up">02</div><h3>Lock in on the work</h3></div></div>
+    <div class="tile t3"><div class="cap"><div class="num up">03</div><h3>A routine I'm proud of</h3></div></div>
+    <div class="tile t4"><div class="cap"><div class="num up">04</div><h3>Peace I chose</h3></div></div>
+  </div>
+</section>
+
+<!-- JOURNEY -->
+<section class="block journey">
+  <div class="eyebrow up">The journey</div>
+  <h2>Every square is a day</h2>
+  <div id="grid"></div>
+  <div class="legend">
+    <span><i style="background:var(--gold)"></i>Showed up</span>
+    <span><i style="background:#1a1a1a"></i>Not yet</span>
+  </div>
+</section>
+
+<footer>
+  Saved on this device — open it every morning.<br />
+  This is the 90. No reset. No undo. Don't break the chain.
+</footer>
+
+<div id="toast">Logged. One day closer.</div>
+
+<script>
+  var TARGET = new Date(2026, 8, 11, 0, 0, 0);  // Sept 11, 2026 — the finish line
+  var START  = new Date(2026, 5, 13, 0, 0, 0);  // June 13, 2026 — day 1 of the 90-day plan
+  var STORE  = "lockin_countdown_v1";
+
+  var MESSAGES = [
+    "You don't have to feel like it. You just have to do it.",
+    "The version of you living that life is built by what you do today.",
+    "Discipline is choosing what you want most over what you want now.",
+    "Win the morning and the day follows.",
+    "One small step. That's all today asks of you.",
+    "Peace isn't found, it's built — one disciplined day at a time.",
+    "You're not stuck. You're in transit. Keep moving.",
+    "The work you avoid today is the freedom you lose tomorrow.",
+    "You can do today. Just today. That's the whole job.",
+    "Future you is begging you not to quit. Don't quit.",
+    "Show up small, but show up. Streaks are built, not summoned.",
+    "Every bit of work is a brick in the house of your freedom.",
+    "Hard now, soft later. Easy now, hard forever.",
+    "You crossed the whole journey in your mind already. Now do the days.",
+    "Lock in. The door to the life you want only opens from your side."
+  ];
+
+  function dayKey(d){ d = d || new Date(); return d.getFullYear()+"-"+(d.getMonth()+1)+"-"+d.getDate(); }
+  function pad(n){ return n < 10 ? "0"+n : ""+n; }
+  function dayDiff(a, b){ return Math.round((b - a) / 86400000); }
+  function $(id){ return document.getElementById(id); }
+
+  // First 2 days of the plan are already done (worked before this tracker existed).
+  function seed(){ return {days:{ "2026-6-13":true, "2026-6-14":true }}; }
+  function load(){ try{ var v = localStorage.getItem(STORE); return v ? JSON.parse(v) : seed(); }catch(e){ return seed(); } }
+  function save(s){ try{ localStorage.setItem(STORE, JSON.stringify(s)); }catch(e){} }
+  var state = load();
+
+  function tick(){
+    var now = new Date();
+    var ms = Math.max(0, TARGET - now);
+    var s = Math.floor(ms/1000);
+    var d = Math.ceil(ms/86400000);
+    $("days").textContent = d;
+    $("topDays").textContent = d + " days";
+    $("ch").textContent = pad(Math.floor((s%86400)/3600));
+    $("cm").textContent = pad(Math.floor((s%3600)/60));
+    $("cs").textContent = pad(s%60);
+    var span = dayDiff(START, TARGET);
+    var elapsed = Math.min(Math.max(0, dayDiff(START, now)), span);
+    $("top").style.width = (span > 0 ? (elapsed/span)*100 : 100) + "%";
+  }
+
+  function calcStats(){
+    var total = 0, k;
+    for(k in state.days){ if(state.days[k]) total++; }
+    var streak = 0, d = new Date();
+    if(!state.days[dayKey(d)]) d.setDate(d.getDate()-1);
+    while(state.days[dayKey(d)]){ streak++; d.setDate(d.getDate()-1); }
+    var best = 0, run = 0, cur = new Date(START), end = new Date();
+    while(cur <= end){
+      if(state.days[dayKey(cur)]){ run++; if(run>best) best=run; } else run = 0;
+      cur.setDate(cur.getDate()+1);
+    }
+    $("streak").textContent = streak;
+    $("total").textContent = total;
+    $("best").textContent = best;
+  }
+
+  function buildGrid(){
+    var g = $("grid"); g.innerHTML = "";
+    var span = dayDiff(START, TARGET), tk = dayKey();
+    for(var i=0; i<=span; i++){
+      var d = new Date(START); d.setDate(d.getDate()+i);
+      var k = dayKey(d), c = document.createElement("div");
+      c.className = "cell" + (state.days[k] ? " done" : "") + (k===tk ? " today" : "");
+      g.appendChild(c);
+    }
+  }
+
+  function setButton(){
+    var b = $("checkinBtn");
+    if(state.days[dayKey()]){ b.classList.add("done"); b.textContent = "Locked in for today ✓"; }
+    else{ b.classList.remove("done"); b.textContent = "I showed up today"; }
+  }
+
+  var tt;
+  function toast(){ var t=$("toast"); t.classList.add("show"); clearTimeout(tt); tt=setTimeout(function(){ t.classList.remove("show"); },2000); }
+
+  function checkin(){
+    var k = dayKey();
+    if(state.days[k]) return;
+    state.days[k] = true; save(state);
+    setButton(); calcStats(); buildGrid(); toast();
+  }
+
+  function message(){
+    var i = Math.abs(dayDiff(START, new Date()));
+    $("dailyMsg").textContent = MESSAGES[i % MESSAGES.length];
+    $("targetDate").textContent = TARGET.toLocaleDateString(undefined, {year:"numeric", month:"long", day:"numeric"});
+  }
+
+  $("checkinBtn").addEventListener("click", checkin);
+  message(); setButton(); calcStats(); buildGrid(); tick();
+  setInterval(tick, 1000);
+</script>
+</body>
+</html>

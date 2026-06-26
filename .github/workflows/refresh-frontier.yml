@@ -1,0 +1,55 @@
+name: Refresh AI Frontier data
+
+# Regenerates docs/data.json from authoritative AI news feeds and commits it.
+# Pages then serves the fresh file (source = "Deploy from a branch", folder /docs).
+#
+# This only needs `contents: write` — NOT the Pages API permission that the
+# integration lacks — so unlike pages.yml it actually runs to completion.
+#
+# NOTE: scheduled runs only fire on the repository's DEFAULT branch, so the
+# auto-refresh begins once this workflow is on `main`. Until then the committed
+# data.json + the client-side "Live pulse" keep the dashboard fresh on open.
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # every 3 hours, offset off the hour
+  workflow_dispatch:
+  push:
+    branches: ["**"]
+    paths:
+      - "docs/build/fetch-news.mjs"
+      - "docs/seed.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-frontier
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch & rebuild data.json
+        run: node docs/build/fetch-news.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain docs/data.json)" ]; then
+            git add docs/data.json
+            git commit -m "chore: refresh AI Frontier data [skip ci]"
+            git push
+          else
+            echo "No changes to data.json."
+          fi

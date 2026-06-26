@@ -1,0 +1,1458 @@
+{
+  "updated": "2026-06-26T05:07:00.843Z",
+  "generator": "fetch-news.mjs",
+  "counts": {
+    "total": 89,
+    "curated": 89,
+    "fresh": 0
+  },
+  "benchmarks": [
+    {
+      "name": "SWE-bench Verified",
+      "leader": "Claude (Anthropic)",
+      "value": "~95% · coding agents"
+    },
+    {
+      "name": "ARC-AGI-2",
+      "leader": "GPT-5.5 · Gemini",
+      "value": "~85% (from 54%)"
+    },
+    {
+      "name": "GPQA Diamond",
+      "leader": "Gemini · Claude",
+      "value": "93–95% · saturating"
+    },
+    {
+      "name": "AIME 2026",
+      "leader": "GLM-5.2",
+      "value": "~100% · solved"
+    },
+    {
+      "name": "Humanity's Last Exam",
+      "leader": "Claude",
+      "value": "50–65% range"
+    },
+    {
+      "name": "ARC-AGI-3",
+      "leader": "unclaimed",
+      "value": "<1% · new frontier"
+    }
+  ],
+  "items": [
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "OpenAI and Broadcom unveil Jalapeño, first custom inference chip",
+      "summary": "OpenAI revealed Jalapeño, its first in-house-designed AI accelerator built with Broadcom, optimized for LLM inference and taped out in nine months. Initial deployment targets end of 2026 as part of a 10 GW program — OpenAI's most direct move yet to reduce its reliance on Nvidia.",
+      "date": "2026-06-24",
+      "importance": 4,
+      "tags": [
+        "chips",
+        "inference",
+        "Broadcom",
+        "custom-silicon",
+        "compute"
+      ],
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "DeepMind talent exodus: Shazeer to OpenAI, Jumper to Anthropic",
+      "summary": "In one week, Transformer co-author Noam Shazeer left for OpenAI and AlphaFold Nobel laureate John Jumper left for Anthropic — the most high-profile defections of 2026's talent war, reportedly wiping roughly $250B off Alphabet's market value.",
+      "date": "2026-06-23",
+      "importance": 5,
+      "tags": [
+        "talent-war",
+        "personnel",
+        "DeepMind",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "url": "https://fortune.com/2026/06/23/google-deepmind-ai-researcher-departures-raise-doubts-about-ability-to-win-the-ai-race-shazeer-jumper-eye-on-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google invests $75M in A24 for AI filmmaking tools",
+      "summary": "Google's first stake in a Hollywood studio: a multiyear ~$75M partnership embedding DeepMind researchers inside A24 productions to build filmmaker tools, starting with an AI storyboard generator rather than text-to-video.",
+      "date": "2026-06-22",
+      "importance": 3,
+      "tags": [
+        "A24",
+        "Hollywood",
+        "filmmaking",
+        "partnership",
+        "investment"
+      ],
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6 teased as a 'meaningful leap' but slips toward July",
+      "summary": "OpenAI's chief scientist previewed GPT-5.6 as a meaningful improvement over GPT-5.5, with a reported 1.5M-token context and a redesigned alignment pipeline, but the expected late-June launch slipped, with prediction markets now favoring July. It remains the most anticipated frontier release of the quarter.",
+      "date": "2026-06-21",
+      "importance": 3,
+      "tags": [
+        "GPT-5.6",
+        "upcoming",
+        "roadmap",
+        "long-context",
+        "alignment"
+      ],
+      "url": "https://www.techtimes.com/articles/318799/20260621/gpt-56-launch-window-starts-monday-alignment-fix-15m-token-context-inside.htm"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "DeepSeek V4-Pro and V4-Flash hold the open-weight frontier",
+      "summary": "DeepSeek's MIT-licensed MoE V4 models (1.6T-param Pro and 284B Flash, both 1M-token context) remain the leading open-weight challenge to closed frontier labs, with aggressive pricing ($0.87 per million output tokens) and strong agentic performance, keeping cost and openness pressure on US labs.",
+      "date": "2026-06-18",
+      "importance": 3,
+      "tags": [
+        "DeepSeek",
+        "open-weights",
+        "MoE",
+        "cost-efficiency",
+        "China"
+      ],
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
+    },
+    {
+      "category": "industry",
+      "lab": "European Union",
+      "title": "EU Parliament approves Digital Omnibus, delaying AI Act rules",
+      "summary": "On June 16 the European Parliament approved the Digital Omnibus, simplifying the AI Act and deferring high-risk obligations from August 2026 to December 2027, easing compliance for AI developers operating in the EU. Final Council adoption is expected in July.",
+      "date": "2026-06-16",
+      "importance": 4,
+      "tags": [
+        "regulation",
+        "EU-AI-Act",
+        "policy",
+        "compliance"
+      ],
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/"
+    },
+    {
+      "category": "industry",
+      "lab": "DeepSeek",
+      "title": "DeepSeek closes first-ever raise: $7.4B at $50B+ valuation",
+      "summary": "China's DeepSeek completed its first external funding round (~$7.4B at a $50B-plus valuation) backed by Tencent, CATL, JD.com and a state AI fund, cementing it as China's leading frontier-model challenger. Founder Liang Wenfeng retained control via a limited-partnership structure.",
+      "date": "2026-06-16",
+      "importance": 4,
+      "tags": [
+        "funding",
+        "China",
+        "DeepSeek",
+        "valuation",
+        "open-weights"
+      ],
+      "url": "https://www.siliconrepublic.com/business/the-information-deepseek-raises-7-4bn-at-50bn-plus-valuation"
+    },
+    {
+      "category": "industry",
+      "lab": "Five Eyes",
+      "title": "Five Eyes warn frontier AI hacking models are months away",
+      "summary": "Intelligence agencies from the Five Eyes alliance warned that AI models capable of autonomous offensive cyber operations could arrive within months, reshaping cybersecurity faster than expected. The assessment underpins the urgency behind June's US executive order and the Fable/Mythos export action.",
+      "date": "2026-06-16",
+      "importance": 3,
+      "tags": [
+        "cybersecurity",
+        "national-security",
+        "Five-Eyes",
+        "offensive-AI",
+        "threat"
+      ],
+      "url": "https://cyberscoop.com/five-eyes-alliance-say-advanced-ai-hacking-models-months-away/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google ships Gemini 3.5 Flash and Omni; delays 3.5 Pro to July",
+      "summary": "Google rolled out Gemini 3.5 Flash for frontier agentic and coding performance and previewed Gemini Omni (any-input-to-any-output multimodal generation), plus Managed Agents in the Gemini API, while pushing the flagship Gemini 3.5 Pro launch to July 2026.",
+      "date": "2026-06-15",
+      "importance": 3,
+      "tags": [
+        "Gemini",
+        "multimodal",
+        "agents",
+        "Flash"
+      ],
+      "url": "https://deepmind.google/models/gemini/"
+    },
+    {
+      "category": "product",
+      "lab": "xAI",
+      "title": "Grok 4.3 lands on Amazon Bedrock as cheapest frontier reasoner",
+      "summary": "Grok 4.3 became generally available on AWS Bedrock — xAI's first appearance on the platform — at $1.25 per million input and $2.50 per million output tokens, making it the cheapest US-lab frontier reasoning model there, with a 1M-token context and configurable reasoning effort.",
+      "date": "2026-06-15",
+      "importance": 3,
+      "tags": [
+        "Grok",
+        "Bedrock",
+        "enterprise",
+        "AWS",
+        "pricing"
+      ],
+      "url": "https://www.digitalapplied.com/blog/grok-4-3-amazon-bedrock-enterprise-launch-2026-guide"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Zuckerberg must now sell the costly Wang-led AI bet",
+      "summary": "A year after Meta paid ~$14B to bring in Alexandr Wang as Chief AI Officer to lead Superintelligence Labs, June 2026 reporting frames the challenge as commercializing the effort, amid $115-135B planned 2026 AI capex and rumors (denied by Meta) of Wang being sidelined.",
+      "date": "2026-06-14",
+      "importance": 3,
+      "tags": [
+        "Meta",
+        "Alexandr-Wang",
+        "Zuckerberg",
+        "capex",
+        "strategy"
+      ],
+      "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html"
+    },
+    {
+      "category": "model",
+      "lab": "Zhipu/GLM (Z.ai)",
+      "title": "GLM-5.2: top open-weights model beats GPT-5.5 on coding at ~1/6 cost",
+      "summary": "Z.ai's MIT-licensed GLM-5.2 (~750B MoE, ~40B active, 1M context) is the highest-ranked open-weights model on the Artificial Analysis Intelligence Index and 4th overall, beating GPT-5.5 on multiple long-horizon coding benchmarks at roughly a sixth of the cost — a landmark proof that open weights can sit at the frontier.",
+      "date": "2026-06-13",
+      "importance": 5,
+      "tags": [
+        "open-weights",
+        "MoE",
+        "coding",
+        "1M-context",
+        "China",
+        "MIT-license"
+      ],
+      "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost"
+    },
+    {
+      "category": "industry",
+      "lab": "US Government / Anthropic",
+      "title": "US export-control order forces global shutdown of Fable 5 and Mythos 5",
+      "summary": "On June 12 the Commerce Department's BIS ordered Anthropic to block Fable 5 and Mythos 5 for all foreign nationals over a claimed jailbreak; unable to screen by nationality, Anthropic disabled both models worldwide. It is the first time the US has used export controls to pull a deployed commercial frontier model offline — a major precedent. As of June 25 the models remain down.",
+      "date": "2026-06-12",
+      "importance": 5,
+      "tags": [
+        "export-controls",
+        "regulation",
+        "Anthropic",
+        "national-security",
+        "frontier-models"
+      ],
+      "url": "https://www.anthropic.com/news/fable-mythos-access"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Epoch AI",
+      "title": "FrontierMath v2 ships after errors found in 42% of problems",
+      "summary": "Epoch AI released a corrected FrontierMath v2 after an audit found critical errors in 42% of original problems. Post-correction, GPT-5.5 Pro (~88%) and Claude Fable 5 (~87%) lead the lower tiers, with Claude leading the hardest Tier 4 (~88%).",
+      "date": "2026-06-12",
+      "importance": 4,
+      "tags": [
+        "FrontierMath",
+        "math",
+        "Epoch-AI",
+        "benchmark-integrity",
+        "data-correction"
+      ],
+      "url": "https://epoch.ai/frontiermath"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Claude Code adds nested sub-agents, /cd, safe mode, and fallback chains",
+      "summary": "In its Week 24 release, Claude Code shipped sub-agents that can spawn their own sub-agents (capped at five levels), a /cd command to move a session's working directory without rebuilding the prompt cache, a --safe-mode launch flag that disables customizations for troubleshooting, and a fallbackModel setting that tries up to three models in order.",
+      "date": "2026-06-12",
+      "importance": 3,
+      "tags": [
+        "claude-code",
+        "sub-agents",
+        "developer-tools",
+        "cli"
+      ],
+      "url": "https://code.claude.com/docs/en/whats-new"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Fable 5 and Mythos 5: first Mythos-tier models go public",
+      "summary": "On June 9 Anthropic released Claude Fable 5, its first public model in the new Mythos tier (above Opus), with state-of-the-art results across software engineering, science, vision, and long-horizon agentic tasks. Fable 5 falls back to Opus 4.8 for flagged bio/cyber requests; Mythos 5 is the same model with safeguards lifted for vetted cyberdefenders via Project Glasswing. Pricing is $10 in / $50 per million output tokens.",
+      "date": "2026-06-09",
+      "importance": 5,
+      "tags": [
+        "fable-5",
+        "mythos-5",
+        "frontier",
+        "agentic",
+        "benchmarks"
+      ],
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "GPT-5.5 Instant gets a context-aware, personalized upgrade",
+      "summary": "OpenAI rolled out personalization improvements to GPT-5.5 Instant across ChatGPT Go and Free, making the default model better at tracking evolving queries and clarifications. The same week, GPT-5.2 models were fully retired from ChatGPT.",
+      "date": "2026-06-09",
+      "importance": 3,
+      "tags": [
+        "ChatGPT",
+        "GPT-5.5",
+        "personalization",
+        "default-model"
+      ],
+      "url": "https://openai.com/index/gpt-5-5-instant/"
+    },
+    {
+      "category": "product",
+      "lab": "xAI",
+      "title": "Grok Imagine Video 1.5 tops the image-to-video leaderboard",
+      "summary": "xAI's Grok Imagine Video 1.5 went generally available on grok.com and the Imagine API, delivering higher image-to-video quality, faster generation, and new workflow tools, and reaching the top of the image-to-video leaderboard.",
+      "date": "2026-06-09",
+      "importance": 2,
+      "tags": [
+        "Grok-Imagine",
+        "video-generation",
+        "image-to-video",
+        "API"
+      ],
+      "url": "https://releasebot.io/updates/xai"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI confidentially files for IPO targeting up to ~$1T",
+      "summary": "OpenAI filed its confidential S-1 with Goldman Sachs and Morgan Stanley, targeting a Q4 2026 listing valued from ~$852B toward $1T, following its record $122B round. It joins Anthropic in racing to public markets, though the actual listing may slip.",
+      "date": "2026-06-08",
+      "importance": 4,
+      "tags": [
+        "IPO",
+        "funding",
+        "valuation",
+        "OpenAI",
+        "markets"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market"
+    },
+    {
+      "category": "model",
+      "lab": "Microsoft",
+      "title": "Microsoft launches seven in-house MAI models at Build 2026",
+      "summary": "Microsoft AI unveiled a family of seven first-party models trained from scratch with zero distillation, led by reasoning model MAI-Thinking-1 (97% AIME 2025, 53% SWE-Bench Pro, near Opus 4.6) plus coding, image, voice and transcription models — a serious push to reduce its dependence on OpenAI.",
+      "date": "2026-06-08",
+      "importance": 4,
+      "tags": [
+        "Microsoft",
+        "MAI",
+        "reasoning",
+        "in-house-models",
+        "Build-2026"
+      ],
+      "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"
+    },
+    {
+      "category": "hardware",
+      "lab": "SK hynix",
+      "title": "AI memory crunch deepens: HBM/DRAM deficits worst since 2011",
+      "summary": "DRAM contract prices rose ~58-63% quarter-on-quarter and NAND 70-75%, as Samsung, SK hynix and Micron diverted ~93% of output to HBM for AI datacenters. HBM4 ramps into late 2026 with SK hynix holding 60%+ share, and TSMC warned the supply gap could persist for years.",
+      "date": "2026-06-05",
+      "importance": 4,
+      "tags": [
+        "HBM4",
+        "DRAM",
+        "memory-shortage",
+        "supply-chain",
+        "TSMC"
+      ],
+      "url": "https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html"
+    },
+    {
+      "category": "research",
+      "lab": "Anthropic",
+      "title": "Anthropic calls for a coordinated industry 'pause' mechanism",
+      "summary": "Anthropic warned that frontier systems are advancing toward self-improvement without reliable human oversight, and urged top labs to build coordinated mechanisms to slow or pause development if risks grow. The warning preceded the government's Fable/Mythos shutdown.",
+      "date": "2026-06-05",
+      "importance": 3,
+      "tags": [
+        "ai-safety",
+        "pause",
+        "governance",
+        "loss-of-control",
+        "policy"
+      ],
+      "url": "https://www.aljazeera.com/economy/2026/6/5/anthropic-urges-ai-labs-to-pause-warns-humans-risk-losing-control"
+    },
+    {
+      "category": "product",
+      "lab": "xAI",
+      "title": "Grok Voice ships with real-time custom voice cloning",
+      "summary": "xAI shipped Grok Voice, building on its Custom Voices suite, which clones a voice from ~120 seconds of audio in under two minutes with a two-stage consent and verification process, usable across xAI's text-to-speech and Voice Agent APIs.",
+      "date": "2026-06-04",
+      "importance": 2,
+      "tags": [
+        "Grok-Voice",
+        "voice-cloning",
+        "TTS",
+        "voice-agents",
+        "API"
+      ],
+      "url": "https://x.ai/news/grok-custom-voices"
+    },
+    {
+      "category": "industry",
+      "lab": "White House",
+      "title": "Trump signs executive order on advanced AI innovation and security",
+      "summary": "The June 2 order creates an AI cybersecurity clearinghouse and a voluntary framework for frontier developers to share pre-release model access for national-security review, while explicitly barring any mandatory licensing or pre-clearance regime — reshaping US frontier-AI governance just as the Fable/Mythos export action landed.",
+      "date": "2026-06-02",
+      "importance": 4,
+      "tags": [
+        "policy",
+        "regulation",
+        "executive-order",
+        "cybersecurity",
+        "governance"
+      ],
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+    },
+    {
+      "category": "model",
+      "lab": "Alibaba Qwen",
+      "title": "Qwen3.7-Plus brings vision, deep reasoning and agentic tool use",
+      "summary": "Following the proprietary Qwen3.7-Max flagship, Alibaba launched Qwen3.7-Plus, a multimodal agent variant adding vision, deep reasoning, tool invocation and autonomous iteration on the Bailian platform at roughly one-sixth the per-token cost of the Max tier.",
+      "date": "2026-06-02",
+      "importance": 3,
+      "tags": [
+        "multimodal",
+        "agentic",
+        "reasoning",
+        "China",
+        "enterprise"
+      ],
+      "url": "https://www.marktechpost.com/2026/06/02/alibabas-qwen-team-launches-qwen3-7-plus-adding-vision-deep-reasoning-tool-invocation-and-autonomous-iteration-on-the-bailian-platform/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia Vera Rubin enters full production at GTC Taipei",
+      "summary": "Nvidia confirmed its Vera Rubin platform (336B-transistor R100 GPU plus 88-core Vera CPU) is in full production, with ~150 Taiwanese suppliers building rack systems and Samsung, SK hynix and Micron certified for HBM4. First cloud shipments begin summer 2026; Nvidia claims ~5x Blackwell inference at far lower cost per token.",
+      "date": "2026-06-01",
+      "importance": 5,
+      "tags": [
+        "Nvidia",
+        "Vera-Rubin",
+        "GPU",
+        "HBM4",
+        "datacenter"
+      ],
+      "url": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory"
+    },
+    {
+      "category": "model",
+      "lab": "MiniMax",
+      "title": "MiniMax M3: open-weight 1M-context model with native multimodality",
+      "summary": "MiniMax M3 is pitched as the first open-weight model to combine frontier coding, a 1M-token context window (via proprietary sparse attention) and native image/video understanding in one architecture. Weights and a technical report followed within ~10 days of launch, though early benchmarks were vendor-run.",
+      "date": "2026-06-01",
+      "importance": 4,
+      "tags": [
+        "open-weights",
+        "1M-context",
+        "multimodal",
+        "coding",
+        "sparse-attention",
+        "China"
+      ],
+      "url": "https://www.minimax.io/blog/minimax-m3"
+    },
+    {
+      "category": "industry",
+      "lab": "Multiple Chinese labs",
+      "title": "Chinese open-weight labs now ship ~10 frontier-class models",
+      "summary": "By Q2 2026 ten labs (DeepSeek, Qwen, Kimi, Hunyuan, GLM, ERNIE, Doubao, Yi, Pangu, MiniMax) ship frontier or near-frontier open-source LLMs, with Chinese models topping OpenRouter token volume. The center of gravity for cheap, capable open models has shifted decisively to China.",
+      "date": "2026-06-01",
+      "importance": 4,
+      "tags": [
+        "open-weights",
+        "market-landscape",
+        "China",
+        "cost",
+        "OpenRouter"
+      ],
+      "url": "https://presenc.ai/research/chinese-open-source-llm-companies-leaderboard-2026"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic confidentially files for a potentially trillion-dollar IPO",
+      "summary": "Anthropic confidentially filed its S-1, setting up one of the largest tech IPOs ever. Run-rate revenue reached ~$47B (up from $10B a year earlier) and the company is on track for its first operating profit (~$559M) in Q2 2026.",
+      "date": "2026-06-01",
+      "importance": 4,
+      "tags": [
+        "IPO",
+        "S-1",
+        "SEC",
+        "revenue",
+        "financials"
+      ],
+      "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "ARC-AGI-2 jumps from ~54% to ~85% in 2026",
+      "summary": "GPT-5.5 leads ARC-AGI-2 at about 85% on tracked leaderboards, up from GPT-5.2 Pro's ~54% at the start of 2026, with Gemini 3 Deep Think and GPT-5.4 Pro close behind — a dramatic year for the abstract-reasoning benchmark designed to resist memorization.",
+      "date": "2026-06-01",
+      "importance": 4,
+      "tags": [
+        "ARC-AGI-2",
+        "reasoning",
+        "GPT-5.5",
+        "Gemini",
+        "frontier"
+      ],
+      "url": "https://llm-stats.com/benchmarks/arc-agi-v2"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia unveils RTX Spark superchip to bring AI to Windows PCs",
+      "summary": "Nvidia announced the RTX Spark superchip combining CPU and GPU to run AI agents locally on next-gen Windows PCs, with laptops and desktops from Dell, HP, Lenovo, Asus, Microsoft and MSI shipping this fall — Nvidia's bid to own the consumer and edge layer beyond the datacenter.",
+      "date": "2026-06-01",
+      "importance": 3,
+      "tags": [
+        "Nvidia",
+        "edge-AI",
+        "PCs",
+        "hardware"
+      ],
+      "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Codex hits 5M weekly users; Agents SDK and Responses API go GA",
+      "summary": "OpenAI's Codex reached 5 million weekly active users, while the Agents SDK became production-ready and the new Responses API landed as a major platform rearchitecture — signs of OpenAI's developer platform maturing around agentic workflows.",
+      "date": "2026-06-01",
+      "importance": 3,
+      "tags": [
+        "Codex",
+        "developers",
+        "Agents-SDK",
+        "Responses-API",
+        "platform"
+      ],
+      "url": "https://releasebot.io/updates/openai"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic / GitHub / Anysphere",
+      "title": "AI coding tools shift: Copilot goes usage-based, Cursor hits $2B ARR",
+      "summary": "GitHub moved Copilot to usage-based billing, Cursor reached $2B ARR, and a JetBrains survey showed 46% of veteran developers now use Claude Code daily versus 9% Copilot, whose share slid from 67% to 51%. The agentic-coding market is reshaping around token economics and Claude Code's lead.",
+      "date": "2026-06-01",
+      "importance": 3,
+      "tags": [
+        "coding-tools",
+        "Claude-Code",
+        "Cursor",
+        "Copilot",
+        "agentic-coding"
+      ],
+      "url": "https://dev.to/alexmercedcoder/a-frontier-model-goes-dark-ai-week-of-june-16-2026-1gk9"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "SWE-bench Verified saturating: Claude leads near 95%",
+      "summary": "Frontier Claude models top SWE-bench Verified at roughly 95%, with GPT-5.5 cited around 88-89%. The benchmark is approaching saturation, and most leaderboard entries are vendor self-reported rather than independently verified — a key caveat.",
+      "date": "2026-06-01",
+      "importance": 3,
+      "tags": [
+        "SWE-bench",
+        "coding",
+        "agents",
+        "Claude",
+        "self-reported"
+      ],
+      "url": "https://llm-stats.com/benchmarks/swe-bench-verified"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "LMArena top tier clusters within ~55 Elo",
+      "summary": "On LMArena, a frontier Claude Opus model leads at roughly 1510 Elo, narrowly ahead of GPT-5.5 Pro and Gemini 3.1 Pro. With 6.8M+ blind human votes across 360+ models, the top tier is the tightest on record at ~55 Elo spread.",
+      "date": "2026-06-01",
+      "importance": 3,
+      "tags": [
+        "LMArena",
+        "Chatbot-Arena",
+        "Elo",
+        "human-preference",
+        "Claude"
+      ],
+      "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Humanity's Last Exam climbs into the 50-65% range",
+      "summary": "Top Claude and GPT models now reach roughly 53-64% on Humanity's Last Exam, up from the mid-30s in early 2026, though scores vary widely by harness and tool access. It remains one of the harder closed-knowledge frontier evals.",
+      "date": "2026-06-01",
+      "importance": 3,
+      "tags": [
+        "HLE",
+        "reasoning",
+        "Claude",
+        "GPT-5",
+        "frontier"
+      ],
+      "url": "https://artificialanalysis.ai/evaluations/humanitys-last-exam"
+    },
+    {
+      "category": "research",
+      "lab": "Industry",
+      "title": "Scaffolding now rivals model choice on agentic benchmarks",
+      "summary": "Multiple 2026 analyses stress that how a model is scaffolded (framework, tools, retries) affects agentic benchmark scores nearly as much as the base model, and that most coding and agent leaderboards are vendor self-reported — complicating apples-to-apples comparisons.",
+      "date": "2026-06-01",
+      "importance": 3,
+      "tags": [
+        "agents",
+        "scaffolding",
+        "benchmark-integrity",
+        "methodology",
+        "self-reported"
+      ],
+      "url": "https://www.digitalapplied.com/blog/swe-bench-verified-june-2026-benchmark-vs-scaffolding-analysis"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Google DeepMind",
+      "title": "GPQA Diamond effectively saturated at 93-95%",
+      "summary": "Top models from Google (Gemini 3.1 Pro ~95.5%), Anthropic and OpenAI cluster at 93-95% on GPQA Diamond graduate-level science, with progress flattening. The benchmark is now widely considered saturated and decreasingly discriminative.",
+      "date": "2026-06-01",
+      "importance": 2,
+      "tags": [
+        "GPQA",
+        "science",
+        "saturation",
+        "Gemini",
+        "Claude"
+      ],
+      "url": "https://artificialanalysis.ai/evaluations/gpqa-diamond"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Zhipu AI",
+      "title": "AIME 2026 essentially solved; GLM-5.2 near-perfect",
+      "summary": "On the AIME 2026 contest-math benchmark, GLM-5.2 leads at about 99.2%, with Kimi K2.6 (~96%) and GLM-5 close behind. High-end competition math is now near-saturated across multiple labs, including strong Chinese frontier models.",
+      "date": "2026-06-01",
+      "importance": 2,
+      "tags": [
+        "AIME",
+        "math",
+        "GLM",
+        "Kimi",
+        "saturation"
+      ],
+      "url": "https://llm-stats.com/benchmarks/aime-2026"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Anthropic sweeps the GAIA agentic leaderboard",
+      "summary": "On GAIA, Anthropic models occupy the top six spots, with Claude Sonnet 4.5 cited around 74.6%, underscoring Anthropic's strength on tool-use and multi-step agentic tasks heading into mid-2026.",
+      "date": "2026-06-01",
+      "importance": 2,
+      "tags": [
+        "GAIA",
+        "agents",
+        "tool-use",
+        "Claude",
+        "leaderboard"
+      ],
+      "url": "https://awesomeagents.ai/leaderboards/agentic-ai-benchmarks-leaderboard/"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Grok Build 0.1 debuts as xAI's fastest agentic coding model",
+      "summary": "xAI opened Grok Build 0.1 in public beta via API — a coding model trained for agentic web dev, debugging and MCP, served at 100+ tokens/sec and priced at $1 in / $2 per million output tokens, powering the Grok Build CLI.",
+      "date": "2026-05-29",
+      "importance": 3,
+      "tags": [
+        "Grok-Build",
+        "coding",
+        "agentic",
+        "CLI",
+        "MCP",
+        "developers"
+      ],
+      "url": "https://x.ai/news/grok-build-0-1"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Opus 4.8 tops Intelligence Index with dynamic workflows",
+      "summary": "Released just 41 days after Opus 4.7, Opus 4.8 leads the Artificial Analysis Intelligence Index and is reported ~4x less likely than 4.7 to let flaws in its own code slip through. It defaults to a 1M-token context window and pairs with Claude Code 'dynamic workflows' for codebase-scale migrations; it is also the strongest computer-use/browser-agent model tested (84% Online-Mind2Web).",
+      "date": "2026-05-28",
+      "importance": 5,
+      "tags": [
+        "opus-4.8",
+        "coding",
+        "computer-use",
+        "agents",
+        "1M-context"
+      ],
+      "url": "https://www.anthropic.com/news/claude-opus-4-8"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic raises $65B Series H at $965B, passing OpenAI",
+      "summary": "The Series H (led by Altimeter, Dragoneer, Greenoaks, Sequoia) values Anthropic at $965B post-money, surpassing OpenAI as the most valuable AI startup. Driven by explosive revenue growth toward a ~$47B run-rate, it is widely seen as its last private raise before an IPO.",
+      "date": "2026-05-28",
+      "importance": 5,
+      "tags": [
+        "funding",
+        "Series-H",
+        "valuation",
+        "Anthropic"
+      ],
+      "url": "https://www.anthropic.com/news/series-h"
+    },
+    {
+      "category": "product",
+      "lab": "Cognition",
+      "title": "Cognition raises $1B at $26B; Devin writes 89% of its own code",
+      "summary": "The Devin maker more than doubled its valuation in eight months on ~$492M ARR, disclosing that 89% of code committed internally is now written by Devin itself — a signal of how fast autonomous coding agents are scaling commercially.",
+      "date": "2026-05-27",
+      "importance": 4,
+      "tags": [
+        "funding",
+        "coding-agent",
+        "Devin",
+        "autonomous-engineering"
+      ],
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini 3.5 Flash launches at I/O 2026 as the new default",
+      "summary": "Announced at Google I/O 2026, Gemini 3.5 Flash became the default model in the Gemini app, Search AI Mode and the API. It delivers frontier-tier agentic and coding performance, outperforming the prior Gemini 3.1 Pro on benchmarks like Terminal-Bench 2.1 (76.2%) at ~4x the speed, priced at $1.50 in / $9 per million output tokens. Gemini 3.5 Pro was held back for the following month.",
+      "date": "2026-05-19",
+      "importance": 4,
+      "tags": [
+        "Gemini",
+        "Flash",
+        "I/O-2026",
+        "agentic",
+        "default-model"
+      ],
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google I/O 2026: agentic Search, Spark, and AI Mode at 1B+ users",
+      "summary": "Google unveiled a reimagined Search box — its biggest change in 25+ years — that expands for conversational queries and accepts multimodal input, with AI Mode delivering agentic, generative-UI responses and surpassing 1 billion monthly users. Gemini Spark debuted as a 24/7 autonomous agent for enterprise and consumers.",
+      "date": "2026-05-19",
+      "importance": 4,
+      "tags": [
+        "Search",
+        "AI-Mode",
+        "Spark",
+        "agents",
+        "I/O-2026"
+      ],
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
+    },
+    {
+      "category": "product",
+      "lab": "GitHub",
+      "title": "GitHub Copilot desktop app debuts at Build 2026 for multi-agent dev",
+      "summary": "Microsoft launched a dedicated GitHub Copilot app as an agent control center: a unified surface for managing many parallel agents, each running in its own isolated Git worktree so they can work the same codebase without conflicts. Agentic code review also crossed 60 million reviews.",
+      "date": "2026-05-19",
+      "importance": 4,
+      "tags": [
+        "Copilot",
+        "coding-agent",
+        "parallel-agents",
+        "desktop-app"
+      ],
+      "url": "https://devops.com/github-copilot-gets-its-own-app-and-agents-are-the-reason-why/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Project Astra folding into Gemini Live and Android XR glasses",
+      "summary": "DeepMind continued shipping Project Astra's universal-assistant features (live video understanding, screen sharing, cross-device memory, on-device actions) into Gemini Live and Search, with Android XR glasses (Samsung 'Project Moohan') as a key 2026 form factor.",
+      "date": "2026-05-19",
+      "importance": 3,
+      "tags": [
+        "Project-Astra",
+        "Gemini-Live",
+        "assistant",
+        "Android-XR",
+        "glasses"
+      ],
+      "url": "https://deepmind.google/models/project-astra/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Sonnet 4.6 and Haiku 4.5 round out the mid/low tiers",
+      "summary": "Claude Sonnet 4.6 balances speed and intelligence with a 1M-token context and adaptive thinking at $3/$15 per million tokens; Haiku 4.5 delivers near-frontier coding at roughly a third the cost and over twice the speed of Sonnet 4, anchoring Anthropic's cheaper, faster options.",
+      "date": "2026-05-15",
+      "importance": 3,
+      "tags": [
+        "sonnet-4.6",
+        "haiku-4.5",
+        "pricing",
+        "context-window",
+        "speed"
+      ],
+      "url": "https://platform.claude.com/docs/en/about-claude/models/overview"
+    },
+    {
+      "category": "research",
+      "lab": "Anthropic",
+      "title": "Interpretability work: models 'think in numbers,' translated to words",
+      "summary": "Anthropic's interpretability team published research training Claude to translate its internal numeric representations into human-readable text, advancing the goal of explaining model behavior to address bias, misuse, and autonomous harmful behavior.",
+      "date": "2026-05-15",
+      "importance": 3,
+      "tags": [
+        "interpretability",
+        "alignment",
+        "mechanistic",
+        "transparency"
+      ],
+      "url": "https://www.anthropic.com/research/team/interpretability"
+    },
+    {
+      "category": "lab",
+      "lab": "SAP / Prior Labs",
+      "title": "SAP acquires Prior Labs to build a European frontier AI lab",
+      "summary": "SAP agreed to acquire Prior Labs, pioneer of Tabular Foundation Models, pledging over €1B over four years to scale it into a European frontier lab focused on structured enterprise data — a notable European consolidation and sovereignty play.",
+      "date": "2026-05-12",
+      "importance": 3,
+      "tags": [
+        "acquisition",
+        "SAP",
+        "Europe",
+        "enterprise-AI",
+        "Prior-Labs"
+      ],
+      "url": "https://news.sap.com/2026/05/sap-to-acquire-prior-labs-establish-frontier-ai-lab-europe/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Three new realtime voice models: reason, translate, transcribe live",
+      "summary": "OpenAI shipped GPT-Realtime-2 (its first GPT-5-class reasoning voice model with mid-conversation tool calls), GPT-Realtime-Translate (70+ input to 13 output languages), and GPT-Realtime-Whisper (streaming transcription) to the API, sharply improving live voice products.",
+      "date": "2026-05-07",
+      "importance": 3,
+      "tags": [
+        "voice",
+        "realtime",
+        "translation",
+        "transcription",
+        "API"
+      ],
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/"
+    },
+    {
+      "category": "industry",
+      "lab": "Moonshot AI",
+      "title": "Moonshot AI raises $2B at $20B valuation for Kimi models",
+      "summary": "Beijing-based Moonshot AI, maker of the open-weight Kimi model series, raised about $2B at a $20B valuation in a Meituan-led round, reflecting surging demand for Chinese open-source AI.",
+      "date": "2026-05-07",
+      "importance": 3,
+      "tags": [
+        "funding",
+        "China",
+        "open-weights",
+        "Moonshot",
+        "Kimi"
+      ],
+      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.5 Instant becomes ChatGPT default with 52% fewer hallucinations",
+      "summary": "OpenAI made GPT-5.5 Instant the default ChatGPT model, citing 52.5% fewer hallucinated claims than GPT-5.3 Instant on high-stakes prompts in law, medicine, and finance, with clearer answers and a more natural tone at low latency.",
+      "date": "2026-05-05",
+      "importance": 4,
+      "tags": [
+        "ChatGPT",
+        "GPT-5.5",
+        "hallucinations",
+        "factuality",
+        "default-model"
+      ],
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Big Tech 2026 AI capex approaches ~$690B; Meta lifts spend",
+      "summary": "Microsoft, Alphabet, Amazon, Meta and Oracle collectively guided to roughly $660-690B in 2026 capex, nearly double 2025. Meta raised its guide toward ~$145B, citing higher memory pricing, and stood up a new 'Meta Compute' division targeting tens of gigawatts of capacity this decade.",
+      "date": "2026-04-29",
+      "importance": 4,
+      "tags": [
+        "capex",
+        "Meta",
+        "Microsoft",
+        "datacenter",
+        "buildout"
+      ],
+      "url": "https://fortune.com/2026/04/29/microsoft-meta-google-ai-capex-spending-billions/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI discontinues Sora app; API to shut down September 2026",
+      "summary": "OpenAI discontinued the Sora web and app experiences, with the Sora API ending September 24, 2026 and no announced successor. Reporting cites high video-inference costs, weak sustained engagement, and unresolved likeness and training-data legal questions.",
+      "date": "2026-04-26",
+      "importance": 3,
+      "tags": [
+        "Sora",
+        "video",
+        "discontinuation",
+        "product-shutdown"
+      ],
+      "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "DeepSeek V4 preview: 1.6T MoE that closes the gap with frontier",
+      "summary": "DeepSeek released an MIT-licensed preview of V4: V4-Pro (1.6T params, 49B active) and V4-Flash (284B, 13B active), both with 1M context. V4-Pro hits 80.6% on SWE-bench Verified (top open-weights, tied with Gemini 3.1 Pro) at around $0.44 in / $0.87 per million output tokens, dramatically undercutting closed peers.",
+      "date": "2026-04-24",
+      "importance": 5,
+      "tags": [
+        "open-weights",
+        "MoE",
+        "1M-context",
+        "coding",
+        "low-cost",
+        "China",
+        "MIT-license"
+      ],
+      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.5 launches as OpenAI's smartest, most agentic flagship",
+      "summary": "GPT-5.5 (with a Pro tier) is OpenAI's most capable model yet, with major gains in agentic coding, computer use, knowledge work, and scientific research, able to carry multi-step tasks across tools to completion. It became the foundation of the ChatGPT lineup and API.",
+      "date": "2026-04-23",
+      "importance": 5,
+      "tags": [
+        "GPT-5.5",
+        "flagship",
+        "frontier",
+        "agentic",
+        "API"
+      ],
+      "url": "https://openai.com/index/introducing-gpt-5-5/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Google Ironwood (TPU v7) reaches GA for inference",
+      "summary": "Google's seventh-gen Ironwood TPU, its first 'inference-first' chip, reached general availability across Compute Engine, GKE and Vertex AI. Anthropic alone committed to up to one million Ironwood chips and 1+ GW of capacity in 2026; Google also previewed 8th-gen TPUs on TSMC 2nm for late 2027.",
+      "date": "2026-04-22",
+      "importance": 5,
+      "tags": [
+        "Google",
+        "TPU",
+        "Ironwood",
+        "inference"
+      ],
+      "url": "https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Workspace agents bring Codex-powered shared agents to teams",
+      "summary": "OpenAI introduced workspace agents in ChatGPT, letting organizations build shared, cloud-running agents that handle long-horizon workflows (reports, code, messages) within org permissions. Powered by Codex and positioned as an evolution of custom GPTs, they launched in research preview for Business, Enterprise, Edu, and Teachers plans.",
+      "date": "2026-04-22",
+      "importance": 4,
+      "tags": [
+        "agents",
+        "ChatGPT",
+        "Codex",
+        "enterprise",
+        "workflows"
+      ],
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Amazon-Anthropic expand to up to 5 GW; Trainium3 scales in 2026",
+      "summary": "Amazon added $5B equity (up to $20B more in milestones) into Anthropic alongside a ~$100B AWS commitment, expanding compute to up to 5 GW. Trainium2 scaled in Q2 2026 via Project Rainier (~500K chips), with Trainium3 coming online later in 2026, approaching ~1 GW by year-end.",
+      "date": "2026-04-21",
+      "importance": 4,
+      "tags": [
+        "Amazon",
+        "Anthropic",
+        "Trainium",
+        "custom-silicon",
+        "Project-Rainier"
+      ],
+      "url": "https://www.anthropic.com/news/anthropic-amazon-compute"
+    },
+    {
+      "category": "model",
+      "lab": "Moonshot AI (Kimi)",
+      "title": "Kimi K2.6: open-weight agent ties GPT-5.5 on coding for ~80% less",
+      "summary": "Moonshot's Kimi K2.6 (1T-param MoE, 32B active, 256K context, now with native video input) graduates to a GA model built for 12-hour autonomous coding sessions and large agent swarms. It ties GPT-5.5 on SWE-Bench Pro at roughly 80% lower cost ($0.60 in / $2.50 per million output tokens).",
+      "date": "2026-04-20",
+      "importance": 4,
+      "tags": [
+        "open-weights",
+        "MoE",
+        "agentic",
+        "coding",
+        "multimodal",
+        "China"
+      ],
+      "url": "https://blog.kilo.ai/p/kimi-k26-has-arrived-an-open-weight"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Grok 4.3 launches with low pricing and voice cloning suite",
+      "summary": "xAI released Grok 4.3, a frontier reasoning model with a 1M-token context, the lowest reported hallucination rate among frontier models, configurable reasoning effort, and an aggressively low price, bundled with the new Custom Voices cloning suite.",
+      "date": "2026-04-17",
+      "importance": 3,
+      "tags": [
+        "Grok-4.3",
+        "reasoning",
+        "hallucination",
+        "voice-cloning",
+        "pricing"
+      ],
+      "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Stargate adds five US sites, pushing toward 10 GW ahead of schedule",
+      "summary": "OpenAI, Oracle and SoftBank announced five new Stargate datacenter sites, adding 3+ GW in 90 days and surpassing the original 10-GW-by-2029 goal early. A separate OpenAI-Oracle agreement covers up to 4.5 GW more in a $300B+ partnership.",
+      "date": "2026-04-15",
+      "importance": 4,
+      "tags": [
+        "Stargate",
+        "OpenAI",
+        "Oracle",
+        "SoftBank",
+        "datacenter",
+        "buildout"
+      ],
+      "url": "https://openai.com/index/five-new-stargate-sites/"
+    },
+    {
+      "category": "model",
+      "lab": "Alibaba Qwen",
+      "title": "Qwen3.6 targets agent workflows with a tiny active footprint",
+      "summary": "Alibaba's Qwen3.6 focuses on agentic deployment using an efficient MoE design (36B total, only ~3B active per token), reportedly outperforming Google Gemma 4 while keeping inference cheap. Aimed at scaling agents across enterprise and Alibaba's own AI apps.",
+      "date": "2026-04-15",
+      "importance": 3,
+      "tags": [
+        "MoE",
+        "agentic",
+        "efficiency",
+        "enterprise",
+        "China"
+      ],
+      "url": "https://github.com/QwenLM/Qwen3.6"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta runs dual-track AI: closed Muse Spark plus open-weight Llama 5",
+      "summary": "On the same day Meta Superintelligence Labs launched its first closed frontier model, Muse Spark (now powering Meta AI across its apps and glasses), it also released Llama 5 as a fully open-weight flagship (~600B params, 5M-token context). Rather than abandoning open weights, Meta adopted a dual-track strategy: closed for the frontier, open for ecosystem reach.",
+      "date": "2026-04-08",
+      "importance": 4,
+      "tags": [
+        "Muse-Spark",
+        "Llama-5",
+        "open-weights",
+        "strategy",
+        "Meta"
+      ],
+      "url": "https://thenewstack.io/meta-abandons-llama-spark/"
+    },
+    {
+      "category": "product",
+      "lab": "Anysphere",
+      "title": "Cursor 3 ships agent-first 'Glass' interface with Agents Window",
+      "summary": "Cursor's biggest overhaul since launch adds an Agents Window for running multiple agents in parallel across local machines, worktrees, cloud sandboxes, and remote SSH, plus Cloud Agents and an evolved Composer — moving Cursor from a code editor toward a multi-agent orchestration environment.",
+      "date": "2026-04-02",
+      "importance": 4,
+      "tags": [
+        "Cursor",
+        "coding-agent",
+        "parallel-agents",
+        "IDE"
+      ],
+      "url": "https://www.digitalapplied.com/blog/cursor-3-agents-window-design-mode-complete-guide"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI closes record $122B round at $852B valuation",
+      "summary": "OpenAI closed what was reported as the largest private funding round in history (~$122B) at an $852B post-money valuation, anchored by Amazon, Nvidia and SoftBank, with revenue reportedly near $2B/month — setting the stage for its IPO filing.",
+      "date": "2026-04-01",
+      "importance": 5,
+      "tags": [
+        "funding",
+        "OpenAI",
+        "valuation",
+        "mega-round"
+      ],
+      "url": "https://tech-insider.org/openai-110-billion-funding-round-2026/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Veo 4 released with 4K, 30s clips and character consistency",
+      "summary": "Google released Veo 4, its most advanced video model, adding native storyboarding, up to 30-second 4K generation, zero-shot avatar creation, and markedly improved character consistency, available via Flow and Gemini Ultra plans.",
+      "date": "2026-04-01",
+      "importance": 3,
+      "tags": [
+        "Veo",
+        "video-generation",
+        "4K",
+        "creative",
+        "multimodal"
+      ],
+      "url": "https://www.veo3ai.io/blog/veo-4-release-everything-you-need-to-know-2026"
+    },
+    {
+      "category": "model",
+      "lab": "Baidu",
+      "title": "Baidu ERNIE 5.0: 2.4T-parameter omnimodal flagship on Kunlun silicon",
+      "summary": "Baidu's ERNIE 5.0 is a 2.4T-parameter omnimodal flagship trained on Baidu's own Kunlun chips, extending the trend of major Chinese labs pairing very large multimodal models with domestic accelerators to reduce dependence on restricted Nvidia hardware.",
+      "date": "2026-04-01",
+      "importance": 3,
+      "tags": [
+        "omnimodal",
+        "domestic-silicon",
+        "Kunlun",
+        "China",
+        "scale"
+      ],
+      "url": "https://www.digitalapplied.com/blog/chinese-ai-models-q2-2026-market-share-report"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Claude Computer Use reaches macOS desktop control in research preview",
+      "summary": "Anthropic extended Claude to full-desktop control on macOS, letting it complete tasks by operating the computer directly. Anthropic leads the developer-API category for computer use; Windows support is expected later in 2026.",
+      "date": "2026-03-24",
+      "importance": 4,
+      "tags": [
+        "computer-use",
+        "agents",
+        "desktop-control",
+        "Claude"
+      ],
+      "url": "https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html"
+    },
+    {
+      "category": "model",
+      "lab": "Anysphere",
+      "title": "Cursor Composer 2 trained on Moonshot's Kimi K2.5 base",
+      "summary": "Composer 2 is Cursor's first model built via continued pre-training on a base model (Kimi K2.5), followed by large-scale RL in realistic Cursor sessions — a genuine capability jump for its in-house agent loop that runs tests, reads errors, and edits files.",
+      "date": "2026-03-19",
+      "importance": 3,
+      "tags": [
+        "Cursor",
+        "Composer",
+        "model-training",
+        "coding"
+      ],
+      "url": "https://www.digitalapplied.com/blog/cursor-3-deep-dive-agents-composer-review-2026"
+    },
+    {
+      "category": "model",
+      "lab": "Mistral",
+      "title": "Mistral Small 4 unifies reasoning, multimodal and coding in one model",
+      "summary": "Mistral Small 4 is the first Mistral model to fold the capabilities of Magistral (reasoning), Pixtral (multimodal) and Devstral (agentic coding) into a single open model, part of a March sprint where Mistral shipped six products in roughly two weeks. Signals Europe's leading open lab consolidating its lineup.",
+      "date": "2026-03-16",
+      "importance": 3,
+      "tags": [
+        "open-weights",
+        "multimodal",
+        "reasoning",
+        "coding",
+        "Europe"
+      ],
+      "url": "https://mistral.ai/news/mistral-small-4/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "ARC Prize Foundation",
+      "title": "ARC-AGI-3 launched; frontier models score under 1%",
+      "summary": "The ARC Prize Foundation unveiled ARC-AGI-3, an interactive, agentic reasoning benchmark, at Y Combinator. Frontier models scored below 1%, re-establishing a hard frontier even as ARC-AGI-2 scores climbed past 80%.",
+      "date": "2026-03-15",
+      "importance": 5,
+      "tags": [
+        "ARC-AGI-3",
+        "agentic",
+        "reasoning",
+        "benchmark-launch",
+        "frontier"
+      ],
+      "url": "https://arxiv.org/pdf/2603.24621"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Claude Partner Network and enterprise Claude Code surge",
+      "summary": "Anthropic's Claude Partner Network (launched March 2026 with an initial $100M commitment) plus enterprise momentum: customers spending >$100k/yr on Claude grew 7x in a year, 1,000+ now spend >$1M annually, and business Claude Code subscriptions quadrupled in 2026, with enterprise now over half of Claude Code revenue.",
+      "date": "2026-03-01",
+      "importance": 3,
+      "tags": [
+        "enterprise",
+        "partners",
+        "claude-code",
+        "adoption",
+        "revenue"
+      ],
+      "url": "https://www.anthropic.com/news/series-h"
+    },
+    {
+      "category": "product",
+      "lab": "Perplexity",
+      "title": "Perplexity Comet goes fully free and lands on iOS",
+      "summary": "Comet completed its cross-platform rollout with an iOS launch and dropped its paywall, making the full agentic browser — sidebar assistant, cross-tab reasoning, and agent mode — free on Mac, Windows, iOS, and Android. Agentic browsers went mainstream in 2026.",
+      "date": "2026-03-01",
+      "importance": 3,
+      "tags": [
+        "AI-browser",
+        "Comet",
+        "agentic-browser",
+        "consumer-app"
+      ],
+      "url": "https://beginnersinai.org/whats-new-perplexity-2026/"
+    },
+    {
+      "category": "model",
+      "lab": "Tencent Hunyuan",
+      "title": "Tencent Hunyuan Hy3: 295B MoE matching trillion-param models",
+      "summary": "Tencent's Hunyuan Hy3 is a 295B-parameter MoE reasoning model with only 21B active per query and a 256K context, strong on coding and agentic tasks. Tencent claims it matches Kimi-K2.5 (1T+ params) on agent benchmarks at a fraction of the compute, highlighting how efficient sparsity is closing the gap.",
+      "date": "2026-03-01",
+      "importance": 3,
+      "tags": [
+        "MoE",
+        "reasoning",
+        "efficiency",
+        "agentic",
+        "China"
+      ],
+      "url": "https://www.digitalapplied.com/blog/chinese-ai-models-q2-2026-market-share-report"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Grok 4.20 introduces native multi-agent collaboration",
+      "summary": "Grok 4.20 is a multi-agent model with a 4-agent collaborative architecture (16 agents in the Heavy tier), a 2M-token context, real-time X Firehose integration, ~235 tokens/sec output, and a rapid-learning loop that incorporates feedback weekly.",
+      "date": "2026-03-01",
+      "importance": 3,
+      "tags": [
+        "Grok-4.20",
+        "multi-agent",
+        "X-integration",
+        "real-time",
+        "context-window"
+      ],
+      "url": "https://aimlapi.com/blog/grok-4-20-review-2026-everything-you-need-to-know"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini 3.1 Pro: 2x reasoning, tops most benchmarks",
+      "summary": "Gemini 3.1 Pro delivered a 2x+ reasoning boost over Gemini 3 Pro (77.1% ARC-AGI-2, 94.3% GPQA Diamond, 80.6% SWE-bench), led 13 of 16 tracked benchmarks at launch, and kept the 1M-token context window.",
+      "date": "2026-02-19",
+      "importance": 4,
+      "tags": [
+        "Gemini",
+        "reasoning",
+        "benchmarks",
+        "ARC-AGI-2",
+        "SWE-bench"
+      ],
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/"
+    },
+    {
+      "category": "model",
+      "lab": "Alibaba Qwen",
+      "title": "Qwen3.5 scales to 397B MoE with 201 languages",
+      "summary": "Qwen3.5 and Qwen3.5-Plus scale to 397B total parameters (17B active), support 201 languages, and deliver an 8.6x-19x throughput improvement over the prior generation, as China's chatbot race pivots toward AI agents. Reinforces Qwen as the most broadly capable open model family.",
+      "date": "2026-02-16",
+      "importance": 3,
+      "tags": [
+        "MoE",
+        "multilingual",
+        "throughput",
+        "agentic",
+        "China"
+      ],
+      "url": "https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html"
+    },
+    {
+      "category": "model",
+      "lab": "Zhipu/GLM (Z.ai)",
+      "title": "GLM-5: first frontier model trained on Huawei Ascend chips",
+      "summary": "Zhipu's MIT-licensed GLM-5 (744B params, 44B active MoE) was notable both for frontier-level agentic capability and for being trained on domestic Huawei Ascend silicon — a milestone for China's self-reliant AI stack. Priced ~6x cheaper than Claude Opus, it sent Zhipu's newly public shares soaring.",
+      "date": "2026-02-11",
+      "importance": 4,
+      "tags": [
+        "open-weights",
+        "MoE",
+        "Huawei-Ascend",
+        "agentic",
+        "China",
+        "MIT-license"
+      ],
+      "url": "https://www.scmp.com/tech/article/3343239/chinas-zhipu-ai-launches-new-major-model-glm-5-challenge-its-rivals"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.3-Codex: most capable agentic coding model, helps build itself",
+      "summary": "GPT-5.3-Codex unifies frontier coding with GPT-5.2-level reasoning while running ~25% faster, setting records on SWE-Bench Pro and Terminal-Bench. Notably, the Codex team used early versions to debug its own training and deployment.",
+      "date": "2026-02-05",
+      "importance": 4,
+      "tags": [
+        "Codex",
+        "coding",
+        "agentic",
+        "SWE-bench",
+        "self-improvement"
+      ],
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/"
+    },
+    {
+      "category": "industry",
+      "lab": "xAI / SpaceX",
+      "title": "Musk merges xAI into SpaceX at $1.25T, eyeing orbital data centers",
+      "summary": "Elon Musk merged xAI (valued ~$250B) into SpaceX (~$1T) in a $1.25T combination billed as the largest merger ever, aimed at building orbital data centers and giving cash-burning xAI access to SpaceX's resources.",
+      "date": "2026-02-03",
+      "importance": 4,
+      "tags": [
+        "merger",
+        "xAI",
+        "SpaceX",
+        "Musk",
+        "compute"
+      ],
+      "url": "https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html"
+    },
+    {
+      "category": "product",
+      "lab": "Cognition",
+      "title": "Devin 2.2 adds self-verification, auto-fix, and desktop testing",
+      "summary": "Devin 2.2 gained the ability to test its own work via computer use, self-verify, and auto-fix its code, with faster startup. Later in 2026 Cognition slashed pricing from $500/mo to $20/mo plus per-usage fees, dramatically lowering the barrier to entry.",
+      "date": "2026-02-01",
+      "importance": 3,
+      "tags": [
+        "Devin",
+        "coding-agent",
+        "self-verification",
+        "pricing"
+      ],
+      "url": "https://cognition.com/blog/introducing-devin-2-2"
+    },
+    {
+      "category": "research",
+      "lab": "Google DeepMind",
+      "title": "Genie 3 world model opens to the public via Project Genie",
+      "summary": "Google DeepMind launched Project Genie, bringing its Genie 3 world model (real-time, navigable 3D worlds at 720p/24fps with ~one minute of consistency) to Google AI Ultra subscribers in the US, later expanding worldwide with Street View grounding. Waymo also built a 'Waymo World Model' on Genie 3 to simulate rare driving edge cases.",
+      "date": "2026-01-29",
+      "importance": 4,
+      "tags": [
+        "Genie-3",
+        "world-models",
+        "simulation",
+        "Waymo",
+        "interactive"
+      ],
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/"
+    },
+    {
+      "category": "research",
+      "lab": "Google DeepMind",
+      "title": "AlphaGenome published in Nature, decoding DNA function",
+      "summary": "DeepMind's AlphaGenome, published in Nature, predicts gene expression, chromatin accessibility, splicing and more across DNA sequences up to ~1M base pairs — aiming to do for the genome what AlphaFold did for proteins. About 3,000 scientists already use it.",
+      "date": "2026-01-28",
+      "importance": 5,
+      "tags": [
+        "AlphaGenome",
+        "genomics",
+        "biology",
+        "Nature",
+        "DNA"
+      ],
+      "url": "https://www.chemistryworld.com/news/googles-alphagenome-wants-to-do-for-dna-what-alphafold-did-for-proteins/4022824.article"
+    },
+    {
+      "category": "hardware",
+      "lab": "AMD",
+      "title": "AMD unveils full MI400 lineup at CES 2026 to challenge Vera Rubin",
+      "summary": "Lisa Su detailed five CDNA 5 MI400-series accelerators, led by the MI455X (320B transistors, 432GB HBM4, up to 40 PFLOPS FP4), positioned directly against Nvidia's Vera Rubin with ~1.5x higher memory capacity. Production ships mid-2026, with broad availability in 2H 2026 and an MI500 follow-on in 2027.",
+      "date": "2026-01-05",
+      "importance": 4,
+      "tags": [
+        "AMD",
+        "MI400",
+        "MI455X",
+        "CDNA5",
+        "GPU",
+        "HBM4"
+      ],
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and-leadership-with-expanded-amd-instinct-gpu-roadmap"
+    },
+    {
+      "category": "benchmark",
+      "lab": "NVIDIA",
+      "title": "ARC Prize 2025 grand prize unclaimed; top Kaggle entry ~24%",
+      "summary": "The ARC Prize 2025 $700K grand prize (requiring 85% on the private ARC-AGI-2 set under tight compute) went unclaimed; NVIDIA's NVARC team won first place at 24.03%. It highlights the gap between high-compute frontier API scores and efficient, constrained solutions.",
+      "date": "2025-11-30",
+      "importance": 4,
+      "tags": [
+        "ARC-AGI-2",
+        "ARC-Prize",
+        "Kaggle",
+        "reasoning",
+        "compute-efficiency"
+      ],
+      "url": "https://arcprize.org/blog/arc-prize-2025-results-analysis"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini 3 Pro debuts as Google's most intelligent model",
+      "summary": "Gemini 3 Pro set a new bar for reasoning and multimodal understanding, topping LMArena at ~1501 Elo with 91.9% GPQA Diamond and 76.2% SWE-bench Verified, and became the foundation for the 3.x line.",
+      "date": "2025-11-18",
+      "importance": 5,
+      "tags": [
+        "Gemini",
+        "frontier",
+        "multimodal",
+        "reasoning",
+        "LMArena"
+      ],
+      "url": "https://blog.google/products/gemini/gemini-3/"
+    }
+  ]
+}

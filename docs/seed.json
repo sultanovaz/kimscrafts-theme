@@ -4,61 +4,207 @@
       "rank": 1,
       "model": "Claude Opus 4.8",
       "lab": "Anthropic",
-      "score": 61
+      "grade": "A+",
+      "score": 96,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "61"
+        },
+        {
+          "name": "Chatbot Arena",
+          "value": "1483"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "88.6%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "93.6%"
+        }
+      ]
     },
     {
       "rank": 2,
       "model": "GPT-5.5",
       "lab": "OpenAI",
-      "score": 60
+      "grade": "A+",
+      "score": 93,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "60"
+        },
+        {
+          "name": "Chatbot Arena",
+          "value": "1481"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "88.7%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "93.2%"
+        }
+      ]
     },
     {
       "rank": 3,
       "model": "Gemini 3.1 Pro",
-      "lab": "Google",
-      "score": 57
+      "lab": "Google DeepMind",
+      "grade": "A",
+      "score": 90,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "57"
+        },
+        {
+          "name": "Chatbot Arena",
+          "value": "1486"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "80.6%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "94.3%"
+        }
+      ]
     },
     {
       "rank": 4,
-      "model": "Grok 4.3",
-      "lab": "xAI",
-      "score": 53
+      "model": "Claude Opus 4.7",
+      "lab": "Anthropic",
+      "grade": "A-",
+      "score": 85,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "57"
+        },
+        {
+          "name": "Chatbot Arena",
+          "value": "1502"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "87.6%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "94.2%"
+        }
+      ]
     },
     {
       "rank": 5,
-      "model": "GLM-5.2",
-      "lab": "Z.ai · open",
-      "score": 51
+      "model": "Grok 4.3",
+      "lab": "xAI",
+      "grade": "B+",
+      "score": 81,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "54"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "90.1%"
+        }
+      ]
     },
     {
       "rank": 6,
-      "model": "DeepSeek V4-Pro",
-      "lab": "DeepSeek · open",
-      "score": 50
+      "model": "Qwen 3.7 Max",
+      "lab": "Alibaba · open",
+      "grade": "B",
+      "score": 77,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "57"
+        }
+      ]
     },
     {
       "rank": 7,
-      "model": "Muse Spark",
-      "lab": "Meta",
-      "score": 50
+      "model": "Gemini 3.0 Pro",
+      "lab": "Google DeepMind",
+      "grade": "B",
+      "score": 75,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "52"
+        },
+        {
+          "name": "Chatbot Arena",
+          "value": "1486"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "88.9%"
+        }
+      ]
     },
     {
       "rank": 8,
-      "model": "Gemini 3.5 Flash",
-      "lab": "Google",
-      "score": 49
+      "model": "DeepSeek V4 Pro",
+      "lab": "DeepSeek · open",
+      "grade": "B-",
+      "score": 72,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "44"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "80.6%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "85.3%"
+        }
+      ]
     },
     {
       "rank": 9,
       "model": "MiniMax M3",
       "lab": "MiniMax · open",
-      "score": 48
+      "grade": "B-",
+      "score": 71,
+      "sources": [
+        {
+          "name": "SWE-bench",
+          "value": "80.5%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "92.7%"
+        }
+      ]
     },
     {
       "rank": 10,
-      "model": "Kimi",
-      "lab": "Moonshot · open",
-      "score": 47
+      "model": "GLM-5.2",
+      "lab": "Z.ai · open",
+      "grade": "B-",
+      "score": 70,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "51"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "~70%"
+        }
+      ]
     }
   ],
   "benchmarks": [

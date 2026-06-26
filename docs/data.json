@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:07:33.640Z",
+  "updated": "2026-06-26T22:35:14.643Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -372,6 +372,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "South Korea plans to train entire military as \"drone warriors\"",
+      "summary": "Half-million strong military will train on drones as “universal combat tool.”",
+      "date": "2026-06-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Timothy B. Lee",
+      "summary": "<blockquote cite=\"https://twitter.com/binarybits/status/2070527944817053862\"><p>This is like saying there's no learning curve to being a manager because your employees will just do whatever you tell them to do.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://twitter.com",
+      "date": "2026-06-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
+      "date": "2026-06-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/"
     },
     {
       "category": "industry",
@@ -1421,16 +1451,6 @@
       "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "summary": "Audited accounting shows growing revenues being dwarfed by R&D, other expenses.",
-      "date": "2026-06-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/"
-    },
-    {
       "category": "model",
       "lab": "Meta",
       "title": "Quoting Georgi Gerganov",
@@ -1449,16 +1469,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
-    },
-    {
-      "category": "product",
-      "lab": "Microsoft",
-      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
-      "date": "2026-06-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/"
     },
     {
       "category": "model",
@@ -1489,16 +1499,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "datasette-agent 0.3a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.3a0\">datasette-agent 0.3a0</a></p> <blockquote> <ul> <li>New tool, <code>execute_write_sql</code>, which requests user approval and then writes to a database - taking user permission",
-      "date": "2026-06-15",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything"
     }
   ]
 }

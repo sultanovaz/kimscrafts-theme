@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=5.0" />
+<meta name="theme-color" content="#05060a" />
+<meta name="description" content="AI Frontier — a borderless intelligence dashboard. Every model, lab, benchmark and product launch, in one feed." />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="FRONTIER" />
+<title>AI FRONTIER — intel feed</title>
+<link rel="manifest" href="manifest.webmanifest" />
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="assets/icon.svg" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preconnect" href="https://hn.algolia.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --bg:#05060a; --bg2:#080a10; --panel:#0a0d14;
+    --ink:#eef2f8; --dim:#7a8595; --faint:#525c6b;
+    --line:rgba(125,145,180,.11); --line2:rgba(125,145,180,.20);
+    --cyan:#00e5ff; --live:#22e07a; --hot:#ff2d6b; --warm:#ffb020; --violet:#9b7bff;
+    --safe-t:env(safe-area-inset-top,0px); --safe-b:env(safe-area-inset-bottom,0px);
+  }
+  *{ box-sizing:border-box; margin:0; padding:0; border-radius:0 !important; -webkit-tap-highlight-color:transparent; }
+  html{ background:var(--bg); }
+  body{
+    background:var(--bg); color:var(--ink); overflow-x:hidden;
+    font-family:"Space Grotesk",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    -webkit-font-smoothing:antialiased; line-height:1.25; letter-spacing:.005em;
+    /* faint HUD grid */
+    background-image:
+      linear-gradient(rgba(125,145,180,.035) 1px,transparent 1px),
+      linear-gradient(90deg,rgba(125,145,180,.035) 1px,transparent 1px),
+      radial-gradient(120% 80% at 50% -10%, rgba(0,229,255,.07), transparent 60%);
+    background-size:44px 44px,44px 44px,100% 100%;
+  }
+  mono,.mono,.m{ font-family:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,monospace; }
+  a{ color:inherit; text-decoration:none; }
+  ::selection{ background:var(--cyan); color:#000; }
+  ::-webkit-scrollbar{ width:0; height:0; }
+
+  /* ───────── top hud bar ───────── */
+  header{
+    position:sticky; top:0; z-index:50; background:rgba(5,6,10,.82);
+    backdrop-filter:blur(14px) saturate(140%); -webkit-backdrop-filter:blur(14px) saturate(140%);
+    border-bottom:1px solid var(--line); padding-top:var(--safe-t);
+  }
+  .hud{ display:flex; align-items:center; justify-content:space-between; height:48px; padding:0 14px; gap:10px; }
+  .wordmark{ font-weight:700; font-size:15px; letter-spacing:.16em; display:flex; align-items:center; gap:7px; white-space:nowrap; }
+  .wordmark .b{ color:var(--cyan); }
+  .wordmark .cur{ width:9px; height:16px; background:var(--cyan); display:inline-block; animation:blink 1.1s steps(1) infinite; box-shadow:0 0 12px var(--cyan); }
+  @keyframes blink{ 50%{ opacity:0; } }
+  .hudright{ display:flex; align-items:center; gap:12px; font-family:"JetBrains Mono",monospace; font-size:11px; color:var(--dim); }
+  .clock{ color:var(--ink); letter-spacing:.06em; }
+  .livepill{ display:flex; align-items:center; gap:6px; color:var(--live); font-weight:700; letter-spacing:.14em; }
+  .dot{ width:7px; height:7px; background:var(--live); display:inline-block; box-shadow:0 0 0 0 var(--live); animation:pulse 1.8s infinite; }
+  @keyframes pulse{ 0%{ box-shadow:0 0 0 0 rgba(34,224,122,.6);} 70%{ box-shadow:0 0 0 7px rgba(34,224,122,0);} 100%{ box-shadow:0 0 0 0 rgba(34,224,122,0);} }
+  #scan{ height:2px; background:linear-gradient(90deg,var(--cyan),var(--violet)); width:0; transition:width .5s ease; box-shadow:0 0 10px var(--cyan); }
+
+  /* ───────── hero ───────── */
+  .hero{ padding:26px 14px 18px; border-bottom:1px solid var(--line); position:relative; overflow:hidden; }
+  .hero .eyebrow{ font-family:"JetBrains Mono",monospace; font-size:10.5px; letter-spacing:.32em; color:var(--cyan); text-transform:uppercase; }
+  .hero h1{ font-size:clamp(34px,12vw,58px); font-weight:700; line-height:.92; letter-spacing:-.03em; margin-top:10px; }
+  .hero h1 .g{ color:var(--faint); }
+  .substat{ display:flex; flex-wrap:wrap; gap:6px 22px; margin-top:16px; font-family:"JetBrains Mono",monospace; font-size:11.5px; color:var(--dim); }
+  .substat b{ color:var(--ink); font-weight:500; }
+  .substat .new{ color:var(--hot); font-weight:700; }
+  .ticker{ margin-top:16px; height:20px; overflow:hidden; position:relative; font-size:12.5px; color:var(--dim); }
+  .ticker .t-track{ position:absolute; white-space:nowrap; will-change:transform; }
+  .ticker .t-track span{ margin-right:42px; }
+  .ticker .t-track b{ color:var(--cyan); font-family:"JetBrains Mono",monospace; font-size:10px; letter-spacing:.1em; margin-right:8px; }
+
+  /* ───────── filter rail ───────── */
+  .rail{ position:sticky; top:calc(48px + var(--safe-t)); z-index:40; background:rgba(5,6,10,.9); backdrop-filter:blur(12px); -webkit-backdrop-filter:blur(12px); border-bottom:1px solid var(--line); }
+  .chips{ display:flex; gap:0; overflow-x:auto; scrollbar-width:none; }
+  .chip{ flex:0 0 auto; font-family:"JetBrains Mono",monospace; font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--dim);
+    padding:13px 14px; background:none; border:0; border-right:1px solid var(--line); cursor:pointer; white-space:nowrap; transition:color .15s,background .15s; }
+  .chip:last-child{ border-right:0; }
+  .chip .ct{ font-size:9px; color:var(--faint); margin-left:5px; }
+  .chip[aria-pressed="true"]{ color:#02060a; background:var(--cyan); }
+  .chip[aria-pressed="true"] .ct{ color:rgba(2,6,10,.6); }
+  .chip.live[aria-pressed="true"]{ background:var(--live); }
+
+  /* ───────── section headers ───────── */
+  .sec-h{ display:flex; align-items:baseline; justify-content:space-between; padding:22px 14px 10px; }
+  .sec-h h2{ font-size:13px; font-weight:700; letter-spacing:.2em; text-transform:uppercase; display:flex; align-items:center; gap:9px; }
+  .sec-h h2 .sq{ width:8px; height:8px; background:var(--cyan); box-shadow:0 0 10px var(--cyan); }
+  .sec-h h2.lv .sq{ background:var(--live); box-shadow:0 0 10px var(--live); }
+  .sec-h .meta{ font-family:"JetBrains Mono",monospace; font-size:10.5px; color:var(--faint); letter-spacing:.08em; }
+  .sec-h .refresh{ font-family:"JetBrains Mono",monospace; font-size:10.5px; color:var(--cyan); letter-spacing:.1em; background:none; border:0; cursor:pointer; }
+  .sec-h .refresh:active{ opacity:.5; }
+
+  /* ───────── feed rows ───────── */
+  .feed{ border-top:1px solid var(--line); }
+  .row{ display:block; padding:15px 14px; border-bottom:1px solid var(--line); position:relative; transition:background .15s; }
+  .row:active{ background:var(--bg2); }
+  .row.isnew::before{ content:""; position:absolute; left:0; top:0; bottom:0; width:2px; background:var(--hot); box-shadow:0 0 10px var(--hot); }
+  .row-top{ display:flex; align-items:center; gap:9px; margin-bottom:7px; font-family:"JetBrains Mono",monospace; font-size:10px; letter-spacing:.05em; }
+  .lab{ color:#02060a; background:var(--cyan); padding:2px 7px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; }
+  .lab.l-anthropic{ background:#d97757; } .lab.l-openai{ background:#10a37f; } .lab.l-google{ background:#4d8bff; color:#fff; }
+  .lab.l-meta{ background:#1d8fff; color:#fff; } .lab.l-xai{ background:#e8ecf2; } .lab.l-deepseek{ background:#7c6bff; color:#fff; }
+  .lab.l-mistral{ background:#ff7000; color:#fff; } .lab.l-nvidia{ background:#76b900; }
+  .cat{ color:var(--dim); text-transform:uppercase; letter-spacing:.12em; }
+  .imp{ margin-left:auto; display:flex; gap:2px; align-items:center; }
+  .imp i{ width:5px; height:11px; background:var(--line2); display:inline-block; }
+  .imp i.on{ background:var(--cyan); }
+  .imp.hi i.on{ background:var(--hot); box-shadow:0 0 6px var(--hot); }
+  .imp.mid i.on{ background:var(--warm); }
+  .when{ color:var(--faint); }
+  .badge-new{ color:var(--hot); font-weight:700; letter-spacing:.1em; }
+  .row h3{ font-size:16.5px; font-weight:600; line-height:1.22; letter-spacing:-.01em; }
+  .row p{ font-size:13.5px; color:var(--dim); line-height:1.42; margin-top:7px; }
+  .row .tags{ display:flex; flex-wrap:wrap; gap:6px; margin-top:9px; }
+  .row .tag{ font-family:"JetBrains Mono",monospace; font-size:9.5px; color:var(--dim); letter-spacing:.06em; }
+  .row .tag::before{ content:"#"; color:var(--faint); }
+  .row .src{ font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--cyan); letter-spacing:.08em; margin-top:9px; display:inline-flex; align-items:center; gap:5px; }
+  .row .pts{ color:var(--warm); }
+
+  /* ───────── benchmark board ───────── */
+  .board{ display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--line); border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+  .bcell{ background:var(--bg); padding:14px; }
+  .bcell .bname{ font-family:"JetBrains Mono",monospace; font-size:10px; letter-spacing:.12em; color:var(--dim); text-transform:uppercase; }
+  .bcell .blead{ font-size:15px; font-weight:700; margin-top:8px; line-height:1.1; }
+  .bcell .bval{ font-family:"JetBrains Mono",monospace; font-size:12px; color:var(--cyan); margin-top:4px; }
+
+  /* ───────── states ───────── */
+  .empty,.loading{ padding:30px 14px; text-align:center; color:var(--faint); font-family:"JetBrains Mono",monospace; font-size:12px; letter-spacing:.08em; }
+  .loading .bar{ height:1px; background:var(--line); margin:14px auto 0; max-width:200px; position:relative; overflow:hidden; }
+  .loading .bar::after{ content:""; position:absolute; left:-40%; top:0; bottom:0; width:40%; background:var(--cyan); animation:load 1.1s linear infinite; box-shadow:0 0 10px var(--cyan); }
+  @keyframes load{ to{ left:100%; } }
+
+  footer{ padding:30px 14px calc(40px + var(--safe-b)); color:var(--faint); font-size:11.5px; line-height:1.7; font-family:"JetBrains Mono",monospace; letter-spacing:.04em; border-top:1px solid var(--line); }
+  footer a{ color:var(--dim); }
+  footer .big{ font-family:"Space Grotesk",sans-serif; color:var(--dim); font-size:13px; letter-spacing:0; margin-bottom:14px; line-height:1.5; }
+
+  /* fade-in */
+  .row,.bcell{ animation:fade .4s ease both; }
+  @keyframes fade{ from{ opacity:0; transform:translateY(6px);} to{ opacity:1; transform:none;} }
+</style>
+</head>
+<body>
+<header>
+  <div class="hud">
+    <div class="wordmark">AI<span class="b">▮</span>FRONTIER<span class="cur"></span></div>
+    <div class="hudright">
+      <span class="clock" id="clock">--:--:--</span>
+      <span class="livepill"><span class="dot"></span>LIVE</span>
+    </div>
+  </div>
+  <div id="scan"></div>
+</header>
+
+<section class="hero">
+  <div class="eyebrow">// frontier intelligence · no borders · stay aware</div>
+  <h1>EVERYTHING<br><span class="g">IN</span> AI.<br>ONE FEED.</h1>
+  <div class="substat">
+    <span><b id="stat-count">—</b> signals tracked</span>
+    <span>sync <b id="stat-sync">—</b></span>
+    <span id="stat-new-wrap" style="display:none"><span class="new" id="stat-new">—</span> new since you checked</span>
+  </div>
+  <div class="ticker"><div class="t-track" id="ticker"></div></div>
+</section>
+
+<nav class="rail">
+  <div class="chips" id="chips"></div>
+</nav>
+
+<!-- LIVE PULSE -->
+<section id="live-sec">
+  <div class="sec-h">
+    <h2 class="lv"><span class="sq"></span>Live pulse</h2>
+    <button class="refresh" id="refreshLive">↻ refresh</button>
+  </div>
+  <div class="feed" id="live-feed">
+    <div class="loading">acquiring live signal…<div class="bar"></div></div>
+  </div>
+</section>
+
+<!-- BENCHMARK BOARD -->
+<section id="bench-sec" style="display:none">
+  <div class="sec-h">
+    <h2><span class="sq"></span>Benchmark board</h2>
+    <span class="meta">who leads now</span>
+  </div>
+  <div class="board" id="board"></div>
+</section>
+
+<!-- FRONTIER INTEL -->
+<section id="intel-sec">
+  <div class="sec-h">
+    <h2><span class="sq"></span>Frontier intel</h2>
+    <span class="meta" id="intel-meta">curated · researched</span>
+  </div>
+  <div class="feed" id="intel-feed">
+    <div class="loading">loading intel…<div class="bar"></div></div>
+  </div>
+</section>
+
+<footer>
+  <div class="big">Built so you can grind in the real world and still never miss a move in AI. Open it, scan it, you're caught up. Add to home screen for the full-screen app.</div>
+  LIVE PULSE · Hacker News (Algolia) + dev.to, fetched in your browser, always fresh.<br>
+  FRONTIER INTEL · multi-agent deep research, fact-checked, refreshed on a schedule.<br>
+  <span id="foot-sync">—</span><br><br>
+  <a href="countdown/">→ the 90 · countdown</a>
+</footer>
+
+<script>
+/* ============================================================
+   AI FRONTIER — dashboard logic (vanilla, zero deps)
+   ============================================================ */
+const $ = (s,r=document)=>r.querySelector(s);
+const $$ = (s,r=document)=>[...r.querySelectorAll(s)];
+const LS_LAST = "frontier_lastvisit_v1";
+const lastVisit = +(localStorage.getItem(LS_LAST) || 0);
+
+/* ---------- clock + scan ---------- */
+function pad(n){ return n<10?"0"+n:""+n; }
+function tickClock(){
+  const d=new Date();
+  $("#clock").textContent = pad(d.getHours())+":"+pad(d.getMinutes())+":"+pad(d.getSeconds());
+}
+tickClock(); setInterval(tickClock,1000);
+setTimeout(()=>{ $("#scan").style.width="100%"; },120);
+
+/* ---------- time-ago ---------- */
+function ago(ts){
+  if(!ts) return "";
+  const s=Math.floor((Date.now()-ts)/1000);
+  if(s<60) return s+"s";
+  const m=Math.floor(s/60); if(m<60) return m+"m";
+  const h=Math.floor(m/60); if(h<24) return h+"h";
+  const d=Math.floor(h/24); if(d<30) return d+"d";
+  const mo=Math.floor(d/30); if(mo<12) return mo+"mo";
+  return Math.floor(mo/12)+"y";
+}
+/* parse "YYYY-MM" or "YYYY-MM-DD" or ISO -> ms */
+function parseDate(s){
+  if(!s) return 0;
+  if(/^\d{4}-\d{2}$/.test(s)) s=s+"-15";
+  const t=Date.parse(s); return isNaN(t)?0:t;
+}
+function fmtDate(ts){
+  if(!ts) return "";
+  return new Date(ts).toLocaleDateString(undefined,{month:"short",day:"numeric"});
+}
+
+/* ---------- lab class helper ---------- */
+function labClass(lab=""){
+  const k=lab.toLowerCase();
+  if(k.includes("anthropic")||k.includes("claude")) return "l-anthropic";
+  if(k.includes("openai")||k.includes("gpt")) return "l-openai";
+  if(k.includes("google")||k.includes("deepmind")||k.includes("gemini")) return "l-google";
+  if(k.includes("meta")||k.includes("llama")) return "l-meta";
+  if(k.includes("xai")||k.includes("grok")) return "l-xai";
+  if(k.includes("deepseek")) return "l-deepseek";
+  if(k.includes("mistral")) return "l-mistral";
+  if(k.includes("nvidia")) return "l-nvidia";
+  return "";
+}
+function impClass(n){ return n>=5?"hi":n>=3?"mid":""; }
+function impBars(n){
+  n=Math.max(1,Math.min(5,n||1));
+  let h=""; for(let i=1;i<=5;i++) h+=`<i class="${i<=n?'on':''}"></i>`; return h;
+}
+const esc = s => (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
+function host(u){ try{ return new URL(u).hostname.replace(/^www\./,""); }catch(e){ return "source"; } }
+
+/* ============================================================
+   STATE + FILTERS
+   ============================================================ */
+let CATS = [
+  {key:"all",   label:"All"},
+  {key:"live",  label:"Live", live:true},
+  {key:"model", label:"Models"},
+  {key:"benchmark", label:"Benchmarks"},
+  {key:"product", label:"Products"},
+  {key:"lab",   label:"Labs"},
+  {key:"research", label:"Research"},
+  {key:"industry", label:"Industry"},
+  {key:"hardware", label:"Hardware"},
+];
+let activeCat = "all";
+let INTEL = [];     // curated items
+let LIVE = [];      // live items
+let intelCounts = {};
+
+function buildChips(){
+  const c=$("#chips"); c.innerHTML="";
+  CATS.forEach(cat=>{
+    const b=document.createElement("button");
+    b.className="chip"+(cat.live?" live":"");
+    b.setAttribute("aria-pressed", cat.key===activeCat);
+    const n = cat.key==="all" ? INTEL.length+LIVE.length
+            : cat.key==="live" ? LIVE.length
+            : (intelCounts[cat.key]||0);
+    b.innerHTML = cat.label + (n?`<span class="ct">${n}</span>`:"");
+    b.onclick=()=>{ activeCat=cat.key; buildChips(); render(); window.scrollTo({top:0,behavior:"smooth"}); };
+    c.appendChild(b);
+  });
+}
+
+/* ============================================================
+   RENDER
+   ============================================================ */
+function intelRow(it){
+  const ts=parseDate(it.date);
+  const isnew = ts>lastVisit && lastVisit>0;
+  const lc=labClass(it.lab);
+  const tags=(it.tags||[]).slice(0,4).map(t=>`<span class="tag">${esc(t)}</span>`).join("");
+  const a=document.createElement("a");
+  a.className="row"+(isnew?" isnew":"");
+  a.href=it.url||"#"; a.target="_blank"; a.rel="noopener";
+  a.innerHTML=`
+    <div class="row-top">
+      <span class="lab ${lc}">${esc(it.lab||"AI")}</span>
+      <span class="cat">${esc(it.category||"")}</span>
+      ${isnew?'<span class="badge-new">NEW</span>':''}
+      <span class="imp ${impClass(it.importance)}">${impBars(it.importance)}</span>
+    </div>
+    <h3>${esc(it.title)}</h3>
+    <p>${esc(it.summary)}</p>
+    ${tags?`<div class="tags">${tags}</div>`:""}
+    <span class="src">${esc(host(it.url))} · ${fmtDate(ts)||esc(it.date||"")} ↗</span>`;
+  return a;
+}
+
+function liveRow(it){
+  const isnew = it.ts>lastVisit && lastVisit>0;
+  const a=document.createElement("a");
+  a.className="row"+(isnew?" isnew":"");
+  a.href=it.url; a.target="_blank"; a.rel="noopener";
+  a.innerHTML=`
+    <div class="row-top">
+      <span class="lab">${esc(it.src||"HN")}</span>
+      ${it.points!=null?`<span class="cat pts">▲ ${it.points}</span>`:""}
+      ${it.comments!=null?`<span class="cat">${it.comments} comments</span>`:""}
+      ${isnew?'<span class="badge-new">NEW</span>':''}
+      <span class="when" style="margin-left:auto">${ago(it.ts)}</span>
+    </div>
+    <h3>${esc(it.title)}</h3>
+    <span class="src">${esc(host(it.url))} ↗</span>`;
+  return a;
+}
+
+function render(){
+  const liveSec=$("#live-sec"), intelSec=$("#intel-sec"), benchSec=$("#bench-sec");
+  const showLive  = activeCat==="all"||activeCat==="live";
+  const showIntel = activeCat!=="live";
+  liveSec.style.display = showLive ? "" : "none";
+
+  // live feed
+  if(showLive){
+    const f=$("#live-feed");
+    if(LIVE.length){ f.innerHTML=""; LIVE.slice(0,40).forEach(it=>f.appendChild(liveRow(it))); }
+  }
+
+  // intel feed
+  if(showIntel){
+    intelSec.style.display="";
+    const items = INTEL.filter(it=> activeCat==="all"||it.category===activeCat);
+    const f=$("#intel-feed"); f.innerHTML="";
+    if(!items.length){ f.innerHTML='<div class="empty">no signals in this band</div>'; }
+    else items.forEach(it=>f.appendChild(intelRow(it)));
+    $("#intel-meta").textContent = items.length+" signals · curated";
+  } else { intelSec.style.display="none"; }
+
+  // benchmark board only on all/benchmark
+  benchSec.style.display = (activeCat==="all"||activeCat==="benchmark") && BOARD.length ? "" : "none";
+}
+
+/* ============================================================
+   BENCHMARK BOARD (derived from intel benchmark items)
+   ============================================================ */
+let BOARD=[];
+function buildBoard(){
+  const b=$("#board"); b.innerHTML="";
+  BOARD.slice(0,6).forEach(x=>{
+    const d=document.createElement("div"); d.className="bcell";
+    d.innerHTML=`<div class="bname">${esc(x.name)}</div><div class="blead">${esc(x.leader)}</div><div class="bval">${esc(x.value)}</div>`;
+    b.appendChild(d);
+  });
+}
+
+/* ============================================================
+   DATA: intel (curated, from data.json or embedded fallback)
+   ============================================================ */
+async function loadIntel(){
+  let data=null;
+  try{
+    const r=await fetch("data.json?_="+Date.now());
+    if(r.ok) data=await r.json();
+  }catch(e){}
+  if(!data || !data.items || !data.items.length) data=FALLBACK;
+
+  INTEL = data.items.slice().sort((a,b)=>{
+    const da=parseDate(a.date), db=parseDate(b.date);
+    if(db!==da) return db-da;
+    return (b.importance||0)-(a.importance||0);
+  });
+  intelCounts={};
+  INTEL.forEach(it=>{ intelCounts[it.category]=(intelCounts[it.category]||0)+1; });
+  BOARD = data.benchmarks || deriveBoard(INTEL);
+
+  // sync labels
+  const syncTs = data.updated ? Date.parse(data.updated) : Date.now();
+  $("#stat-sync").textContent = ago(syncTs)+" ago";
+  $("#foot-sync").textContent = "frontier intel synced "+new Date(syncTs).toLocaleString();
+  $("#intel-meta").textContent = INTEL.length+" signals · curated";
+
+  buildBoard();
+  updateStats();
+  buildTicker();
+  buildChips();
+  render();
+}
+
+function deriveBoard(items){
+  // crude: pull benchmark-category items, format as board cells
+  return items.filter(i=>i.category==="benchmark").slice(0,6).map(i=>({
+    name:(i.tags&&i.tags[0])||"benchmark",
+    leader:i.lab||"—",
+    value:(i.title||"").slice(0,40)
+  }));
+}
+
+function updateStats(){
+  $("#stat-count").textContent = INTEL.length+LIVE.length;
+  const newCount = INTEL.filter(i=>parseDate(i.date)>lastVisit).length
+                 + LIVE.filter(i=>i.ts>lastVisit).length;
+  if(lastVisit>0 && newCount>0){
+    $("#stat-new").textContent = newCount;
+    $("#stat-new-wrap").style.display="";
+  }
+}
+
+function buildTicker(){
+  const top = INTEL.filter(i=>(i.importance||0)>=4).slice(0,8);
+  if(!top.length) return;
+  const tk=$("#ticker");
+  const html = top.map(i=>`<span><b>${esc((i.lab||'AI').toUpperCase())}</b>${esc(i.title)}</span>`).join("");
+  tk.innerHTML = html+html; // double for seamless loop
+  // animate
+  const w = tk.scrollWidth/2;
+  let x=0;
+  function step(){ x-=0.4; if(-x>=w) x=0; tk.style.transform=`translateX(${x}px)`; requestAnimationFrame(step); }
+  requestAnimationFrame(step);
+}
+
+/* ============================================================
+   DATA: live pulse (client-side, CORS-friendly)
+   ============================================================ */
+const HN_QUERIES = ["AI model","OpenAI","Anthropic Claude","Google Gemini","LLM","artificial intelligence","Grok xAI","DeepSeek"];
+async function fetchHN(){
+  const since = Math.floor((Date.now()-1000*60*60*24*21)/1000); // last 21 days
+  const reqs = HN_QUERIES.map(q=>
+    fetch(`https://hn.algolia.com/api/v1/search?query=${encodeURIComponent(q)}&tags=story&numericFilters=created_at_i>${since},points>30&hitsPerPage=20`)
+      .then(r=>r.ok?r.json():null).catch(()=>null)
+  );
+  const res = await Promise.all(reqs);
+  const map=new Map();
+  res.forEach(r=>{
+    if(!r||!r.hits) return;
+    r.hits.forEach(h=>{
+      if(!h.title) return;
+      const url = h.url || `https://news.ycombinator.com/item?id=${h.objectID}`;
+      map.set(h.objectID,{
+        title:h.title, url, src:"HN",
+        points:h.points||0, comments:h.num_comments||0,
+        ts:(h.created_at_i||0)*1000
+      });
+    });
+  });
+  return [...map.values()];
+}
+async function fetchDevto(){
+  try{
+    const r=await fetch("https://dev.to/api/articles?tag=ai&top=7&per_page=15");
+    if(!r.ok) return [];
+    const arr=await r.json();
+    return arr.map(a=>({
+      title:a.title, url:a.url, src:"DEV",
+      points:a.positive_reactions_count||0, comments:a.comments_count||0,
+      ts:Date.parse(a.published_at)||0
+    }));
+  }catch(e){ return []; }
+}
+async function loadLive(){
+  const f=$("#live-feed");
+  f.innerHTML='<div class="loading">acquiring live signal…<div class="bar"></div></div>';
+  let hn=[], dv=[];
+  try{ [hn,dv]=await Promise.all([fetchHN(),fetchDevto()]); }catch(e){}
+  let items=[...hn,...dv];
+  // rank: recency-weighted score
+  const now=Date.now();
+  items.forEach(it=>{
+    const ageH=Math.max(1,(now-it.ts)/3600000);
+    it._score=(it.points+1)/Math.pow(ageH+2,0.55);
+  });
+  items.sort((a,b)=>b._score-a._score);
+  LIVE=items;
+  if(!LIVE.length){
+    f.innerHTML='<div class="empty">live signal unavailable — pull to retry. Frontier intel below is always available.</div>';
+  } else { render(); }
+  updateStats(); buildChips();
+}
+
+/* ============================================================
+   EVENTS
+   ============================================================ */
+$("#refreshLive").addEventListener("click",loadLive);
+
+/* ============================================================
+   EMBEDDED FALLBACK (overwritten by data.json when present)
+   ============================================================ */
+const FALLBACK = {"updated":"2026-06-26T05:06:24.240Z","benchmarks":[{"name":"SWE-bench Verified","leader":"Claude (Anthropic)","value":"~95% · coding agents"},{"name":"ARC-AGI-2","leader":"GPT-5.5 · Gemini","value":"~85% (from 54%)"},{"name":"GPQA Diamond","leader":"Gemini · Claude","value":"93–95% · saturating"},{"name":"AIME 2026","leader":"GLM-5.2","value":"~100% · solved"},{"name":"Humanity's Last Exam","leader":"Claude","value":"50–65% range"},{"name":"ARC-AGI-3","leader":"unclaimed","value":"<1% · new frontier"}],"items":[{"category":"industry","lab":"Google DeepMind","title":"DeepMind talent exodus: Shazeer to OpenAI, Jumper to Anthropic","summary":"In one week, Transformer co-author Noam Shazeer left for OpenAI and AlphaFold Nobel laureate John Jumper left for Anthropic — the most high-profile defections of 2026's talent war, reportedly wiping roughly $250B off Alphabet's market value.","date":"2026-06-23","importance":5,"tags":["talent-war","personnel","DeepMind","OpenAI","Anthropic"],"url":"https://fortune.com/2026/06/23/google-deepmind-ai-researcher-departures-raise-doubts-about-ability-to-win-the-ai-race-shazeer-jumper-eye-on-ai/"},{"category":"model","lab":"Zhipu/GLM (Z.ai)","title":"GLM-5.2: top open-weights model beats GPT-5.5 on coding at ~1/6 cost","summary":"Z.ai's MIT-licensed GLM-5.2 (~750B MoE, ~40B active, 1M context) is the highest-ranked open-weights model on the Artificial Analysis Intelligence Index and 4th overall, beating GPT-5.5 on multiple long-horizon coding benchmarks at roughly a sixth of the cost — a landmark proof that open weights can sit at the frontier.","date":"2026-06-13","importance":5,"tags":["open-weights","MoE","coding","1M-context","China","MIT-license"],"url":"https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost"},{"category":"industry","lab":"US Government / Anthropic","title":"US export-control order forces global shutdown of Fable 5 and Mythos 5","summary":"On June 12 the Commerce Department's BIS ordered Anthropic to block Fable 5 and Mythos 5 for all foreign nationals over a claimed jailbreak; unable to screen by nationality, Anthropic disabled both models worldwide. It is the first time the US has used export controls to pull a deployed commercial frontier model offline — a major precedent. As of June 25 the models remain down.","date":"2026-06-12","importance":5,"tags":["export-controls","regulation","Anthropic","national-security","frontier-models"],"url":"https://www.anthropic.com/news/fable-mythos-access"},{"category":"model","lab":"Anthropic","title":"Claude Fable 5 and Mythos 5: first Mythos-tier models go public","summary":"On June 9 Anthropic released Claude Fable 5, its first public model in the new Mythos tier (above Opus), with state-of-the-art results across software engineering, science, vision, and long-horizon agentic tasks. Fable 5 falls back to Opus 4.8 for flagged bio/cyber requests; Mythos 5 is the same model with safeguards lifted for vetted cyberdefenders via Project Glasswing. Pricing is $10 in / $50 per million output tokens.","date":"2026-06-09","importance":5,"tags":["fable-5","mythos-5","frontier","agentic","benchmarks"],"url":"https://www.anthropic.com/news/claude-fable-5-mythos-5"},{"category":"hardware","lab":"Nvidia","title":"Nvidia Vera Rubin enters full production at GTC Taipei","summary":"Nvidia confirmed its Vera Rubin platform (336B-transistor R100 GPU plus 88-core Vera CPU) is in full production, with ~150 Taiwanese suppliers building rack systems and Samsung, SK hynix and Micron certified for HBM4. First cloud shipments begin summer 2026; Nvidia claims ~5x Blackwell inference at far lower cost per token.","date":"2026-06-01","importance":5,"tags":["Nvidia","Vera-Rubin","GPU","HBM4","datacenter"],"url":"https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory"},{"category":"model","lab":"Anthropic","title":"Claude Opus 4.8 tops Intelligence Index with dynamic workflows","summary":"Released just 41 days after Opus 4.7, Opus 4.8 leads the Artificial Analysis Intelligence Index and is reported ~4x less likely than 4.7 to let flaws in its own code slip through. It defaults to a 1M-token context window and pairs with Claude Code 'dynamic workflows' for codebase-scale migrations; it is also the strongest computer-use/browser-agent model tested (84% Online-Mind2Web).","date":"2026-05-28","importance":5,"tags":["opus-4.8","coding","computer-use","agents","1M-context"],"url":"https://www.anthropic.com/news/claude-opus-4-8"},{"category":"industry","lab":"Anthropic","title":"Anthropic raises $65B Series H at $965B, passing OpenAI","summary":"The Series H (led by Altimeter, Dragoneer, Greenoaks, Sequoia) values Anthropic at $965B post-money, surpassing OpenAI as the most valuable AI startup. Driven by explosive revenue growth toward a ~$47B run-rate, it is widely seen as its last private raise before an IPO.","date":"2026-05-28","importance":5,"tags":["funding","Series-H","valuation","Anthropic"],"url":"https://www.anthropic.com/news/series-h"},{"category":"model","lab":"DeepSeek","title":"DeepSeek V4 preview: 1.6T MoE that closes the gap with frontier","summary":"DeepSeek released an MIT-licensed preview of V4: V4-Pro (1.6T params, 49B active) and V4-Flash (284B, 13B active), both with 1M context. V4-Pro hits 80.6% on SWE-bench Verified (top open-weights, tied with Gemini 3.1 Pro) at around $0.44 in / $0.87 per million output tokens, dramatically undercutting closed peers.","date":"2026-04-24","importance":5,"tags":["open-weights","MoE","1M-context","coding","low-cost","China","MIT-license"],"url":"https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/"},{"category":"model","lab":"OpenAI","title":"GPT-5.5 launches as OpenAI's smartest, most agentic flagship","summary":"GPT-5.5 (with a Pro tier) is OpenAI's most capable model yet, with major gains in agentic coding, computer use, knowledge work, and scientific research, able to carry multi-step tasks across tools to completion. It became the foundation of the ChatGPT lineup and API.","date":"2026-04-23","importance":5,"tags":["GPT-5.5","flagship","frontier","agentic","API"],"url":"https://openai.com/index/introducing-gpt-5-5/"},{"category":"hardware","lab":"Google DeepMind","title":"Google Ironwood (TPU v7) reaches GA for inference","summary":"Google's seventh-gen Ironwood TPU, its first 'inference-first' chip, reached general availability across Compute Engine, GKE and Vertex AI. Anthropic alone committed to up to one million Ironwood chips and 1+ GW of capacity in 2026; Google also previewed 8th-gen TPUs on TSMC 2nm for late 2027.","date":"2026-04-22","importance":5,"tags":["Google","TPU","Ironwood","inference"],"url":"https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads"},{"category":"industry","lab":"OpenAI","title":"OpenAI closes record $122B round at $852B valuation","summary":"OpenAI closed what was reported as the largest private funding round in history (~$122B) at an $852B post-money valuation, anchored by Amazon, Nvidia and SoftBank, with revenue reportedly near $2B/month — setting the stage for its IPO filing.","date":"2026-04-01","importance":5,"tags":["funding","OpenAI","valuation","mega-round"],"url":"https://tech-insider.org/openai-110-billion-funding-round-2026/"},{"category":"benchmark","lab":"ARC Prize Foundation","title":"ARC-AGI-3 launched; frontier models score under 1%","summary":"The ARC Prize Foundation unveiled ARC-AGI-3, an interactive, agentic reasoning benchmark, at Y Combinator. Frontier models scored below 1%, re-establishing a hard frontier even as ARC-AGI-2 scores climbed past 80%.","date":"2026-03-15","importance":5,"tags":["ARC-AGI-3","agentic","reasoning","benchmark-launch","frontier"],"url":"https://arxiv.org/pdf/2603.24621"},{"category":"research","lab":"Google DeepMind","title":"AlphaGenome published in Nature, decoding DNA function","summary":"DeepMind's AlphaGenome, published in Nature, predicts gene expression, chromatin accessibility, splicing and more across DNA sequences up to ~1M base pairs — aiming to do for the genome what AlphaFold did for proteins. About 3,000 scientists already use it.","date":"2026-01-28","importance":5,"tags":["AlphaGenome","genomics","biology","Nature","DNA"],"url":"https://www.chemistryworld.com/news/googles-alphagenome-wants-to-do-for-dna-what-alphafold-did-for-proteins/4022824.article"},{"category":"model","lab":"Google DeepMind","title":"Gemini 3 Pro debuts as Google's most intelligent model","summary":"Gemini 3 Pro set a new bar for reasoning and multimodal understanding, topping LMArena at ~1501 Elo with 91.9% GPQA Diamond and 76.2% SWE-bench Verified, and became the foundation for the 3.x line.","date":"2025-11-18","importance":5,"tags":["Gemini","frontier","multimodal","reasoning","LMArena"],"url":"https://blog.google/products/gemini/gemini-3/"},{"category":"hardware","lab":"OpenAI","title":"OpenAI and Broadcom unveil Jalapeño, first custom inference chip","summary":"OpenAI revealed Jalapeño, its first in-house-designed AI accelerator built with Broadcom, optimized for LLM inference and taped out in nine months. Initial deployment targets end of 2026 as part of a 10 GW program — OpenAI's most direct move yet to reduce its reliance on Nvidia.","date":"2026-06-24","importance":4,"tags":["chips","inference","Broadcom","custom-silicon","compute"],"url":"https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"},{"category":"industry","lab":"European Union","title":"EU Parliament approves Digital Omnibus, delaying AI Act rules","summary":"On June 16 the European Parliament approved the Digital Omnibus, simplifying the AI Act and deferring high-risk obligations from August 2026 to December 2027, easing compliance for AI developers operating in the EU. Final Council adoption is expected in July.","date":"2026-06-16","importance":4,"tags":["regulation","EU-AI-Act","policy","compliance"],"url":"https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/"},{"category":"industry","lab":"DeepSeek","title":"DeepSeek closes first-ever raise: $7.4B at $50B+ valuation","summary":"China's DeepSeek completed its first external funding round (~$7.4B at a $50B-plus valuation) backed by Tencent, CATL, JD.com and a state AI fund, cementing it as China's leading frontier-model challenger. Founder Liang Wenfeng retained control via a limited-partnership structure.","date":"2026-06-16","importance":4,"tags":["funding","China","DeepSeek","valuation","open-weights"],"url":"https://www.siliconrepublic.com/business/the-information-deepseek-raises-7-4bn-at-50bn-plus-valuation"},{"category":"benchmark","lab":"Epoch AI","title":"FrontierMath v2 ships after errors found in 42% of problems","summary":"Epoch AI released a corrected FrontierMath v2 after an audit found critical errors in 42% of original problems. Post-correction, GPT-5.5 Pro (~88%) and Claude Fable 5 (~87%) lead the lower tiers, with Claude leading the hardest Tier 4 (~88%).","date":"2026-06-12","importance":4,"tags":["FrontierMath","math","Epoch-AI","benchmark-integrity","data-correction"],"url":"https://epoch.ai/frontiermath"}]};
+
+/* ============================================================
+   BOOT
+   ============================================================ */
+buildChips();
+loadIntel();
+loadLive();
+setInterval(loadLive, 1000*60*5); // refresh live every 5 min
+// mark this visit AFTER we've computed "new since last"
+setTimeout(()=>{ localStorage.setItem(LS_LAST, Date.now()); }, 2500);
+</script>
+</body>
+</html>

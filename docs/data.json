@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T17:07:06.945Z",
+  "updated": "2026-06-26T18:50:46.369Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -11,61 +11,207 @@
       "rank": 1,
       "model": "Claude Opus 4.8",
       "lab": "Anthropic",
-      "score": 61
+      "grade": "A+",
+      "score": 96,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "61"
+        },
+        {
+          "name": "Chatbot Arena",
+          "value": "1483"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "88.6%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "93.6%"
+        }
+      ]
     },
     {
       "rank": 2,
       "model": "GPT-5.5",
       "lab": "OpenAI",
-      "score": 60
+      "grade": "A+",
+      "score": 93,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "60"
+        },
+        {
+          "name": "Chatbot Arena",
+          "value": "1481"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "88.7%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "93.2%"
+        }
+      ]
     },
     {
       "rank": 3,
       "model": "Gemini 3.1 Pro",
-      "lab": "Google",
-      "score": 57
+      "lab": "Google DeepMind",
+      "grade": "A",
+      "score": 90,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "57"
+        },
+        {
+          "name": "Chatbot Arena",
+          "value": "1486"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "80.6%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "94.3%"
+        }
+      ]
     },
     {
       "rank": 4,
-      "model": "Grok 4.3",
-      "lab": "xAI",
-      "score": 53
+      "model": "Claude Opus 4.7",
+      "lab": "Anthropic",
+      "grade": "A-",
+      "score": 85,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "57"
+        },
+        {
+          "name": "Chatbot Arena",
+          "value": "1502"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "87.6%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "94.2%"
+        }
+      ]
     },
     {
       "rank": 5,
-      "model": "GLM-5.2",
-      "lab": "Z.ai · open",
-      "score": 51
+      "model": "Grok 4.3",
+      "lab": "xAI",
+      "grade": "B+",
+      "score": 81,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "54"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "90.1%"
+        }
+      ]
     },
     {
       "rank": 6,
-      "model": "DeepSeek V4-Pro",
-      "lab": "DeepSeek · open",
-      "score": 50
+      "model": "Qwen 3.7 Max",
+      "lab": "Alibaba · open",
+      "grade": "B",
+      "score": 77,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "57"
+        }
+      ]
     },
     {
       "rank": 7,
-      "model": "Muse Spark",
-      "lab": "Meta",
-      "score": 50
+      "model": "Gemini 3.0 Pro",
+      "lab": "Google DeepMind",
+      "grade": "B",
+      "score": 75,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "52"
+        },
+        {
+          "name": "Chatbot Arena",
+          "value": "1486"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "88.9%"
+        }
+      ]
     },
     {
       "rank": 8,
-      "model": "Gemini 3.5 Flash",
-      "lab": "Google",
-      "score": 49
+      "model": "DeepSeek V4 Pro",
+      "lab": "DeepSeek · open",
+      "grade": "B-",
+      "score": 72,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "44"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "80.6%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "85.3%"
+        }
+      ]
     },
     {
       "rank": 9,
       "model": "MiniMax M3",
       "lab": "MiniMax · open",
-      "score": 48
+      "grade": "B-",
+      "score": 71,
+      "sources": [
+        {
+          "name": "SWE-bench",
+          "value": "80.5%"
+        },
+        {
+          "name": "Science (GPQA)",
+          "value": "92.7%"
+        }
+      ]
     },
     {
       "rank": 10,
-      "model": "Kimi",
-      "lab": "Moonshot · open",
-      "score": 47
+      "model": "GLM-5.2",
+      "lab": "Z.ai · open",
+      "grade": "B-",
+      "score": 70,
+      "sources": [
+        {
+          "name": "Intelligence Index",
+          "value": "51"
+        },
+        {
+          "name": "SWE-bench",
+          "value": "~70%"
+        }
+      ]
     }
   ],
   "benchmarks": [
@@ -109,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "Quoting OpenAI",
+      "summary": "<blockquote cite=\"https://openai.com/index/previewing-gpt-5-6-sol/\"><p>We're beginning a limited preview of the GPT‑5.6 series: Sol, our flagship model; Terra, a balanced model for everyday work; and Luna, a fast and affordable model. Terra has competitive performance to GPT‑5.5 ",
+      "date": "2026-06-26",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit",
       "summary": "About twenty tech companies, AI labs, and banks are joining forces through Akrites to fix vulnerabilities in critical open-source software before AI tools can exploit them. The article Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered a",
@@ -116,6 +272,56 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "What happened after 2,000 people tried to hack my AI assistant",
+      "summary": "<p><strong><a href=\"https://www.fernandoi.cl/posts/hackmyclaw/\">What happened after 2,000 people tried to hack my AI assistant</a></strong></p> Fernando Irarrázaval ran a challenge on <a href=\"https://hackmyclaw.com/\">hackmyclaw.com</a> to see if anyone could leak secrets held by",
+      "date": "2026-06-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+      "date": "2026-06-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
+      "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it. The article OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls un",
+      "date": "2026-06-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Incident Report: CVE-2026-LGTM",
+      "summary": "<p><strong><a href=\"https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\">Incident Report: CVE-2026-LGTM</a></strong></p> Spectacular hypothetical incident report by Andrew Nesbitt.</p> <blockquote> <p><strong>Day 2, 16:00 UTC</strong> --- Two AI review agents from co",
+      "date": "2026-06-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run",
+      "summary": "Epoch AI's new MirrorCode benchmark tests whether AI models can recreate complete programs without access to the original code. Claude Opus 4.7 leads with a 56 percent solve rate, rebuilding a 16,000-line toolkit in just 14 hours. But every model tested still fails on the most co",
+      "date": "2026-06-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/"
     },
     {
       "category": "model",
@@ -166,6 +372,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+      "date": "2026-06-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies build",
+      "date": "2026-06-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/"
     },
     {
       "category": "industry",
@@ -276,26 +502,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single text",
-      "summary": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated. But the Guild also warns of a paradox: professionally written texts look statist",
-      "date": "2026-06-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta employees warn AI moderation rollout is too fast",
-      "summary": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 percent for certain types of content by the end of the year. The article Meta employees warn AI moderation rollout is to",
-      "date": "2026-06-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/"
     },
     {
       "category": "hardware",
@@ -474,16 +680,6 @@
       "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "The memory chip crunch is paying off for this US company",
-      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
-      "date": "2026-06-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing computer use in Gemini 3.5 Flash",
@@ -546,32 +742,12 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-      "date": "2026-06-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "Quoting Tom MacWright",
       "summary": "<blockquote cite=\"https://macwright.com/2026/06/24/accidental-anonymity.html\"><p>In the last few months, I've started to see [job applications] that were clearly cowritten by an LLM, link to an LLM-generated portfolio site, which then links to LLM-generated GitHub projects, with ",
       "date": "2026-06-24",
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Facebook rolls out an AI companion app for creators",
-      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-      "date": "2026-06-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/"
     },
     {
       "category": "hardware",
@@ -1323,47 +1499,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Google ships Gemini 3.5 Flash and Omni; delays 3.5 Pro to July",
-      "summary": "Google rolled out Gemini 3.5 Flash for frontier agentic and coding performance and previewed Gemini Omni (any-input-to-any-output multimodal generation), plus Managed Agents in the Gemini API, while pushing the flagship Gemini 3.5 Pro launch to July 2026.",
-      "date": "2026-06-15",
-      "importance": 3,
-      "tags": [
-        "Gemini",
-        "multimodal",
-        "agents",
-        "Flash"
-      ],
-      "url": "https://deepmind.google/models/gemini/"
-    },
-    {
-      "category": "product",
-      "lab": "xAI",
-      "title": "Grok 4.3 lands on Amazon Bedrock as cheapest frontier reasoner",
-      "summary": "Grok 4.3 became generally available on AWS Bedrock — xAI's first appearance on the platform — at $1.25 per million input and $2.50 per million output tokens, making it the cheapest US-lab frontier reasoning model there, with a 1M-token context and configurable reasoning effort.",
-      "date": "2026-06-15",
-      "importance": 3,
-      "tags": [
-        "Grok",
-        "Bedrock",
-        "enterprise",
-        "AWS",
-        "pricing"
-      ],
-      "url": "https://www.digitalapplied.com/blog/grok-4-3-amazon-bedrock-enterprise-launch-2026-guide"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-apps 0.1a3",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.1a3\">datasette-apps 0.1a3</a></p> <blockquote> <ul> <li>Fixed a bug where users without the <code>create-app</code> permission could still create apps. <a href=\"https://github.com/dat",
-      "date": "2026-06-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything"
     }
   ]
 }

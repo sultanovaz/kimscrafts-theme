@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T13:48:08.676Z",
-  "generator": "deep-research-seed",
+  "updated": "2026-06-26T13:51:14.754Z",
+  "generator": "fetch-news.mjs",
   "counts": {
-    "total": 89,
+    "total": 120,
     "curated": 89,
-    "fresh": 0
+    "fresh": 168
   },
   "benchmarks": [
     {
@@ -46,6 +46,306 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit",
+      "summary": "About twenty tech companies, AI labs, and banks are joining forces through Akrites to fix vulnerabilities in critical open-source software before AI tools can exploit them. The article Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered a",
+      "date": "2026-06-26",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027",
+      "summary": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its record IPO. SoftBank, one of OpenAI's biggest backers, lost 13 percent in a single day. The article Altman won't go public fo",
+      "date": "2026-06-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
+      "summary": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow appeared first on The Decoder.",
+      "date": "2026-06-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\"",
+      "summary": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer by customer\" basis. CEO Sam Altman says this isn't a \"preferred long term model.\" After the forced takedown of Anthropic'",
+      "date": "2026-06-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+      "date": "2026-06-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "summary": "Run a vLLM Server on HF Jobs in One Command",
+      "date": "2026-06-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/vllm-jobs"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "AI and Liability",
+      "summary": "<p><strong><a href=\"https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html\">AI and Liability</a></strong></p> Bruce Schneier on the recent <a href=\"https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-export-database 0.3a2",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-export-database/releases/tag/0.3a2\">datasette-export-database 0.3a2</a></p> <p>An embarrassingly tiny release. The <code>pyproject.toml</code> had pinned to <code>datasette==1.0a27</code>, inadvertently ",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception",
+      "summary": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions. OpenAI's GPT-5.5 gave exclusively left-leaning arguments 80 percent of the time, and even Musk's Grok, marketed as anti-\"woke,\" leaned left more often than not. The one outli",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way",
+      "summary": "Diffusion models generate tens of thousands of plausible weather events where historical data doesn't exist. Insurers are hoping for more precise risk assessments. Researchers warn about hallucinations. The article Insurers turn to generative AI for catastrophe modeling, but hall",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content",
+      "summary": "Two former xAI employees estimate that porn accounts for well over half of all Grok traffic. xAI is leaning into it, while OpenAI, Anthropic, and Google won't touch adult content. The article Grok AI is reportedly a porn platform now, with over half its traffic tied to adult cont",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single text",
+      "summary": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated. But the Guild also warns of a paradox: professionally written texts look statist",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta employees warn AI moderation rollout is too fast",
+      "summary": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 percent for certain types of content by the end of the year. The article Meta employees warn AI moderation rollout is to",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google keeps losing top AI researchers to rivals",
+      "summary": "Google appears to be hemorrhaging key AI researchers to competitors. The article Google keeps losing top AI researchers to rivals appeared first on The Decoder.",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-keeps-losing-top-ai-researchers-to-rivals/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "IBM claims world’s first sub-1 nanometer chip technology",
+      "summary": "IBM’s nanostack transistors could boost chip performance or energy efficiency.",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Europe is pushing back on Washington’s chip war",
+      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
+      "date": "2026-06-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "summary": "Notion is \"going all in on using agents to run your inbox.\"",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+      "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Which tokens does a hybrid model predict better?",
+      "summary": "Which tokens does a hybrid model predict better?",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "How agents are transforming work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/how-agents-are-transforming-work"
+    },
+    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "OpenAI and Broadcom unveil Jalapeño, first custom inference chip",
@@ -62,6 +362,166 @@
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "simonw/browser-compat-db",
+      "summary": "<p><strong><a href=\"https://github.com/simonw/browser-compat-db\">simonw/browser-compat-db</a></strong></p> Inspired by Mozilla's <a href=\"https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/\">new MDN MCP service</a> - <a href=\"https://github.com/mdn/mcp\">source co",
+      "date": "2026-06-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      "date": "2026-06-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "The memory chip crunch is paying off for this US company",
+      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+      "date": "2026-06-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "summary": "Introducing computer use in Gemini 3.5 Flash",
+      "date": "2026-06-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "date": "2026-06-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+      "date": "2026-06-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+      "summary": "The silicon race is heating up amid the struggle to keep up with demand.",
+      "date": "2026-06-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+      "date": "2026-06-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "AI researchers continue to leave Google for its rivals",
+      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+      "date": "2026-06-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+      "date": "2026-06-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Tom MacWright",
+      "summary": "<blockquote cite=\"https://macwright.com/2026/06/24/accidental-anonymity.html\"><p>In the last few months, I've started to see [job applications] that were clearly cowritten by an LLM, link to an LLM-generated portfolio site, which then links to LLM-generated GitHub projects, with ",
+      "date": "2026-06-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Facebook rolls out an AI companion app for creators",
+      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+      "date": "2026-06-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+      "date": "2026-06-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+      "date": "2026-06-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "summary": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "date": "2026-06-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Hugging Face",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "summary": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "date": "2026-06-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ffasr-leaderboard"
+    },
+    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "DeepMind talent exodus: Shazeer to OpenAI, Jumper to Anthropic",
@@ -76,6 +536,106 @@
         "Anthropic"
       ],
       "url": "https://fortune.com/2026/06/23/google-deepmind-ai-researcher-departures-raise-doubts-about-ability-to-win-the-ai-race-shazeer-jumper-eye-on-ai/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette 1.0a35",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a35\">datasette 1.0a35</a></p> <p>I'll write more about this one soon, but it's a big release. Three highlights from the release notes:</p> <blockquote> <ul> <li>New \"Create table\" interface ",
+      "date": "2026-06-23",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "date": "2026-06-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/gpt-5-immunology-mystery"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+      "date": "2026-06-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "OPFS + Pyodide test harness",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/opfs-pyodide\">OPFS + Pyodide test harness</a></p> <p>I've been pondering if <a href=\"https://lite.datasette.io/\">Datasette Lite</a> - the Python Datasette application run entirely in the browser using Pyodide and ",
+      "date": "2026-06-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Helping build shared standards for advanced AI",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "date": "2026-06-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "summary": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "date": "2026-06-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "How to burst the AI bubble: Strike at its roots",
+      "summary": "Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI.",
+      "date": "2026-06-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "How Omio is building the future of conversational travel",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "date": "2026-06-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/omio"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "summary": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "date": "2026-06-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci"
+    },
+    {
+      "category": "product",
+      "lab": "Hugging Face",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "date": "2026-06-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/cross-origin-storage"
     },
     {
       "category": "industry",
@@ -95,6 +655,106 @@
     },
     {
       "category": "model",
+      "lab": "AI",
+      "title": "Prompt Injection as Role Confusion",
+      "summary": "<p><strong><a href=\"https://role-confusion.github.io\">Prompt Injection as Role Confusion</a></strong></p> First, I absolutely love this:</p> <blockquote> <p>This is a blog-style writeup of the paper.</p> </blockquote> <p>I wish <em>every paper</em> would come with one of these. A",
+      "date": "2026-06-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+      "summary": "<p>This morning <a href=\"https://news.ycombinator.com/item?id=48630171\">on Hacker News</a> I saw <a href=\"https://hustvl.github.io/Moebius/\">Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance</a>, describing a small but effective inpainting model - a ",
+      "date": "2026-06-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "date": "2026-06-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/daybreak-securing-the-world"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+      "summary": "US autoworkers union warns of robot automation as dark factory future looms.",
+      "date": "2026-06-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "How Anthropic may have talked itself into an AI export ban",
+      "summary": "The company warned about dangers of advanced AI far more than rival OpenAI.",
+      "date": "2026-06-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "summary": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "date": "2026-06-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "date": "2026-06-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/patch-the-planet"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Codex-maxxing for long-running work",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "date": "2026-06-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/codex-maxxing-long-running-work"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "summary": "We got local models to triage the OpenClaw repo for FREE!*",
+      "date": "2026-06-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/local-models-pr-triage"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "summary": "<p><a href=\"https://sqlite-utils.datasette.io/en/latest/\">sqlite-utils</a> is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default <a href=\"https://docs.python.org/3/library/s",
+      "date": "2026-06-21",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "GPT-5.6 teased as a 'meaningful leap' but slips toward July",
       "summary": "OpenAI's chief scientist previewed GPT-5.6 as a meaningful improvement over GPT-5.5, with a reported 1.5M-token context and a redesigned alignment pipeline, but the expected late-June launch slipped, with prediction markets now favoring July. It remains the most anticipated frontier release of the quarter.",
@@ -111,6 +771,56 @@
     },
     {
       "category": "model",
+      "lab": "AI",
+      "title": "sqlite-utils 4.0rc1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1\">sqlite-utils 4.0rc1</a></p> <p>See <a href=\"https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/\">sqlite-utils 4.0rc1 adds migrations and nested transactions</a>.</p> <p>Tags: <",
+      "date": "2026-06-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "summary": "<p><strong><a href=\"https://blog.cloudflare.com/temporary-accounts/\">Temporary Cloudflare Accounts for AI agents</a></strong></p> The announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature ",
+      "date": "2026-06-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "date": "2026-06-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Quoting Sean Lynch",
+      "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=48592163#48593190\"><p>The real valuable capability MCP offers over skills/CLI is isolating the auth flow outside of the agent’s context window, and potentially out of the harness completely. [...]</p> <p>Maybe the idealized f",
+      "date": "2026-06-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "summary": "<p>Today we launched a new plugin for Datasette, <a href=\"https://github.com/datasette/datasette-apps\">datasette-apps</a>, with <a href=\"https://datasette.io/blog/2026/datasette-apps/\">this launch announcement post</a> on the Datasette project blog. That post has the <em>what</em",
+      "date": "2026-06-18",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything"
+    },
+    {
+      "category": "model",
       "lab": "DeepSeek",
       "title": "DeepSeek V4-Pro and V4-Flash hold the open-weight frontier",
       "summary": "DeepSeek's MIT-licensed MoE V4 models (1.6T-param Pro and 284B Flash, both 1M-token context) remain the leading open-weight challenge to closed frontier labs, with aggressive pricing ($0.87 per million output tokens) and strong agentic performance, keeping cost and openness pressure on US labs.",
@@ -124,6 +834,216 @@
         "China"
       ],
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-acl 0.6a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-acl/releases/tag/0.6a0\">datasette-acl 0.6a0</a></p> <blockquote> <p>This release expands <code>datasette-acl</code> from table-only permissions toward a general resource-sharing system.</p> </blockquote>",
+      "date": "2026-06-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Improving health intelligence in ChatGPT",
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "date": "2026-06-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "As China looms, Taiwan makes more drones for defense and the US military",
+      "summary": "Taiwan's drone spending plans for defense could also boost business overseas.",
+      "date": "2026-06-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/"
+    },
+    {
+      "category": "product",
+      "lab": "Hugging Face",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "summary": "MosaicLeaks: Can your research agent keep a secret?",
+      "date": "2026-06-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+      "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.",
+      "date": "2026-06-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "date": "2026-06-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "date": "2026-06-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "summary": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "date": "2026-06-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/peft-beyond-lora"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "summary": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "date": "2026-06-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/is-it-agentic-enough"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+      "summary": "<p>Chinese AI lab <a href=\"https://z.ai/\">Z.ai</a> released GLM-5.2 <a href=\"https://x.com/Zai_org/status/2065704919299235870\">to their coding plan subscribers</a> on June 13th, and then yesterday (June 16th) released the full open weights under an MIT license. Similar in size to",
+      "date": "2026-06-17",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "date": "2026-06-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/ai-chemist-improves-reaction"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "<click-to-play> — a still that plays",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/click-to-play-component\"><click-to-play> — a still that plays</a></p> <p>A progressive enchantment Web Component that turns this markup:</p> <pre><code><click-to-play> <a href=\"URL to GIF\"> <img src=\"URL to first ",
+      "date": "2026-06-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "NetNewsWire Status",
+      "summary": "<p><strong><a href=\"https://inessential.com/2026/06/15/netnewswire-status.html\">NetNewsWire Status</a></strong></p> I find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, <em>really</em> good - free from any com",
+      "date": "2026-06-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
+      "date": "2026-06-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "\"Dangerous\" AI models are coming no matter what",
+      "summary": "AI models with advanced hacking capabilities will soon be the norm.",
+      "date": "2026-06-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Charity Majors",
+      "summary": "<blockquote cite=\"https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-2\"><p>What happened in 2025 was this: <strong>the economics of code production were turned upside down</strong>. Instead of being very hard, time-consuming, and expensive to gen",
+      "date": "2026-06-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+      "summary": "Google's new smart speaker is more about Gemini than audio quality.",
+      "date": "2026-06-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "summary": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "date": "2026-06-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "summary": "GLM-5.2: Built for Long-Horizon Tasks",
+      "date": "2026-06-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Introducing LifeSciBench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "date": "2026-06-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-life-sci-bench"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Agentic Resource Discovery: Let agents search",
+      "summary": "Agentic Resource Discovery: Let agents search",
+      "date": "2026-06-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch"
     },
     {
       "category": "industry",
@@ -157,6 +1077,16 @@
       "url": "https://www.siliconrepublic.com/business/the-information-deepseek-raises-7-4bn-at-50bn-plus-valuation"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette 1.0a34",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a34\">datasette 1.0a34</a></p> <p>Quoting the release notes:</p> <blockquote> <p>The big feature in this alpha is tools to insert, edit and delete rows within the Datasette interface. These f",
+      "date": "2026-06-16",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything"
+    },
+    {
       "category": "industry",
       "lab": "Five Eyes",
       "title": "Five Eyes warn frontier AI hacking models are months away",
@@ -171,6 +1101,156 @@
         "threat"
       ],
       "url": "https://cyberscoop.com/five-eyes-alliance-say-advanced-ai-hacking-models-months-away/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
+      "summary": "Separately, neither could compete. Now they hope they can.",
+      "date": "2026-06-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-tailscale 0.1a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0\">datasette-tailscale 0.1a0</a></p> <p>A very experimental alpha plugin which lets you do this:</p> <pre><code>datasette tailscale mydata.db \\ --ts-authkey tskey-auth-xxxx --t",
+      "date": "2026-06-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "date": "2026-06-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/deployment-simulation"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
+      "date": "2026-06-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "date": "2026-06-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
+      "date": "2026-06-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+      "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools.",
+      "date": "2026-06-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "summary": "Audited accounting shows growing revenues being dwarfed by R&D, other expenses.",
+      "date": "2026-06-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Quoting Georgi Gerganov",
+      "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=48555993#48557304\"><p>I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks. Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my RTX 5090 box.",
+      "date": "2026-06-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Securing the future of AI agents",
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "date": "2026-06-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
+    },
+    {
+      "category": "product",
+      "lab": "Microsoft",
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+      "date": "2026-06-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "The Fable 5 Export Controls Harm US Cyber Defense",
+      "summary": "<p><strong><a href=\"https://www.lutasecurity.com/post/the-fable-5-export-controls-harm-us-cyber-defense\">The Fable 5 Export Controls Harm US Cyber Defense</a></strong></p> I <a href=\"https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/\">quoted The Atlantic</a> quoting ",
+      "date": "2026-06-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting Matteo Wong, The Atlantic",
+      "summary": "<blockquote cite=\"https://www.theatlantic.com/technology/2026/06/trump-anthropic-export-control-ai-race/687555/?gift=5MjKTLV9QwyU_J0HzTnanoWieJfkMhNH_YTT9pP_fhA\"><p>Katie Moussouris, a cybersecurity expert and the CEO of Luta Security, told me that Anthropic shared with her a cop",
+      "date": "2026-06-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Cloudflare CAPTCHA on at least one ampersand",
+      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/cloudflare/captcha-on-at-least-one-ampersand\">Cloudflare CAPTCHA on at least one ampersand</a></p> <p>I'm using Cloudflare's CAPTCHA (they call it a \"Web Application Firewall > Custom rules > Managed Challenge\" these",
+      "date": "2026-06-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "datasette-agent 0.3a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.3a0\">datasette-agent 0.3a0</a></p> <blockquote> <ul> <li>New tool, <code>execute_write_sql</code>, which requests user approval and then writes to a database - taking user permission",
+      "date": "2026-06-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything"
     },
     {
       "category": "product",
@@ -204,1261 +1284,24 @@
       "url": "https://www.digitalapplied.com/blog/grok-4-3-amazon-bedrock-enterprise-launch-2026-guide"
     },
     {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Zuckerberg must now sell the costly Wang-led AI bet",
-      "summary": "A year after Meta paid ~$14B to bring in Alexandr Wang as Chief AI Officer to lead Superintelligence Labs, June 2026 reporting frames the challenge as commercializing the effort, amid $115-135B planned 2026 AI capex and rumors (denied by Meta) of Wang being sidelined.",
-      "date": "2026-06-14",
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-apps 0.1a3",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.1a3\">datasette-apps 0.1a3</a></p> <blockquote> <ul> <li>Fixed a bug where users without the <code>create-app</code> permission could still create apps. <a href=\"https://github.com/dat",
+      "date": "2026-06-15",
       "importance": 3,
-      "tags": [
-        "Meta",
-        "Alexandr-Wang",
-        "Zuckerberg",
-        "capex",
-        "strategy"
-      ],
-      "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html"
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything"
     },
     {
       "category": "model",
-      "lab": "Zhipu/GLM (Z.ai)",
-      "title": "GLM-5.2: top open-weights model beats GPT-5.5 on coding at ~1/6 cost",
-      "summary": "Z.ai's MIT-licensed GLM-5.2 (~750B MoE, ~40B active, 1M context) is the highest-ranked open-weights model on the Artificial Analysis Intelligence Index and 4th overall, beating GPT-5.5 on multiple long-horizon coding benchmarks at roughly a sixth of the cost — a landmark proof that open weights can sit at the frontier.",
-      "date": "2026-06-13",
-      "importance": 5,
-      "tags": [
-        "open-weights",
-        "MoE",
-        "coding",
-        "1M-context",
-        "China",
-        "MIT-license"
-      ],
-      "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost"
-    },
-    {
-      "category": "industry",
-      "lab": "US Government / Anthropic",
-      "title": "US export-control order forces global shutdown of Fable 5 and Mythos 5",
-      "summary": "On June 12 the Commerce Department's BIS ordered Anthropic to block Fable 5 and Mythos 5 for all foreign nationals over a claimed jailbreak; unable to screen by nationality, Anthropic disabled both models worldwide. It is the first time the US has used export controls to pull a deployed commercial frontier model offline — a major precedent. As of June 25 the models remain down.",
-      "date": "2026-06-12",
-      "importance": 5,
-      "tags": [
-        "export-controls",
-        "regulation",
-        "Anthropic",
-        "national-security",
-        "frontier-models"
-      ],
-      "url": "https://www.anthropic.com/news/fable-mythos-access"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Epoch AI",
-      "title": "FrontierMath v2 ships after errors found in 42% of problems",
-      "summary": "Epoch AI released a corrected FrontierMath v2 after an audit found critical errors in 42% of original problems. Post-correction, GPT-5.5 Pro (~88%) and Claude Fable 5 (~87%) lead the lower tiers, with Claude leading the hardest Tier 4 (~88%).",
-      "date": "2026-06-12",
-      "importance": 4,
-      "tags": [
-        "FrontierMath",
-        "math",
-        "Epoch-AI",
-        "benchmark-integrity",
-        "data-correction"
-      ],
-      "url": "https://epoch.ai/frontiermath"
-    },
-    {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "Claude Code adds nested sub-agents, /cd, safe mode, and fallback chains",
-      "summary": "In its Week 24 release, Claude Code shipped sub-agents that can spawn their own sub-agents (capped at five levels), a /cd command to move a session's working directory without rebuilding the prompt cache, a --safe-mode launch flag that disables customizations for troubleshooting, and a fallbackModel setting that tries up to three models in order.",
-      "date": "2026-06-12",
+      "lab": "AI",
+      "title": "datasette-apps 0.1a2",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.1a2\">datasette-apps 0.1a2</a></p> <blockquote> <ul> <li>Custom network/CSP origins for apps are now guarded by a new <code>apps-set-csp</code> permission, with an optional <code>allow",
+      "date": "2026-06-15",
       "importance": 3,
-      "tags": [
-        "claude-code",
-        "sub-agents",
-        "developer-tools",
-        "cli"
-      ],
-      "url": "https://code.claude.com/docs/en/whats-new"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Fable 5 and Mythos 5: first Mythos-tier models go public",
-      "summary": "On June 9 Anthropic released Claude Fable 5, its first public model in the new Mythos tier (above Opus), with state-of-the-art results across software engineering, science, vision, and long-horizon agentic tasks. Fable 5 falls back to Opus 4.8 for flagged bio/cyber requests; Mythos 5 is the same model with safeguards lifted for vetted cyberdefenders via Project Glasswing. Pricing is $10 in / $50 per million output tokens.",
-      "date": "2026-06-09",
-      "importance": 5,
-      "tags": [
-        "fable-5",
-        "mythos-5",
-        "frontier",
-        "agentic",
-        "benchmarks"
-      ],
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "GPT-5.5 Instant gets a context-aware, personalized upgrade",
-      "summary": "OpenAI rolled out personalization improvements to GPT-5.5 Instant across ChatGPT Go and Free, making the default model better at tracking evolving queries and clarifications. The same week, GPT-5.2 models were fully retired from ChatGPT.",
-      "date": "2026-06-09",
-      "importance": 3,
-      "tags": [
-        "ChatGPT",
-        "GPT-5.5",
-        "personalization",
-        "default-model"
-      ],
-      "url": "https://openai.com/index/gpt-5-5-instant/"
-    },
-    {
-      "category": "product",
-      "lab": "xAI",
-      "title": "Grok Imagine Video 1.5 tops the image-to-video leaderboard",
-      "summary": "xAI's Grok Imagine Video 1.5 went generally available on grok.com and the Imagine API, delivering higher image-to-video quality, faster generation, and new workflow tools, and reaching the top of the image-to-video leaderboard.",
-      "date": "2026-06-09",
-      "importance": 2,
-      "tags": [
-        "Grok-Imagine",
-        "video-generation",
-        "image-to-video",
-        "API"
-      ],
-      "url": "https://releasebot.io/updates/xai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI confidentially files for IPO targeting up to ~$1T",
-      "summary": "OpenAI filed its confidential S-1 with Goldman Sachs and Morgan Stanley, targeting a Q4 2026 listing valued from ~$852B toward $1T, following its record $122B round. It joins Anthropic in racing to public markets, though the actual listing may slip.",
-      "date": "2026-06-08",
-      "importance": 4,
-      "tags": [
-        "IPO",
-        "funding",
-        "valuation",
-        "OpenAI",
-        "markets"
-      ],
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market"
-    },
-    {
-      "category": "model",
-      "lab": "Microsoft",
-      "title": "Microsoft launches seven in-house MAI models at Build 2026",
-      "summary": "Microsoft AI unveiled a family of seven first-party models trained from scratch with zero distillation, led by reasoning model MAI-Thinking-1 (97% AIME 2025, 53% SWE-Bench Pro, near Opus 4.6) plus coding, image, voice and transcription models — a serious push to reduce its dependence on OpenAI.",
-      "date": "2026-06-08",
-      "importance": 4,
-      "tags": [
-        "Microsoft",
-        "MAI",
-        "reasoning",
-        "in-house-models",
-        "Build-2026"
-      ],
-      "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"
-    },
-    {
-      "category": "hardware",
-      "lab": "SK hynix",
-      "title": "AI memory crunch deepens: HBM/DRAM deficits worst since 2011",
-      "summary": "DRAM contract prices rose ~58-63% quarter-on-quarter and NAND 70-75%, as Samsung, SK hynix and Micron diverted ~93% of output to HBM for AI datacenters. HBM4 ramps into late 2026 with SK hynix holding 60%+ share, and TSMC warned the supply gap could persist for years.",
-      "date": "2026-06-05",
-      "importance": 4,
-      "tags": [
-        "HBM4",
-        "DRAM",
-        "memory-shortage",
-        "supply-chain",
-        "TSMC"
-      ],
-      "url": "https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html"
-    },
-    {
-      "category": "research",
-      "lab": "Anthropic",
-      "title": "Anthropic calls for a coordinated industry 'pause' mechanism",
-      "summary": "Anthropic warned that frontier systems are advancing toward self-improvement without reliable human oversight, and urged top labs to build coordinated mechanisms to slow or pause development if risks grow. The warning preceded the government's Fable/Mythos shutdown.",
-      "date": "2026-06-05",
-      "importance": 3,
-      "tags": [
-        "ai-safety",
-        "pause",
-        "governance",
-        "loss-of-control",
-        "policy"
-      ],
-      "url": "https://www.aljazeera.com/economy/2026/6/5/anthropic-urges-ai-labs-to-pause-warns-humans-risk-losing-control"
-    },
-    {
-      "category": "product",
-      "lab": "xAI",
-      "title": "Grok Voice ships with real-time custom voice cloning",
-      "summary": "xAI shipped Grok Voice, building on its Custom Voices suite, which clones a voice from ~120 seconds of audio in under two minutes with a two-stage consent and verification process, usable across xAI's text-to-speech and Voice Agent APIs.",
-      "date": "2026-06-04",
-      "importance": 2,
-      "tags": [
-        "Grok-Voice",
-        "voice-cloning",
-        "TTS",
-        "voice-agents",
-        "API"
-      ],
-      "url": "https://x.ai/news/grok-custom-voices"
-    },
-    {
-      "category": "industry",
-      "lab": "White House",
-      "title": "Trump signs executive order on advanced AI innovation and security",
-      "summary": "The June 2 order creates an AI cybersecurity clearinghouse and a voluntary framework for frontier developers to share pre-release model access for national-security review, while explicitly barring any mandatory licensing or pre-clearance regime — reshaping US frontier-AI governance just as the Fable/Mythos export action landed.",
-      "date": "2026-06-02",
-      "importance": 4,
-      "tags": [
-        "policy",
-        "regulation",
-        "executive-order",
-        "cybersecurity",
-        "governance"
-      ],
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
-    },
-    {
-      "category": "model",
-      "lab": "Alibaba Qwen",
-      "title": "Qwen3.7-Plus brings vision, deep reasoning and agentic tool use",
-      "summary": "Following the proprietary Qwen3.7-Max flagship, Alibaba launched Qwen3.7-Plus, a multimodal agent variant adding vision, deep reasoning, tool invocation and autonomous iteration on the Bailian platform at roughly one-sixth the per-token cost of the Max tier.",
-      "date": "2026-06-02",
-      "importance": 3,
-      "tags": [
-        "multimodal",
-        "agentic",
-        "reasoning",
-        "China",
-        "enterprise"
-      ],
-      "url": "https://www.marktechpost.com/2026/06/02/alibabas-qwen-team-launches-qwen3-7-plus-adding-vision-deep-reasoning-tool-invocation-and-autonomous-iteration-on-the-bailian-platform/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia Vera Rubin enters full production at GTC Taipei",
-      "summary": "Nvidia confirmed its Vera Rubin platform (336B-transistor R100 GPU plus 88-core Vera CPU) is in full production, with ~150 Taiwanese suppliers building rack systems and Samsung, SK hynix and Micron certified for HBM4. First cloud shipments begin summer 2026; Nvidia claims ~5x Blackwell inference at far lower cost per token.",
-      "date": "2026-06-01",
-      "importance": 5,
-      "tags": [
-        "Nvidia",
-        "Vera-Rubin",
-        "GPU",
-        "HBM4",
-        "datacenter"
-      ],
-      "url": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory"
-    },
-    {
-      "category": "model",
-      "lab": "MiniMax",
-      "title": "MiniMax M3: open-weight 1M-context model with native multimodality",
-      "summary": "MiniMax M3 is pitched as the first open-weight model to combine frontier coding, a 1M-token context window (via proprietary sparse attention) and native image/video understanding in one architecture. Weights and a technical report followed within ~10 days of launch, though early benchmarks were vendor-run.",
-      "date": "2026-06-01",
-      "importance": 4,
-      "tags": [
-        "open-weights",
-        "1M-context",
-        "multimodal",
-        "coding",
-        "sparse-attention",
-        "China"
-      ],
-      "url": "https://www.minimax.io/blog/minimax-m3"
-    },
-    {
-      "category": "industry",
-      "lab": "Multiple Chinese labs",
-      "title": "Chinese open-weight labs now ship ~10 frontier-class models",
-      "summary": "By Q2 2026 ten labs (DeepSeek, Qwen, Kimi, Hunyuan, GLM, ERNIE, Doubao, Yi, Pangu, MiniMax) ship frontier or near-frontier open-source LLMs, with Chinese models topping OpenRouter token volume. The center of gravity for cheap, capable open models has shifted decisively to China.",
-      "date": "2026-06-01",
-      "importance": 4,
-      "tags": [
-        "open-weights",
-        "market-landscape",
-        "China",
-        "cost",
-        "OpenRouter"
-      ],
-      "url": "https://presenc.ai/research/chinese-open-source-llm-companies-leaderboard-2026"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic confidentially files for a potentially trillion-dollar IPO",
-      "summary": "Anthropic confidentially filed its S-1, setting up one of the largest tech IPOs ever. Run-rate revenue reached ~$47B (up from $10B a year earlier) and the company is on track for its first operating profit (~$559M) in Q2 2026.",
-      "date": "2026-06-01",
-      "importance": 4,
-      "tags": [
-        "IPO",
-        "S-1",
-        "SEC",
-        "revenue",
-        "financials"
-      ],
-      "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "ARC-AGI-2 jumps from ~54% to ~85% in 2026",
-      "summary": "GPT-5.5 leads ARC-AGI-2 at about 85% on tracked leaderboards, up from GPT-5.2 Pro's ~54% at the start of 2026, with Gemini 3 Deep Think and GPT-5.4 Pro close behind — a dramatic year for the abstract-reasoning benchmark designed to resist memorization.",
-      "date": "2026-06-01",
-      "importance": 4,
-      "tags": [
-        "ARC-AGI-2",
-        "reasoning",
-        "GPT-5.5",
-        "Gemini",
-        "frontier"
-      ],
-      "url": "https://llm-stats.com/benchmarks/arc-agi-v2"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia unveils RTX Spark superchip to bring AI to Windows PCs",
-      "summary": "Nvidia announced the RTX Spark superchip combining CPU and GPU to run AI agents locally on next-gen Windows PCs, with laptops and desktops from Dell, HP, Lenovo, Asus, Microsoft and MSI shipping this fall — Nvidia's bid to own the consumer and edge layer beyond the datacenter.",
-      "date": "2026-06-01",
-      "importance": 3,
-      "tags": [
-        "Nvidia",
-        "edge-AI",
-        "PCs",
-        "hardware"
-      ],
-      "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Codex hits 5M weekly users; Agents SDK and Responses API go GA",
-      "summary": "OpenAI's Codex reached 5 million weekly active users, while the Agents SDK became production-ready and the new Responses API landed as a major platform rearchitecture — signs of OpenAI's developer platform maturing around agentic workflows.",
-      "date": "2026-06-01",
-      "importance": 3,
-      "tags": [
-        "Codex",
-        "developers",
-        "Agents-SDK",
-        "Responses-API",
-        "platform"
-      ],
-      "url": "https://releasebot.io/updates/openai"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic / GitHub / Anysphere",
-      "title": "AI coding tools shift: Copilot goes usage-based, Cursor hits $2B ARR",
-      "summary": "GitHub moved Copilot to usage-based billing, Cursor reached $2B ARR, and a JetBrains survey showed 46% of veteran developers now use Claude Code daily versus 9% Copilot, whose share slid from 67% to 51%. The agentic-coding market is reshaping around token economics and Claude Code's lead.",
-      "date": "2026-06-01",
-      "importance": 3,
-      "tags": [
-        "coding-tools",
-        "Claude-Code",
-        "Cursor",
-        "Copilot",
-        "agentic-coding"
-      ],
-      "url": "https://dev.to/alexmercedcoder/a-frontier-model-goes-dark-ai-week-of-june-16-2026-1gk9"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "SWE-bench Verified saturating: Claude leads near 95%",
-      "summary": "Frontier Claude models top SWE-bench Verified at roughly 95%, with GPT-5.5 cited around 88-89%. The benchmark is approaching saturation, and most leaderboard entries are vendor self-reported rather than independently verified — a key caveat.",
-      "date": "2026-06-01",
-      "importance": 3,
-      "tags": [
-        "SWE-bench",
-        "coding",
-        "agents",
-        "Claude",
-        "self-reported"
-      ],
-      "url": "https://llm-stats.com/benchmarks/swe-bench-verified"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "LMArena top tier clusters within ~55 Elo",
-      "summary": "On LMArena, a frontier Claude Opus model leads at roughly 1510 Elo, narrowly ahead of GPT-5.5 Pro and Gemini 3.1 Pro. With 6.8M+ blind human votes across 360+ models, the top tier is the tightest on record at ~55 Elo spread.",
-      "date": "2026-06-01",
-      "importance": 3,
-      "tags": [
-        "LMArena",
-        "Chatbot-Arena",
-        "Elo",
-        "human-preference",
-        "Claude"
-      ],
-      "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Humanity's Last Exam climbs into the 50-65% range",
-      "summary": "Top Claude and GPT models now reach roughly 53-64% on Humanity's Last Exam, up from the mid-30s in early 2026, though scores vary widely by harness and tool access. It remains one of the harder closed-knowledge frontier evals.",
-      "date": "2026-06-01",
-      "importance": 3,
-      "tags": [
-        "HLE",
-        "reasoning",
-        "Claude",
-        "GPT-5",
-        "frontier"
-      ],
-      "url": "https://artificialanalysis.ai/evaluations/humanitys-last-exam"
-    },
-    {
-      "category": "research",
-      "lab": "Industry",
-      "title": "Scaffolding now rivals model choice on agentic benchmarks",
-      "summary": "Multiple 2026 analyses stress that how a model is scaffolded (framework, tools, retries) affects agentic benchmark scores nearly as much as the base model, and that most coding and agent leaderboards are vendor self-reported — complicating apples-to-apples comparisons.",
-      "date": "2026-06-01",
-      "importance": 3,
-      "tags": [
-        "agents",
-        "scaffolding",
-        "benchmark-integrity",
-        "methodology",
-        "self-reported"
-      ],
-      "url": "https://www.digitalapplied.com/blog/swe-bench-verified-june-2026-benchmark-vs-scaffolding-analysis"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Google DeepMind",
-      "title": "GPQA Diamond effectively saturated at 93-95%",
-      "summary": "Top models from Google (Gemini 3.1 Pro ~95.5%), Anthropic and OpenAI cluster at 93-95% on GPQA Diamond graduate-level science, with progress flattening. The benchmark is now widely considered saturated and decreasingly discriminative.",
-      "date": "2026-06-01",
-      "importance": 2,
-      "tags": [
-        "GPQA",
-        "science",
-        "saturation",
-        "Gemini",
-        "Claude"
-      ],
-      "url": "https://artificialanalysis.ai/evaluations/gpqa-diamond"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Zhipu AI",
-      "title": "AIME 2026 essentially solved; GLM-5.2 near-perfect",
-      "summary": "On the AIME 2026 contest-math benchmark, GLM-5.2 leads at about 99.2%, with Kimi K2.6 (~96%) and GLM-5 close behind. High-end competition math is now near-saturated across multiple labs, including strong Chinese frontier models.",
-      "date": "2026-06-01",
-      "importance": 2,
-      "tags": [
-        "AIME",
-        "math",
-        "GLM",
-        "Kimi",
-        "saturation"
-      ],
-      "url": "https://llm-stats.com/benchmarks/aime-2026"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Anthropic sweeps the GAIA agentic leaderboard",
-      "summary": "On GAIA, Anthropic models occupy the top six spots, with Claude Sonnet 4.5 cited around 74.6%, underscoring Anthropic's strength on tool-use and multi-step agentic tasks heading into mid-2026.",
-      "date": "2026-06-01",
-      "importance": 2,
-      "tags": [
-        "GAIA",
-        "agents",
-        "tool-use",
-        "Claude",
-        "leaderboard"
-      ],
-      "url": "https://awesomeagents.ai/leaderboards/agentic-ai-benchmarks-leaderboard/"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Grok Build 0.1 debuts as xAI's fastest agentic coding model",
-      "summary": "xAI opened Grok Build 0.1 in public beta via API — a coding model trained for agentic web dev, debugging and MCP, served at 100+ tokens/sec and priced at $1 in / $2 per million output tokens, powering the Grok Build CLI.",
-      "date": "2026-05-29",
-      "importance": 3,
-      "tags": [
-        "Grok-Build",
-        "coding",
-        "agentic",
-        "CLI",
-        "MCP",
-        "developers"
-      ],
-      "url": "https://x.ai/news/grok-build-0-1"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Opus 4.8 tops Intelligence Index with dynamic workflows",
-      "summary": "Released just 41 days after Opus 4.7, Opus 4.8 leads the Artificial Analysis Intelligence Index and is reported ~4x less likely than 4.7 to let flaws in its own code slip through. It defaults to a 1M-token context window and pairs with Claude Code 'dynamic workflows' for codebase-scale migrations; it is also the strongest computer-use/browser-agent model tested (84% Online-Mind2Web).",
-      "date": "2026-05-28",
-      "importance": 5,
-      "tags": [
-        "opus-4.8",
-        "coding",
-        "computer-use",
-        "agents",
-        "1M-context"
-      ],
-      "url": "https://www.anthropic.com/news/claude-opus-4-8"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic raises $65B Series H at $965B, passing OpenAI",
-      "summary": "The Series H (led by Altimeter, Dragoneer, Greenoaks, Sequoia) values Anthropic at $965B post-money, surpassing OpenAI as the most valuable AI startup. Driven by explosive revenue growth toward a ~$47B run-rate, it is widely seen as its last private raise before an IPO.",
-      "date": "2026-05-28",
-      "importance": 5,
-      "tags": [
-        "funding",
-        "Series-H",
-        "valuation",
-        "Anthropic"
-      ],
-      "url": "https://www.anthropic.com/news/series-h"
-    },
-    {
-      "category": "product",
-      "lab": "Cognition",
-      "title": "Cognition raises $1B at $26B; Devin writes 89% of its own code",
-      "summary": "The Devin maker more than doubled its valuation in eight months on ~$492M ARR, disclosing that 89% of code committed internally is now written by Devin itself — a signal of how fast autonomous coding agents are scaling commercially.",
-      "date": "2026-05-27",
-      "importance": 4,
-      "tags": [
-        "funding",
-        "coding-agent",
-        "Devin",
-        "autonomous-engineering"
-      ],
-      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini 3.5 Flash launches at I/O 2026 as the new default",
-      "summary": "Announced at Google I/O 2026, Gemini 3.5 Flash became the default model in the Gemini app, Search AI Mode and the API. It delivers frontier-tier agentic and coding performance, outperforming the prior Gemini 3.1 Pro on benchmarks like Terminal-Bench 2.1 (76.2%) at ~4x the speed, priced at $1.50 in / $9 per million output tokens. Gemini 3.5 Pro was held back for the following month.",
-      "date": "2026-05-19",
-      "importance": 4,
-      "tags": [
-        "Gemini",
-        "Flash",
-        "I/O-2026",
-        "agentic",
-        "default-model"
-      ],
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
-    },
-    {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Google I/O 2026: agentic Search, Spark, and AI Mode at 1B+ users",
-      "summary": "Google unveiled a reimagined Search box — its biggest change in 25+ years — that expands for conversational queries and accepts multimodal input, with AI Mode delivering agentic, generative-UI responses and surpassing 1 billion monthly users. Gemini Spark debuted as a 24/7 autonomous agent for enterprise and consumers.",
-      "date": "2026-05-19",
-      "importance": 4,
-      "tags": [
-        "Search",
-        "AI-Mode",
-        "Spark",
-        "agents",
-        "I/O-2026"
-      ],
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
-    },
-    {
-      "category": "product",
-      "lab": "GitHub",
-      "title": "GitHub Copilot desktop app debuts at Build 2026 for multi-agent dev",
-      "summary": "Microsoft launched a dedicated GitHub Copilot app as an agent control center: a unified surface for managing many parallel agents, each running in its own isolated Git worktree so they can work the same codebase without conflicts. Agentic code review also crossed 60 million reviews.",
-      "date": "2026-05-19",
-      "importance": 4,
-      "tags": [
-        "Copilot",
-        "coding-agent",
-        "parallel-agents",
-        "desktop-app"
-      ],
-      "url": "https://devops.com/github-copilot-gets-its-own-app-and-agents-are-the-reason-why/"
-    },
-    {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Project Astra folding into Gemini Live and Android XR glasses",
-      "summary": "DeepMind continued shipping Project Astra's universal-assistant features (live video understanding, screen sharing, cross-device memory, on-device actions) into Gemini Live and Search, with Android XR glasses (Samsung 'Project Moohan') as a key 2026 form factor.",
-      "date": "2026-05-19",
-      "importance": 3,
-      "tags": [
-        "Project-Astra",
-        "Gemini-Live",
-        "assistant",
-        "Android-XR",
-        "glasses"
-      ],
-      "url": "https://deepmind.google/models/project-astra/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Sonnet 4.6 and Haiku 4.5 round out the mid/low tiers",
-      "summary": "Claude Sonnet 4.6 balances speed and intelligence with a 1M-token context and adaptive thinking at $3/$15 per million tokens; Haiku 4.5 delivers near-frontier coding at roughly a third the cost and over twice the speed of Sonnet 4, anchoring Anthropic's cheaper, faster options.",
-      "date": "2026-05-15",
-      "importance": 3,
-      "tags": [
-        "sonnet-4.6",
-        "haiku-4.5",
-        "pricing",
-        "context-window",
-        "speed"
-      ],
-      "url": "https://platform.claude.com/docs/en/about-claude/models/overview"
-    },
-    {
-      "category": "research",
-      "lab": "Anthropic",
-      "title": "Interpretability work: models 'think in numbers,' translated to words",
-      "summary": "Anthropic's interpretability team published research training Claude to translate its internal numeric representations into human-readable text, advancing the goal of explaining model behavior to address bias, misuse, and autonomous harmful behavior.",
-      "date": "2026-05-15",
-      "importance": 3,
-      "tags": [
-        "interpretability",
-        "alignment",
-        "mechanistic",
-        "transparency"
-      ],
-      "url": "https://www.anthropic.com/research/team/interpretability"
-    },
-    {
-      "category": "lab",
-      "lab": "SAP / Prior Labs",
-      "title": "SAP acquires Prior Labs to build a European frontier AI lab",
-      "summary": "SAP agreed to acquire Prior Labs, pioneer of Tabular Foundation Models, pledging over €1B over four years to scale it into a European frontier lab focused on structured enterprise data — a notable European consolidation and sovereignty play.",
-      "date": "2026-05-12",
-      "importance": 3,
-      "tags": [
-        "acquisition",
-        "SAP",
-        "Europe",
-        "enterprise-AI",
-        "Prior-Labs"
-      ],
-      "url": "https://news.sap.com/2026/05/sap-to-acquire-prior-labs-establish-frontier-ai-lab-europe/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Three new realtime voice models: reason, translate, transcribe live",
-      "summary": "OpenAI shipped GPT-Realtime-2 (its first GPT-5-class reasoning voice model with mid-conversation tool calls), GPT-Realtime-Translate (70+ input to 13 output languages), and GPT-Realtime-Whisper (streaming transcription) to the API, sharply improving live voice products.",
-      "date": "2026-05-07",
-      "importance": 3,
-      "tags": [
-        "voice",
-        "realtime",
-        "translation",
-        "transcription",
-        "API"
-      ],
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/"
-    },
-    {
-      "category": "industry",
-      "lab": "Moonshot AI",
-      "title": "Moonshot AI raises $2B at $20B valuation for Kimi models",
-      "summary": "Beijing-based Moonshot AI, maker of the open-weight Kimi model series, raised about $2B at a $20B valuation in a Meituan-led round, reflecting surging demand for Chinese open-source AI.",
-      "date": "2026-05-07",
-      "importance": 3,
-      "tags": [
-        "funding",
-        "China",
-        "open-weights",
-        "Moonshot",
-        "Kimi"
-      ],
-      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-5.5 Instant becomes ChatGPT default with 52% fewer hallucinations",
-      "summary": "OpenAI made GPT-5.5 Instant the default ChatGPT model, citing 52.5% fewer hallucinated claims than GPT-5.3 Instant on high-stakes prompts in law, medicine, and finance, with clearer answers and a more natural tone at low latency.",
-      "date": "2026-05-05",
-      "importance": 4,
-      "tags": [
-        "ChatGPT",
-        "GPT-5.5",
-        "hallucinations",
-        "factuality",
-        "default-model"
-      ],
-      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Big Tech 2026 AI capex approaches ~$690B; Meta lifts spend",
-      "summary": "Microsoft, Alphabet, Amazon, Meta and Oracle collectively guided to roughly $660-690B in 2026 capex, nearly double 2025. Meta raised its guide toward ~$145B, citing higher memory pricing, and stood up a new 'Meta Compute' division targeting tens of gigawatts of capacity this decade.",
-      "date": "2026-04-29",
-      "importance": 4,
-      "tags": [
-        "capex",
-        "Meta",
-        "Microsoft",
-        "datacenter",
-        "buildout"
-      ],
-      "url": "https://fortune.com/2026/04/29/microsoft-meta-google-ai-capex-spending-billions/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI discontinues Sora app; API to shut down September 2026",
-      "summary": "OpenAI discontinued the Sora web and app experiences, with the Sora API ending September 24, 2026 and no announced successor. Reporting cites high video-inference costs, weak sustained engagement, and unresolved likeness and training-data legal questions.",
-      "date": "2026-04-26",
-      "importance": 3,
-      "tags": [
-        "Sora",
-        "video",
-        "discontinuation",
-        "product-shutdown"
-      ],
-      "url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "DeepSeek V4 preview: 1.6T MoE that closes the gap with frontier",
-      "summary": "DeepSeek released an MIT-licensed preview of V4: V4-Pro (1.6T params, 49B active) and V4-Flash (284B, 13B active), both with 1M context. V4-Pro hits 80.6% on SWE-bench Verified (top open-weights, tied with Gemini 3.1 Pro) at around $0.44 in / $0.87 per million output tokens, dramatically undercutting closed peers.",
-      "date": "2026-04-24",
-      "importance": 5,
-      "tags": [
-        "open-weights",
-        "MoE",
-        "1M-context",
-        "coding",
-        "low-cost",
-        "China",
-        "MIT-license"
-      ],
-      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-5.5 launches as OpenAI's smartest, most agentic flagship",
-      "summary": "GPT-5.5 (with a Pro tier) is OpenAI's most capable model yet, with major gains in agentic coding, computer use, knowledge work, and scientific research, able to carry multi-step tasks across tools to completion. It became the foundation of the ChatGPT lineup and API.",
-      "date": "2026-04-23",
-      "importance": 5,
-      "tags": [
-        "GPT-5.5",
-        "flagship",
-        "frontier",
-        "agentic",
-        "API"
-      ],
-      "url": "https://openai.com/index/introducing-gpt-5-5/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Google DeepMind",
-      "title": "Google Ironwood (TPU v7) reaches GA for inference",
-      "summary": "Google's seventh-gen Ironwood TPU, its first 'inference-first' chip, reached general availability across Compute Engine, GKE and Vertex AI. Anthropic alone committed to up to one million Ironwood chips and 1+ GW of capacity in 2026; Google also previewed 8th-gen TPUs on TSMC 2nm for late 2027.",
-      "date": "2026-04-22",
-      "importance": 5,
-      "tags": [
-        "Google",
-        "TPU",
-        "Ironwood",
-        "inference"
-      ],
-      "url": "https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Workspace agents bring Codex-powered shared agents to teams",
-      "summary": "OpenAI introduced workspace agents in ChatGPT, letting organizations build shared, cloud-running agents that handle long-horizon workflows (reports, code, messages) within org permissions. Powered by Codex and positioned as an evolution of custom GPTs, they launched in research preview for Business, Enterprise, Edu, and Teachers plans.",
-      "date": "2026-04-22",
-      "importance": 4,
-      "tags": [
-        "agents",
-        "ChatGPT",
-        "Codex",
-        "enterprise",
-        "workflows"
-      ],
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Amazon-Anthropic expand to up to 5 GW; Trainium3 scales in 2026",
-      "summary": "Amazon added $5B equity (up to $20B more in milestones) into Anthropic alongside a ~$100B AWS commitment, expanding compute to up to 5 GW. Trainium2 scaled in Q2 2026 via Project Rainier (~500K chips), with Trainium3 coming online later in 2026, approaching ~1 GW by year-end.",
-      "date": "2026-04-21",
-      "importance": 4,
-      "tags": [
-        "Amazon",
-        "Anthropic",
-        "Trainium",
-        "custom-silicon",
-        "Project-Rainier"
-      ],
-      "url": "https://www.anthropic.com/news/anthropic-amazon-compute"
-    },
-    {
-      "category": "model",
-      "lab": "Moonshot AI (Kimi)",
-      "title": "Kimi K2.6: open-weight agent ties GPT-5.5 on coding for ~80% less",
-      "summary": "Moonshot's Kimi K2.6 (1T-param MoE, 32B active, 256K context, now with native video input) graduates to a GA model built for 12-hour autonomous coding sessions and large agent swarms. It ties GPT-5.5 on SWE-Bench Pro at roughly 80% lower cost ($0.60 in / $2.50 per million output tokens).",
-      "date": "2026-04-20",
-      "importance": 4,
-      "tags": [
-        "open-weights",
-        "MoE",
-        "agentic",
-        "coding",
-        "multimodal",
-        "China"
-      ],
-      "url": "https://blog.kilo.ai/p/kimi-k26-has-arrived-an-open-weight"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Grok 4.3 launches with low pricing and voice cloning suite",
-      "summary": "xAI released Grok 4.3, a frontier reasoning model with a 1M-token context, the lowest reported hallucination rate among frontier models, configurable reasoning effort, and an aggressively low price, bundled with the new Custom Voices cloning suite.",
-      "date": "2026-04-17",
-      "importance": 3,
-      "tags": [
-        "Grok-4.3",
-        "reasoning",
-        "hallucination",
-        "voice-cloning",
-        "pricing"
-      ],
-      "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Stargate adds five US sites, pushing toward 10 GW ahead of schedule",
-      "summary": "OpenAI, Oracle and SoftBank announced five new Stargate datacenter sites, adding 3+ GW in 90 days and surpassing the original 10-GW-by-2029 goal early. A separate OpenAI-Oracle agreement covers up to 4.5 GW more in a $300B+ partnership.",
-      "date": "2026-04-15",
-      "importance": 4,
-      "tags": [
-        "Stargate",
-        "OpenAI",
-        "Oracle",
-        "SoftBank",
-        "datacenter",
-        "buildout"
-      ],
-      "url": "https://openai.com/index/five-new-stargate-sites/"
-    },
-    {
-      "category": "model",
-      "lab": "Alibaba Qwen",
-      "title": "Qwen3.6 targets agent workflows with a tiny active footprint",
-      "summary": "Alibaba's Qwen3.6 focuses on agentic deployment using an efficient MoE design (36B total, only ~3B active per token), reportedly outperforming Google Gemma 4 while keeping inference cheap. Aimed at scaling agents across enterprise and Alibaba's own AI apps.",
-      "date": "2026-04-15",
-      "importance": 3,
-      "tags": [
-        "MoE",
-        "agentic",
-        "efficiency",
-        "enterprise",
-        "China"
-      ],
-      "url": "https://github.com/QwenLM/Qwen3.6"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Meta runs dual-track AI: closed Muse Spark plus open-weight Llama 5",
-      "summary": "On the same day Meta Superintelligence Labs launched its first closed frontier model, Muse Spark (now powering Meta AI across its apps and glasses), it also released Llama 5 as a fully open-weight flagship (~600B params, 5M-token context). Rather than abandoning open weights, Meta adopted a dual-track strategy: closed for the frontier, open for ecosystem reach.",
-      "date": "2026-04-08",
-      "importance": 4,
-      "tags": [
-        "Muse-Spark",
-        "Llama-5",
-        "open-weights",
-        "strategy",
-        "Meta"
-      ],
-      "url": "https://thenewstack.io/meta-abandons-llama-spark/"
-    },
-    {
-      "category": "product",
-      "lab": "Anysphere",
-      "title": "Cursor 3 ships agent-first 'Glass' interface with Agents Window",
-      "summary": "Cursor's biggest overhaul since launch adds an Agents Window for running multiple agents in parallel across local machines, worktrees, cloud sandboxes, and remote SSH, plus Cloud Agents and an evolved Composer — moving Cursor from a code editor toward a multi-agent orchestration environment.",
-      "date": "2026-04-02",
-      "importance": 4,
-      "tags": [
-        "Cursor",
-        "coding-agent",
-        "parallel-agents",
-        "IDE"
-      ],
-      "url": "https://www.digitalapplied.com/blog/cursor-3-agents-window-design-mode-complete-guide"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI closes record $122B round at $852B valuation",
-      "summary": "OpenAI closed what was reported as the largest private funding round in history (~$122B) at an $852B post-money valuation, anchored by Amazon, Nvidia and SoftBank, with revenue reportedly near $2B/month — setting the stage for its IPO filing.",
-      "date": "2026-04-01",
-      "importance": 5,
-      "tags": [
-        "funding",
-        "OpenAI",
-        "valuation",
-        "mega-round"
-      ],
-      "url": "https://tech-insider.org/openai-110-billion-funding-round-2026/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Veo 4 released with 4K, 30s clips and character consistency",
-      "summary": "Google released Veo 4, its most advanced video model, adding native storyboarding, up to 30-second 4K generation, zero-shot avatar creation, and markedly improved character consistency, available via Flow and Gemini Ultra plans.",
-      "date": "2026-04-01",
-      "importance": 3,
-      "tags": [
-        "Veo",
-        "video-generation",
-        "4K",
-        "creative",
-        "multimodal"
-      ],
-      "url": "https://www.veo3ai.io/blog/veo-4-release-everything-you-need-to-know-2026"
-    },
-    {
-      "category": "model",
-      "lab": "Baidu",
-      "title": "Baidu ERNIE 5.0: 2.4T-parameter omnimodal flagship on Kunlun silicon",
-      "summary": "Baidu's ERNIE 5.0 is a 2.4T-parameter omnimodal flagship trained on Baidu's own Kunlun chips, extending the trend of major Chinese labs pairing very large multimodal models with domestic accelerators to reduce dependence on restricted Nvidia hardware.",
-      "date": "2026-04-01",
-      "importance": 3,
-      "tags": [
-        "omnimodal",
-        "domestic-silicon",
-        "Kunlun",
-        "China",
-        "scale"
-      ],
-      "url": "https://www.digitalapplied.com/blog/chinese-ai-models-q2-2026-market-share-report"
-    },
-    {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "Claude Computer Use reaches macOS desktop control in research preview",
-      "summary": "Anthropic extended Claude to full-desktop control on macOS, letting it complete tasks by operating the computer directly. Anthropic leads the developer-API category for computer use; Windows support is expected later in 2026.",
-      "date": "2026-03-24",
-      "importance": 4,
-      "tags": [
-        "computer-use",
-        "agents",
-        "desktop-control",
-        "Claude"
-      ],
-      "url": "https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html"
-    },
-    {
-      "category": "model",
-      "lab": "Anysphere",
-      "title": "Cursor Composer 2 trained on Moonshot's Kimi K2.5 base",
-      "summary": "Composer 2 is Cursor's first model built via continued pre-training on a base model (Kimi K2.5), followed by large-scale RL in realistic Cursor sessions — a genuine capability jump for its in-house agent loop that runs tests, reads errors, and edits files.",
-      "date": "2026-03-19",
-      "importance": 3,
-      "tags": [
-        "Cursor",
-        "Composer",
-        "model-training",
-        "coding"
-      ],
-      "url": "https://www.digitalapplied.com/blog/cursor-3-deep-dive-agents-composer-review-2026"
-    },
-    {
-      "category": "model",
-      "lab": "Mistral",
-      "title": "Mistral Small 4 unifies reasoning, multimodal and coding in one model",
-      "summary": "Mistral Small 4 is the first Mistral model to fold the capabilities of Magistral (reasoning), Pixtral (multimodal) and Devstral (agentic coding) into a single open model, part of a March sprint where Mistral shipped six products in roughly two weeks. Signals Europe's leading open lab consolidating its lineup.",
-      "date": "2026-03-16",
-      "importance": 3,
-      "tags": [
-        "open-weights",
-        "multimodal",
-        "reasoning",
-        "coding",
-        "Europe"
-      ],
-      "url": "https://mistral.ai/news/mistral-small-4/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "ARC Prize Foundation",
-      "title": "ARC-AGI-3 launched; frontier models score under 1%",
-      "summary": "The ARC Prize Foundation unveiled ARC-AGI-3, an interactive, agentic reasoning benchmark, at Y Combinator. Frontier models scored below 1%, re-establishing a hard frontier even as ARC-AGI-2 scores climbed past 80%.",
-      "date": "2026-03-15",
-      "importance": 5,
-      "tags": [
-        "ARC-AGI-3",
-        "agentic",
-        "reasoning",
-        "benchmark-launch",
-        "frontier"
-      ],
-      "url": "https://arxiv.org/pdf/2603.24621"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Claude Partner Network and enterprise Claude Code surge",
-      "summary": "Anthropic's Claude Partner Network (launched March 2026 with an initial $100M commitment) plus enterprise momentum: customers spending >$100k/yr on Claude grew 7x in a year, 1,000+ now spend >$1M annually, and business Claude Code subscriptions quadrupled in 2026, with enterprise now over half of Claude Code revenue.",
-      "date": "2026-03-01",
-      "importance": 3,
-      "tags": [
-        "enterprise",
-        "partners",
-        "claude-code",
-        "adoption",
-        "revenue"
-      ],
-      "url": "https://www.anthropic.com/news/series-h"
-    },
-    {
-      "category": "product",
-      "lab": "Perplexity",
-      "title": "Perplexity Comet goes fully free and lands on iOS",
-      "summary": "Comet completed its cross-platform rollout with an iOS launch and dropped its paywall, making the full agentic browser — sidebar assistant, cross-tab reasoning, and agent mode — free on Mac, Windows, iOS, and Android. Agentic browsers went mainstream in 2026.",
-      "date": "2026-03-01",
-      "importance": 3,
-      "tags": [
-        "AI-browser",
-        "Comet",
-        "agentic-browser",
-        "consumer-app"
-      ],
-      "url": "https://beginnersinai.org/whats-new-perplexity-2026/"
-    },
-    {
-      "category": "model",
-      "lab": "Tencent Hunyuan",
-      "title": "Tencent Hunyuan Hy3: 295B MoE matching trillion-param models",
-      "summary": "Tencent's Hunyuan Hy3 is a 295B-parameter MoE reasoning model with only 21B active per query and a 256K context, strong on coding and agentic tasks. Tencent claims it matches Kimi-K2.5 (1T+ params) on agent benchmarks at a fraction of the compute, highlighting how efficient sparsity is closing the gap.",
-      "date": "2026-03-01",
-      "importance": 3,
-      "tags": [
-        "MoE",
-        "reasoning",
-        "efficiency",
-        "agentic",
-        "China"
-      ],
-      "url": "https://www.digitalapplied.com/blog/chinese-ai-models-q2-2026-market-share-report"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Grok 4.20 introduces native multi-agent collaboration",
-      "summary": "Grok 4.20 is a multi-agent model with a 4-agent collaborative architecture (16 agents in the Heavy tier), a 2M-token context, real-time X Firehose integration, ~235 tokens/sec output, and a rapid-learning loop that incorporates feedback weekly.",
-      "date": "2026-03-01",
-      "importance": 3,
-      "tags": [
-        "Grok-4.20",
-        "multi-agent",
-        "X-integration",
-        "real-time",
-        "context-window"
-      ],
-      "url": "https://aimlapi.com/blog/grok-4-20-review-2026-everything-you-need-to-know"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini 3.1 Pro: 2x reasoning, tops most benchmarks",
-      "summary": "Gemini 3.1 Pro delivered a 2x+ reasoning boost over Gemini 3 Pro (77.1% ARC-AGI-2, 94.3% GPQA Diamond, 80.6% SWE-bench), led 13 of 16 tracked benchmarks at launch, and kept the 1M-token context window.",
-      "date": "2026-02-19",
-      "importance": 4,
-      "tags": [
-        "Gemini",
-        "reasoning",
-        "benchmarks",
-        "ARC-AGI-2",
-        "SWE-bench"
-      ],
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/"
-    },
-    {
-      "category": "model",
-      "lab": "Alibaba Qwen",
-      "title": "Qwen3.5 scales to 397B MoE with 201 languages",
-      "summary": "Qwen3.5 and Qwen3.5-Plus scale to 397B total parameters (17B active), support 201 languages, and deliver an 8.6x-19x throughput improvement over the prior generation, as China's chatbot race pivots toward AI agents. Reinforces Qwen as the most broadly capable open model family.",
-      "date": "2026-02-16",
-      "importance": 3,
-      "tags": [
-        "MoE",
-        "multilingual",
-        "throughput",
-        "agentic",
-        "China"
-      ],
-      "url": "https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html"
-    },
-    {
-      "category": "model",
-      "lab": "Zhipu/GLM (Z.ai)",
-      "title": "GLM-5: first frontier model trained on Huawei Ascend chips",
-      "summary": "Zhipu's MIT-licensed GLM-5 (744B params, 44B active MoE) was notable both for frontier-level agentic capability and for being trained on domestic Huawei Ascend silicon — a milestone for China's self-reliant AI stack. Priced ~6x cheaper than Claude Opus, it sent Zhipu's newly public shares soaring.",
-      "date": "2026-02-11",
-      "importance": 4,
-      "tags": [
-        "open-weights",
-        "MoE",
-        "Huawei-Ascend",
-        "agentic",
-        "China",
-        "MIT-license"
-      ],
-      "url": "https://www.scmp.com/tech/article/3343239/chinas-zhipu-ai-launches-new-major-model-glm-5-challenge-its-rivals"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-5.3-Codex: most capable agentic coding model, helps build itself",
-      "summary": "GPT-5.3-Codex unifies frontier coding with GPT-5.2-level reasoning while running ~25% faster, setting records on SWE-Bench Pro and Terminal-Bench. Notably, the Codex team used early versions to debug its own training and deployment.",
-      "date": "2026-02-05",
-      "importance": 4,
-      "tags": [
-        "Codex",
-        "coding",
-        "agentic",
-        "SWE-bench",
-        "self-improvement"
-      ],
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex/"
-    },
-    {
-      "category": "industry",
-      "lab": "xAI / SpaceX",
-      "title": "Musk merges xAI into SpaceX at $1.25T, eyeing orbital data centers",
-      "summary": "Elon Musk merged xAI (valued ~$250B) into SpaceX (~$1T) in a $1.25T combination billed as the largest merger ever, aimed at building orbital data centers and giving cash-burning xAI access to SpaceX's resources.",
-      "date": "2026-02-03",
-      "importance": 4,
-      "tags": [
-        "merger",
-        "xAI",
-        "SpaceX",
-        "Musk",
-        "compute"
-      ],
-      "url": "https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html"
-    },
-    {
-      "category": "product",
-      "lab": "Cognition",
-      "title": "Devin 2.2 adds self-verification, auto-fix, and desktop testing",
-      "summary": "Devin 2.2 gained the ability to test its own work via computer use, self-verify, and auto-fix its code, with faster startup. Later in 2026 Cognition slashed pricing from $500/mo to $20/mo plus per-usage fees, dramatically lowering the barrier to entry.",
-      "date": "2026-02-01",
-      "importance": 3,
-      "tags": [
-        "Devin",
-        "coding-agent",
-        "self-verification",
-        "pricing"
-      ],
-      "url": "https://cognition.com/blog/introducing-devin-2-2"
-    },
-    {
-      "category": "research",
-      "lab": "Google DeepMind",
-      "title": "Genie 3 world model opens to the public via Project Genie",
-      "summary": "Google DeepMind launched Project Genie, bringing its Genie 3 world model (real-time, navigable 3D worlds at 720p/24fps with ~one minute of consistency) to Google AI Ultra subscribers in the US, later expanding worldwide with Street View grounding. Waymo also built a 'Waymo World Model' on Genie 3 to simulate rare driving edge cases.",
-      "date": "2026-01-29",
-      "importance": 4,
-      "tags": [
-        "Genie-3",
-        "world-models",
-        "simulation",
-        "Waymo",
-        "interactive"
-      ],
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/"
-    },
-    {
-      "category": "research",
-      "lab": "Google DeepMind",
-      "title": "AlphaGenome published in Nature, decoding DNA function",
-      "summary": "DeepMind's AlphaGenome, published in Nature, predicts gene expression, chromatin accessibility, splicing and more across DNA sequences up to ~1M base pairs — aiming to do for the genome what AlphaFold did for proteins. About 3,000 scientists already use it.",
-      "date": "2026-01-28",
-      "importance": 5,
-      "tags": [
-        "AlphaGenome",
-        "genomics",
-        "biology",
-        "Nature",
-        "DNA"
-      ],
-      "url": "https://www.chemistryworld.com/news/googles-alphagenome-wants-to-do-for-dna-what-alphafold-did-for-proteins/4022824.article"
-    },
-    {
-      "category": "hardware",
-      "lab": "AMD",
-      "title": "AMD unveils full MI400 lineup at CES 2026 to challenge Vera Rubin",
-      "summary": "Lisa Su detailed five CDNA 5 MI400-series accelerators, led by the MI455X (320B transistors, 432GB HBM4, up to 40 PFLOPS FP4), positioned directly against Nvidia's Vera Rubin with ~1.5x higher memory capacity. Production ships mid-2026, with broad availability in 2H 2026 and an MI500 follow-on in 2027.",
-      "date": "2026-01-05",
-      "importance": 4,
-      "tags": [
-        "AMD",
-        "MI400",
-        "MI455X",
-        "CDNA5",
-        "GPU",
-        "HBM4"
-      ],
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and-leadership-with-expanded-amd-instinct-gpu-roadmap"
-    },
-    {
-      "category": "benchmark",
-      "lab": "NVIDIA",
-      "title": "ARC Prize 2025 grand prize unclaimed; top Kaggle entry ~24%",
-      "summary": "The ARC Prize 2025 $700K grand prize (requiring 85% on the private ARC-AGI-2 set under tight compute) went unclaimed; NVIDIA's NVARC team won first place at 24.03%. It highlights the gap between high-compute frontier API scores and efficient, constrained solutions.",
-      "date": "2025-11-30",
-      "importance": 4,
-      "tags": [
-        "ARC-AGI-2",
-        "ARC-Prize",
-        "Kaggle",
-        "reasoning",
-        "compute-efficiency"
-      ],
-      "url": "https://arcprize.org/blog/arc-prize-2025-results-analysis"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini 3 Pro debuts as Google's most intelligent model",
-      "summary": "Gemini 3 Pro set a new bar for reasoning and multimodal understanding, topping LMArena at ~1501 Elo with 91.9% GPQA Diamond and 76.2% SWE-bench Verified, and became the foundation for the 3.x line.",
-      "date": "2025-11-18",
-      "importance": 5,
-      "tags": [
-        "Gemini",
-        "frontier",
-        "multimodal",
-        "reasoning",
-        "LMArena"
-      ],
-      "url": "https://blog.google/products/gemini/gemini-3/"
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything"
     }
   ]
 }

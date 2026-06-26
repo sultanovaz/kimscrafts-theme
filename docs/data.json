@@ -1,17 +1,79 @@
 {
-  "updated": "2026-06-26T13:51:32.991Z",
+  "updated": "2026-06-26T16:42:10.345Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
     "fresh": 168
   },
+  "ranking": [
+    {
+      "rank": 1,
+      "model": "Claude Opus 4.8",
+      "lab": "Anthropic",
+      "score": 61
+    },
+    {
+      "rank": 2,
+      "model": "GPT-5.5",
+      "lab": "OpenAI",
+      "score": 60
+    },
+    {
+      "rank": 3,
+      "model": "Gemini 3.1 Pro",
+      "lab": "Google",
+      "score": 57
+    },
+    {
+      "rank": 4,
+      "model": "Grok 4.3",
+      "lab": "xAI",
+      "score": 53
+    },
+    {
+      "rank": 5,
+      "model": "GLM-5.2",
+      "lab": "Z.ai · open",
+      "score": 51
+    },
+    {
+      "rank": 6,
+      "model": "DeepSeek V4-Pro",
+      "lab": "DeepSeek · open",
+      "score": 50
+    },
+    {
+      "rank": 7,
+      "model": "Muse Spark",
+      "lab": "Meta",
+      "score": 50
+    },
+    {
+      "rank": 8,
+      "model": "Gemini 3.5 Flash",
+      "lab": "Google",
+      "score": 49
+    },
+    {
+      "rank": 9,
+      "model": "MiniMax M3",
+      "lab": "MiniMax · open",
+      "score": 48
+    },
+    {
+      "rank": 10,
+      "model": "Kimi",
+      "lab": "Moonshot · open",
+      "score": 47
+    }
+  ],
   "benchmarks": [
     {
       "label": "Writing code",
       "plain": "building & fixing real software",
-      "leader": "Claude",
-      "pct": 95
+      "leader": "Claude Opus 4.8",
+      "pct": 89
     },
     {
       "label": "Logic & reasoning",
@@ -56,6 +118,16 @@
       "url": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic",
+      "summary": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs. CEO Flo Crivello calls it \"a matter of survival for the business.\" The article AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropi",
+      "date": "2026-06-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027",
@@ -84,6 +156,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+      "date": "2026-06-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies build",
+      "date": "2026-06-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/"
     },
     {
       "category": "industry",
@@ -194,16 +286,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google keeps losing top AI researchers to rivals",
-      "summary": "Google appears to be hemorrhaging key AI researchers to competitors. The article Google keeps losing top AI researchers to rivals appeared first on The Decoder.",
-      "date": "2026-06-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-keeps-losing-top-ai-researchers-to-rivals/"
     },
     {
       "category": "hardware",
@@ -480,26 +562,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-      "date": "2026-06-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-      "date": "2026-06-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"
     },
     {
       "category": "hardware",

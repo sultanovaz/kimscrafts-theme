@@ -2,353 +2,298 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=5.0" />
-<meta name="theme-color" content="#05060a" />
-<meta name="description" content="AI Frontier — the big moves in AI, made simple. Visual, mobile, updates itself." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#faf9f5" id="theme-color" />
+<meta name="description" content="AI Frontier — the big moves in AI, made simple. The best AIs ranked, what they're good at, and the major news. Mobile, calm, updates itself." />
 <meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <meta name="apple-mobile-web-app-title" content="FRONTIER" />
-<title>AI FRONTIER — the big moves, made simple</title>
+<title>AI Frontier — the big moves, made simple</title>
 <link rel="manifest" href="manifest.webmanifest" />
 <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
 <link rel="apple-touch-icon" href="assets/icon.svg" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link rel="preconnect" href="https://hn.algolia.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&display=swap" rel="stylesheet" />
 <style>
+  /* ===== Claude-inspired palette · auto light/dark ===== */
   :root{
-    --bg:#05060a; --bg2:#080a10;
-    --ink:#eef2f8; --dim:#8b95a4; --faint:#525c6b;
-    --line:rgba(125,145,180,.11); --line2:rgba(125,145,180,.20);
-    --cyan:#00e5ff; --live:#22e07a; --hot:#ff2d6b; --warm:#ffb020; --violet:#9b7bff;
+    --bg:#faf9f5; --surface:#ffffff; --surface2:#f3f1ea;
+    --ink:#1f1d1a; --dim:#6c6a62; --faint:#a09d92;
+    --line:rgba(31,29,26,.10); --line2:rgba(31,29,26,.18);
+    --accent:#b8552f; --accent-fill:#d97757; --accent-soft:rgba(217,119,87,.12);
+    --good:#3f7d52; --track:rgba(31,29,26,.08);
     --safe-t:env(safe-area-inset-top,0px); --safe-b:env(safe-area-inset-bottom,0px);
   }
-  *{ box-sizing:border-box; margin:0; padding:0; border-radius:0 !important; -webkit-tap-highlight-color:transparent; }
-  html{ background:var(--bg); }
-  body{
-    background:var(--bg); color:var(--ink); overflow-x:hidden;
-    font-family:"Space Grotesk",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-    -webkit-font-smoothing:antialiased; line-height:1.3; letter-spacing:.005em;
-    background-image:
-      linear-gradient(rgba(125,145,180,.03) 1px,transparent 1px),
-      linear-gradient(90deg,rgba(125,145,180,.03) 1px,transparent 1px),
-      radial-gradient(120% 80% at 50% -10%, rgba(0,229,255,.07), transparent 60%);
-    background-size:44px 44px,44px 44px,100% 100%;
+  html[data-theme="dark"]{
+    --bg:#232120; --surface:#2b2926; --surface2:#302e2a;
+    --ink:#f4f2ea; --dim:#b4b0a5; --faint:#7d796f;
+    --line:rgba(255,255,255,.10); --line2:rgba(255,255,255,.16);
+    --accent:#e69069; --accent-fill:#d97757; --accent-soft:rgba(217,119,87,.16);
+    --good:#6bbf85; --track:rgba(255,255,255,.09);
   }
+  *{ box-sizing:border-box; margin:0; padding:0; border-radius:0 !important; -webkit-tap-highlight-color:transparent; }
+  html,body{ max-width:100%; overflow-x:hidden; background:var(--bg); }
+  body{
+    color:var(--ink); font-family:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    -webkit-font-smoothing:antialiased; line-height:1.5; font-size:17px;
+    transition:background .3s,color .3s;
+  }
+  h1,h2,h3,.serif{ font-family:"Source Serif 4",Georgia,"Times New Roman",serif; }
   a{ color:inherit; text-decoration:none; }
-  ::selection{ background:var(--cyan); color:#000; }
+  ::selection{ background:var(--accent-soft); }
   ::-webkit-scrollbar{ width:0; height:0; }
+  .wrap{ max-width:680px; margin:0 auto; }
 
-  /* ───── top bar ───── */
-  header{ position:sticky; top:0; z-index:50; background:rgba(5,6,10,.82);
-    backdrop-filter:blur(14px) saturate(140%); -webkit-backdrop-filter:blur(14px) saturate(140%);
-    border-bottom:1px solid var(--line); padding-top:var(--safe-t); }
-  .hud{ display:flex; align-items:center; justify-content:space-between; height:48px; padding:0 14px; }
-  .wordmark{ font-weight:700; font-size:15px; letter-spacing:.16em; display:flex; align-items:center; gap:7px; }
-  .wordmark .b{ color:var(--cyan); }
-  .wordmark .cur{ width:9px; height:16px; background:var(--cyan); display:inline-block; animation:blink 1.1s steps(1) infinite; box-shadow:0 0 12px var(--cyan); }
-  @keyframes blink{ 50%{ opacity:0; } }
-  .hudright{ display:flex; align-items:center; gap:12px; font-family:"JetBrains Mono",monospace; font-size:11px; color:var(--dim); }
-  .clock{ color:var(--ink); letter-spacing:.06em; }
-  .livepill{ display:flex; align-items:center; gap:6px; color:var(--live); font-weight:700; letter-spacing:.14em; }
-  .dot{ width:7px; height:7px; background:var(--live); display:inline-block; animation:pulse 1.8s infinite; }
-  @keyframes pulse{ 0%{ box-shadow:0 0 0 0 rgba(34,224,122,.6);} 70%{ box-shadow:0 0 0 7px rgba(34,224,122,0);} 100%{ box-shadow:0 0 0 0 rgba(34,224,122,0);} }
-  #scan{ height:2px; background:linear-gradient(90deg,var(--cyan),var(--violet)); width:0; transition:width .5s ease; box-shadow:0 0 10px var(--cyan); }
+  /* ===== header ===== */
+  header{ position:sticky; top:0; z-index:50; background:color-mix(in srgb,var(--bg) 88%,transparent);
+    backdrop-filter:blur(12px); -webkit-backdrop-filter:blur(12px); border-bottom:1px solid var(--line); padding-top:var(--safe-t); }
+  .hud{ display:flex; align-items:center; justify-content:space-between; height:56px; padding:0 18px; max-width:680px; margin:0 auto; }
+  .wordmark{ font-family:"Source Serif 4",serif; font-weight:700; font-size:20px; letter-spacing:-.01em; display:flex; align-items:center; gap:8px; }
+  .wordmark .dot{ width:9px; height:9px; background:var(--accent-fill); display:inline-block; }
+  .themebtn{ background:none; border:1px solid var(--line2); color:var(--ink); width:40px; height:40px; font-size:18px; cursor:pointer; display:flex; align-items:center; justify-content:center; }
+  .themebtn:active{ background:var(--surface2); }
 
-  /* ───── hero ───── */
-  .hero{ padding:24px 14px 18px; border-bottom:1px solid var(--line); }
-  .hero .eyebrow{ font-family:"JetBrains Mono",monospace; font-size:10.5px; letter-spacing:.3em; color:var(--cyan); text-transform:uppercase; }
-  .hero h1{ font-size:clamp(32px,11vw,54px); font-weight:700; line-height:.95; letter-spacing:-.03em; margin-top:10px; }
-  .hero h1 .g{ color:var(--faint); }
-  .hero .lead{ font-size:14px; color:var(--dim); margin-top:12px; max-width:30em; line-height:1.45; }
-  .substat{ display:flex; flex-wrap:wrap; gap:6px 18px; margin-top:14px; font-family:"JetBrains Mono",monospace; font-size:11.5px; color:var(--dim); }
-  .substat b{ color:var(--ink); font-weight:500; }
-  .substat .new{ color:var(--hot); font-weight:700; }
+  /* ===== hero ===== */
+  .hero{ padding:30px 18px 24px; }
+  .hero h1{ font-size:clamp(30px,8.5vw,42px); font-weight:700; line-height:1.08; letter-spacing:-.02em; }
+  .hero .lead{ font-size:16.5px; color:var(--dim); margin-top:14px; line-height:1.55; }
+  .hero .meta{ margin-top:16px; font-size:14px; color:var(--faint); display:flex; flex-wrap:wrap; gap:5px 16px; }
+  .hero .meta b{ color:var(--ink); font-weight:600; }
+  .hero .meta .new{ color:var(--accent); font-weight:700; }
 
-  /* ───── section header ───── */
-  .sec-h{ display:flex; align-items:center; justify-content:space-between; padding:24px 14px 4px; }
-  .sec-h h2{ font-size:13px; font-weight:700; letter-spacing:.16em; text-transform:uppercase; display:flex; align-items:center; gap:9px; }
-  .sec-h h2 .sq{ width:8px; height:8px; background:var(--cyan); box-shadow:0 0 10px var(--cyan); }
-  .sec-sub{ padding:0 14px; font-size:12.5px; color:var(--faint); margin-bottom:8px; }
+  /* ===== section ===== */
+  section{ padding:8px 0; }
+  .sec-h{ padding:26px 18px 2px; }
+  .sec-h h2{ font-size:23px; font-weight:700; letter-spacing:-.01em; }
+  .sec-h p{ font-size:14.5px; color:var(--dim); margin-top:5px; line-height:1.45; }
 
-  /* ───── winners (visual bars) ───── */
-  .winners{ padding:4px 14px 22px; border-bottom:1px solid var(--line); }
-  .wrow{ padding:13px 0; border-bottom:1px solid var(--line); }
-  .wrow:last-child{ border-bottom:0; }
-  .wtop{ display:flex; align-items:baseline; justify-content:space-between; gap:10px; }
-  .wlabel{ font-size:15.5px; font-weight:600; }
-  .wlead{ font-family:"JetBrains Mono",monospace; font-size:11px; color:var(--cyan); letter-spacing:.04em; white-space:nowrap; }
-  .wplain{ font-size:12px; color:var(--dim); margin-top:2px; }
-  .wtrack{ height:12px; background:rgba(125,145,180,.10); margin-top:9px; position:relative; overflow:hidden; }
-  .wfill{ height:100%; width:0; background:linear-gradient(90deg,var(--cyan),var(--violet)); transition:width 1.1s cubic-bezier(.2,.8,.2,1); box-shadow:0 0 12px rgba(0,229,255,.5); }
-  .wfill.low{ background:linear-gradient(90deg,var(--hot),#ff6b3d); box-shadow:0 0 12px rgba(255,45,107,.5); }
-  .wpct{ position:absolute; right:6px; top:50%; transform:translateY(-50%); font-family:"JetBrains Mono",monospace; font-size:9.5px; font-weight:700; color:#02060a; mix-blend-mode:difference; }
-  .wpct.out{ color:var(--dim); mix-blend-mode:normal; }
+  /* ===== leaderboard ===== */
+  .lb{ padding:10px 0 6px; }
+  .lrow{ display:flex; align-items:center; gap:14px; padding:14px 18px; border-bottom:1px solid var(--line); }
+  .lrank{ font-family:"Source Serif 4",serif; font-size:26px; font-weight:700; color:var(--faint); width:34px; text-align:center; flex:0 0 auto; }
+  .lrow:nth-child(1) .lrank,.lrow:nth-child(2) .lrank,.lrow:nth-child(3) .lrank{ color:var(--accent); }
+  .lbody{ flex:1 1 auto; min-width:0; }
+  .lname{ font-size:17.5px; font-weight:600; line-height:1.2; }
+  .llab{ font-size:13px; font-weight:600; margin-top:2px; }
+  .lbar-wrap{ display:flex; align-items:center; gap:10px; margin-top:8px; }
+  .lbar{ flex:1 1 auto; height:8px; background:var(--track); overflow:hidden; }
+  .lbar i{ display:block; height:100%; width:0; background:var(--accent-fill); transition:width 1s cubic-bezier(.2,.8,.2,1); }
+  .lscore{ font-size:13px; font-weight:700; color:var(--dim); width:30px; text-align:right; flex:0 0 auto; font-variant-numeric:tabular-nums; }
 
-  /* ───── big toggle ───── */
-  .toggle{ display:grid; grid-template-columns:1fr 1fr; margin:18px 14px 4px; border:1px solid var(--line2); }
-  .toggle button{ font-family:"Space Grotesk",sans-serif; font-size:14px; font-weight:600; color:var(--dim);
-    background:none; border:0; padding:14px 8px; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:7px; transition:all .15s; }
-  .toggle button+button{ border-left:1px solid var(--line2); }
-  .toggle button[aria-pressed="true"]{ background:var(--cyan); color:#02060a; }
+  /* ===== skill bars ===== */
+  .skills{ padding:10px 0 4px; }
+  .srow{ padding:15px 18px; border-bottom:1px solid var(--line); }
+  .stop{ display:flex; align-items:baseline; justify-content:space-between; gap:12px; }
+  .slabel{ font-size:17px; font-weight:600; }
+  .slead{ font-size:13.5px; font-weight:600; color:var(--accent); white-space:nowrap; }
+  .splain{ font-size:14px; color:var(--dim); margin-top:3px; }
+  .strack{ height:10px; background:var(--track); margin-top:10px; overflow:hidden; }
+  .sfill{ height:100%; width:0; background:var(--accent-fill); transition:width 1.1s cubic-bezier(.2,.8,.2,1); }
+  .sfill.low{ background:var(--accent); opacity:.55; }
 
-  /* ───── topic chips ───── */
-  .rail{ position:sticky; top:calc(48px + var(--safe-t)); z-index:40; background:rgba(5,6,10,.92); backdrop-filter:blur(12px); -webkit-backdrop-filter:blur(12px); border-top:1px solid var(--line); border-bottom:1px solid var(--line); margin-top:14px; }
-  .chips{ display:flex; overflow-x:auto; scrollbar-width:none; }
-  .chip{ flex:0 0 auto; font-size:13px; font-weight:600; color:var(--dim); padding:12px 15px; background:none; border:0; border-right:1px solid var(--line); cursor:pointer; white-space:nowrap; transition:all .15s; }
-  .chip:last-child{ border-right:0; }
-  .chip[aria-pressed="true"]{ color:#02060a; background:var(--cyan); }
+  /* ===== news ===== */
+  .news{ padding:6px 0; }
+  .card{ display:block; padding:18px; border-bottom:1px solid var(--line); }
+  .card:active{ background:var(--surface2); }
+  .ctop{ display:flex; align-items:center; gap:10px; margin-bottom:9px; flex-wrap:wrap; }
+  .llabtag{ font-size:13px; font-weight:700; letter-spacing:.01em; }
+  .flag{ font-size:12px; font-weight:700; padding:2px 8px; }
+  .flag.huge{ background:var(--accent-fill); color:#fff; }
+  .flag.big{ background:var(--accent-soft); color:var(--accent); }
+  .flag.newt{ color:var(--accent); font-weight:700; }
+  .when{ margin-left:auto; font-size:13px; color:var(--faint); }
+  .card h3{ font-size:19px; font-weight:600; line-height:1.3; letter-spacing:-.01em; font-family:"Source Serif 4",serif; }
+  .card p{ font-size:15.5px; color:var(--dim); line-height:1.5; margin-top:8px; }
+  .card .src{ font-size:13px; color:var(--accent); margin-top:11px; display:inline-block; font-weight:500; }
 
-  /* ───── feed cards ───── */
-  .feed{ }
-  .card{ display:block; padding:16px 14px; border-bottom:1px solid var(--line); position:relative; transition:background .15s; }
-  .card:active{ background:var(--bg2); }
-  .card.isnew::before{ content:""; position:absolute; left:0; top:0; bottom:0; width:3px; background:var(--hot); box-shadow:0 0 10px var(--hot); }
-  .ctop{ display:flex; align-items:center; gap:8px; margin-bottom:8px; flex-wrap:wrap; }
-  .lab{ color:#02060a; background:var(--cyan); padding:3px 8px; font-weight:700; font-size:10.5px; letter-spacing:.06em; text-transform:uppercase; font-family:"JetBrains Mono",monospace; }
-  .lab.l-anthropic{ background:#d97757; } .lab.l-openai{ background:#10a37f; } .lab.l-google{ background:#4d8bff; color:#fff; }
-  .lab.l-meta{ background:#1d8fff; color:#fff; } .lab.l-xai{ background:#e8ecf2; } .lab.l-deepseek{ background:#7c6bff; color:#fff; }
-  .lab.l-mistral{ background:#ff7000; color:#fff; } .lab.l-nvidia{ background:#76b900; } .lab.l-buzz{ background:var(--warm); }
-  .flag{ font-size:10.5px; font-weight:700; letter-spacing:.08em; font-family:"JetBrains Mono",monospace; padding:3px 7px; }
-  .flag.huge{ background:var(--hot); color:#fff; box-shadow:0 0 12px rgba(255,45,107,.5); }
-  .flag.big{ background:rgba(255,176,32,.16); color:var(--warm); }
-  .flag.newt{ color:var(--hot); font-weight:700; }
-  .when{ margin-left:auto; font-family:"JetBrains Mono",monospace; font-size:10.5px; color:var(--faint); }
-  .pts{ font-family:"JetBrains Mono",monospace; font-size:10.5px; color:var(--warm); }
-  .card h3{ font-size:17px; font-weight:600; line-height:1.25; letter-spacing:-.01em; }
-  .card p{ font-size:13.5px; color:var(--dim); line-height:1.45; margin-top:7px; }
-  .src{ font-family:"JetBrains Mono",monospace; font-size:10px; color:var(--cyan); letter-spacing:.06em; margin-top:10px; display:inline-block; }
+  .more{ display:block; width:calc(100% - 36px); margin:18px; padding:16px; background:var(--surface2); border:1px solid var(--line2);
+    color:var(--ink); font-family:inherit; font-size:16px; font-weight:600; cursor:pointer; text-align:center; }
+  .more:active{ background:var(--surface); }
 
-  .empty,.loading{ padding:34px 14px; text-align:center; color:var(--faint); font-family:"JetBrains Mono",monospace; font-size:12px; }
-  .loading .bar{ height:1px; background:var(--line); margin:14px auto 0; max-width:200px; position:relative; overflow:hidden; }
-  .loading .bar::after{ content:""; position:absolute; left:-40%; top:0; bottom:0; width:40%; background:var(--cyan); animation:load 1.1s linear infinite; }
-  @keyframes load{ to{ left:100%; } }
+  .empty,.loading{ padding:34px 18px; text-align:center; color:var(--faint); font-size:15px; }
 
-  footer{ padding:28px 14px calc(42px + var(--safe-b)); color:var(--faint); font-size:12.5px; line-height:1.7; border-top:1px solid var(--line); }
-  footer a{ color:var(--cyan); }
-  footer .big{ color:var(--dim); font-size:13.5px; line-height:1.55; margin-bottom:14px; }
+  footer{ padding:28px 18px calc(46px + var(--safe-b)); color:var(--faint); font-size:14px; line-height:1.7; border-top:1px solid var(--line); }
+  footer a{ color:var(--accent); font-weight:600; }
+  footer .big{ color:var(--dim); font-size:15px; line-height:1.55; margin-bottom:14px; }
 
-  .card,.wrow{ animation:fade .4s ease both; }
-  @keyframes fade{ from{ opacity:0; transform:translateY(6px);} to{ opacity:1; transform:none;} }
+  .lrow,.srow,.card{ animation:fade .4s ease both; }
+  @keyframes fade{ from{ opacity:0; transform:translateY(5px);} to{ opacity:1; transform:none;} }
 </style>
 </head>
 <body>
 <header>
   <div class="hud">
-    <div class="wordmark">AI<span class="b">▮</span>FRONTIER<span class="cur"></span></div>
-    <div class="hudright"><span class="clock" id="clock">--:--:--</span><span class="livepill"><span class="dot"></span>LIVE</span></div>
+    <div class="wordmark">AI&nbsp;Frontier<span class="dot"></span></div>
+    <button class="themebtn" id="themebtn" aria-label="Toggle light/dark">☾</button>
   </div>
-  <div id="scan"></div>
 </header>
 
-<section class="hero">
-  <div class="eyebrow">// your AI radar</div>
-  <h1>THE BIG<br>MOVES <span class="g">IN</span> AI.</h1>
-  <p class="lead">Open it, scan it, you're caught up. Every new AI, who's winning, and what actually matters — in plain English. It updates itself.</p>
-  <div class="substat">
-    <span><b id="stat-count">—</b> stories</span>
-    <span>updated <b id="stat-sync">—</b></span>
-    <span id="stat-new-wrap" style="display:none"><span class="new" id="stat-new">—</span> new since you checked</span>
-  </div>
-</section>
+<div class="wrap">
+  <section class="hero">
+    <h1>The big moves in AI, made simple.</h1>
+    <p class="lead">Open it, scan it, you're caught up. The best AIs ranked, what they're actually good at, and only the news that matters — in plain English.</p>
+    <div class="meta">
+      <span>updated <b id="stat-sync">—</b></span>
+      <span id="stat-new-wrap" style="display:none"><span class="new" id="stat-new">—</span> new since you checked</span>
+    </div>
+  </section>
 
-<!-- WHO'S WINNING -->
-<section>
-  <div class="sec-h"><h2><span class="sq"></span>Who's winning right now</h2></div>
-  <div class="sec-sub">How good today's best AIs are at each thing. Full bar = basically mastered.</div>
-  <div class="winners" id="winners"></div>
-</section>
+  <!-- LEADERBOARD -->
+  <section>
+    <div class="sec-h"><h2>The best AIs right now</h2><p>Ranked by overall intelligence (a blend of public benchmarks). Scores shift often.</p></div>
+    <div class="lb" id="lb"></div>
+  </section>
 
-<!-- TOGGLE + CHIPS + FEED -->
-<div class="toggle" id="toggle">
-  <button data-mode="big" aria-pressed="true">⭐ Big moves only</button>
-  <button data-mode="all" aria-pressed="false">Everything</button>
+  <!-- SKILLS -->
+  <section>
+    <div class="sec-h"><h2>What they're good at</h2><p>How capable today's best AIs are at each thing. A full bar means basically mastered.</p></div>
+    <div class="skills" id="skills"></div>
+  </section>
+
+  <!-- NEWS -->
+  <section class="news">
+    <div class="sec-h"><h2>Latest big moves</h2><p>Only the major stuff — new releases and who just pulled ahead.</p></div>
+    <div id="news"><div class="loading">loading…</div></div>
+    <button class="more" id="moreBtn" style="display:none">Show more news</button>
+  </section>
+
+  <footer>
+    <div class="big">Built so you can grind in the real world and still never miss a move in AI. Tap your browser menu → <b>Add to Home screen</b> for the app.</div>
+    It updates itself — major news refreshes in the background, and the theme follows your local day &amp; night.<br>
+    <span id="foot-sync">—</span><br><br>
+    <a href="countdown/">→ the 90 · countdown</a>
+  </footer>
 </div>
-<nav class="rail"><div class="chips" id="chips"></div></nav>
-
-<section class="feed" id="feed">
-  <div class="loading">loading the latest…<div class="bar"></div></div>
-</section>
-
-<footer>
-  <div class="big">Built so you can grind in the real world and still never miss a move in AI. Tap your browser menu → <b>Add to Home screen</b> for the app.</div>
-  News refreshes by itself — the buzzing feed loads live every time you open this, and the big stories refresh in the background.<br>
-  <span id="foot-sync">—</span><br><br>
-  <a href="countdown/">→ the 90 · countdown</a>
-</footer>
 
 <script>
 const $=(s,r=document)=>r.querySelector(s);
-const LS_LAST="frontier_lastvisit_v1";
+const LS_LAST="frontier_lastvisit_v2", LS_THEME="frontier_theme";
 const lastVisit=+(localStorage.getItem(LS_LAST)||0);
 
-/* clock + scan */
-const pad=n=>n<10?"0"+n:""+n;
-function clk(){ const d=new Date(); $("#clock").textContent=pad(d.getHours())+":"+pad(d.getMinutes())+":"+pad(d.getSeconds()); }
-clk(); setInterval(clk,1000); setTimeout(()=>$("#scan").style.width="100%",120);
+/* ===== theme: auto by local time, with manual override ===== */
+function autoTheme(){ const h=new Date().getHours(); return (h>=7 && h<19)?"light":"dark"; }
+function applyTheme(t){
+  document.documentElement.setAttribute("data-theme", t);
+  $("#themebtn").textContent = t==="dark" ? "☀" : "☾";
+  $("#theme-color").setAttribute("content", t==="dark" ? "#232120" : "#faf9f5");
+}
+let theme = localStorage.getItem(LS_THEME) || autoTheme();
+applyTheme(theme);
+$("#themebtn").addEventListener("click",()=>{
+  theme = (document.documentElement.getAttribute("data-theme")==="dark") ? "light" : "dark";
+  localStorage.setItem(LS_THEME, theme); applyTheme(theme);
+});
+/* if no manual override, re-check the clock hourly so it flips at dusk/dawn */
+setInterval(()=>{ if(!localStorage.getItem(LS_THEME)){ applyTheme(autoTheme()); } }, 60*60*1000);
 
-/* helpers */
-function ago(ts){ if(!ts)return""; const s=(Date.now()-ts)/1000;
-  if(s<60)return"just now"; const m=s/60; if(m<60)return Math.floor(m)+"m ago";
-  const h=m/60; if(h<24)return Math.floor(h)+"h ago"; const d=h/24; if(d<14)return Math.floor(d)+"d ago";
-  const w=d/7; if(w<8)return Math.floor(w)+"w ago"; return Math.floor(d/30)+"mo ago"; }
+/* ===== helpers ===== */
+function ago(ts){ if(!ts)return"recently"; const s=(Date.now()-ts)/1000;
+  if(s<3600)return Math.max(1,Math.floor(s/60))+" min ago"; const h=s/3600;
+  if(h<24)return Math.floor(h)+"h ago"; const d=h/24; if(d<14)return Math.floor(d)+" days ago";
+  const w=d/7; if(w<8)return Math.floor(w)+" weeks ago"; return Math.floor(d/30)+" months ago"; }
 function parseDate(s){ if(!s)return 0; if(/^\d{4}-\d{2}$/.test(s))s+="-15"; const t=Date.parse(s); return isNaN(t)?0:t; }
-function ymd(ts){ const d=new Date(ts); return d.getFullYear()+"-"+pad(d.getMonth()+1)+"-"+pad(d.getDate()); }
-function fmtDate(ts){ return ts?new Date(ts).toLocaleDateString(undefined,{month:"short",day:"numeric"}):""; }
 const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
 function host(u){ try{ return new URL(u).hostname.replace(/^www\./,""); }catch(e){ return "source"; } }
-function labClass(lab=""){ const k=lab.toLowerCase();
-  if(k.includes("anthropic")||k.includes("claude")||k.includes("fable")||k.includes("mythos"))return"l-anthropic";
-  if(k.includes("openai")||k.includes("gpt"))return"l-openai";
-  if(k.includes("google")||k.includes("deepmind")||k.includes("gemini"))return"l-google";
-  if(k.includes("meta")||k.includes("llama")||k.includes("muse"))return"l-meta";
-  if(k.includes("xai")||k.includes("grok"))return"l-xai";
-  if(k.includes("deepseek"))return"l-deepseek"; if(k.includes("mistral"))return"l-mistral";
-  if(k.includes("nvidia"))return"l-nvidia"; return ""; }
+function labColor(lab=""){ const k=lab.toLowerCase();
+  if(k.includes("anthropic")||k.includes("claude")||k.includes("fable")||k.includes("mythos"))return"#c15f3c";
+  if(k.includes("openai")||k.includes("gpt"))return"#0f8a68";
+  if(k.includes("google")||k.includes("deepmind")||k.includes("gemini"))return"#2c6bd6";
+  if(k.includes("meta")||k.includes("llama")||k.includes("muse"))return"#1d6fe0";
+  if(k.includes("xai")||k.includes("grok"))return"#8a8a8a";
+  if(k.includes("deepseek"))return"#6d5bdf";
+  if(k.includes("mistral"))return"#e0680a";
+  if(k.includes("nvidia"))return"#5a8f00";
+  if(k.includes("minimax")||k.includes("zhipu")||k.includes("z.ai")||k.includes("glm")||k.includes("alibaba")||k.includes("qwen")||k.includes("moonshot")||k.includes("kimi"))return"#b07a00";
+  return "var(--dim)"; }
 
-/* topics with plain labels + emoji */
-const TOPICS=[
-  {key:"all",label:"All"},
-  {key:"model",label:"🤖 New AIs"},
-  {key:"benchmark",label:"🏆 Rankings"},
-  {key:"product",label:"📱 Apps & tools"},
-  {key:"lab",label:"🏛 The labs"},
-  {key:"research",label:"🔬 Science"},
-  {key:"industry",label:"💰 Money & moves"},
-  {key:"hardware",label:"⚡ Chips"},
-  {key:"buzzing",label:"🔥 Buzzing"},
-];
-let mode="big", topic="all";
-let FEED=[], counts={}, syncTs=Date.now();
+let NEWS=[], showAll=false, syncTs=Date.now();
 
-/* ─── load curated ─── */
+/* ===== load curated data ===== */
 async function loadData(){
   let data=null;
   try{ const r=await fetch("data.json?_="+Date.now()); if(r.ok)data=await r.json(); }catch(e){}
   if(!data||!data.items||!data.items.length) data=FALLBACK;
   syncTs=data.updated?Date.parse(data.updated):Date.now();
   $("#stat-sync").textContent=ago(syncTs);
-  $("#foot-sync").textContent="big stories last refreshed "+new Date(syncTs).toLocaleString();
-  const intel=data.items.map(it=>({
-    kind:"intel", lab:it.lab||"AI", category:it.category||"industry",
-    title:it.title, summary:it.summary||"", ts:parseDate(it.date),
-    importance:it.importance||2, url:it.url||"#",
-  }));
-  buildWinners(data.benchmarks||FALLBACK.benchmarks||[]);
-  mergeFeed(intel, null);
-}
-/* ─── load live buzz ─── */
-const HN_Q=["AI model","OpenAI","Anthropic Claude","Google Gemini","LLM","artificial intelligence","Grok xAI","DeepSeek"];
-async function loadLive(){
-  const since=Math.floor((Date.now()-1000*60*60*24*21)/1000);
-  let items=[];
-  try{
-    const reqs=HN_Q.map(q=>fetch(`https://hn.algolia.com/api/v1/search?query=${encodeURIComponent(q)}&tags=story&numericFilters=created_at_i>${since},points>40&hitsPerPage=20`).then(r=>r.ok?r.json():null).catch(()=>null));
-    const dv=fetch("https://dev.to/api/articles?tag=ai&top=7&per_page=12").then(r=>r.ok?r.json():null).catch(()=>null);
-    const res=await Promise.all(reqs); const dvr=await dv;
-    const map=new Map();
-    res.forEach(r=>{ if(!r||!r.hits)return; r.hits.forEach(h=>{ if(!h.title)return;
-      const url=h.url||`https://news.ycombinator.com/item?id=${h.objectID}`;
-      map.set(h.objectID,{ kind:"live", lab:"BUZZING", category:"buzzing", title:h.title, summary:"",
-        ts:(h.created_at_i||0)*1000, points:h.points||0,
-        importance:(h.points>=300?5:h.points>=120?4:3), url }); }); });
-    if(dvr&&dvr.length) dvr.forEach(a=>map.set("dv"+a.id,{ kind:"live", lab:"BUZZING", category:"buzzing",
-      title:a.title, summary:"", ts:Date.parse(a.published_at)||0, points:a.positive_reactions_count||0,
-      importance:(a.positive_reactions_count>=120?4:3), url:a.url }));
-    items=[...map.values()];
-  }catch(e){}
-  mergeFeed(null, items);
-}
-let _intel=null,_live=null;
-function mergeFeed(intel, live){
-  if(intel) _intel=intel; if(live) _live=live;
-  const all=[...(_intel||[]), ...(_live||[])].sort((a,b)=>b.ts-a.ts);
-  FEED=all;
-  counts={}; (_intel||[]).forEach(i=>counts[i.category]=(counts[i.category]||0)+1);
-  counts.buzzing=(_live||[]).length;
-  render(); buildChips(); updateStats();
+  $("#foot-sync").textContent="news last refreshed "+new Date(syncTs).toLocaleString();
+
+  buildLeaderboard(data.ranking||FALLBACK.ranking||[]);
+  buildSkills(data.benchmarks||FALLBACK.benchmarks||[]);
+
+  NEWS=data.items.map(it=>({ lab:it.lab||"AI", category:it.category||"industry", title:it.title,
+    summary:it.summary||"", ts:parseDate(it.date), importance:it.importance||2, url:it.url||"#" }))
+    .sort((a,b)=> b.ts-a.ts || b.importance-a.importance);
+  renderNews(); updateNew();
 }
 
-function updateStats(){
-  const big=FEED.filter(i=>i.importance>=4).length;
-  $("#stat-count").textContent=mode==="big"?big:FEED.length;
-  const nc=FEED.filter(i=>i.ts>lastVisit && lastVisit>0 && i.importance>=4).length;
+/* ===== leaderboard ===== */
+function buildLeaderboard(rank){
+  const el=$("#lb"); el.innerHTML="";
+  const max=Math.max(...rank.map(r=>r.score||0), 62);
+  rank.slice(0,10).forEach((r,i)=>{
+    const pct=Math.max(8, Math.round(((r.score-38)/(max-38))*100));
+    const row=document.createElement("div"); row.className="lrow";
+    row.innerHTML=`<div class="lrank">${r.rank||i+1}</div>
+      <div class="lbody">
+        <div class="lname">${esc(r.model)}</div>
+        <div class="llab" style="color:${labColor(r.lab)}">${esc(r.lab)}</div>
+        <div class="lbar-wrap"><div class="lbar"><i></i></div><div class="lscore">${r.score!=null?r.score:""}</div></div>
+      </div>`;
+    el.appendChild(row);
+    const bar=row.querySelector(".lbar i"); setTimeout(()=>bar.style.width=pct+"%", 150+i*70);
+  });
+}
+
+/* ===== skill bars ===== */
+function buildSkills(bench){
+  const el=$("#skills"); el.innerHTML="";
+  bench.forEach((b,i)=>{
+    const pct=Math.max(0,Math.min(100,b.pct!=null?b.pct:0)); const low=pct<25;
+    const row=document.createElement("div"); row.className="srow";
+    row.innerHTML=`<div class="stop"><span class="slabel">${esc(b.label||b.name||"")}</span><span class="slead">${esc(b.leader||"")}</span></div>
+      <div class="splain">${esc(b.plain||"")}</div>
+      <div class="strack"><div class="sfill ${low?'low':''}"></div></div>`;
+    el.appendChild(row);
+    const f=row.querySelector(".sfill"); setTimeout(()=>f.style.width=pct+"%", 150+i*90);
+  });
+}
+
+/* ===== news ===== */
+function updateNew(){
+  const nc=NEWS.filter(i=>i.ts>lastVisit && lastVisit>0 && i.importance>=4).length;
   if(lastVisit>0&&nc>0){ $("#stat-new").textContent=nc; $("#stat-new-wrap").style.display=""; }
 }
-
-/* ─── winners bars ─── */
-function buildWinners(bench){
-  const w=$("#winners"); w.innerHTML="";
-  bench.forEach((b,i)=>{
-    const pct=Math.max(0,Math.min(100,b.pct!=null?b.pct:0));
-    const low=pct<25;
-    const el=document.createElement("div"); el.className="wrow";
-    el.innerHTML=`
-      <div class="wtop"><span class="wlabel">${esc(b.label||b.name||"")}</span><span class="wlead">${esc(b.leader||"")}</span></div>
-      <div class="wplain">${esc(b.plain||"")}</div>
-      <div class="wtrack"><div class="wfill ${low?'low':''}"></div><span class="wpct ${low?'out':''}">${pct}%</span></div>`;
-    w.appendChild(el);
-    const fill=el.querySelector(".wfill");
-    setTimeout(()=>{ fill.style.width=pct+"%"; }, 150+i*110);
-  });
-}
-
-/* ─── chips ─── */
-function buildChips(){
-  const c=$("#chips"); c.innerHTML="";
-  TOPICS.forEach(t=>{
-    const b=document.createElement("button"); b.className="chip"; b.setAttribute("aria-pressed",t.key===topic);
-    b.textContent=t.label;
-    b.onclick=()=>{ topic=t.key; buildChips(); render(); window.scrollTo({top:0,behavior:"smooth"}); };
-    c.appendChild(b);
-  });
-}
-
-/* ─── toggle ─── */
-$("#toggle").addEventListener("click",e=>{
-  const btn=e.target.closest("button"); if(!btn)return;
-  mode=btn.dataset.mode;
-  [...$("#toggle").children].forEach(b=>b.setAttribute("aria-pressed",b===btn));
-  render(); updateStats();
-});
-
-/* ─── render feed ─── */
 function card(it){
   const isnew=it.ts>lastVisit && lastVisit>0;
-  const a=document.createElement("a"); a.className="card"+(isnew?" isnew":""); a.href=it.url; a.target="_blank"; a.rel="noopener";
-  const flag = it.importance>=5?'<span class="flag huge">🔥 HUGE</span>'
-             : it.importance>=4?'<span class="flag big">BIG</span>':'';
-  const labCls = it.kind==="live"?"l-buzz":labClass(it.lab);
-  a.innerHTML=`
-    <div class="ctop">
-      <span class="lab ${labCls}">${esc(it.lab)}</span>
-      ${flag}
-      ${it.kind==="live"&&it.points?`<span class="pts">▲ ${it.points}</span>`:""}
-      ${isnew?'<span class="flag newt">NEW</span>':''}
+  const a=document.createElement("a"); a.className="card"; a.href=it.url; a.target="_blank"; a.rel="noopener";
+  const flag=it.importance>=5?'<span class="flag huge">MAJOR</span>':it.importance>=4?'<span class="flag big">Big</span>':'';
+  a.innerHTML=`<div class="ctop">
+      <span class="llabtag" style="color:${labColor(it.lab)}">${esc(it.lab)}</span>
+      ${flag}${isnew?'<span class="flag newt">NEW</span>':''}
       <span class="when">${ago(it.ts)}</span>
     </div>
     <h3>${esc(it.title)}</h3>
     ${it.summary?`<p>${esc(it.summary)}</p>`:""}
-    <span class="src">${esc(host(it.url))} ↗</span>`;
+    <span class="src">Read on ${esc(host(it.url))} →</span>`;
   return a;
 }
-function render(){
-  let items=FEED.slice();
-  if(mode==="big") items=items.filter(i=>i.importance>=4);
-  if(topic==="buzzing") items=items.filter(i=>i.kind==="live");
-  else if(topic!=="all") items=items.filter(i=>i.category===topic);
-  const f=$("#feed"); f.innerHTML="";
-  if(!items.length){ f.innerHTML='<div class="empty">Nothing here right now. Try "Everything" or another topic.</div>'; return; }
-  items.slice(0,120).forEach(it=>f.appendChild(card(it)));
+function renderNews(){
+  const major=NEWS.filter(i=>i.importance>=5);
+  const list = showAll ? NEWS.slice(0,60) : major.slice(0,8);
+  const el=$("#news"); el.innerHTML="";
+  if(!list.length){ el.innerHTML='<div class="empty">No major moves right now — quiet week. Check back soon.</div>'; }
+  else list.forEach(it=>el.appendChild(card(it)));
+  const btn=$("#moreBtn");
+  btn.style.display = (!showAll && NEWS.length>list.length) ? "" : "none";
+  btn.textContent = "Show more news ("+(NEWS.length)+" total)";
 }
+$("#moreBtn").addEventListener("click",()=>{ showAll=true; renderNews(); });
 
-/* ─── embedded fallback (replaced by data.json when online) ─── */
-const FALLBACK = {"updated":"2026-06-26T13:48:08.676Z","benchmarks":[{"label":"Writing code","plain":"building & fixing real software","leader":"Claude","pct":95},{"label":"Logic & reasoning","plain":"working through tricky, multi-step problems","leader":"GPT-5.5 · Gemini","pct":85},{"label":"Hard science","plain":"PhD-level science questions","leader":"Gemini · Claude","pct":94},{"label":"Math","plain":"tough competition math","leader":"GLM-5.2","pct":99},{"label":"The hardest exam","plain":"a test built to stump even the best AIs","leader":"Claude","pct":58},{"label":"Brand-new puzzles","plain":"a fresh test today's AIs still can't crack","leader":"nobody yet","pct":1}],"items":[{"category":"industry","lab":"Google DeepMind","title":"DeepMind talent exodus: Shazeer to OpenAI, Jumper to Anthropic","summary":"In one week, Transformer co-author Noam Shazeer left for OpenAI and AlphaFold Nobel laureate John Jumper left for Anthropic — the most high-profile defections of 2026's talent war, reportedly wiping roughly $250B off Alphabet's market value.","date":"2026-06-23","importance":5,"tags":["talent-war","personnel","DeepMind","OpenAI","Anthropic"],"url":"https://fortune.com/2026/06/23/google-deepmind-ai-researcher-departures-raise-doubts-about-ability-to-win-the-ai-race-shazeer-jumper-eye-on-ai/"},{"category":"model","lab":"Zhipu/GLM (Z.ai)","title":"GLM-5.2: top open-weights model beats GPT-5.5 on coding at ~1/6 cost","summary":"Z.ai's MIT-licensed GLM-5.2 (~750B MoE, ~40B active, 1M context) is the highest-ranked open-weights model on the Artificial Analysis Intelligence Index and 4th overall, beating GPT-5.5 on multiple long-horizon coding benchmarks at roughly a sixth of the cost — a landmark proof that open weights can sit at the frontier.","date":"2026-06-13","importance":5,"tags":["open-weights","MoE","coding","1M-context","China","MIT-license"],"url":"https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost"},{"category":"industry","lab":"US Government / Anthropic","title":"US export-control order forces global shutdown of Fable 5 and Mythos 5","summary":"On June 12 the Commerce Department's BIS ordered Anthropic to block Fable 5 and Mythos 5 for all foreign nationals over a claimed jailbreak; unable to screen by nationality, Anthropic disabled both models worldwide. It is the first time the US has used export controls to pull a deployed commercial frontier model offline — a major precedent. As of June 25 the models remain down.","date":"2026-06-12","importance":5,"tags":["export-controls","regulation","Anthropic","national-security","frontier-models"],"url":"https://www.anthropic.com/news/fable-mythos-access"},{"category":"model","lab":"Anthropic","title":"Claude Fable 5 and Mythos 5: first Mythos-tier models go public","summary":"On June 9 Anthropic released Claude Fable 5, its first public model in the new Mythos tier (above Opus), with state-of-the-art results across software engineering, science, vision, and long-horizon agentic tasks. Fable 5 falls back to Opus 4.8 for flagged bio/cyber requests; Mythos 5 is the same model with safeguards lifted for vetted cyberdefenders via Project Glasswing. Pricing is $10 in / $50 per million output tokens.","date":"2026-06-09","importance":5,"tags":["fable-5","mythos-5","frontier","agentic","benchmarks"],"url":"https://www.anthropic.com/news/claude-fable-5-mythos-5"},{"category":"hardware","lab":"Nvidia","title":"Nvidia Vera Rubin enters full production at GTC Taipei","summary":"Nvidia confirmed its Vera Rubin platform (336B-transistor R100 GPU plus 88-core Vera CPU) is in full production, with ~150 Taiwanese suppliers building rack systems and Samsung, SK hynix and Micron certified for HBM4. First cloud shipments begin summer 2026; Nvidia claims ~5x Blackwell inference at far lower cost per token.","date":"2026-06-01","importance":5,"tags":["Nvidia","Vera-Rubin","GPU","HBM4","datacenter"],"url":"https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory"},{"category":"model","lab":"Anthropic","title":"Claude Opus 4.8 tops Intelligence Index with dynamic workflows","summary":"Released just 41 days after Opus 4.7, Opus 4.8 leads the Artificial Analysis Intelligence Index and is reported ~4x less likely than 4.7 to let flaws in its own code slip through. It defaults to a 1M-token context window and pairs with Claude Code 'dynamic workflows' for codebase-scale migrations; it is also the strongest computer-use/browser-agent model tested (84% Online-Mind2Web).","date":"2026-05-28","importance":5,"tags":["opus-4.8","coding","computer-use","agents","1M-context"],"url":"https://www.anthropic.com/news/claude-opus-4-8"},{"category":"industry","lab":"Anthropic","title":"Anthropic raises $65B Series H at $965B, passing OpenAI","summary":"The Series H (led by Altimeter, Dragoneer, Greenoaks, Sequoia) values Anthropic at $965B post-money, surpassing OpenAI as the most valuable AI startup. Driven by explosive revenue growth toward a ~$47B run-rate, it is widely seen as its last private raise before an IPO.","date":"2026-05-28","importance":5,"tags":["funding","Series-H","valuation","Anthropic"],"url":"https://www.anthropic.com/news/series-h"},{"category":"model","lab":"DeepSeek","title":"DeepSeek V4 preview: 1.6T MoE that closes the gap with frontier","summary":"DeepSeek released an MIT-licensed preview of V4: V4-Pro (1.6T params, 49B active) and V4-Flash (284B, 13B active), both with 1M context. V4-Pro hits 80.6% on SWE-bench Verified (top open-weights, tied with Gemini 3.1 Pro) at around $0.44 in / $0.87 per million output tokens, dramatically undercutting closed peers.","date":"2026-04-24","importance":5,"tags":["open-weights","MoE","1M-context","coding","low-cost","China","MIT-license"],"url":"https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/"},{"category":"model","lab":"OpenAI","title":"GPT-5.5 launches as OpenAI's smartest, most agentic flagship","summary":"GPT-5.5 (with a Pro tier) is OpenAI's most capable model yet, with major gains in agentic coding, computer use, knowledge work, and scientific research, able to carry multi-step tasks across tools to completion. It became the foundation of the ChatGPT lineup and API.","date":"2026-04-23","importance":5,"tags":["GPT-5.5","flagship","frontier","agentic","API"],"url":"https://openai.com/index/introducing-gpt-5-5/"},{"category":"hardware","lab":"Google DeepMind","title":"Google Ironwood (TPU v7) reaches GA for inference","summary":"Google's seventh-gen Ironwood TPU, its first 'inference-first' chip, reached general availability across Compute Engine, GKE and Vertex AI. Anthropic alone committed to up to one million Ironwood chips and 1+ GW of capacity in 2026; Google also previewed 8th-gen TPUs on TSMC 2nm for late 2027.","date":"2026-04-22","importance":5,"tags":["Google","TPU","Ironwood","inference"],"url":"https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads"},{"category":"industry","lab":"OpenAI","title":"OpenAI closes record $122B round at $852B valuation","summary":"OpenAI closed what was reported as the largest private funding round in history (~$122B) at an $852B post-money valuation, anchored by Amazon, Nvidia and SoftBank, with revenue reportedly near $2B/month — setting the stage for its IPO filing.","date":"2026-04-01","importance":5,"tags":["funding","OpenAI","valuation","mega-round"],"url":"https://tech-insider.org/openai-110-billion-funding-round-2026/"},{"category":"benchmark","lab":"ARC Prize Foundation","title":"ARC-AGI-3 launched; frontier models score under 1%","summary":"The ARC Prize Foundation unveiled ARC-AGI-3, an interactive, agentic reasoning benchmark, at Y Combinator. Frontier models scored below 1%, re-establishing a hard frontier even as ARC-AGI-2 scores climbed past 80%.","date":"2026-03-15","importance":5,"tags":["ARC-AGI-3","agentic","reasoning","benchmark-launch","frontier"],"url":"https://arxiv.org/pdf/2603.24621"},{"category":"research","lab":"Google DeepMind","title":"AlphaGenome published in Nature, decoding DNA function","summary":"DeepMind's AlphaGenome, published in Nature, predicts gene expression, chromatin accessibility, splicing and more across DNA sequences up to ~1M base pairs — aiming to do for the genome what AlphaFold did for proteins. About 3,000 scientists already use it.","date":"2026-01-28","importance":5,"tags":["AlphaGenome","genomics","biology","Nature","DNA"],"url":"https://www.chemistryworld.com/news/googles-alphagenome-wants-to-do-for-dna-what-alphafold-did-for-proteins/4022824.article"},{"category":"model","lab":"Google DeepMind","title":"Gemini 3 Pro debuts as Google's most intelligent model","summary":"Gemini 3 Pro set a new bar for reasoning and multimodal understanding, topping LMArena at ~1501 Elo with 91.9% GPQA Diamond and 76.2% SWE-bench Verified, and became the foundation for the 3.x line.","date":"2025-11-18","importance":5,"tags":["Gemini","frontier","multimodal","reasoning","LMArena"],"url":"https://blog.google/products/gemini/gemini-3/"},{"category":"hardware","lab":"OpenAI","title":"OpenAI and Broadcom unveil Jalapeño, first custom inference chip","summary":"OpenAI revealed Jalapeño, its first in-house-designed AI accelerator built with Broadcom, optimized for LLM inference and taped out in nine months. Initial deployment targets end of 2026 as part of a 10 GW program — OpenAI's most direct move yet to reduce its reliance on Nvidia.","date":"2026-06-24","importance":4,"tags":["chips","inference","Broadcom","custom-silicon","compute"],"url":"https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"},{"category":"industry","lab":"European Union","title":"EU Parliament approves Digital Omnibus, delaying AI Act rules","summary":"On June 16 the European Parliament approved the Digital Omnibus, simplifying the AI Act and deferring high-risk obligations from August 2026 to December 2027, easing compliance for AI developers operating in the EU. Final Council adoption is expected in July.","date":"2026-06-16","importance":4,"tags":["regulation","EU-AI-Act","policy","compliance"],"url":"https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/"},{"category":"industry","lab":"DeepSeek","title":"DeepSeek closes first-ever raise: $7.4B at $50B+ valuation","summary":"China's DeepSeek completed its first external funding round (~$7.4B at a $50B-plus valuation) backed by Tencent, CATL, JD.com and a state AI fund, cementing it as China's leading frontier-model challenger. Founder Liang Wenfeng retained control via a limited-partnership structure.","date":"2026-06-16","importance":4,"tags":["funding","China","DeepSeek","valuation","open-weights"],"url":"https://www.siliconrepublic.com/business/the-information-deepseek-raises-7-4bn-at-50bn-plus-valuation"},{"category":"benchmark","lab":"Epoch AI","title":"FrontierMath v2 ships after errors found in 42% of problems","summary":"Epoch AI released a corrected FrontierMath v2 after an audit found critical errors in 42% of original problems. Post-correction, GPT-5.5 Pro (~88%) and Claude Fable 5 (~87%) lead the lower tiers, with Claude leading the hardest Tier 4 (~88%).","date":"2026-06-12","importance":4,"tags":["FrontierMath","math","Epoch-AI","benchmark-integrity","data-correction"],"url":"https://epoch.ai/frontiermath"},{"category":"industry","lab":"OpenAI","title":"OpenAI confidentially files for IPO targeting up to ~$1T","summary":"OpenAI filed its confidential S-1 with Goldman Sachs and Morgan Stanley, targeting a Q4 2026 listing valued from ~$852B toward $1T, following its record $122B round. It joins Anthropic in racing to public markets, though the actual listing may slip.","date":"2026-06-08","importance":4,"tags":["IPO","funding","valuation","OpenAI","markets"],"url":"https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market"},{"category":"model","lab":"Microsoft","title":"Microsoft launches seven in-house MAI models at Build 2026","summary":"Microsoft AI unveiled a family of seven first-party models trained from scratch with zero distillation, led by reasoning model MAI-Thinking-1 (97% AIME 2025, 53% SWE-Bench Pro, near Opus 4.6) plus coding, image, voice and transcription models — a serious push to reduce its dependence on OpenAI.","date":"2026-06-08","importance":4,"tags":["Microsoft","MAI","reasoning","in-house-models","Build-2026"],"url":"https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"}]};
+/* ===== live buzz folded into "show more" via the curated set only (kept calm) ===== */
+const FALLBACK = {"updated":"2026-06-26T16:39:50.168Z","ranking":[{"rank":1,"model":"Claude Opus 4.8","lab":"Anthropic","score":61},{"rank":2,"model":"GPT-5.5","lab":"OpenAI","score":60},{"rank":3,"model":"Gemini 3.1 Pro","lab":"Google","score":57},{"rank":4,"model":"Grok 4.3","lab":"xAI","score":53},{"rank":5,"model":"GLM-5.2","lab":"Z.ai · open","score":51},{"rank":6,"model":"DeepSeek V4-Pro","lab":"DeepSeek · open","score":50},{"rank":7,"model":"Muse Spark","lab":"Meta","score":50},{"rank":8,"model":"Gemini 3.5 Flash","lab":"Google","score":49},{"rank":9,"model":"MiniMax M3","lab":"MiniMax · open","score":48},{"rank":10,"model":"Kimi","lab":"Moonshot · open","score":47}],"benchmarks":[{"label":"Writing code","plain":"building & fixing real software","leader":"Claude Opus 4.8","pct":89},{"label":"Logic & reasoning","plain":"working through tricky, multi-step problems","leader":"GPT-5.5 · Gemini","pct":85},{"label":"Hard science","plain":"PhD-level science questions","leader":"Gemini · Claude","pct":94},{"label":"Math","plain":"tough competition math","leader":"GLM-5.2","pct":99},{"label":"The hardest exam","plain":"a test built to stump even the best AIs","leader":"Claude","pct":58},{"label":"Brand-new puzzles","plain":"a fresh test today's AIs still can't crack","leader":"nobody yet","pct":1}],"items":[{"category":"industry","lab":"Google DeepMind","title":"DeepMind talent exodus: Shazeer to OpenAI, Jumper to Anthropic","summary":"In one week, Transformer co-author Noam Shazeer left for OpenAI and AlphaFold Nobel laureate John Jumper left for Anthropic — the most high-profile defections of 2026's talent war, reportedly wiping roughly $250B off Alphabet's market value.","date":"2026-06-23","importance":5,"tags":["talent-war","personnel","DeepMind","OpenAI","Anthropic"],"url":"https://fortune.com/2026/06/23/google-deepmind-ai-researcher-departures-raise-doubts-about-ability-to-win-the-ai-race-shazeer-jumper-eye-on-ai/"},{"category":"model","lab":"Zhipu/GLM (Z.ai)","title":"GLM-5.2: top open-weights model beats GPT-5.5 on coding at ~1/6 cost","summary":"Z.ai's MIT-licensed GLM-5.2 (~750B MoE, ~40B active, 1M context) is the highest-ranked open-weights model on the Artificial Analysis Intelligence Index and 4th overall, beating GPT-5.5 on multiple long-horizon coding benchmarks at roughly a sixth of the cost — a landmark proof that open weights can sit at the frontier.","date":"2026-06-13","importance":5,"tags":["open-weights","MoE","coding","1M-context","China","MIT-license"],"url":"https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost"},{"category":"industry","lab":"US Government / Anthropic","title":"US export-control order forces global shutdown of Fable 5 and Mythos 5","summary":"On June 12 the Commerce Department's BIS ordered Anthropic to block Fable 5 and Mythos 5 for all foreign nationals over a claimed jailbreak; unable to screen by nationality, Anthropic disabled both models worldwide. It is the first time the US has used export controls to pull a deployed commercial frontier model offline — a major precedent. As of June 25 the models remain down.","date":"2026-06-12","importance":5,"tags":["export-controls","regulation","Anthropic","national-security","frontier-models"],"url":"https://www.anthropic.com/news/fable-mythos-access"},{"category":"model","lab":"Anthropic","title":"Claude Fable 5 and Mythos 5: first Mythos-tier models go public","summary":"On June 9 Anthropic released Claude Fable 5, its first public model in the new Mythos tier (above Opus), with state-of-the-art results across software engineering, science, vision, and long-horizon agentic tasks. Fable 5 falls back to Opus 4.8 for flagged bio/cyber requests; Mythos 5 is the same model with safeguards lifted for vetted cyberdefenders via Project Glasswing. Pricing is $10 in / $50 per million output tokens.","date":"2026-06-09","importance":5,"tags":["fable-5","mythos-5","frontier","agentic","benchmarks"],"url":"https://www.anthropic.com/news/claude-fable-5-mythos-5"},{"category":"hardware","lab":"Nvidia","title":"Nvidia Vera Rubin enters full production at GTC Taipei","summary":"Nvidia confirmed its Vera Rubin platform (336B-transistor R100 GPU plus 88-core Vera CPU) is in full production, with ~150 Taiwanese suppliers building rack systems and Samsung, SK hynix and Micron certified for HBM4. First cloud shipments begin summer 2026; Nvidia claims ~5x Blackwell inference at far lower cost per token.","date":"2026-06-01","importance":5,"tags":["Nvidia","Vera-Rubin","GPU","HBM4","datacenter"],"url":"https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory"},{"category":"model","lab":"Anthropic","title":"Claude Opus 4.8 tops Intelligence Index with dynamic workflows","summary":"Released just 41 days after Opus 4.7, Opus 4.8 leads the Artificial Analysis Intelligence Index and is reported ~4x less likely than 4.7 to let flaws in its own code slip through. It defaults to a 1M-token context window and pairs with Claude Code 'dynamic workflows' for codebase-scale migrations; it is also the strongest computer-use/browser-agent model tested (84% Online-Mind2Web).","date":"2026-05-28","importance":5,"tags":["opus-4.8","coding","computer-use","agents","1M-context"],"url":"https://www.anthropic.com/news/claude-opus-4-8"},{"category":"industry","lab":"Anthropic","title":"Anthropic raises $65B Series H at $965B, passing OpenAI","summary":"The Series H (led by Altimeter, Dragoneer, Greenoaks, Sequoia) values Anthropic at $965B post-money, surpassing OpenAI as the most valuable AI startup. Driven by explosive revenue growth toward a ~$47B run-rate, it is widely seen as its last private raise before an IPO.","date":"2026-05-28","importance":5,"tags":["funding","Series-H","valuation","Anthropic"],"url":"https://www.anthropic.com/news/series-h"},{"category":"model","lab":"DeepSeek","title":"DeepSeek V4 preview: 1.6T MoE that closes the gap with frontier","summary":"DeepSeek released an MIT-licensed preview of V4: V4-Pro (1.6T params, 49B active) and V4-Flash (284B, 13B active), both with 1M context. V4-Pro hits 80.6% on SWE-bench Verified (top open-weights, tied with Gemini 3.1 Pro) at around $0.44 in / $0.87 per million output tokens, dramatically undercutting closed peers.","date":"2026-04-24","importance":5,"tags":["open-weights","MoE","1M-context","coding","low-cost","China","MIT-license"],"url":"https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/"},{"category":"model","lab":"OpenAI","title":"GPT-5.5 launches as OpenAI's smartest, most agentic flagship","summary":"GPT-5.5 (with a Pro tier) is OpenAI's most capable model yet, with major gains in agentic coding, computer use, knowledge work, and scientific research, able to carry multi-step tasks across tools to completion. It became the foundation of the ChatGPT lineup and API.","date":"2026-04-23","importance":5,"tags":["GPT-5.5","flagship","frontier","agentic","API"],"url":"https://openai.com/index/introducing-gpt-5-5/"},{"category":"hardware","lab":"Google DeepMind","title":"Google Ironwood (TPU v7) reaches GA for inference","summary":"Google's seventh-gen Ironwood TPU, its first 'inference-first' chip, reached general availability across Compute Engine, GKE and Vertex AI. Anthropic alone committed to up to one million Ironwood chips and 1+ GW of capacity in 2026; Google also previewed 8th-gen TPUs on TSMC 2nm for late 2027.","date":"2026-04-22","importance":5,"tags":["Google","TPU","Ironwood","inference"],"url":"https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads"},{"category":"industry","lab":"OpenAI","title":"OpenAI closes record $122B round at $852B valuation","summary":"OpenAI closed what was reported as the largest private funding round in history (~$122B) at an $852B post-money valuation, anchored by Amazon, Nvidia and SoftBank, with revenue reportedly near $2B/month — setting the stage for its IPO filing.","date":"2026-04-01","importance":5,"tags":["funding","OpenAI","valuation","mega-round"],"url":"https://tech-insider.org/openai-110-billion-funding-round-2026/"},{"category":"benchmark","lab":"ARC Prize Foundation","title":"ARC-AGI-3 launched; frontier models score under 1%","summary":"The ARC Prize Foundation unveiled ARC-AGI-3, an interactive, agentic reasoning benchmark, at Y Combinator. Frontier models scored below 1%, re-establishing a hard frontier even as ARC-AGI-2 scores climbed past 80%.","date":"2026-03-15","importance":5,"tags":["ARC-AGI-3","agentic","reasoning","benchmark-launch","frontier"],"url":"https://arxiv.org/pdf/2603.24621"},{"category":"research","lab":"Google DeepMind","title":"AlphaGenome published in Nature, decoding DNA function","summary":"DeepMind's AlphaGenome, published in Nature, predicts gene expression, chromatin accessibility, splicing and more across DNA sequences up to ~1M base pairs — aiming to do for the genome what AlphaFold did for proteins. About 3,000 scientists already use it.","date":"2026-01-28","importance":5,"tags":["AlphaGenome","genomics","biology","Nature","DNA"],"url":"https://www.chemistryworld.com/news/googles-alphagenome-wants-to-do-for-dna-what-alphafold-did-for-proteins/4022824.article"},{"category":"model","lab":"Google DeepMind","title":"Gemini 3 Pro debuts as Google's most intelligent model","summary":"Gemini 3 Pro set a new bar for reasoning and multimodal understanding, topping LMArena at ~1501 Elo with 91.9% GPQA Diamond and 76.2% SWE-bench Verified, and became the foundation for the 3.x line.","date":"2025-11-18","importance":5,"tags":["Gemini","frontier","multimodal","reasoning","LMArena"],"url":"https://blog.google/products/gemini/gemini-3/"},{"category":"hardware","lab":"OpenAI","title":"OpenAI and Broadcom unveil Jalapeño, first custom inference chip","summary":"OpenAI revealed Jalapeño, its first in-house-designed AI accelerator built with Broadcom, optimized for LLM inference and taped out in nine months. Initial deployment targets end of 2026 as part of a 10 GW program — OpenAI's most direct move yet to reduce its reliance on Nvidia.","date":"2026-06-24","importance":4,"tags":["chips","inference","Broadcom","custom-silicon","compute"],"url":"https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"},{"category":"industry","lab":"European Union","title":"EU Parliament approves Digital Omnibus, delaying AI Act rules","summary":"On June 16 the European Parliament approved the Digital Omnibus, simplifying the AI Act and deferring high-risk obligations from August 2026 to December 2027, easing compliance for AI developers operating in the EU. Final Council adoption is expected in July.","date":"2026-06-16","importance":4,"tags":["regulation","EU-AI-Act","policy","compliance"],"url":"https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/"},{"category":"industry","lab":"DeepSeek","title":"DeepSeek closes first-ever raise: $7.4B at $50B+ valuation","summary":"China's DeepSeek completed its first external funding round (~$7.4B at a $50B-plus valuation) backed by Tencent, CATL, JD.com and a state AI fund, cementing it as China's leading frontier-model challenger. Founder Liang Wenfeng retained control via a limited-partnership structure.","date":"2026-06-16","importance":4,"tags":["funding","China","DeepSeek","valuation","open-weights"],"url":"https://www.siliconrepublic.com/business/the-information-deepseek-raises-7-4bn-at-50bn-plus-valuation"},{"category":"benchmark","lab":"Epoch AI","title":"FrontierMath v2 ships after errors found in 42% of problems","summary":"Epoch AI released a corrected FrontierMath v2 after an audit found critical errors in 42% of original problems. Post-correction, GPT-5.5 Pro (~88%) and Claude Fable 5 (~87%) lead the lower tiers, with Claude leading the hardest Tier 4 (~88%).","date":"2026-06-12","importance":4,"tags":["FrontierMath","math","Epoch-AI","benchmark-integrity","data-correction"],"url":"https://epoch.ai/frontiermath"},{"category":"industry","lab":"OpenAI","title":"OpenAI confidentially files for IPO targeting up to ~$1T","summary":"OpenAI filed its confidential S-1 with Goldman Sachs and Morgan Stanley, targeting a Q4 2026 listing valued from ~$852B toward $1T, following its record $122B round. It joins Anthropic in racing to public markets, though the actual listing may slip.","date":"2026-06-08","importance":4,"tags":["IPO","funding","valuation","OpenAI","markets"],"url":"https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market"},{"category":"model","lab":"Microsoft","title":"Microsoft launches seven in-house MAI models at Build 2026","summary":"Microsoft AI unveiled a family of seven first-party models trained from scratch with zero distillation, led by reasoning model MAI-Thinking-1 (97% AIME 2025, 53% SWE-Bench Pro, near Opus 4.6) plus coding, image, voice and transcription models — a serious push to reduce its dependence on OpenAI.","date":"2026-06-08","importance":4,"tags":["Microsoft","MAI","reasoning","in-house-models","Build-2026"],"url":"https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/"},{"category":"hardware","lab":"SK hynix","title":"AI memory crunch deepens: HBM/DRAM deficits worst since 2011","summary":"DRAM contract prices rose ~58-63% quarter-on-quarter and NAND 70-75%, as Samsung, SK hynix and Micron diverted ~93% of output to HBM for AI datacenters. HBM4 ramps into late 2026 with SK hynix holding 60%+ share, and TSMC warned the supply gap could persist for years.","date":"2026-06-05","importance":4,"tags":["HBM4","DRAM","memory-shortage","supply-chain","TSMC"],"url":"https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html"},{"category":"industry","lab":"White House","title":"Trump signs executive order on advanced AI innovation and security","summary":"The June 2 order creates an AI cybersecurity clearinghouse and a voluntary framework for frontier developers to share pre-release model access for national-security review, while explicitly barring any mandatory licensing or pre-clearance regime — reshaping US frontier-AI governance just as the Fable/Mythos export action landed.","date":"2026-06-02","importance":4,"tags":["policy","regulation","executive-order","cybersecurity","governance"],"url":"https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"},{"category":"model","lab":"MiniMax","title":"MiniMax M3: open-weight 1M-context model with native multimodality","summary":"MiniMax M3 is pitched as the first open-weight model to combine frontier coding, a 1M-token context window (via proprietary sparse attention) and native image/video understanding in one architecture. Weights and a technical report followed within ~10 days of launch, though early benchmarks were vendor-run.","date":"2026-06-01","importance":4,"tags":["open-weights","1M-context","multimodal","coding","sparse-attention","China"],"url":"https://www.minimax.io/blog/minimax-m3"},{"category":"industry","lab":"Multiple Chinese labs","title":"Chinese open-weight labs now ship ~10 frontier-class models","summary":"By Q2 2026 ten labs (DeepSeek, Qwen, Kimi, Hunyuan, GLM, ERNIE, Doubao, Yi, Pangu, MiniMax) ship frontier or near-frontier open-source LLMs, with Chinese models topping OpenRouter token volume. The center of gravity for cheap, capable open models has shifted decisively to China.","date":"2026-06-01","importance":4,"tags":["open-weights","market-landscape","China","cost","OpenRouter"],"url":"https://presenc.ai/research/chinese-open-source-llm-companies-leaderboard-2026"}]};
 
-/* boot */
-loadData(); loadLive();
-setInterval(loadLive, 1000*60*5);
+loadData();
 setTimeout(()=>localStorage.setItem(LS_LAST, Date.now()), 2500);
 </script>
 </body>

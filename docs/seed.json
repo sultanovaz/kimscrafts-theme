@@ -1418,34 +1418,40 @@
   ],
   "benchmarks": [
     {
-      "name": "SWE-bench Verified",
-      "leader": "Claude (Anthropic)",
-      "value": "~95% · coding agents"
-    },
-    {
-      "name": "ARC-AGI-2",
-      "leader": "GPT-5.5 · Gemini",
-      "value": "~85% (from 54%)"
-    },
-    {
-      "name": "GPQA Diamond",
-      "leader": "Gemini · Claude",
-      "value": "93–95% · saturating"
-    },
-    {
-      "name": "AIME 2026",
-      "leader": "GLM-5.2",
-      "value": "~100% · solved"
-    },
-    {
-      "name": "Humanity's Last Exam",
+      "label": "Writing code",
+      "plain": "building & fixing real software",
       "leader": "Claude",
-      "value": "50–65% range"
+      "pct": 95
     },
     {
-      "name": "ARC-AGI-3",
-      "leader": "unclaimed",
-      "value": "<1% · new frontier"
+      "label": "Logic & reasoning",
+      "plain": "working through tricky, multi-step problems",
+      "leader": "GPT-5.5 · Gemini",
+      "pct": 85
+    },
+    {
+      "label": "Hard science",
+      "plain": "PhD-level science questions",
+      "leader": "Gemini · Claude",
+      "pct": 94
+    },
+    {
+      "label": "Math",
+      "plain": "tough competition math",
+      "leader": "GLM-5.2",
+      "pct": 99
+    },
+    {
+      "label": "The hardest exam",
+      "plain": "a test built to stump even the best AIs",
+      "leader": "Claude",
+      "pct": 58
+    },
+    {
+      "label": "Brand-new puzzles",
+      "plain": "a fresh test today's AIs still can't crack",
+      "leader": "nobody yet",
+      "pct": 1
     }
   ]
 }

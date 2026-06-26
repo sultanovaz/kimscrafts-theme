@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T16:42:10.345Z",
+  "updated": "2026-06-26T17:07:06.945Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 168
+    "fresh": 169
   },
   "ranking": [
     {
@@ -146,6 +146,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "date": "2026-06-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol"
     },
     {
       "category": "model",
@@ -1354,16 +1364,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-apps 0.1a2",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.1a2\">datasette-apps 0.1a2</a></p> <blockquote> <ul> <li>Custom network/CSP origins for apps are now guarded by a new <code>apps-set-csp</code> permission, with an optional <code>allow",
-      "date": "2026-06-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything"
     }
   ]
 }

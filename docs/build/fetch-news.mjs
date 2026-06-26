@@ -170,6 +170,7 @@ async function main() {
     updated: new Date().toISOString(),
     generator: "fetch-news.mjs",
     counts: { total: items.length, curated: (seed.items || []).length, fresh: fetched.length },
+    ranking: seed.ranking || [],
     benchmarks: seed.benchmarks || [],
     items,
   };

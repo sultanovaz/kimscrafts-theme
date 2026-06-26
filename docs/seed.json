@@ -1,4 +1,104 @@
 {
+  "ranking": [
+    {
+      "rank": 1,
+      "model": "Claude Opus 4.8",
+      "lab": "Anthropic",
+      "score": 61
+    },
+    {
+      "rank": 2,
+      "model": "GPT-5.5",
+      "lab": "OpenAI",
+      "score": 60
+    },
+    {
+      "rank": 3,
+      "model": "Gemini 3.1 Pro",
+      "lab": "Google",
+      "score": 57
+    },
+    {
+      "rank": 4,
+      "model": "Grok 4.3",
+      "lab": "xAI",
+      "score": 53
+    },
+    {
+      "rank": 5,
+      "model": "GLM-5.2",
+      "lab": "Z.ai · open",
+      "score": 51
+    },
+    {
+      "rank": 6,
+      "model": "DeepSeek V4-Pro",
+      "lab": "DeepSeek · open",
+      "score": 50
+    },
+    {
+      "rank": 7,
+      "model": "Muse Spark",
+      "lab": "Meta",
+      "score": 50
+    },
+    {
+      "rank": 8,
+      "model": "Gemini 3.5 Flash",
+      "lab": "Google",
+      "score": 49
+    },
+    {
+      "rank": 9,
+      "model": "MiniMax M3",
+      "lab": "MiniMax · open",
+      "score": 48
+    },
+    {
+      "rank": 10,
+      "model": "Kimi",
+      "lab": "Moonshot · open",
+      "score": 47
+    }
+  ],
+  "benchmarks": [
+    {
+      "label": "Writing code",
+      "plain": "building & fixing real software",
+      "leader": "Claude Opus 4.8",
+      "pct": 89
+    },
+    {
+      "label": "Logic & reasoning",
+      "plain": "working through tricky, multi-step problems",
+      "leader": "GPT-5.5 · Gemini",
+      "pct": 85
+    },
+    {
+      "label": "Hard science",
+      "plain": "PhD-level science questions",
+      "leader": "Gemini · Claude",
+      "pct": 94
+    },
+    {
+      "label": "Math",
+      "plain": "tough competition math",
+      "leader": "GLM-5.2",
+      "pct": 99
+    },
+    {
+      "label": "The hardest exam",
+      "plain": "a test built to stump even the best AIs",
+      "leader": "Claude",
+      "pct": 58
+    },
+    {
+      "label": "Brand-new puzzles",
+      "plain": "a fresh test today's AIs still can't crack",
+      "leader": "nobody yet",
+      "pct": 1
+    }
+  ],
   "items": [
     {
       "category": "hardware",
@@ -1414,44 +1514,6 @@
         "LMArena"
       ],
       "url": "https://blog.google/products/gemini/gemini-3/"
-    }
-  ],
-  "benchmarks": [
-    {
-      "label": "Writing code",
-      "plain": "building & fixing real software",
-      "leader": "Claude",
-      "pct": 95
-    },
-    {
-      "label": "Logic & reasoning",
-      "plain": "working through tricky, multi-step problems",
-      "leader": "GPT-5.5 · Gemini",
-      "pct": 85
-    },
-    {
-      "label": "Hard science",
-      "plain": "PhD-level science questions",
-      "leader": "Gemini · Claude",
-      "pct": 94
-    },
-    {
-      "label": "Math",
-      "plain": "tough competition math",
-      "leader": "GLM-5.2",
-      "pct": 99
-    },
-    {
-      "label": "The hardest exam",
-      "plain": "a test built to stump even the best AIs",
-      "leader": "Claude",
-      "pct": 58
-    },
-    {
-      "label": "Brand-new puzzles",
-      "plain": "a fresh test today's AIs still can't crack",
-      "leader": "nobody yet",
-      "pct": 1
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T14:05:22.627Z",
+  "updated": "2026-06-27T16:19:05.930Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,16 @@
       "url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Half of Claude users say AI can already handle half their work according to Anthropic survey",
+      "summary": "About half of Claude users say AI can already handle 50 percent or more of their work tasks, according to a survey of roughly 9,700 users by Anthropic. In 12 months, 26 percent expect AI to cover 60 to 90 percent of their work. Early-career workers worry the most, while the heavi",
+      "date": "2026-06-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/"
+    },
+    {
       "category": "hardware",
       "lab": "AI",
       "title": "J.P. Morgan sees a pile of red flags in the AI market",
@@ -312,6 +322,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "date": "2026-06-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/"
     },
     {
       "category": "industry",
@@ -412,16 +432,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
-      "summary": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow appeared first on The Decoder.",
-      "date": "2026-06-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/"
     },
     {
       "category": "model",
@@ -728,16 +738,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-      "date": "2026-06-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/"
     },
     {
       "category": "model",

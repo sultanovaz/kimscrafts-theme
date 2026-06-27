@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:15:27.614Z",
+  "updated": "2026-06-27T08:49:19.925Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5",
+      "summary": "Researchers from Renmin University and ByteDance have released iLLaDA, an 8B language model that generates text differently than ChatGPT. It matches Qwen2.5 at the base level but falls behind after fine-tuning. The article ByteDance's \"iLLaDA\" is a diffusion language model that k",
+      "date": "2026-06-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
@@ -316,8 +326,8 @@
     {
       "category": "model",
       "lab": "Anthropic",
-      "title": "OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
-      "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it. The article OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls un",
+      "title": "OpenAI launches Claude Mythos rival GPT-5.6 Sol under government access it calls unsustainable",
+      "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it. The article OpenAI launches Claude Mythos rival GPT-5.6 Sol under government access it calls unsustainable",
       "date": "2026-06-26",
       "importance": 3,
       "tags": [],
@@ -542,16 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content",
-      "summary": "Two former xAI employees estimate that porn accounts for well over half of all Grok traffic. xAI is leaning into it, while OpenAI, Anthropic, and Google won't touch adult content. The article Grok AI is reportedly a porn platform now, with over half its traffic tied to adult cont",
-      "date": "2026-06-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/"
     },
     {
       "category": "hardware",

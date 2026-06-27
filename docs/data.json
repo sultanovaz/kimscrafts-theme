@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T16:19:05.930Z",
+  "updated": "2026-06-27T19:43:23.484Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -266,6 +266,16 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions",
+      "summary": "Anthropic's AI model, Fable 5, could be available again within days. According to Axios, the Trump administration is close to lifting the restrictions imposed on June 12 over safety concerns. The Pentagon and NSA still need to sign off. The article Anthropic's Fable 5 could retur",
+      "date": "2026-06-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Half of Claude users say AI can already handle half their work according to Anthropic survey",
       "summary": "About half of Claude users say AI can already handle 50 percent or more of their work tasks, according to a survey of roughly 9,700 users by Anthropic. In 12 months, 26 percent expect AI to cover 60 to 90 percent of their work. Early-career workers worry the most, while the heavi",
       "date": "2026-06-27",
@@ -322,6 +332,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "date": "2026-06-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
     },
     {
       "category": "model",
@@ -422,16 +442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027",
-      "summary": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its record IPO. SoftBank, one of OpenAI's biggest backers, lost 13 percent in a single day. The article Altman won't go public fo",
-      "date": "2026-06-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/"
     },
     {
       "category": "model",
@@ -758,16 +768,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
-      "date": "2026-06-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/"
     },
     {
       "category": "hardware",

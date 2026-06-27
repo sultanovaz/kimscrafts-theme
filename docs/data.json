@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T22:35:14.643Z",
+  "updated": "2026-06-27T04:15:27.614Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 169
+    "fresh": 167
   },
   "ranking": [
     {
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "date": "2026-06-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting Dean W. Ball",
+      "summary": "<blockquote cite=\"https://www.hyperdimensional.co/p/what-should-be-done\"><p>This is a bad state of affairs. Consider, in particular, some industry dynamics:</p> <ol> <li>Frontier models are trained at an enormous cost, and a significant fraction of that cost is recouped in the fe",
+      "date": "2026-06-26",
+      "importance": 5,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything"
+    },
     {
       "category": "model",
       "lab": "OpenAI",
@@ -758,16 +778,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "AI researchers continue to leave Google for its rivals",
-      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-      "date": "2026-06-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/"
     },
     {
       "category": "industry",
@@ -1489,16 +1499,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Cloudflare CAPTCHA on at least one ampersand",
-      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/cloudflare/captcha-on-at-least-one-ampersand\">Cloudflare CAPTCHA on at least one ampersand</a></p> <p>I'm using Cloudflare's CAPTCHA (they call it a \"Web Application Firewall > Custom rules > Managed Challenge\" these",
-      "date": "2026-06-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything"
     }
   ]
 }

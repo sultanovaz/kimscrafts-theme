@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-27T11:03:36.336Z",
+  "updated": "2026-06-27T14:05:22.627Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 167
+    "fresh": 166
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
+      "summary": "Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts. Amazon, Anthropic, Microsoft, and the OpenAI Foundation are jointly funding the initiative. That the very companies driving the disrupt",
+      "date": "2026-06-27",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "J.P. Morgan sees a pile of red flags in the AI market",
+      "summary": "J.P. Morgan warns that there are \"signs of investor exuberance\" in AI markets. Just 42 AI companies in the S&P 500 account for 65 to 80 percent of the index's total profits. The semiconductor rally is flashing technical patterns last seen during the dotcom bubble, and leveraged c",
+      "date": "2026-06-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "date": "2026-06-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic gets US approval to bring back Claude Mythos 5",
@@ -312,16 +342,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit",
-      "summary": "About twenty tech companies, AI labs, and banks are joining forces through Akrites to fix vulnerabilities in critical open-source software before AI tools can exploit them. The article Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered a",
-      "date": "2026-06-26",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/"
     },
     {
       "category": "model",
@@ -412,16 +432,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/previewing-gpt-5-6-sol"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\"",
-      "summary": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer by customer\" basis. CEO Sam Altman says this isn't a \"preferred long term model.\" After the forced takedown of Anthropic'",
-      "date": "2026-06-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/"
     },
     {
       "category": "product",
@@ -768,16 +778,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-      "date": "2026-06-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/"
     },
     {
       "category": "industry",

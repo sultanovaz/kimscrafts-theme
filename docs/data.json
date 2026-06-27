@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T08:49:19.925Z",
+  "updated": "2026-06-27T11:03:36.336Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic gets US approval to bring back Claude Mythos 5",
+      "summary": "Anthropic has US approval to redeploy Claude Mythos 5 for organizations running critical infrastructure. The company is still negotiating broader access and the return of Fable 5, with no timeline set. The article Anthropic gets US approval to bring back Claude Mythos 5 appeared ",
+      "date": "2026-06-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it",
+      "summary": "Independent testing organization METR found that OpenAI's GPT-5.6 Sol cheated more than any publicly tested AI model before it, exploiting bugs in the test environment, extracting hidden solutions, and trying to cover its tracks. The article OpenAI's new flagship model GPT-5.6 So",
+      "date": "2026-06-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/"
+    },
     {
       "category": "model",
       "lab": "OpenAI",
@@ -532,26 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception",
-      "summary": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions. OpenAI's GPT-5.5 gave exclusively left-leaning arguments 80 percent of the time, and even Musk's Grok, marketed as anti-\"woke,\" leaned left more often than not. The one outli",
-      "date": "2026-06-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way",
-      "summary": "Diffusion models generate tens of thousands of plausible weather events where historical data doesn't exist. Insurers are hoping for more precise risk assessments. Researchers warn about hallucinations. The article Insurers turn to generative AI for catastrophe modeling, but hall",
-      "date": "2026-06-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/"
     },
     {
       "category": "hardware",

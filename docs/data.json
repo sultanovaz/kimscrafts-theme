@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T19:44:30.405Z",
+  "updated": "2026-06-28T22:14:16.942Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -302,6 +302,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Jon Udell",
+      "summary": "<blockquote cite=\"https://blog.jonudell.net/2026/06/28/doctor-it-hurts-when-agents-create-unreviewable-prs-dont-do-that/\"><p><strong><del>Human</del> Agent in the loop</strong></p> <p>I dislike the phrase “human in the loop” because it cedes authority to the machines. Let’s flip ",
+      "date": "2026-06-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything"
     },
     {
       "category": "product",
@@ -1489,16 +1499,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Quoting Matteo Wong, The Atlantic",
-      "summary": "<blockquote cite=\"https://www.theatlantic.com/technology/2026/06/trump-anthropic-export-control-ai-race/687555/?gift=5MjKTLV9QwyU_J0HzTnanoWieJfkMhNH_YTT9pP_fhA\"><p>Katie Moussouris, a cybersecurity expert and the CEO of Luta Security, told me that Anthropic shared with her a cop",
-      "date": "2026-06-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything"
     }
   ]
 }

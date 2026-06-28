@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T09:31:33.377Z",
+  "updated": "2026-06-28T14:14:43.817Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 163
+    "fresh": 161
   },
   "ranking": [
     {
@@ -264,6 +264,46 @@
       "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/"
     },
     {
+      "category": "research",
+      "lab": "AI",
+      "title": "AI won't become a real coworker until it stops answering and starts finishing tasks",
+      "summary": "A survey paper by Tencent and several Chinese universities traces the path from chatbot to \"digital colleague.\" AI systems won't become reliable coworkers, the researchers argue, until they finish entire tasks in persistent work environments instead of just generating answers. Th",
+      "date": "2026-06-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/"
+    },
+    {
+      "category": "model",
+      "lab": "Moonshot",
+      "title": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test",
+      "summary": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7. An automated routing system picks the best model for each request based on task and price, and better caching pushed the hit rate from 5 to 60 percent. Coinbase has cut its AI sp",
+      "date": "2026-06-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Only three AI models finished above starting capital in a 500-day startup survival test",
+      "summary": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days. Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them. The article Only three AI models finis",
+      "date": "2026-06-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence",
+      "summary": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos. One has already flagged 3,432 vulnerabilities. Zhou admits Chinese models trail Western ones by 20 to 30 percent, but compares Mythos to \"cyber nuclear weapons\" and calls for China",
+      "date": "2026-06-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
@@ -322,26 +362,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it",
-      "summary": "Independent testing organization METR found that OpenAI's GPT-5.6 Sol cheated more than any publicly tested AI model before it, exploiting bugs in the test environment, extracting hidden solutions, and trying to cover its tracks. The article OpenAI's new flagship model GPT-5.6 So",
-      "date": "2026-06-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5",
-      "summary": "Researchers from Renmin University and ByteDance have released iLLaDA, an 8B language model that generates text differently than ChatGPT. It matches Qwen2.5 at the base level but falls behind after fine-tuning. The article ByteDance's \"iLLaDA\" is a diffusion language model that k",
-      "date": "2026-06-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/"
     },
     {
       "category": "hardware",
@@ -425,16 +445,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "OpenAI launches Claude Mythos rival GPT-5.6 Sol under government access it calls unsustainable",
-      "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it. The article OpenAI launches Claude Mythos rival GPT-5.6 Sol under government access it calls unsustainable",
-      "date": "2026-06-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "Incident Report: CVE-2026-LGTM",
       "summary": "<p><strong><a href=\"https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\">Incident Report: CVE-2026-LGTM</a></strong></p> Spectacular hypothetical incident report by Andrew Nesbitt.</p> <blockquote> <p><strong>Day 2, 16:00 UTC</strong> --- Two AI review agents from co",
@@ -442,16 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run",
-      "summary": "Epoch AI's new MirrorCode benchmark tests whether AI models can recreate complete programs without access to the original code. Claude Opus 4.7 leads with a 56 percent solve rate, rebuilding a 16,000-line toolkit in just 14 hours. But every model tested still fails on the most co",
-      "date": "2026-06-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/"
     },
     {
       "category": "model",

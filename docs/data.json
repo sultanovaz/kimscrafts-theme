@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T04:48:36.620Z",
+  "updated": "2026-06-28T09:31:33.377Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
+      "summary": "Sina Weibo's VibeThinker-3B has just three billion parameters but matches models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks. Those models are up to 333 times larger. The secret isn't size but multi-stage post-training. The researchers propose a hypothesis base",
+      "date": "2026-06-28",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
@@ -442,16 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic",
-      "summary": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs. CEO Flo Crivello calls it \"a matter of survival for the business.\" The article AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropi",
-      "date": "2026-06-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/"
     },
     {
       "category": "model",

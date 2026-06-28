@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T16:36:42.075Z",
+  "updated": "2026-06-28T19:44:30.405Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -302,6 +302,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "date": "2026-06-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
     },
     {
       "category": "hardware",
@@ -702,16 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/"
     },
     {
       "category": "research",

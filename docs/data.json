@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T14:14:43.817Z",
+  "updated": "2026-06-28T16:36:42.075Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -304,6 +304,16 @@
       "url": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/"
     },
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "date": "2026-06-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
@@ -567,7 +577,7 @@
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "AI and Liability",
-      "summary": "<p><strong><a href=\"https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html\">AI and Liability</a></strong></p> Bruce Schneier on the recent <a href=\"https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable",
+      "summary": "<p><strong><a href=\"https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html\">AI and Liability</a></strong></p> Bruce Schneier and Nathan Sanders on the recent <a href=\"https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-",
       "date": "2026-06-25",
       "importance": 3,
       "tags": [],
@@ -702,16 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/"
     },
     {
       "category": "research",

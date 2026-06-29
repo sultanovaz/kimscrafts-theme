@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-28T22:14:16.942Z",
+  "updated": "2026-06-29T04:58:44.939Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 161
+    "fresh": 162
   },
   "ranking": [
     {
@@ -264,6 +264,16 @@
       "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "date": "2026-06-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/hp-frontier-partnership"
+    },
+    {
       "category": "research",
       "lab": "AI",
       "title": "AI won't become a real coworker until it stops answering and starts finishing tasks",
@@ -312,6 +322,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hack Your Summer",
+      "summary": "<p><strong><a href=\"https://www.hackyoursummer.org/\">Hack Your Summer</a></strong></p> I learned about this initiative from DJ Patil this morning:</p> <blockquote> <p>It’s a 4-week, high-velocity production sprint for undergraduate students, graduate students, and recent graduate",
+      "date": "2026-06-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything"
     },
     {
       "category": "product",
@@ -1479,26 +1499,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Securing the future of AI agents",
-      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
-      "date": "2026-06-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "The Fable 5 Export Controls Harm US Cyber Defense",
-      "summary": "<p><strong><a href=\"https://www.lutasecurity.com/post/the-fable-5-export-controls-harm-us-cyber-defense\">The Fable 5 Export Controls Harm US Cyber Defense</a></strong></p> I <a href=\"https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/\">quoted The Atlantic</a> quoting ",
-      "date": "2026-06-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything"
     }
   ]
 }

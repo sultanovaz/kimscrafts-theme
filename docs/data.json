@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T16:09:54.417Z",
+  "updated": "2026-06-29T20:14:39.910Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "Google DeepMind",
+      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "summary": "<p><strong><a href=\"https://deep-reinforce.com/ornith_1_0.html\">Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</a></strong></p> This is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce.</p> <blockquote> <p>[...] with variants ",
+      "date": "2026-06-29",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything"
+    },
+    {
       "category": "hardware",
       "lab": "AI",
       "title": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
@@ -262,6 +272,26 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in",
+      "summary": "Amazon engineers are already distilling Anthropic models into smaller, cheaper versions for internal use. Starting next year, Amazon will pay by tokens processed rather than compute hours, which could push costs up sharply. The company is also exploring alternatives like OpenAI. ",
+      "date": "2026-06-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "EU seeks AI independence as Austria proposes luring Anthropic to Europe",
+      "summary": "Austria's State Secretary for Digitalization, Alexander Pröll, is calling on the European Commission to explore bringing Anthropic to Europe. He's responding to the U.S. ban on advanced AI models from OpenAI and Anthropic for foreign users. The initiative is likely unrealistic, t",
+      "date": "2026-06-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/"
     },
     {
       "category": "model",
@@ -304,6 +334,86 @@
       "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini’s personalized AI image generation is now free for U.S. users",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Count the number of Safari tabs",
+      "summary": "<p>Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari:</p> <pre><code>osascript -e 'tell application \"Safari\" to count tabs of every window' </code></pre> <p><img alt=\"I ran it in a terminal window and got back 370.\" src=\"https://static.simonwilliso",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "summary": "DiScoFormer: One transformer for density and score, across distributions",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/discoformer"
+    },
+    {
+      "category": "benchmark",
+      "lab": "AI",
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
@@ -332,16 +442,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
-      "summary": "Sina Weibo's VibeThinker-3B has just three billion parameters but matches models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks. Those models are up to 333 times larger. The secret isn't size but multi-stage post-training. The researchers propose a hypothesis base",
-      "date": "2026-06-28",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/"
     },
     {
       "category": "industry",
@@ -382,16 +482,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence",
-      "summary": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos. One has already flagged 3,432 vulnerabilities. Zhou admits Chinese models trail Western ones by 20 to 30 percent, but compares Mythos to \"cyber nuclear weapons\" and calls for China",
-      "date": "2026-06-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/"
     },
     {
       "category": "industry",
@@ -476,7 +566,7 @@
     {
       "category": "industry",
       "lab": "Anthropic",
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "title": "Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
       "date": "2026-06-27",
       "importance": 2,
@@ -615,16 +705,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
-      "date": "2026-06-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "Run a vLLM Server on HF Jobs in One Command",
       "summary": "Run a vLLM Server on HF Jobs in One Command",
@@ -632,16 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/vllm-jobs"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-      "date": "2026-06-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
     },
     {
       "category": "industry",
@@ -664,16 +734,6 @@
       "url": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-      "date": "2026-06-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/"
-    },
-    {
       "category": "hardware",
       "lab": "AI",
       "title": "IBM claims world’s first sub-1 nanometer chip technology",
@@ -682,16 +742,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
     },
     {
       "category": "product",
@@ -722,36 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "Which tokens does a hybrid model predict better?",
-      "summary": "Which tokens does a hybrid model predict better?",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction"
     },
     {
       "category": "research",
@@ -1479,26 +1499,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-      "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
-      "date": "2026-06-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
-      "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools.",
-      "date": "2026-06-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
     }
   ]
 }

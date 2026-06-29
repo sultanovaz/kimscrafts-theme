@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T20:14:39.910Z",
+  "updated": "2026-06-29T22:19:50.136Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -334,9 +334,19 @@
       "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
     },
     {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Gemini’s personalized AI image generation is now free for U.S. users",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
       "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
       "date": "2026-06-29",
       "importance": 2,
@@ -1449,16 +1459,6 @@
         "threat"
       ],
       "url": "https://cyberscoop.com/five-eyes-alliance-say-advanced-ai-hacking-models-months-away/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-      "summary": "Separately, neither could compete. Now they hope they can.",
-      "date": "2026-06-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/"
     },
     {
       "category": "model",

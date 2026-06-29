@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-29T04:58:44.939Z",
+  "updated": "2026-06-29T11:23:06.449Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 162
+    "fresh": 163
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
+      "summary": "Samsung and SK Hynix, backed by the South Korean government, are pouring $590 billion into new chip factories and packaging centers as AI data center demand surges. According to Jefferies, memory prices could climb to 50 percent per quarter through 2027. The two companies control",
+      "date": "2026-06-29",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control",
+      "summary": "Security researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup. The catch: the malicious code only loads at runtime via a DNS query, invisible in the ",
+      "date": "2026-06-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+    },
+    {
       "category": "model",
       "lab": "DeepSeek",
       "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
@@ -354,16 +384,6 @@
       "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/"
     },
     {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
-      "summary": "Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts. Amazon, Anthropic, Microsoft, and the OpenAI Foundation are jointly funding the initiative. That the very companies driving the disrupt",
-      "date": "2026-06-27",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions",
@@ -402,16 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic gets US approval to bring back Claude Mythos 5",
-      "summary": "Anthropic has US approval to redeploy Claude Mythos 5 for organizations running critical infrastructure. The company is still negotiating broader access and the return of Fable 5, with no timeline set. The article Anthropic gets US approval to bring back Claude Mythos 5 appeared ",
-      "date": "2026-06-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/"
     },
     {
       "category": "hardware",
@@ -1489,16 +1499,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Quoting Georgi Gerganov",
-      "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=48555993#48557304\"><p>I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks. Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my RTX 5090 box.",
-      "date": "2026-06-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything"
     }
   ]
 }

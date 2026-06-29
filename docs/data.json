@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T11:23:06.449Z",
+  "updated": "2026-06-29T16:09:54.417Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -266,12 +266,62 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "Meta restricts use of Claude Code and Codex to keep rival AI out of its training data",
+      "summary": "Meta is restricting its engineers' use of Anthropic's Claude and OpenAI's Codex to prevent output from these AI tools from being incorporated into its own training data. The article Meta restricts use of Claude Code and Codex to keep rival AI out of its training data appeared fir",
+      "date": "2026-06-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Deloitte tells its own consultants: AI is coming for the billable hour",
+      "summary": "An internal Deloitte presentation projects that the consulting industry's classic hourly billing model will shrink to a thin sliver of the total market by 2035, replaced by AI agents. \"Our model is toast,\" one consultant summed up the message. McKinsey and BCG are already searchi",
+      "date": "2026-06-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The US military used AI to pick thousands of targets but missed a note saying one was a school",
+      "summary": "The probe into a missile strike on an Iranian school exposes serious gaps in the US military's targeting infrastructure. AI is supposed to close them. The article The US military used AI to pick thousands of targets but missed a note saying one was a school appeared first on The ",
+      "date": "2026-06-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control",
       "summary": "Security researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup. The catch: the malicious code only loads at runtime via a DNS query, invisible in the ",
       "date": "2026-06-29",
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Omen AI’s plan to optimize data centers is all wet",
+      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/"
     },
     {
       "category": "industry",
@@ -386,36 +436,6 @@
     {
       "category": "model",
       "lab": "Anthropic",
-      "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions",
-      "summary": "Anthropic's AI model, Fable 5, could be available again within days. According to Axios, the Trump administration is close to lifting the restrictions imposed on June 12 over safety concerns. The Pentagon and NSA still need to sign off. The article Anthropic's Fable 5 could retur",
-      "date": "2026-06-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Half of Claude users say AI can already handle half their work according to Anthropic survey",
-      "summary": "About half of Claude users say AI can already handle 50 percent or more of their work tasks, according to a survey of roughly 9,700 users by Anthropic. In 12 months, 26 percent expect AI to cover 60 to 90 percent of their work. Early-career workers worry the most, while the heavi",
-      "date": "2026-06-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "J.P. Morgan sees a pile of red flags in the AI market",
-      "summary": "J.P. Morgan warns that there are \"signs of investor exuberance\" in AI markets. Just 42 AI companies in the S&P 500 account for 65 to 80 percent of the index's total profits. The semiconductor rally is flashing technical patterns last seen during the dotcom bubble, and leveraged c",
-      "date": "2026-06-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
       "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
       "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
       "date": "2026-06-27",
@@ -447,7 +467,7 @@
       "category": "model",
       "lab": "Anthropic",
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "summary": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
       "date": "2026-06-27",
       "importance": 2,
       "tags": [],
@@ -527,7 +547,7 @@
       "category": "product",
       "lab": "AI",
       "title": "South Korea plans to train entire military as \"drone warriors\"",
-      "summary": "Half-million strong military will train on drones as “universal combat tool.”",
+      "summary": "Half-million-strong military will train on drones as “universal combat tool.”",
       "date": "2026-06-26",
       "importance": 2,
       "tags": [],
@@ -732,26 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/"
     },
     {
       "category": "research",

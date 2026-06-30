@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T14:42:26.919Z",
+  "updated": "2026-06-30T17:14:56.390Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 165
+    "fresh": 170
   },
   "ranking": [
     {
@@ -254,6 +254,56 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Have your agent record video demos of its work with shot-scraper video",
+      "summary": "<p><a href=\"https://shot-scraper.datasette.io/en/stable/video.html\">shot-scraper video</a> is a new command introduced in today's <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.10\">shot-scraper 1.10</a> release which accepts a <code>storyboard.yml</code> file defi",
+      "date": "2026-06-30",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "shot-scraper 1.10",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.10\">shot-scraper 1.10</a></p> <p>The big new feature is <code>shot-scraper video storyboard.yml</code>, described in detail in <a href=\"https://simonwillison.net/2026/Jun/30/shot-scraper-v",
+      "date": "2026-06-30",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia",
+      "summary": "Meituan trains a 1.6 trillion parameter AI model entirely on Chinese chips, no Nvidia required. The article Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia appeared first on The Decoder.",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "San Francisco's AI boom is pricing out six-figure tech workers who can't find rent under $5,000",
+      "summary": "San Francisco's AI boom is driving up the cost of living so fast that even couples earning $365,000 a year can't find an affordable apartment. Median rent sits at $3,827, and homes cost $1.7 million on average. The expected IPOs of OpenAI and Anthropic could make things even wors",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/san-franciscos-ai-boom-is-pricing-out-six-figure-tech-workers-who-cant-find-rent-under-5000/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "US campaigns now run on AI at nearly every step, and Europe is drawing a harder line",
@@ -304,6 +354,66 @@
       "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+      "summary": "A year in, National Design Studio delays plan to update government web standards.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "summary": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says",
+      "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "summary": "Users will be able use AI to create newsletters based on their recordings.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/"
+    },
+    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Why Specialization Is Inevitable",
@@ -325,6 +435,16 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "How ChatGPT adoption has expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
       "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
@@ -342,6 +462,36 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Introducing GeneBench-Pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-genebench-pro"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "summary": "Inside Genebench-Pro",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
       "category": "benchmark",
@@ -402,26 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The US military used AI to pick thousands of targets but missed a note saying one was a school",
-      "summary": "The probe into a missile strike on an Iranian school exposes serious gaps in the US military's targeting infrastructure. AI is supposed to close them. The article The US military used AI to pick thousands of targets but missed a note saying one was a school appeared first on The ",
-      "date": "2026-06-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control",
-      "summary": "Security researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup. The catch: the malicious code only loads at runtime via a DNS query, invisible in the ",
-      "date": "2026-06-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
     },
     {
       "category": "product",
@@ -604,16 +734,6 @@
       "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
-      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-      "date": "2026-06-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
-    },
-    {
       "category": "hardware",
       "lab": "AI",
       "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
@@ -632,26 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "summary": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
-      "date": "2026-06-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "date": "2026-06-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
     },
     {
       "category": "model",
@@ -682,16 +782,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
-      "date": "2026-06-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
     },
     {
       "category": "model",
@@ -1392,113 +1482,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "summary": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "date": "2026-06-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "summary": "GLM-5.2: Built for Long-Horizon Tasks",
-      "date": "2026-06-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Introducing LifeSciBench",
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "date": "2026-06-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-life-sci-bench"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Agentic Resource Discovery: Let agents search",
-      "summary": "Agentic Resource Discovery: Let agents search",
-      "date": "2026-06-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch"
-    },
-    {
-      "category": "industry",
-      "lab": "European Union",
-      "title": "EU Parliament approves Digital Omnibus, delaying AI Act rules",
-      "summary": "On June 16 the European Parliament approved the Digital Omnibus, simplifying the AI Act and deferring high-risk obligations from August 2026 to December 2027, easing compliance for AI developers operating in the EU. Final Council adoption is expected in July.",
-      "date": "2026-06-16",
-      "importance": 4,
-      "tags": [
-        "regulation",
-        "EU-AI-Act",
-        "policy",
-        "compliance"
-      ],
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/"
-    },
-    {
-      "category": "industry",
-      "lab": "DeepSeek",
-      "title": "DeepSeek closes first-ever raise: $7.4B at $50B+ valuation",
-      "summary": "China's DeepSeek completed its first external funding round (~$7.4B at a $50B-plus valuation) backed by Tencent, CATL, JD.com and a state AI fund, cementing it as China's leading frontier-model challenger. Founder Liang Wenfeng retained control via a limited-partnership structure.",
-      "date": "2026-06-16",
-      "importance": 4,
-      "tags": [
-        "funding",
-        "China",
-        "DeepSeek",
-        "valuation",
-        "open-weights"
-      ],
-      "url": "https://www.siliconrepublic.com/business/the-information-deepseek-raises-7-4bn-at-50bn-plus-valuation"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette 1.0a34",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a34\">datasette 1.0a34</a></p> <p>Quoting the release notes:</p> <blockquote> <p>The big feature in this alpha is tools to insert, edit and delete rows within the Datasette interface. These f",
-      "date": "2026-06-16",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "Five Eyes",
-      "title": "Five Eyes warn frontier AI hacking models are months away",
-      "summary": "Intelligence agencies from the Five Eyes alliance warned that AI models capable of autonomous offensive cyber operations could arrive within months, reshaping cybersecurity faster than expected. The assessment underpins the urgency behind June's US executive order and the Fable/Mythos export action.",
-      "date": "2026-06-16",
-      "importance": 3,
-      "tags": [
-        "cybersecurity",
-        "national-security",
-        "Five-Eyes",
-        "offensive-AI",
-        "threat"
-      ],
-      "url": "https://cyberscoop.com/five-eyes-alliance-say-advanced-ai-hacking-models-months-away/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-tailscale 0.1a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0\">datasette-tailscale 0.1a0</a></p> <p>A very experimental alpha plugin which lets you do this:</p> <pre><code>datasette tailscale mydata.db \\ --ts-authkey tskey-auth-xxxx --t",
-      "date": "2026-06-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything"
     }
   ]
 }

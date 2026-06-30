@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T20:18:03.062Z",
+  "updated": "2026-06-30T22:39:13.950Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Nano Banana 2 Lite",
+      "summary": "<p><strong><a href=\"https://deepmind.google/models/gemini-image/flash-lite/\">Nano Banana 2 Lite</a></strong></p> Also known as Gemini 3.1 Flash Lite Image (<code>gemini-3.1-flash-lite-image</code> <a href=\"https://ai.google.dev/gemini-api/docs/image-generation\">in their API</a>),",
+      "date": "2026-06-30",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "Have your agent record video demos of its work with shot-scraper video",
       "summary": "<p><a href=\"https://shot-scraper.datasette.io/en/stable/video.html\">shot-scraper video</a> is a new command introduced in today's <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.10\">shot-scraper 1.10</a> release which accepts a <code>storyboard.yml</code> file defi",
@@ -272,6 +282,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "What's new in Claude Sonnet 5",
+      "summary": "<p><strong><a href=\"https://platform.claude.com/docs/en/about-claude/models/whats-new-sonnet-5\">What&#x27;s new in Claude Sonnet 5</a></strong></p> Claude Sonnet 5 came out <a href=\"https://www.anthropic.com/news/claude-sonnet-5\">this morning</a>. I always head straight for the \"",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything"
     },
     {
       "category": "model",
@@ -426,7 +446,27 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "New attack provides one more reason that AI browsers are a bad idea",
+      "title": "OpenClaw is finally available on Android and iOS",
+      "summary": "The free open source agentic program is finally invading your phone.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
       "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
       "date": "2026-06-30",
       "importance": 2,
@@ -732,26 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-      "date": "2026-06-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Omen AI’s plan to optimize data centers is all wet",
-      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-      "date": "2026-06-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/"
     },
     {
       "category": "industry",
@@ -1454,16 +1474,6 @@
       "url": "https://openai.com/index/ai-chemist-improves-reaction"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "<click-to-play> — a still that plays",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/click-to-play-component\"><click-to-play> — a still that plays</a></p> <p>A progressive enchantment Web Component that turns this markup:</p> <pre><code><click-to-play> <a href=\"URL to GIF\"> <img src=\"URL to first ",
-      "date": "2026-06-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
@@ -1472,16 +1482,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "\"Dangerous\" AI models are coming no matter what",
-      "summary": "AI models with advanced hacking capabilities will soon be the norm.",
-      "date": "2026-06-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/"
     }
   ]
 }

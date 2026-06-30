@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-30T09:59:48.143Z",
+  "updated": "2026-06-30T14:42:26.919Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 163
+    "fresh": 165
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "US campaigns now run on AI at nearly every step, and Europe is drawing a harder line",
+      "summary": "Republican and Democratic campaigns now run on AI at nearly every step, from vetting opponents to micro-targeting voters, according to a New York Times report. But the technology is still a political minefield, and Europe is taking a very different approach. The article US campai",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
+      "summary": "Meta reportedly had hundreds of contractors pose as minors and send suicide, sex, and drug-related prompts to chatbots from OpenAI, Google, and Character.AI. In a single testing round, more than 45,000 prompts were sent. The companies being tested had no idea. The article Meta se",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China",
@@ -276,8 +296,8 @@
     {
       "category": "model",
       "lab": "AI",
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
       "date": "2026-06-30",
       "importance": 3,
       "tags": [],
@@ -285,9 +305,29 @@
     },
     {
       "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Why Specialization Is Inevitable",
+      "summary": "Why Specialization Is Inevitable",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
       "date": "2026-06-30",
       "importance": 2,
       "tags": [],
@@ -305,6 +345,16 @@
     },
     {
       "category": "benchmark",
+      "lab": "Hugging Face",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "summary": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/eee-community-evals"
+    },
+    {
+      "category": "benchmark",
       "lab": "Google DeepMind",
       "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
       "summary": "<p><strong><a href=\"https://deep-reinforce.com/ornith_1_0.html\">Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</a></strong></p> This is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce.</p> <blockquote> <p>[...] with variants ",
@@ -312,16 +362,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring",
-      "summary": "Samsung and SK Hynix, backed by the South Korean government, are pouring $590 billion into new chip factories and packaging centers as AI data center demand surges. According to Jefferies, memory prices could climb to 50 percent per quarter through 2027. The two companies control",
-      "date": "2026-06-29",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/"
     },
     {
       "category": "hardware",
@@ -524,16 +564,6 @@
       "url": "https://openai.com/index/hp-frontier-partnership"
     },
     {
-      "category": "research",
-      "lab": "AI",
-      "title": "AI won't become a real coworker until it stops answering and starts finishing tasks",
-      "summary": "A survey paper by Tencent and several Chinese universities traces the path from chatbot to \"digital colleague.\" AI systems won't become reliable coworkers, the researchers argue, until they finish entire tasks in persistent work environments instead of just generating answers. Th",
-      "date": "2026-06-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Quoting Jon Udell",
@@ -712,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "date": "2026-06-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/"
     },
     {
       "category": "industry",
@@ -1479,26 +1499,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Predicting model behavior before release by simulating deployment",
-      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-      "date": "2026-06-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/deployment-simulation"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
-      "date": "2026-06-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/"
     }
   ]
 }

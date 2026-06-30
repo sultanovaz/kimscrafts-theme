@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T04:33:16.822Z",
+  "updated": "2026-06-30T09:59:48.143Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China",
+      "summary": "Taiwanese authorities have raided the offices of Super Micro Computer and several local partner companies. The article Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China appeared first on The Decoder.",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/taiwan-raids-super-micro-offices-in-probe-over-nvidia-chip-smuggling-to-china/"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls",
+      "summary": "Deepseek's new DSpark framework boosts per-user response speed by 60 to 85 percent. A small model proposes token candidates that the larger model checks in batches, squeezing more performance out of fewer chips. That could further reduce China's dependence on US high-end hardware",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
@@ -262,6 +282,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/"
     },
     {
       "category": "industry",
@@ -504,26 +534,6 @@
       "url": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/"
     },
     {
-      "category": "model",
-      "lab": "Moonshot",
-      "title": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test",
-      "summary": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7. An automated routing system picks the best model for each request based on task and price, and better caching pushed the hit rate from 5 to 60 percent. Coinbase has cut its AI sp",
-      "date": "2026-06-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Only three AI models finished above starting capital in a 500-day startup survival test",
-      "summary": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days. Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them. The article Only three AI models finis",
-      "date": "2026-06-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Quoting Jon Udell",
@@ -712,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies build",
-      "date": "2026-06-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/"
     },
     {
       "category": "industry",

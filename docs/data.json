@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T17:14:56.390Z",
+  "updated": "2026-06-30T20:18:03.062Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -275,6 +275,76 @@
     },
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series",
+      "summary": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and even edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618. Anthropic is also quick to point out that the model scores far below the models ",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic launches Claude Science, an AI workspace built specifically for researchers",
+      "summary": "Anthropic released Claude Science, an AI workbench for researchers. More than 60 preconfigured skills cover fields like genomics and computational chemistry, and a verification agent automatically checks citations and calculations. The app runs locally or on HPC clusters, so sens",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "OpenAI reportedly cut response costs for guest ChatGPT users by more than half",
+      "summary": "According to a report by The Information, OpenAI has cut inference costs for its AI models by more than half. The company applied the optimizations to ChatGPT, where the number of Nvidia GPUs needed dropped to just a few hundred at times. The article OpenAI reportedly cut respons",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "The AI Compass",
+      "summary": "<p><strong><a href=\"https://bambamramfan.github.io/ai-compass/\">The AI Compass</a></strong></p> This political compass style quiz <a href=\"https://bambamramfan.tumblr.com/post/820505178072580096/the-ai-compass\">by bambamramfan</a> is pretty neat - answer 29 questions about AI and",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API",
+      "summary": "Google adds two new generative AI models. Nano Banana 2 Lite generates images in four seconds at $0.034 a pop. Gemini Omni Flash brings video generation and editing via text prompts to the API for the first time. Google recommends chaining both models to go from a quick image to ",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/"
+    },
+    {
+      "category": "model",
       "lab": "Nvidia",
       "title": "Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia",
       "summary": "Meituan trains a 1.6 trillion parameter AI model entirely on Chinese chips, no Nvidia required. The article Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia appeared first on The Decoder.",
@@ -352,6 +422,56 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "New attack provides one more reason that AI browsers are a bad idea",
+      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+      "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "summary": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
     },
     {
       "category": "model",
@@ -514,46 +634,6 @@
       "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything"
     },
     {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in",
-      "summary": "Amazon engineers are already distilling Anthropic models into smaller, cheaper versions for internal use. Starting next year, Amazon will pay by tokens processed rather than compute hours, which could push costs up sharply. The company is also exploring alternatives like OpenAI. ",
-      "date": "2026-06-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "EU seeks AI independence as Austria proposes luring Anthropic to Europe",
-      "summary": "Austria's State Secretary for Digitalization, Alexander Pröll, is calling on the European Commission to explore bringing Anthropic to Europe. He's responding to the U.S. ban on advanced AI models from OpenAI and Anthropic for foreign users. The initiative is likely unrealistic, t",
-      "date": "2026-06-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Meta restricts use of Claude Code and Codex to keep rival AI out of its training data",
-      "summary": "Meta is restricting its engineers' use of Anthropic's Claude and OpenAI's Codex to prevent output from these AI tools from being incorporated into its own training data. The article Meta restricts use of Claude Code and Codex to keep rival AI out of its training data appeared fir",
-      "date": "2026-06-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Deloitte tells its own consultants: AI is coming for the billable hour",
-      "summary": "An internal Deloitte presentation projects that the consulting industry's classic hourly billing model will shrink to a thin sliver of the total market by 2035, replaced by AI agents. \"Our model is toast,\" one consultant summed up the message. McKinsey and BCG are already searchi",
-      "date": "2026-06-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "HTML table extractor",
@@ -712,46 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-      "date": "2026-06-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "date": "2026-06-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-      "date": "2026-06-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-      "date": "2026-06-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
     },
     {
       "category": "model",
@@ -1064,16 +1104,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "summary": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps"
     },
     {
       "category": "industry",
@@ -1434,16 +1464,6 @@
       "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "NetNewsWire Status",
-      "summary": "<p><strong><a href=\"https://inessential.com/2026/06/15/netnewswire-status.html\">NetNewsWire Status</a></strong></p> I find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, <em>really</em> good - free from any com",
-      "date": "2026-06-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
@@ -1462,26 +1482,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Charity Majors",
-      "summary": "<blockquote cite=\"https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-2\"><p>What happened in 2025 was this: <strong>the economics of code production were turned upside down</strong>. Instead of being very hard, time-consuming, and expensive to gen",
-      "date": "2026-06-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
-      "summary": "Google's new smart speaker is more about Gemini than audio quality.",
-      "date": "2026-06-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/"
     }
   ]
 }

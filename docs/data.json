@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T22:19:50.136Z",
+  "updated": "2026-06-30T04:33:16.822Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "date": "2026-06-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The AI jobs debate just got messier",
+      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
+    },
+    {
       "category": "benchmark",
       "lab": "Google DeepMind",
       "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
@@ -332,6 +352,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "HTML table extractor",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/html-table-extractor\">HTML table extractor</a></p> <p>Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every ",
+      "date": "2026-06-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything"
     },
     {
       "category": "hardware",
@@ -692,26 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-      "date": "2026-06-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies build",
-      "date": "2026-06-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/"
     },
     {
       "category": "industry",
@@ -1489,16 +1499,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-      "date": "2026-06-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
     }
   ]
 }

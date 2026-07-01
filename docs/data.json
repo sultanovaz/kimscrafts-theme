@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T04:53:01.537Z",
+  "updated": "2026-07-01T10:11:52.540Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 170
+    "fresh": 169
   },
   "ranking": [
     {
@@ -254,9 +254,29 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
+      "summary": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched. The article OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
+      "date": "2026-07-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's Fable 5 is back worldwide after a two-week government ban over a jailbreak",
+      "summary": "After a two-week ban, the US government is letting Anthropic ship Fable 5 globally again. Amazon researchers had found a jailbreak, but Anthropic says even much smaller models like Claude Haiku 4.5 could pull off the same exploit. A new safety classifier blocks the technique in o",
+      "date": "2026-07-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/"
+    },
+    {
       "category": "industry",
       "lab": "Google DeepMind",
-      "title": "The “Father of the Internet” is finally retiring",
+      "title": "The ‘Father of the Internet’ is finally retiring",
       "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
       "date": "2026-07-01",
       "importance": 2,
@@ -264,10 +284,10 @@
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/"
     },
     {
-      "category": "industry",
+      "category": "model",
       "lab": "Anthropic",
       "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
       "date": "2026-07-01",
       "importance": 2,
       "tags": [],
@@ -326,7 +346,7 @@
     {
       "category": "model",
       "lab": "Anthropic",
-      "title": "Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series",
+      "title": "Anthropic's new Claude Sonnet 5 closes the gap to Opus model series",
       "summary": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and even edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618. Anthropic is also quick to point out that the model scores far below the models ",
       "date": "2026-06-30",
       "importance": 3,
@@ -442,26 +462,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China",
-      "summary": "Taiwanese authorities have raided the offices of Super Micro Computer and several local partner companies. The article Taiwan raids Super Micro offices in probe over Nvidia chip smuggling to China appeared first on The Decoder.",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/taiwan-raids-super-micro-offices-in-probe-over-nvidia-chip-smuggling-to-china/"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls",
-      "summary": "Deepseek's new DSpark framework boosts per-user response speed by 60 to 85 percent. A small model proposes token candidates that the larger model checks in batches, squeezing more performance out of fewer chips. That could further reduce China's dependence on US high-end hardware",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/"
     },
     {
       "category": "model",

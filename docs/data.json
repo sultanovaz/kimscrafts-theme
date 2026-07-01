@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T10:11:52.540Z",
+  "updated": "2026-07-01T15:11:20.383Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 169
+    "fresh": 168
   },
   "ranking": [
     {
@@ -254,10 +254,40 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "date": "2026-07-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Hidden code in Claude Code secretly flagged Chinese users",
+      "summary": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after it sparked outrage on social media. The article Hidden code in Claude Code secretly flagged Chinese users appeared first on The Decoder.",
+      "date": "2026-07-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates",
+      "summary": "Claude Sonnet 5 ranks fifth in the Artificial Analysis Intelligence Index with 53 points and even beats the pricier Opus 4.8 on some agent-based tasks. But the model chews through about 40 percent more tokens per task than its predecessor, nearly doubling real costs despite ident",
+      "date": "2026-07-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/"
+    },
+    {
       "category": "benchmark",
       "lab": "OpenAI",
-      "title": "OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
-      "summary": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched. The article OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy",
+      "title": "OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet",
+      "summary": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched. The article OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet app",
       "date": "2026-07-01",
       "importance": 3,
       "tags": [],
@@ -272,6 +302,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "date": "2026-07-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
+      "date": "2026-07-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "date": "2026-07-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
     },
     {
       "category": "industry",
@@ -302,6 +362,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "summary": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "date": "2026-07-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
     },
     {
       "category": "model",
@@ -442,36 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "US campaigns now run on AI at nearly every step, and Europe is drawing a harder line",
-      "summary": "Republican and Democratic campaigns now run on AI at nearly every step, from vetting opponents to micro-targeting voters, according to a New York Times report. But the technology is still a political minefield, and Europe is taking a very different approach. The article US campai",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
-      "summary": "Meta reportedly had hundreds of contractors pose as minors and send suicide, sex, and drug-related prompts to chatbots from OpenAI, Google, and Character.AI. In a single testing round, more than 45,000 prompts were sent. The companies being tested had no idea. The article Meta se",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-      "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
     },
     {
       "category": "model",
@@ -734,16 +774,6 @@
       "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-      "date": "2026-06-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Count the number of Safari tabs",
@@ -752,26 +782,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-      "date": "2026-06-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-      "date": "2026-06-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
     },
     {
       "category": "industry",
@@ -1472,16 +1482,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/ai-chemist-improves-reaction"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
-      "date": "2026-06-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/"
     }
   ]
 }

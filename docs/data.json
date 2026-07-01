@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-01T15:11:20.383Z",
+  "updated": "2026-07-01T17:23:03.588Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 168
+    "fresh": 166
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Meta",
+      "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers",
+      "summary": "Meta is building its own cloud business to sell spare AI compute to outside customers. With planned AI investments of up to $145 billion this year alone, the same question that came up with xAI now applies to Meta: why isn't the company putting all that capacity to work on its ow",
+      "date": "2026-07-01",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
+      "date": "2026-07-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
+      "summary": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signals outside the skull and reconstructs what a person is typing. Clinical use for paralyzed patients is still a long way o",
+      "date": "2026-07-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
@@ -482,26 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/"
-    },
-    {
-      "category": "model",
-      "lab": "Nvidia",
-      "title": "Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia",
-      "summary": "Meituan trains a 1.6 trillion parameter AI model entirely on Chinese chips, no Nvidia required. The article Meituan's LongCat-2.0 shows China can train massive AI models without Nvidia appeared first on The Decoder.",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "San Francisco's AI boom is pricing out six-figure tech workers who can't find rent under $5,000",
-      "summary": "San Francisco's AI boom is driving up the cost of living so fast that even couples earning $365,000 a year can't find an affordable apartment. Median rent sits at $3,827, and homes cost $1.7 million on average. The expected IPOs of OpenAI and Anthropic could make things even wors",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/san-franciscos-ai-boom-is-pricing-out-six-figure-tech-workers-who-cant-find-rent-under-5000/"
     },
     {
       "category": "industry",
@@ -1472,16 +1482,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/is-it-agentic-enough"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "date": "2026-06-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/ai-chemist-improves-reaction"
     }
   ]
 }

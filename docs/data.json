@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:23:03.588Z",
+  "updated": "2026-07-01T20:12:53.159Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,26 @@
       "url": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/"
     },
     {
+      "category": "hardware",
+      "lab": "xAI",
+      "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
+      "summary": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system. Musk wants to build an \"everything app\" modeled after WeChat. The article SpaceX shows ",
+      "date": "2026-07-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "date": "2026-07-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
@@ -332,6 +352,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "date": "2026-07-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "date": "2026-07-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
     },
     {
       "category": "model",
@@ -504,16 +544,6 @@
       "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API",
-      "summary": "Google adds two new generative AI models. Nano Banana 2 Lite generates images in four seconds at $0.034 a pop. Gemini Omni Flash brings video generation and editing via text prompts to the API for the first time. Google recommends chaining both models to go from a quick image to ",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/"
-    },
-    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
@@ -675,16 +705,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "How ChatGPT adoption has expanded",
       "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
@@ -695,23 +715,13 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
+      "lab": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "summary": "Inside Genebench-Pro",
       "date": "2026-06-30",
       "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The AI jobs debate just got messier",
-      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
+      "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
       "category": "benchmark",
@@ -732,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "summary": "Inside Genebench-Pro",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
       "category": "benchmark",

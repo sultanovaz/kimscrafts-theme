@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T14:27:38.325Z",
+  "updated": "2026-07-02T17:01:02.953Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,10 +254,20 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
+      "summary": "Anthropic has cut the system prompt for Claude Code by 80 percent. According to staffer Tariq Shihipar, the new Fable 5 models need fewer instructions and examples. Guidelines can even hold the models back because they're \"more imaginative\" than what they're given. Instead of str",
+      "date": "2026-07-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "summary": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
+      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
       "date": "2026-07-02",
       "importance": 3,
       "tags": [],
@@ -302,6 +312,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+      "date": "2026-07-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+      "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
+      "date": "2026-07-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+      "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.",
+      "date": "2026-07-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/"
     },
     {
       "category": "model",
@@ -412,16 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet",
-      "summary": "An OpenAI benchmark paper suggests that the Pro tier of GPT-5.6 could ship in three variants. That would be the first major change to ChatGPT Pro's structure since the plan launched. The article OpenAI's genomics paper accidentally reveals a Pro lineup it hasn't announced yet app",
-      "date": "2026-07-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/"
     },
     {
       "category": "industry",
@@ -662,16 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
     },
     {
       "category": "industry",
@@ -1424,16 +1444,6 @@
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "As China looms, Taiwan makes more drones for defense and the US military",
-      "summary": "Taiwan's drone spending plans for defense could also boost business overseas.",
-      "date": "2026-06-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/"
-    },
-    {
       "category": "product",
       "lab": "Hugging Face",
       "title": "MosaicLeaks: Can your research agent keep a secret?",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-      "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.",
-      "date": "2026-06-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/"
     },
     {
       "category": "industry",

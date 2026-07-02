@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:50:00.384Z",
+  "updated": "2026-07-02T22:17:54.270Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "llm-coding-agent 0.1a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0\">llm-coding-agent 0.1a0</a></p> <p>Another Fable 5 experiment. Now that my <a href=\"https://llm.datasette.io/\">LLM library</a> has evolved into more of an agent framework it's time",
+      "date": "2026-07-02",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
@@ -332,6 +342,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+      "date": "2026-07-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
     },
     {
       "category": "product",
@@ -622,16 +642,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
     },
     {
       "category": "product",
@@ -1406,16 +1416,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Quoting Sean Lynch",
-      "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=48592163#48593190\"><p>The real valuable capability MCP offers over skills/CLI is isolating the auth flow outside of the agent’s context window, and potentially out of the harness completely. [...]</p> <p>Maybe the idealized f",
-      "date": "2026-06-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything"
     },
     {
       "category": "model",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T17:01:02.953Z",
+  "updated": "2026-07-02T19:50:00.384Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
+      "summary": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation. Microsoft is positioning itself as a platform-neu",
+      "date": "2026-07-02",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters",
+      "summary": "Anthropic is reportedly in talks with Samsung Electronics about manufacturing a custom AI chip. The project is still early, but Anthropic has already hired chip engineers. After OpenAI's \"Jalapeño,\" yet another major AI company is pushing into chip development to cut infrastructu",
+      "date": "2026-07-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
@@ -312,6 +332,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+      "date": "2026-07-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+      "date": "2026-07-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/dspy-datasette-agent-prompts#readme\">Using DSPy to evaluate and improve Datasette Agent&#x27;s SQL system prompts</a></p> <p>One of this morning's AIE keynotes covered <a href=\"https://github.com/",
+      "date": "2026-07-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Understand to participate",
+      "summary": "<p>I saw Geoffrey Litt speak at <a href=\"https://www.ai.engineer/worldsfair/2026\">AIE</a> yesterday, and one framing he used particularly resonated with me:</p> <p><strong>Understand to participate</strong></p> <p>Geoffrey was talking about the challenge of collaborating with cod",
+      "date": "2026-07-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything"
     },
     {
       "category": "industry",
@@ -432,26 +492,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Hidden code in Claude Code secretly flagged Chinese users",
-      "summary": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after it sparked outrage on social media. The article Hidden code in Claude Code secretly flagged Chinese users appeared first on The Decoder.",
-      "date": "2026-07-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates",
-      "summary": "Claude Sonnet 5 ranks fifth in the Artificial Analysis Intelligence Index with 53 points and even beats the pricier Opus 4.8 on some agent-based tasks. But the model chews through about 40 percent more tokens per task than its predecessor, nearly doubling real costs despite ident",
-      "date": "2026-07-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/"
     },
     {
       "category": "industry",
@@ -594,16 +634,6 @@
       "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "The AI Compass",
@@ -682,16 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/scarfbench"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Acti puts AI agents directly into your smartphone keyboard",
-      "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
     },
     {
       "category": "industry",
@@ -1399,16 +1419,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "summary": "<p>Today we launched a new plugin for Datasette, <a href=\"https://github.com/datasette/datasette-apps\">datasette-apps</a>, with <a href=\"https://datasette.io/blog/2026/datasette-apps/\">this launch announcement post</a> on the Datasette project blog. That post has the <em>what</em",
-      "date": "2026-06-18",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything"
-    },
-    {
-      "category": "model",
       "lab": "DeepSeek",
       "title": "DeepSeek V4-Pro and V4-Flash hold the open-weight frontier",
       "summary": "DeepSeek's MIT-licensed MoE V4 models (1.6T-param Pro and 284B Flash, both 1M-token context) remain the leading open-weight challenge to closed frontier labs, with aggressive pricing ($0.87 per million output tokens) and strong agentic performance, keeping cost and openness pressure on US labs.",
@@ -1422,16 +1432,6 @@
         "China"
       ],
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-acl 0.6a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-acl/releases/tag/0.6a0\">datasette-acl 0.6a0</a></p> <blockquote> <p>This release expands <code>datasette-acl</code> from table-only permissions toward a general resource-sharing system.</p> </blockquote>",
-      "date": "2026-06-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything"
     },
     {
       "category": "model",

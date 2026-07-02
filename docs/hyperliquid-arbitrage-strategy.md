@@ -1,5 +1,11 @@
 # Hyperliquid Delta-Neutral Arbitrage Strategy Plan — $50k, 24/7 Automated Bot
 
+> **⚠️ Phase 2 revision (see `hyperliquid-phase2-research.md`):** expected gross APR
+> revised down to **~4–8%** (the 5–15% range below predates fee/rebate verification);
+> maker rebates are confirmed unreachable at $50k; for a Japan-resident operator the
+> after-tax figure is roughly **2–5%**. Phase 2 also adds a Layer 8 auto-research
+> loop specification. Architecture and failure-mode content below remains current.
+
 > **Research basis:** This plan was produced by a 103-agent deep-research pass (5 search
 > angles → 21 sources fetched → 55 claims extracted → 25 adversarially verified with
 > 3-vote panels → 21 confirmed, 4 refuted). Every load-bearing number below survived

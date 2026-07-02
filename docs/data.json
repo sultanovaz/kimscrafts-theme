@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-02T09:30:56.330Z",
+  "updated": "2026-07-02T14:27:38.325Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 163
+    "fresh": 161
   },
   "ranking": [
     {
@@ -255,9 +255,79 @@
   "items": [
     {
       "category": "industry",
+      "lab": "Anthropic",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "summary": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
+      "date": "2026-07-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business",
+      "summary": "Nvidia is increasingly acting like a central bank for AI startups, actively shaping the compute market. The article Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business appeared first on The Decoder.",
+      "date": "2026-07-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+      "summary": "The Remote Labor Index measures how often AI agents complete paid freelance projects at professional quality. In eight months, the top automation rate has more than quadrupled. The article AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent",
+      "date": "2026-07-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google brings TikTok-style video shorts to NotebookLM",
+      "summary": "Google has expanded NotebookLM to include video overviews in the short format commonly used on social media. The article Google brings TikTok-style video shorts to NotebookLM appeared first on The Decoder.",
+      "date": "2026-07-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-brings-tiktok-style-video-shorts-to-notebooklm/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI reportedly offers the Trump administration a five percent stake in the company",
+      "summary": "OpenAI is reportedly offering the Trump administration a five percent stake in the company. What the government would give in return, if anything, is still unclear. The move shows how closely the AI company wants to tie itself to Washington. The article OpenAI reportedly offers t",
+      "date": "2026-07-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Yep, we’re using OpenClaw to date now",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "date": "2026-07-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+      "summary": "Google tries balancing AI data center emissions with clean energy efforts.",
+      "date": "2026-07-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/"
+    },
+    {
+      "category": "industry",
       "lab": "Google DeepMind",
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
       "date": "2026-07-02",
       "importance": 2,
       "tags": [],
@@ -352,16 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Fable 5 is back worldwide after a two-week government ban over a jailbreak",
-      "summary": "After a two-week ban, the US government is letting Anthropic ship Fable 5 globally again. Amazon researchers had found a jailbreak, but Anthropic says even much smaller models like Claude Haiku 4.5 could pull off the same exploit. A new safety classifier blocks the technique in o",
-      "date": "2026-07-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/"
     },
     {
       "category": "industry",
@@ -494,16 +554,6 @@
       "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's new Claude Sonnet 5 closes the gap to Opus model series",
-      "summary": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and even edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618. Anthropic is also quick to point out that the model scores far below the models ",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
@@ -516,32 +566,12 @@
     {
       "category": "model",
       "lab": "Anthropic",
-      "title": "Anthropic launches Claude Science, an AI workspace built specifically for researchers",
-      "summary": "Anthropic released Claude Science, an AI workbench for researchers. More than 60 preconfigured skills cover fields like genomics and computational chemistry, and a verification agent automatically checks citations and calculations. The app runs locally or on HPC clusters, so sens",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
       "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
       "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
       "date": "2026-06-30",
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "OpenAI reportedly cut response costs for guest ChatGPT users by more than half",
-      "summary": "According to a report by The Information, OpenAI has cut inference costs for its AI models by more than half. The company applied the optimizations to ChatGPT, where the number of Nvidia GPUs needed dropped to just a few hundred at times. The article OpenAI reportedly cut respons",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/"
     },
     {
       "category": "product",
@@ -672,26 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "summary": "Users will be able use AI to create newsletters based on their recordings.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/"
     },
     {
       "category": "industry",
@@ -1472,16 +1482,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/peft-beyond-lora"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "summary": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "date": "2026-06-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/is-it-agentic-enough"
     }
   ]
 }

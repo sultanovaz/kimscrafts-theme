@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T04:06:34.955Z",
+  "updated": "2026-07-03T09:34:37.145Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO",
+      "summary": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling. The article Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO appeared first on The Decoder.",
+      "date": "2026-07-03",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "llm-coding-agent 0.1a0",
@@ -502,16 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
-      "summary": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signals outside the skull and reconstructs what a person is typing. Clinical use for paralyzed patients is still a long way o",
-      "date": "2026-07-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/"
     },
     {
       "category": "industry",

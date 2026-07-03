@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T09:34:37.145Z",
+  "updated": "2026-07-03T14:30:35.764Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 160
+    "fresh": 155
   },
   "ranking": [
     {
@@ -266,6 +266,36 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public",
+      "summary": "The hedge fund Bridgewater and Thinking Machines Lab report that a finely tuned open-weight model outperforms the most powerful AI models in the evaluation of financial documents, at a fraction of the cost. The figures come from their own analysis. The article GPT and Claude fail",
+      "date": "2026-07-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta's AI agent push is moving slower than Zuckerberg planned",
+      "summary": "Mark Zuckerberg admitted to weaknesses in the company's restructuring during an internal town hall. The AI agents Meta reorganized around are progressing slower than planned, Zuckerberg said. His AI chief, meanwhile, painted a rosier picture. The article Meta's AI agent push is m",
+      "date": "2026-07-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Tesla caps employee AI spending at $200 per week",
+      "summary": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. The article Tesla caps employee AI spending at $200 per week appeared first on The Decoder.",
+      "date": "2026-07-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "llm-coding-agent 0.1a0",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0\">llm-coding-agent 0.1a0</a></p> <p>Another Fable 5 experiment. Now that my <a href=\"https://llm.datasette.io/\">LLM library</a> has evolved into more of an agent framework it's time",
       "date": "2026-07-02",
@@ -342,16 +372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/google-brings-tiktok-style-video-shorts-to-notebooklm/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI reportedly offers the Trump administration a five percent stake in the company",
-      "summary": "OpenAI is reportedly offering the Trump administration a five percent stake in the company. What the government would give in return, if anything, is still unclear. The move shows how closely the AI company wants to tie itself to Washington. The article OpenAI reportedly offers t",
-      "date": "2026-07-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/"
     },
     {
       "category": "industry",
@@ -472,26 +492,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Meta",
-      "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers",
-      "summary": "Meta is building its own cloud business to sell spare AI compute to outside customers. With planned AI investments of up to $145 billion this year alone, the same question that came up with xAI now applies to Meta: why isn't the company putting all that capacity to work on its ow",
-      "date": "2026-07-01",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/"
-    },
-    {
-      "category": "hardware",
-      "lab": "xAI",
-      "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
-      "summary": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system. Musk wants to build an \"everything app\" modeled after WeChat. The article SpaceX shows ",
-      "date": "2026-07-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/"
     },
     {
       "category": "model",

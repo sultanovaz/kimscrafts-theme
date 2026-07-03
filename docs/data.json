@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T19:47:46.255Z",
+  "updated": "2026-07-03T22:15:21.198Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -274,6 +274,16 @@
       "url": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "Quoting Josh W. Comeau",
+      "summary": "<blockquote cite=\"https://bsky.app/profile/joshwcomeau.com/post/3mkxyqgrp2d2t\"><p>I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch.</p> <p>It’s a similar story with my two existing courses",
+      "date": "2026-07-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything"
+    },
+    {
       "category": "product",
       "lab": "Anthropic",
       "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
@@ -352,6 +362,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Open Source AI Gap Map",
+      "summary": "<p><strong><a href=\"https://map.currentai.org\">Open Source AI Gap Map</a></strong></p> <a href=\"https://www.currentai.org\">Current AI</a> is \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backe",
+      "date": "2026-07-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The only AI glossary you’ll need this year",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "date": "2026-07-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
     },
     {
       "category": "model",
@@ -712,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "OpenClaw is finally available on Android and iOS",
-      "summary": "The free open source agentic program is finally invading your phone.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/"
     },
     {
       "category": "industry",
@@ -1313,16 +1333,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
-      "summary": "<p>This morning <a href=\"https://news.ycombinator.com/item?id=48630171\">on Hacker News</a> I saw <a href=\"https://hustvl.github.io/Moebius/\">Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance</a>, describing a small but effective inpainting model - a ",
-      "date": "2026-06-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "Daybreak: Tools for securing every organization in the world",
       "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
@@ -1390,16 +1400,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/local-models-pr-triage"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
-      "summary": "<p><a href=\"https://sqlite-utils.datasette.io/en/latest/\">sqlite-utils</a> is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default <a href=\"https://docs.python.org/3/library/s",
-      "date": "2026-06-21",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything"
     },
     {
       "category": "model",

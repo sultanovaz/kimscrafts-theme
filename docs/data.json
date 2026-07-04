@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T19:35:27.272Z",
+  "updated": "2026-07-04T22:10:04.878Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -322,6 +322,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "date": "2026-07-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
     },
     {
       "category": "industry",
@@ -662,16 +672,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Google DeepMind",
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
-      "date": "2026-07-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
     },
     {
       "category": "industry",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T11:00:00.627Z",
+  "updated": "2026-07-04T13:56:19.300Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 153
+    "fresh": 152
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first",
+      "summary": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots. He describes techniques like blindspot passes and structured interviews that programmers can use to systematically uncover th",
+      "date": "2026-07-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/"
+    },
+    {
       "category": "product",
       "lab": "OpenAI",
       "title": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
@@ -372,16 +382,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta's AI agent push is moving slower than Zuckerberg planned",
-      "summary": "Mark Zuckerberg admitted to weaknesses in the company's restructuring during an internal town hall. The AI agents Meta reorganized around are progressing slower than planned, Zuckerberg said. His AI chief, meanwhile, painted a rosier picture. The article Meta's AI agent push is m",
-      "date": "2026-07-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/"
     },
     {
       "category": "model",

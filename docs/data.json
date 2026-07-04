@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T13:56:19.300Z",
+  "updated": "2026-07-04T16:15:03.912Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "date": "2026-07-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -662,16 +672,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-      "date": "2026-07-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
     },
     {
       "category": "industry",

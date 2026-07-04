@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T03:59:57.166Z",
+  "updated": "2026-07-04T08:49:48.067Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable",
+      "summary": "Anthropic is launching its own drug development program for neglected diseases that the pharmaceutical industry considers unprofitable. Novartis CEO Vas Narasimhan thinks AI could cut development time from twelve years to seven or eight and double the success rate from 8 to 16 pe",
+      "date": "2026-07-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/"
+    },
+    {
+      "category": "model",
+      "lab": "Mistral",
+      "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code",
+      "summary": "Mistral AI released Leanstral 1.5, an open-source model for formal verification in Lean 4. Beyond math, the model found five previously unknown bugs while scanning 57 open-source repositories. The article Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches",
+      "date": "2026-07-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "Security vulnerability reports have exploded since AI models started hunting for bugs",
@@ -412,26 +432,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
-      "summary": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation. Microsoft is positioning itself as a platform-neu",
-      "date": "2026-07-02",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters",
-      "summary": "Anthropic is reportedly in talks with Samsung Electronics about manufacturing a custom AI chip. The project is still early, but Anthropic has already hired chip engineers. After OpenAI's \"Jalapeño,\" yet another major AI company is pushing into chip development to cut infrastructu",
-      "date": "2026-07-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/"
     },
     {
       "category": "industry",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-04T08:49:48.067Z",
+  "updated": "2026-07-04T11:00:00.627Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 154
+    "fresh": 153
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
+      "summary": "Greg Brockman admits ChatGPT's plugins, heavily marketed in 2023, failed \"because the models weren't ready.\" Instead of app extensions, he sees the future in an invisible, context-aware agent. But OpenAI's own Codex is still light-years from that vision. The article OpenAI cofoun",
+      "date": "2026-07-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "A 26,000-student study shows AI's hidden learning cost takes two full years to surface",
+      "summary": "A study of more than 26,000 Chinese students found that AI users finished homework faster and scored higher but performed up to 24 percent worse on exams. The full impact on entrance exam results took about two years to show up, meaning short-term studies systematically underesti",
+      "date": "2026-07-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable",
@@ -282,16 +302,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO",
-      "summary": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling. The article Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO appeared first on The Decoder.",
-      "date": "2026-07-03",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/"
     },
     {
       "category": "model",
@@ -372,16 +382,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Tesla caps employee AI spending at $200 per week",
-      "summary": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. The article Tesla caps employee AI spending at $200 per week appeared first on The Decoder.",
-      "date": "2026-07-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/"
     },
     {
       "category": "model",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T04:18:52.605Z",
+  "updated": "2026-07-05T09:21:38.829Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,26 @@
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Hollywood wants Seedance banned and reportedly also wants to keep using it",
+      "summary": "Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an AI company. But behind the scenes, studios are quietly using the tool on a \"don'",
+      "date": "2026-07-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "AI",
+      "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous",
+      "summary": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous. A new benchmark called DiscoBench shows that models searching repeatedly instead of asking follow-up questions",
+      "date": "2026-07-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "sqlite-utils 4.0rc2",
@@ -396,16 +416,6 @@
     {
       "category": "model",
       "lab": "AI",
-      "title": "Security vulnerability reports have exploded since AI models started hunting for bugs",
-      "summary": "Epoch AI reports a sharp rise in security vulnerability reports. In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than 3.5 times the previous monthly record. The surge lines up with the launch of AI-powered bug-hunting programs. The articl",
-      "date": "2026-07-03",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
       "title": "Quoting Josh W. Comeau",
       "summary": "<blockquote cite=\"https://bsky.app/profile/joshwcomeau.com/post/3mkxyqgrp2d2t\"><p>I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch.</p> <p>It’s a similar story with my two existing courses",
       "date": "2026-07-03",
@@ -432,16 +442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do",
-      "summary": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by capping the compute budget. On software engineering tasks, success rates jumped about 25 percent when the token budget was in",
-      "date": "2026-07-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/"
     },
     {
       "category": "model",

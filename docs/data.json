@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T14:07:56.474Z",
+  "updated": "2026-07-05T16:17:47.142Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,26 @@
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
+      "summary": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. The first build took 40 minutes. The full source code is on GitHub. The article Claude Code and Fable 5 ported the 2003 PC",
+      "date": "2026-07-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "AI",
+      "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting",
+      "summary": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many pages the model processes. It currently holds the top spot on the most important OCR benc",
+      "date": "2026-07-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "AI private schools sell wealthy US families on personalized learning over traditional education",
@@ -372,26 +392,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable",
-      "summary": "Anthropic is launching its own drug development program for neglected diseases that the pharmaceutical industry considers unprofitable. Novartis CEO Vas Narasimhan thinks AI could cut development time from twelve years to seven or eight and double the success rate from 8 to 16 pe",
-      "date": "2026-07-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/"
-    },
-    {
-      "category": "model",
-      "lab": "Mistral",
-      "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code",
-      "summary": "Mistral AI released Leanstral 1.5, an open-source model for formal verification in Lean 4. Beyond math, the model found five previously unknown bugs while scanning 57 open-source repositories. The article Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches",
-      "date": "2026-07-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/"
     },
     {
       "category": "industry",

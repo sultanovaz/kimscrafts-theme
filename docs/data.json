@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T22:10:04.878Z",
+  "updated": "2026-07-05T04:18:52.605Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -256,6 +256,36 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "summary": "<p>I wrote about the <a href=\"https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/\">sqlite-utils 4.0rc1</a> release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable r",
+      "date": "2026-07-05",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "sqlite-utils 4.0rc2",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc2\">sqlite-utils 4.0rc2</a></p> <p>See <a href=\"https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/\">sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)</a>.</p>",
+      "date": "2026-07-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Better Models: Worse Tools",
+      "summary": "<p><strong><a href=\"https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/\">Better Models: Worse Tools</a></strong></p> Armin reports on a weird problem he ran into while hacking on Pi:</p> <blockquote> <p>The short version is that newer Claude models sometimes call Pi’s ed",
+      "date": "2026-07-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%",
       "summary": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs, exploiting the fact that Anthropic charges for images by pixel size, not text content. Developer Steven Chong reports cost savings of 59 to 70 percent, at the price of accuracy and speed. Th",
       "date": "2026-07-04",
@@ -322,6 +352,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Building a World Map with only 500 bytes",
+      "summary": "<p><strong><a href=\"https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes\">Building a World Map with only 500 bytes</a></strong></p> Iwo Kadziela (assisted by Codex) figured out a way to generate a credible ASCII world map using 445 bytes of data:</p> <p><im",
+      "date": "2026-07-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything"
     },
     {
       "category": "industry",
@@ -1170,16 +1210,6 @@
       "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Tom MacWright",
-      "summary": "<blockquote cite=\"https://macwright.com/2026/06/24/accidental-anonymity.html\"><p>In the last few months, I've started to see [job applications] that were clearly cowritten by an LLM, link to an LLM-generated portfolio site, which then links to LLM-generated GitHub projects, with ",
-      "date": "2026-06-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
@@ -1217,16 +1247,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "datasette 1.0a35",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a35\">datasette 1.0a35</a></p> <p>I'll write more about this one soon, but it's a big release. Three highlights from the release notes:</p> <blockquote> <ul> <li>New \"Create table\" interface ",
-      "date": "2026-06-23",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
@@ -1244,16 +1264,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "OPFS + Pyodide test harness",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/opfs-pyodide\">OPFS + Pyodide test harness</a></p> <p>I've been pondering if <a href=\"https://lite.datasette.io/\">Datasette Lite</a> - the Python Datasette application run entirely in the browser using Pyodide and ",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything"
     },
     {
       "category": "industry",
@@ -1320,16 +1330,6 @@
         "investment"
       ],
       "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Prompt Injection as Role Confusion",
-      "summary": "<p><strong><a href=\"https://role-confusion.github.io\">Prompt Injection as Role Confusion</a></strong></p> First, I absolutely love this:</p> <blockquote> <p>This is a blog-style writeup of the paper.</p> </blockquote> <p>I wish <em>every paper</em> would come with one of these. A",
-      "date": "2026-06-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything"
     },
     {
       "category": "model",

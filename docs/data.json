@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T16:17:47.142Z",
+  "updated": "2026-07-05T19:41:10.218Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -332,6 +332,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "date": "2026-07-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
     },
     {
       "category": "benchmark",
@@ -702,16 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
-      "date": "2026-07-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/"
     },
     {
       "category": "industry",

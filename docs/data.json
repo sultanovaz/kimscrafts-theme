@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T09:21:38.829Z",
+  "updated": "2026-07-05T14:07:56.474Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,26 @@
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI private schools sell wealthy US families on personalized learning over traditional education",
+      "summary": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School, which combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuition. The trend highlights a growing education gap in the AI era, where traditional schools",
+      "date": "2026-07-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
+      "summary": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors. The concern is valid, but Mistral can't really compete wit",
+      "date": "2026-07-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Hollywood wants Seedance banned and reportedly also wants to keep using it",
@@ -422,26 +442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
-      "summary": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilot\" will handle tasks in the background for an extra fee. The article Microsoft f",
-      "date": "2026-07-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Code's complicated China problem involves bans on both sides of the Pacific",
-      "summary": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code, but they're getting around the restrictions through VPNs and overseas subsidiaries. Alibaba, meanwhile, has banned its own employees from using the tool after hidden code w",
-      "date": "2026-07-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/"
     },
     {
       "category": "model",

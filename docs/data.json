@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T15:53:56.767Z",
+  "updated": "2026-07-06T20:13:33.938Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -265,6 +265,16 @@
     },
     {
       "category": "model",
+      "lab": "AI",
+      "title": "Tencent releases Hy3 open-source model that allegedly matches models up to five times its active size",
+      "summary": "Tencent has released Hy3, an open-source language model with 295 billion parameters built on a mixture-of-experts architecture. Only 21 billion parameters are active at any given time. Tencent says Hy3 matches models two to five times its size while cutting its hallucination rate",
+      "date": "2026-07-06",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/tencent-releases-hy3-open-source-model-that-allegedly-matches-models-up-to-five-times-its-active-size/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "sqlite-utils 4.0rc3",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc3\">sqlite-utils 4.0rc3</a></p> <p>I hoped to release <code>sqlite-utils 4.0</code> stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claud",
@@ -272,6 +282,36 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers",
+      "summary": "Cloudflare is giving all customers granular AI bot controls. Site owners can now manage Search, Training, and Agent bots separately instead of blocking them all at once. Starting September 15, 2026, Training and Agent bots will be blocked by default on ad-supported pages. The art",
+      "date": "2026-07-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost",
+      "summary": "Zhipu AI is bringing GLM-5.2 to its ZCode development environment, pitching the model's long-context capabilities for complex coding tasks. New customers get a free five-day trial with up to 5 million tokens per day, and subscribers receive about 1.5 times more token quota throug",
+      "date": "2026-07-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top",
+      "summary": "OpenAI's GPT-4 led the Epoch Capabilities Index for about a year, far longer than any model since. Since Claude 3 Opus took the top spot in February 2024, the lead has changed hands 17 times, with a median stay of just seven weeks. Competition is fiercer now, but the capability g",
+      "date": "2026-07-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/"
     },
     {
       "category": "hardware",
@@ -315,6 +355,56 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "date": "2026-07-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "date": "2026-07-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "date": "2026-07-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+      "date": "2026-07-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+      "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
+      "date": "2026-07-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/"
+    },
+    {
+      "category": "industry",
       "lab": "Microsoft",
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
       "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
@@ -332,6 +422,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/Photoroom/prx-part4-data"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "date": "2026-07-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/"
     },
     {
       "category": "industry",
@@ -392,46 +492,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI private schools sell wealthy US families on personalized learning over traditional education",
-      "summary": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School, which combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuition. The trend highlights a growing education gap in the AI era, where traditional schools",
-      "date": "2026-07-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
-      "summary": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors. The concern is valid, but Mistral can't really compete wit",
-      "date": "2026-07-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Hollywood wants Seedance banned and reportedly also wants to keep using it",
-      "summary": "Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an AI company. But behind the scenes, studios are quietly using the tool on a \"don'",
-      "date": "2026-07-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "AI",
-      "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous",
-      "summary": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous. A new benchmark called DiscoBench shows that models searching repeatedly instead of asking follow-up questions",
-      "date": "2026-07-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/"
     },
     {
       "category": "model",
@@ -694,16 +754,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Yep, we’re using OpenClaw to date now",
-      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-      "date": "2026-07-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/"
-    },
-    {
       "category": "hardware",
       "lab": "Google DeepMind",
       "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
@@ -714,26 +764,6 @@
       "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/"
     },
     {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
-      "date": "2026-07-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
-      "date": "2026-07-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
@@ -742,26 +772,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-      "date": "2026-07-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
-      "date": "2026-07-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
     },
     {
       "category": "industry",
@@ -1380,16 +1390,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/daybreak-securing-the-world"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
-      "summary": "US autoworkers union warns of robot automation as dark factory future looms.",
-      "date": "2026-06-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/"
     },
     {
       "category": "industry",

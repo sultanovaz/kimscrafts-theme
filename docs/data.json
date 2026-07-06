@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-05T22:12:23.708Z",
+  "updated": "2026-07-06T04:37:33.906Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 151
+    "fresh": 152
   },
   "ranking": [
     {
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "🤗 Kernels: Major Updates",
+      "summary": "🤗 Kernels: Major Updates",
+      "date": "2026-07-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/revamped-kernels"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -1472,16 +1482,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "date": "2026-06-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T04:37:33.906Z",
+  "updated": "2026-07-06T11:01:03.703Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 152
+    "fresh": 153
   },
   "ranking": [
     {
@@ -256,6 +256,36 @@
     {
       "category": "industry",
       "lab": "Hugging Face",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "summary": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/lerobot-release-v060"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "sqlite-utils 4.0rc3",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc3\">sqlite-utils 4.0rc3</a></p> <p>I hoped to release <code>sqlite-utils 4.0</code> stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claud",
+      "date": "2026-07-06",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed",
+      "summary": "Security firm Sysdig describes an extortion attack where a language model broke in on its own, stole credentials, and destroyed databases. No human appeared to be at the controls. The article JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at",
+      "date": "2026-07-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
       "title": "🤗 Kernels: Major Updates",
       "summary": "🤗 Kernels: Major Updates",
       "date": "2026-07-06",
@@ -402,16 +432,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "A 26,000-student study shows AI's hidden learning cost takes two full years to surface",
-      "summary": "A study of more than 26,000 Chinese students found that AI users finished homework faster and scored higher but performed up to 24 percent worse on exams. The full impact on entrance exam results took about two years to show up, meaning short-term studies systematically underesti",
-      "date": "2026-07-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/"
     },
     {
       "category": "industry",
@@ -1181,16 +1201,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "simonw/browser-compat-db",
-      "summary": "<p><strong><a href=\"https://github.com/simonw/browser-compat-db\">simonw/browser-compat-db</a></strong></p> Inspired by Mozilla's <a href=\"https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/\">new MDN MCP service</a> - <a href=\"https://github.com/mdn/mcp\">source co",
-      "date": "2026-06-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing computer use in Gemini 3.5 Flash",
       "summary": "Introducing computer use in Gemini 3.5 Flash",
@@ -1472,16 +1482,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "date": "2026-06-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
     }
   ]
 }

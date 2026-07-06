@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T11:01:03.703Z",
+  "updated": "2026-07-06T15:53:56.767Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 153
+    "fresh": 154
   },
   "ranking": [
     {
@@ -274,6 +274,36 @@
       "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything"
     },
     {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Nvidia's Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop",
+      "summary": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems, according to analyst firm SemiAnalysis. Asian suppliers lost up to double-digit percentages in market value. The more powerful Rubin Ultra varian",
+      "date": "2026-07-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "China forces its biggest AI platforms to shut down humanlike chatbot personas",
+      "summary": "ByteDance and Alibaba are shutting down the features that let users build and chat with custom AI companions, responding to new regulations from Beijing. The article China forces its biggest AI platforms to shut down humanlike chatbot personas appeared first on The Decoder.",
+      "date": "2026-07-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\"",
+      "summary": "Amazon Web Services is shutting down its crowdsourcing service Mechanical Turk to new customers starting July 30, 2026. The article Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\" appeared first on The Decoder.",
+      "date": "2026-07-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed",
@@ -282,6 +312,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/"
+    },
+    {
+      "category": "industry",
+      "lab": "Microsoft",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+      "date": "2026-07-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "PRX Part 4: Our Data Strategy",
+      "summary": "PRX Part 4: Our Data Strategy",
+      "date": "2026-07-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+      "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
+      "date": "2026-07-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+      "date": "2026-07-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/"
     },
     {
       "category": "industry",
@@ -394,16 +464,6 @@
       "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%",
-      "summary": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs, exploiting the fact that Anthropic charges for images by pixel size, not text content. Developer Steven Chong reports cost savings of 59 to 70 percent, at the price of accuracy and speed. Th",
-      "date": "2026-07-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
@@ -412,26 +472,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first",
-      "summary": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots. He describes techniques like blindspot passes and structured interviews that programmers can use to systematically uncover th",
-      "date": "2026-07-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
-      "summary": "Greg Brockman admits ChatGPT's plugins, heavily marketed in 2023, failed \"because the models weren't ready.\" Instead of app extensions, he sees the future in an invisible, context-aware agent. But OpenAI's own Codex is still light-years from that vision. The article OpenAI cofoun",
-      "date": "2026-07-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/"
     },
     {
       "category": "industry",
@@ -706,16 +746,6 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-      "date": "2026-07-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
       "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
       "date": "2026-07-01",
@@ -732,16 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-      "date": "2026-07-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/"
     },
     {
       "category": "industry",
@@ -1373,16 +1393,6 @@
     },
     {
       "category": "industry",
-      "lab": "Anthropic",
-      "title": "How Anthropic may have talked itself into an AI export ban",
-      "summary": "The company warned about dangers of advanced AI far more than rival OpenAI.",
-      "date": "2026-06-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
       "summary": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
@@ -1472,16 +1482,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
-    },
-    {
-      "category": "product",
-      "lab": "Hugging Face",
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "summary": "MosaicLeaks: Can your research agent keep a secret?",
-      "date": "2026-06-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
     }
   ]
 }

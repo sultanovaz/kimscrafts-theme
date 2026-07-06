@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T20:13:33.938Z",
+  "updated": "2026-07-06T22:36:18.901Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -387,7 +387,7 @@
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
       "date": "2026-07-06",
       "importance": 2,
       "tags": [],

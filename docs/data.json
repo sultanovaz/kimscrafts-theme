@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T15:12:37.897Z",
+  "updated": "2026-07-07T17:25:24.047Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 154
+    "fresh": 155
   },
   "ranking": [
     {
@@ -256,6 +256,26 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web",
+      "summary": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web. Until now, the feature was limited to the desktop app. The agent keeps working in the background even when the laptop is closed and pings users on their phone when it needs a decision. The move blurs the line ",
+      "date": "2026-07-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle",
+      "summary": "According to Reuters, Chinese authorities are looking into restricting foreign access to the country's most powerful AI models. Alibaba, Bytedance, and Z.ai would all be affected. The move means both superpowers now treat AI as a strategic asset. For Europe, the convenient shortc",
+      "date": "2026-07-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens",
       "summary": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new analysis tool called J-Lens. The working memory reveals that Claude recognizes contrived test scenarios before producing",
       "date": "2026-07-07",
@@ -312,6 +332,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Cowork expands to mobile and web",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Hugging Face",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "summary": "Hugging Face Models on Foundry Managed Compute",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute"
     },
     {
       "category": "industry",
@@ -402,26 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top",
-      "summary": "OpenAI's GPT-4 led the Epoch Capabilities Index for about a year, far longer than any model since. Since Claude 3 Opus took the top spot in February 2024, the lead has changed hands 17 times, with a median stay of just seven weeks. Competition is fiercer now, but the capability g",
-      "date": "2026-07-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Google DeepMind",
-      "title": "Nvidia's Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop",
-      "summary": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems, according to analyst firm SemiAnalysis. Asian suppliers lost up to double-digit percentages in market value. The more powerful Rubin Ultra varian",
-      "date": "2026-07-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/"
     },
     {
       "category": "industry",
@@ -722,16 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-      "date": "2026-07-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
     },
     {
       "category": "model",
@@ -1316,16 +1336,6 @@
       "url": "https://openai.com/index/gpt-5-immunology-mystery"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Helping build shared standards for advanced AI",
@@ -1472,16 +1482,6 @@
         "China"
       ],
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Improving health intelligence in ChatGPT",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-      "date": "2026-06-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
     }
   ]
 }

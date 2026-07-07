@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T20:13:19.762Z",
+  "updated": "2026-07-07T22:22:19.612Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 160
   },
   "ranking": [
     {
@@ -277,7 +277,7 @@
       "category": "industry",
       "lab": "Anthropic",
       "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "summary": "Open-source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life-cycle.",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
       "date": "2026-07-07",
       "importance": 3,
       "tags": [],
@@ -304,6 +304,26 @@
       "url": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "sqlite-migrate 0.2",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-migrate/releases/tag/0.2\">sqlite-migrate 0.2</a></p> <p>The version that retires the library, instead implementing a compatibility shim against the new sqlite-utils 4.0 dependency.</p> <p>Tags: <a href=\"https:",
+      "date": "2026-07-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "github-code Web Component",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/github-code-component\">github-code Web Component</a></p> <p>An experimental Web Component built using GPT-5.5 and <a href=\"https://gist.github.com/simonw/0e3db21947b5ae7e29e8a4f69a0b0617\">the following prompt</a>:",
+      "date": "2026-07-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle",
@@ -312,6 +332,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "sqlite-utils 4.0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0\">sqlite-utils 4.0</a></p> <p>See <a href=\"https://simonwillison.net/2026/Jul/7/sqlite-utils-4/\">sqlite-utils 4.0, now with database schema migrations</a> for details.</p> <p>Tags: <a hre",
+      "date": "2026-07-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything"
     },
     {
       "category": "model",
@@ -372,6 +402,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "sqlite-utils 4.0rc4",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc4\">sqlite-utils 4.0rc4</a></p> <p>The last RC before the 4.0 stable release. Mainly <a href=\"https://github.com/simonw/sqlite-utils/issues/769#issuecomment-4900034150\">implements feedba",
+      "date": "2026-07-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta rolls out Muse, a new AI image generator",
+      "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "summary": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+      "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/"
     },
     {
       "category": "hardware",
@@ -672,16 +742,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-      "date": "2026-07-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
     },
     {
       "category": "industry",
@@ -996,16 +1056,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "summary": "Inside Genebench-Pro",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/genebench-pro/case-studies"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "date": "2026-06-30",
@@ -1022,6 +1072,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-genebench-pro"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "summary": "Inside Genebench-Pro",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
       "category": "benchmark",
@@ -1136,36 +1196,6 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "Quoting OpenAI",
-      "summary": "<blockquote cite=\"https://openai.com/index/previewing-gpt-5-6-sol/\"><p>We're beginning a limited preview of the GPT‑5.6 series: Sol, our flagship model; Terra, a balanced model for everyday work; and Luna, a fast and affordable model. Terra has competitive performance to GPT‑5.5 ",
-      "date": "2026-06-26",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "What happened after 2,000 people tried to hack my AI assistant",
-      "summary": "<p><strong><a href=\"https://www.fernandoi.cl/posts/hackmyclaw/\">What happened after 2,000 people tried to hack my AI assistant</a></strong></p> Fernando Irarrázaval ran a challenge on <a href=\"https://hackmyclaw.com/\">hackmyclaw.com</a> to see if anyone could leak secrets held by",
-      "date": "2026-06-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Incident Report: CVE-2026-LGTM",
-      "summary": "<p><strong><a href=\"https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\">Incident Report: CVE-2026-LGTM</a></strong></p> Spectacular hypothetical incident report by Andrew Nesbitt.</p> <blockquote> <p><strong>Day 2, 16:00 UTC</strong> --- Two AI review agents from co",
-      "date": "2026-06-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "date": "2026-06-26",
@@ -1182,16 +1212,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Timothy B. Lee",
-      "summary": "<blockquote cite=\"https://twitter.com/binarybits/status/2070527944817053862\"><p>This is like saying there's no learning curve to being a manager because your employees will just do whatever you tell them to do.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://twitter.com",
-      "date": "2026-06-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything"
     },
     {
       "category": "industry",
@@ -1254,6 +1274,16 @@
       "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Designing Organisations That Can Keep Up With AI",
+      "summary": "Why organisational latency is becoming the biggest barrier to fully realising AI’s benefits",
+      "date": "2026-06-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai"
+    },
+    {
       "category": "research",
       "lab": "OpenAI",
       "title": "How agents are transforming work",
@@ -1298,16 +1328,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-      "summary": "The silicon race is heating up amid the struggle to keep up with demand.",
-      "date": "2026-06-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/"
     },
     {
       "category": "hardware",
@@ -1364,6 +1384,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
+      "summary": "How autonomous code improvement can be made disciplined enough for enterprise use",
+      "date": "2026-06-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows"
     },
     {
       "category": "product",
@@ -1440,42 +1470,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/patch-the-planet"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Codex-maxxing for long-running work",
-      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "date": "2026-06-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/codex-maxxing-long-running-work"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "We got local models to triage the OpenClaw repo for FREE!*",
-      "summary": "We got local models to triage the OpenClaw repo for FREE!*",
-      "date": "2026-06-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/local-models-pr-triage"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-5.6 teased as a 'meaningful leap' but slips toward July",
-      "summary": "OpenAI's chief scientist previewed GPT-5.6 as a meaningful improvement over GPT-5.5, with a reported 1.5M-token context and a redesigned alignment pipeline, but the expected late-June launch slipped, with prediction markets now favoring July. It remains the most anticipated frontier release of the quarter.",
-      "date": "2026-06-21",
-      "importance": 3,
-      "tags": [
-        "GPT-5.6",
-        "upcoming",
-        "roadmap",
-        "long-context",
-        "alignment"
-      ],
-      "url": "https://www.techtimes.com/articles/318799/20260621/gpt-56-launch-window-starts-monday-alignment-fix-15m-token-context-inside.htm"
     }
   ]
 }

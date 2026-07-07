@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T09:59:30.892Z",
+  "updated": "2026-07-07T15:12:37.897Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,14 +254,84 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens",
+      "summary": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new analysis tool called J-Lens. The working memory reveals that Claude recognizes contrived test scenarios before producing",
+      "date": "2026-07-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens",
+      "summary": "Chinese AI models are gaining ground with US companies because they cost far less than systems from OpenAI and Anthropic, CNBC reports. The article Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens appeared first on The Decoder.",
+      "date": "2026-07-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "Deepseek is designing its own AI chip",
+      "summary": "Chinese startup Deepseek is building its own AI chip, Reuters reports. The article Deepseek is designing its own AI chip appeared first on The Decoder.",
+      "date": "2026-07-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/deepseek-is-designing-its-own-ai-chip/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "OpenAI and Anthropic are giving away millions in computing power to attract startups",
+      "summary": "OpenAI, Anthropic, and major cloud providers are racing to outbid each other with free compute credits to pull startups into their ecosystems. Some individual offers top $3 million. At Y Combinator alone, OpenAI and Anthropic could hand out up to $800 million in credits per year ",
+      "date": "2026-07-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Apollo economist warns AI profit gains outside tech could take \"well beyond\" what Wall Street expects",
+      "summary": "Apollo chief economist Torsten Slok sees no AI-driven margin gains outside tech. In regulated industries like healthcare, banking, or pharma, process overhauls and privacy rules could delay productivity boosts by years. If that takes five years instead of five months, many AI sto",
+      "date": "2026-07-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100",
+      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
       "date": "2026-07-07",
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/"
     },
     {
       "category": "industry",
@@ -352,36 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "China forces its biggest AI platforms to shut down humanlike chatbot personas",
-      "summary": "ByteDance and Alibaba are shutting down the features that let users build and chat with custom AI companions, responding to new regulations from Beijing. The article China forces its biggest AI platforms to shut down humanlike chatbot personas appeared first on The Decoder.",
-      "date": "2026-07-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\"",
-      "summary": "Amazon Web Services is shutting down its crowdsourcing service Mechanical Turk to new customers starting July 30, 2026. The article Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\" appeared first on The Decoder.",
-      "date": "2026-07-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed",
-      "summary": "Security firm Sysdig describes an extortion attack where a language model broke in on its own, stole credentials, and destroyed databases. No human appeared to be at the controls. The article JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at",
-      "date": "2026-07-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/"
     },
     {
       "category": "industry",
@@ -512,26 +552,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
-      "summary": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. The first build took 40 minutes. The full source code is on GitHub. The article Claude Code and Fable 5 ported the 2003 PC",
-      "date": "2026-07-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "AI",
-      "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting",
-      "summary": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many pages the model processes. It currently holds the top spot on the most important OCR benc",
-      "date": "2026-07-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/"
     },
     {
       "category": "model",
@@ -712,16 +732,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-      "date": "2026-07-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
     },
     {
       "category": "model",
@@ -1324,16 +1334,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "How to burst the AI bubble: Strike at its roots",
-      "summary": "Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI.",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/"
     },
     {
       "category": "product",

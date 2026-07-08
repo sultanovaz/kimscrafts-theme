@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-08T16:48:37.259Z",
+  "updated": "2026-07-08T19:54:28.338Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 155
+    "fresh": 158
   },
   "ranking": [
     {
@@ -274,6 +274,36 @@
       "url": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/"
     },
     {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much",
+      "summary": "xAI releases Grok 4.5, trained on tens of thousands of Nvidia GB300 GPUs. In coding benchmarks, the model trails Fable 5 and GPT-5.5 but needs 4.2 times fewer tokens than Opus 4.8. At $2 per million input tokens, it costs a fraction of the competition. EU availability is expected",
+      "date": "2026-07-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "ChatGPT can now listen and talk at the same time, making AI conversations seem more human",
+      "summary": "OpenAI's GPT-Live can listen and speak at the same time using a full-duplex architecture. Complex questions get handed off to GPT-5.5 in the background, which drastically improves response quality. GPT-Live-1 is available now for paying ChatGPT users, with a mini version for free",
+      "date": "2026-07-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Mistral",
+      "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera",
+      "summary": "Mistral is entering the robotics market with Robostral Navigate, an 8B model that guides robots through unknown environments using only a single RGB camera. Trained in simulation and refined with reinforcement learning (CISPO), it hits 76.6 percent on the R2R-CE benchmark. Mistra",
+      "date": "2026-07-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic's fix for Fable 5's high cost is turning it into a manager that delegates to Sonnet 5",
@@ -344,9 +374,79 @@
       "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
     },
     {
-      "category": "benchmark",
+      "category": "model",
+      "lab": "xAI",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
-      "title": "Google revamps Android AI dev benchmark, adds Fable 5 and other agents",
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill ",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Data for Agents",
+      "summary": "Data for Agents",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
       "summary": "Android Bench is evolving, and developers can help guide that process.",
       "date": "2026-07-08",
       "importance": 2,
@@ -364,6 +464,16 @@
       "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill ",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/"
+    },
+    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
@@ -372,6 +482,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Helping K–12 educators build practical AI skills",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/k-12-educators-practical-skills"
     },
     {
       "category": "product",
@@ -394,6 +514,16 @@
       "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Introducing GPT-Live",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-gpt-live"
+    },
+    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Native-speed vLLM transformers modeling backend",
@@ -414,16 +544,6 @@
       "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems",
-      "summary": "Cohere has released Transcribe Arabic, an open-source model for Arabic speech recognition that the company says outperforms Whisper and OmniASR on dialects, code-switching, and bilingual Arabic-English speech. The 2-billion-parameter model is available on Hugging Face under the A",
-      "date": "2026-07-07",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/"
-    },
-    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
@@ -432,26 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
-    },
-    {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
-      "summary": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook. Tens of thousands of queries per week already run through them. AI chief Mustafa Suleyman wants to \"ultimately eliminate\" the cost of external models. For Copilo",
-      "date": "2026-07-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web",
-      "summary": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web. Until now, the feature was limited to the desktop app. The agent keeps working in the background even when the laptop is closed and pings users on their phone when it needs a decision. The move blurs the line ",
-      "date": "2026-07-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/"
     },
     {
       "category": "model",
@@ -674,56 +774,6 @@
       "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-      "date": "2026-07-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-      "date": "2026-07-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-      "date": "2026-07-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "date": "2026-07-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
-      "date": "2026-07-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
@@ -735,16 +785,6 @@
     },
     {
       "category": "industry",
-      "lab": "Microsoft",
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
-      "date": "2026-07-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "PRX Part 4: Our Data Strategy",
       "summary": "PRX Part 4: Our Data Strategy",
@@ -752,16 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/Photoroom/prx-part4-data"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "date": "2026-07-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/"
     },
     {
       "category": "industry",
@@ -1104,16 +1134,6 @@
       "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-    },
-    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "Introducing GeneBench-Pro",
@@ -1122,6 +1142,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-genebench-pro"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
     },
     {
       "category": "benchmark",
@@ -1440,36 +1470,6 @@
         "investment"
       ],
       "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "date": "2026-06-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/daybreak-securing-the-world"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "summary": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "date": "2026-06-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "date": "2026-06-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/patch-the-planet"
     }
   ]
 }

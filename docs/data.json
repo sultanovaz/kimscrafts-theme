@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-08T14:39:22.826Z",
+  "updated": "2026-07-08T16:48:37.259Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 154
+    "fresh": 155
   },
   "ranking": [
     {
@@ -274,6 +274,46 @@
       "url": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's fix for Fable 5's high cost is turning it into a manager that delegates to Sonnet 5",
+      "summary": "Anthropic recommends using the expensive Claude Fable 5 mainly as a planner for smaller models instead of running it on every task. Combined with Sonnet 5 in the \"Advisor\" pattern, this setup hits 92 percent of Fable 5's solo performance at 63 percent of the cost. The article Ant",
+      "date": "2026-07-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+      "date": "2026-07-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's Claude Fable 5 dominates new industry benchmarks at a steep premium",
+      "summary": "Anthropic's Claude Fable 5 tops all six new industry-specific performance indices from Artificial Analysis, covering finance, law, and medicine. But that lead comes at a steep cost. In the Strategy & Ops Index, a single task runs $3.48 with Fable 5, more than a hundred times what",
+      "date": "2026-07-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-claude-fable-5-dominates-new-industry-benchmarks-at-a-steep-premium/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Deepmind adds background execution and MCP support to Gemini API managed agents",
+      "summary": "Google Deepmind is adding four new features to Managed Agents in the Gemini API. Agents can now run asynchronously in the background, connect directly to remote MCP servers, use custom functions alongside sandbox tools, and refresh credentials without losing state. The article Go",
+      "date": "2026-07-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-deepmind-adds-background-execution-and-mcp-support-to-gemini-api-managed-agents/"
+    },
+    {
       "category": "industry",
       "lab": "Meta",
       "title": "Meta tests always-on AI glasses that capture your entire day",
@@ -297,11 +337,31 @@
       "category": "hardware",
       "lab": "AI",
       "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
       "date": "2026-07-08",
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Google revamps Android AI dev benchmark, adds Fable 5 and other agents",
+      "summary": "Android Bench is evolving, and developers can help guide that process.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "These AI startups are growing revenue at faster and faster rates",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/"
     },
     {
       "category": "hardware",
@@ -332,6 +392,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "summary": "Native-speed vLLM transformers modeling backend",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
     },
     {
       "category": "model",
@@ -404,16 +474,6 @@
       "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle",
-      "summary": "According to Reuters, Chinese authorities are looking into restricting foreign access to the country's most powerful AI models. Alibaba, Bytedance, and Z.ai would all be affected. The move means both superpowers now treat AI as a strategic asset. For Europe, the convenient shortc",
-      "date": "2026-07-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "sqlite-utils 4.0",
@@ -422,26 +482,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens",
-      "summary": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new analysis tool called J-Lens. The working memory reveals that Claude recognizes contrived test scenarios before producing",
-      "date": "2026-07-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens",
-      "summary": "Chinese AI models are gaining ground with US companies because they cost far less than systems from OpenAI and Anthropic, CNBC reports. The article Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens appeared first on The Decoder.",
-      "date": "2026-07-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/"
     },
     {
       "category": "industry",
@@ -735,16 +775,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
-      "date": "2026-07-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "🤗 Kernels: Major Updates",
       "summary": "🤗 Kernels: Major Updates",
@@ -772,16 +802,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
-      "date": "2026-07-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
     },
     {
       "category": "benchmark",
@@ -1274,16 +1294,6 @@
       "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/"
-    },
-    {
       "category": "research",
       "lab": "OpenAI",
       "title": "How agents are transforming work",
@@ -1460,16 +1470,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/patch-the-planet"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Codex-maxxing for long-running work",
-      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "date": "2026-06-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/codex-maxxing-long-running-work"
     }
   ]
 }

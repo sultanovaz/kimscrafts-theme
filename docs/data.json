@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-07T22:22:19.612Z",
+  "updated": "2026-07-08T03:42:18.836Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 160
+    "fresh": 156
   },
   "ranking": [
     {
@@ -416,7 +416,7 @@
     {
       "category": "model",
       "lab": "Meta",
-      "title": "Meta rolls out Muse, a new AI image generator",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
       "date": "2026-07-07",
       "importance": 2,
@@ -522,6 +522,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/australian-payments-plus"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/mufg"
     },
     {
       "category": "industry",
@@ -1274,16 +1284,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Designing Organisations That Can Keep Up With AI",
-      "summary": "Why organisational latency is becoming the biggest barrier to fully realising AI’s benefits",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai"
-    },
-    {
       "category": "research",
       "lab": "OpenAI",
       "title": "How agents are transforming work",
@@ -1386,16 +1386,6 @@
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
     },
     {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
-      "summary": "How autonomous code improvement can be made disciplined enough for enterprise use",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "How Omio is building the future of conversational travel",
@@ -1470,6 +1460,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/patch-the-planet"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Codex-maxxing for long-running work",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "date": "2026-06-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/codex-maxxing-long-running-work"
     }
   ]
 }

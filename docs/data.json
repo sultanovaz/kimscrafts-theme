@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-08T19:54:28.338Z",
+  "updated": "2026-07-08T22:16:23.639Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 158
+    "fresh": 160
   },
   "ranking": [
     {
@@ -374,6 +374,46 @@
       "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+      "summary": "AI cheating leads to \"a failed society,\" professor says.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Kenton Varda",
+      "summary": "<blockquote cite=\"https://twitter.com/kentonvarda/status/2074924213983740233\"><p>I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team.</p> <p>AI was writing change descriptions that were worse than use",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+      "summary": "More young girls sue X over Grok CSAM; X accused of shielding child predators.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/"
+    },
+    {
       "category": "model",
       "lab": "xAI",
       "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
@@ -462,6 +502,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Our approach to government and national security partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/government-national-security-partnerships"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Separating signal from noise in coding evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
     },
     {
       "category": "model",
@@ -762,16 +822,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime de",
-      "date": "2026-07-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
     },
     {
       "category": "model",
@@ -1124,16 +1174,6 @@
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "summary": "Inside Genebench-Pro",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/genebench-pro/case-studies"
-    },
-    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "Introducing GeneBench-Pro",
@@ -1142,6 +1182,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-genebench-pro"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "summary": "Inside Genebench-Pro",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
       "category": "industry",
@@ -1255,16 +1305,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Quoting Dean W. Ball",
-      "summary": "<blockquote cite=\"https://www.hyperdimensional.co/p/what-should-be-done\"><p>This is a bad state of affairs. Consider, in particular, some industry dynamics:</p> <ol> <li>Frontier models are trained at an enormous cost, and a significant fraction of that cost is recouped in the fe",
-      "date": "2026-06-26",
-      "importance": 5,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
@@ -1302,26 +1342,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/vllm-jobs"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-      "summary": "Notion is \"going all in on using agents to run your inbox.\"",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/"
-    },
-    {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-      "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/"
     },
     {
       "category": "research",
@@ -1444,32 +1464,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/huggingface-hub-release-ci"
-    },
-    {
-      "category": "product",
-      "lab": "Hugging Face",
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/cross-origin-storage"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google invests $75M in A24 for AI filmmaking tools",
-      "summary": "Google's first stake in a Hollywood studio: a multiyear ~$75M partnership embedding DeepMind researchers inside A24 productions to build filmmaker tools, starting with an AI storyboard generator rather than text-to-video.",
-      "date": "2026-06-22",
-      "importance": 3,
-      "tags": [
-        "A24",
-        "Hollywood",
-        "filmmaking",
-        "partnership",
-        "investment"
-      ],
-      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/"
     }
   ]
 }

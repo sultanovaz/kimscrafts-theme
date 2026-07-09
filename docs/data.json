@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T04:12:02.150Z",
+  "updated": "2026-07-09T09:56:11.238Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much",
+      "summary": "xAI releases Grok 4.5, trained on tens of thousands of Nvidia GB300 GPUs. In coding benchmarks, the model trails Fable 5 and GPT-5.5 but needs 4.2 times fewer tokens than Opus 4.8. At $2 per million input tokens, it costs a fraction of the competition. EU availability is expected",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Rewriting Bun in Rust",
@@ -292,16 +302,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much",
-      "summary": "xAI releases Grok 4.5, trained on tens of thousands of Nvidia GB300 GPUs. In coding benchmarks, the model trails Fable 5 and GPT-5.5 but needs 4.2 times fewer tokens than Opus 4.8. At $2 per million input tokens, it costs a fraction of the competition. EU availability is expected",
-      "date": "2026-07-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/"
     },
     {
       "category": "model",
@@ -1184,14 +1184,14 @@
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
     },
     {
-      "category": "benchmark",
+      "category": "industry",
       "lab": "OpenAI",
-      "title": "Introducing GeneBench-Pro",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "date": "2026-06-30",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/introducing-genebench-pro"
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
     },
     {
       "category": "industry",
@@ -1204,14 +1204,14 @@
       "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
-      "category": "industry",
+      "category": "benchmark",
       "lab": "OpenAI",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "title": "Introducing GeneBench-Pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "date": "2026-06-30",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+      "url": "https://openai.com/index/introducing-genebench-pro"
     },
     {
       "category": "benchmark",

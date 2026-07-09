@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T15:32:24.774Z",
+  "updated": "2026-07-09T20:02:49.813Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 152
+    "fresh": 156
   },
   "ranking": [
     {
@@ -255,6 +255,86 @@
   "items": [
     {
       "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+      "summary": "<p>OpenAI's latest flagship model <a href=\"https://openai.com/index/gpt-5-6/\">hit general availability this morning</a>, and comes in three sizes: Luna, Terra, and Sol (from smallest to largest).</p> <p>The new models are priced per 1M input/output tokens as Luna $1/$6, Terra $2.",
+      "date": "2026-07-09",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "date": "2026-07-09",
+      "importance": 4,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Introducing Muse Spark 1.1",
+      "summary": "<p><strong><a href=\"https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/\">Introducing Muse Spark 1.1</a></strong></p> Following <a href=\"https://simonwillison.net/2026/Apr/8/muse-spark/\">Muse Spark in April</a>, here's Muse Spark 1.1 - the first Spark model to offer an",
+      "date": "2026-07-09",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost",
+      "summary": "OpenAI's GPT-5.6 Sol scores 59 points on the Artificial Analysis Intelligence Index, just one point behind Claude Fable 5. At $1.04 per task, it costs a third of what Anthropic's top model charges. In agentic coding, Sol beats every competitor, adding even more pricing pressure o",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+      "summary": "OpenAI is launching ChatGPT Work, an agent-based product powered by Codex and the now publicly available GPT-5.6. The agent can independently handle complex projects across apps like Google Drive, Slack, and Salesforce. ChatGPT Work is available now on web, mobile, and desktop, t",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
+      "summary": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday. At $4.25 per million output tokens, Meta charges a fraction of what Anthropic or OpenAI ask. For pure-play AI labs burning through billions, the",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "llm-meta-ai 0.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-meta-ai/releases/tag/0.1\">llm-meta-ai 0.1</a></p> <p>Let's LLM run prompts against the new <a href=\"https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/\">muse-spark-1.1</a> model.</p> <p>Tags: <a href=",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "llm 0.31.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.31.1\">llm 0.31.1</a></p> <blockquote> <ul> <li>Fix for a bug with OpenAI Chat Completion endpoints where a tool call with empty arguments could result in a JSON error from some providers. <a href=\"",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything"
+    },
+    {
+      "category": "benchmark",
       "lab": "OpenAI",
       "title": "OpenAI finds roughly 30 percent of popular AI coding test is broken",
       "summary": "OpenAI reviewed SWE-Bench Pro, a widely used test for measuring AI models' programming skills, and found roughly 30 percent of its tasks are broken. The company is pulling its earlier endorsement of the benchmark. The article OpenAI finds roughly 30 percent of popular AI coding t",
@@ -265,6 +345,16 @@
     },
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Databricks makes Chinese open-source model GLM 5.2 its default coding engine after it matched Opus at lower cost",
       "summary": "Databricks benchmarked coding agents on its own multi-million-line codebase and found that the Chinese open-source model GLM 5.2 matched Anthropic's Opus 4.8 at $1.28 per task versus $1.94. The company plans to roll it out as a daily coding workhorse. Its broader takeaway: no sin",
@@ -272,6 +362,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/bio-bug-bounty"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/gpt-5-6"
     },
     {
       "category": "industry",
@@ -292,6 +402,86 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      "date": "2026-07-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "date": "2026-07-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+      "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
+      "date": "2026-07-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google will now disclose which ads are made with AI",
+      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "date": "2026-07-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "date": "2026-07-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
+      "date": "2026-07-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta’s new AI chips will begin production in September",
+      "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
+      "date": "2026-07-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia is a victim of the compute marketplace it created",
+      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
+      "date": "2026-07-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/"
     },
     {
       "category": "model",
@@ -344,6 +534,16 @@
       "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "date": "2026-07-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Rewriting Bun in Rust",
@@ -362,16 +562,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year",
-      "summary": "Chinese AI developer MiniMax is working on a new large language model with 2.7 trillion parameters. MiniMax plans to release the model as open source. The article Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year appeared first on The ",
-      "date": "2026-07-08",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/chinese-ai-startup-minimax-plans-to-open-source-a-2-7-trillion-parameter-model-later-this-year/"
     },
     {
       "category": "model",
@@ -402,46 +592,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
-      "date": "2026-07-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Claude Fable 5 dominates new industry benchmarks at a steep premium",
-      "summary": "Anthropic's Claude Fable 5 tops all six new industry-specific performance indices from Artificial Analysis, covering finance, law, and medicine. But that lead comes at a steep cost. In the Strategy & Ops Index, a single task runs $3.48 with Fable 5, more than a hundred times what",
-      "date": "2026-07-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-claude-fable-5-dominates-new-industry-benchmarks-at-a-steep-premium/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google Deepmind adds background execution and MCP support to Gemini API managed agents",
-      "summary": "Google Deepmind is adding four new features to Managed Agents in the Gemini API. Agents can now run asynchronously in the background, connect directly to remote MCP servers, use custom functions alongside sandbox tools, and refresh credentials without losing state. The article Go",
-      "date": "2026-07-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-deepmind-adds-background-execution-and-mcp-support-to-gemini-api-managed-agents/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-      "date": "2026-07-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
     },
     {
       "category": "industry",
@@ -554,16 +704,6 @@
       "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
@@ -572,16 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "These AI startups are growing revenue at faster and faster rates",
-      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/"
     },
     {
       "category": "industry",
@@ -604,26 +734,6 @@
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill ",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Helping K–12 educators build practical AI skills",
@@ -632,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/k-12-educators-practical-skills"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/"
     },
     {
       "category": "industry",
@@ -714,16 +814,6 @@
       "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -776,22 +866,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/australian-payments-plus"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "MUFG aims to become AI-native with OpenAI",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "date": "2026-07-07",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/mufg"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/australian-payments-plus"
     },
     {
       "category": "industry",
@@ -815,6 +905,16 @@
     },
     {
       "category": "model",
+      "lab": "AI",
+      "title": "tencent/Hy3",
+      "summary": "<p><strong><a href=\"https://huggingface.co/tencent/Hy3\">tencent/Hy3</a></strong></p> New Apache 2.0 licensed model from Tencent in China:</p> <blockquote> <p>Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed",
+      "date": "2026-07-06",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "sqlite-utils 4.0rc3",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc3\">sqlite-utils 4.0rc3</a></p> <p>I hoped to release <code>sqlite-utils 4.0</code> stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claud",
@@ -822,16 +922,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "tencent/Hy3",
-      "summary": "<p><strong><a href=\"https://huggingface.co/tencent/Hy3\">tencent/Hy3</a></strong></p> New Apache 2.0 licensed model from Tencent in China:</p> <blockquote> <p>Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed",
-      "date": "2026-07-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything"
     },
     {
       "category": "model",
@@ -1065,16 +1155,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "shot-scraper 1.10",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.10\">shot-scraper 1.10</a></p> <p>The big new feature is <code>shot-scraper video storyboard.yml</code>, described in detail in <a href=\"https://simonwillison.net/2026/Jun/30/shot-scraper-v",
-      "date": "2026-06-30",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "What's new in Claude Sonnet 5",
       "summary": "<p><strong><a href=\"https://platform.claude.com/docs/en/about-claude/models/whats-new-sonnet-5\">What&#x27;s new in Claude Sonnet 5</a></strong></p> Claude Sonnet 5 came out <a href=\"https://www.anthropic.com/news/claude-sonnet-5\">this morning</a>. I always head straight for the \"",
@@ -1184,6 +1264,16 @@
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
     },
     {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Introducing GeneBench-Pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-genebench-pro"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
@@ -1205,16 +1295,6 @@
     },
     {
       "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Introducing GeneBench-Pro",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-genebench-pro"
-    },
-    {
-      "category": "benchmark",
       "lab": "Hugging Face",
       "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
       "summary": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
@@ -1222,26 +1302,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/eee-community-evals"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Google DeepMind",
-      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-      "summary": "<p><strong><a href=\"https://deep-reinforce.com/ornith_1_0.html\">Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</a></strong></p> This is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce.</p> <blockquote> <p>[...] with variants ",
-      "date": "2026-06-29",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "HTML table extractor",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/html-table-extractor\">HTML table extractor</a></p> <p>Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every ",
-      "date": "2026-06-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything"
     },
     {
       "category": "hardware",
@@ -1252,16 +1312,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Count the number of Safari tabs",
-      "summary": "<p>Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari:</p> <pre><code>osascript -e 'tell application \"Safari\" to count tabs of every window' </code></pre> <p><img alt=\"I ran it in a terminal window and got back 370.\" src=\"https://static.simonwilliso",
-      "date": "2026-06-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything"
     },
     {
       "category": "industry",
@@ -1312,16 +1362,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
-      "date": "2026-06-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/"
     },
     {
       "category": "industry",
@@ -1424,46 +1464,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-immunology-mystery"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Helping build shared standards for advanced AI",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "How Omio is building the future of conversational travel",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/omio"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "summary": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci"
-    },
-    {
-      "category": "product",
-      "lab": "Hugging Face",
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/cross-origin-storage"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-08T22:16:23.639Z",
+  "updated": "2026-07-09T04:12:02.150Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 160
+    "fresh": 158
   },
   "ranking": [
     {
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Rewriting Bun in Rust",
+      "summary": "<p><strong><a href=\"https://bun.com/blog/bun-in-rust\">Rewriting Bun in Rust</a></strong></p> Jarred Sumner has been promising this blog post (<a href=\"https://x.com/jarredsumner/status/2053063524826620129\">since May 9th</a>) about his Zig to Rust rewrite of Bun for significantly ",
+      "date": "2026-07-08",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Introducing GPT‑Live",
+      "summary": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-live/\">Introducing GPT‑Live</a></strong></p> OpenAI <em>finally</em> upgraded the model used by ChatGPT voice mode!</p> <p>I've had preview access for a few weeks in the iPhone app, and the new model is very impressive.",
+      "date": "2026-07-08",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year",
       "summary": "Chinese AI developer MiniMax is working on a new large language model with 2.7 trillion parameters. MiniMax plans to release the model as open source. The article Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year appeared first on The ",
@@ -372,6 +392,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/"
     },
     {
       "category": "industry",
@@ -574,16 +604,6 @@
       "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Introducing GPT-Live",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-live"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Native-speed vLLM transformers modeling backend",
@@ -642,16 +662,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
-      "date": "2026-07-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
     },
     {
       "category": "model",
@@ -1284,26 +1294,6 @@
       "url": "https://openai.com/index/hp-frontier-partnership"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Jon Udell",
-      "summary": "<blockquote cite=\"https://blog.jonudell.net/2026/06/28/doctor-it-hurts-when-agents-create-unreviewable-prs-dont-do-that/\"><p><strong><del>Human</del> Agent in the loop</strong></p> <p>I dislike the phrase “human in the loop” because it cedes authority to the machines. Let’s flip ",
-      "date": "2026-06-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Hack Your Summer",
-      "summary": "<p><strong><a href=\"https://www.hackyoursummer.org/\">Hack Your Summer</a></strong></p> I learned about this initiative from DJ Patil this morning:</p> <blockquote> <p>It’s a 4-week, high-velocity production sprint for undergraduate students, graduate students, and recent graduate",
-      "date": "2026-06-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
@@ -1464,6 +1454,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/huggingface-hub-release-ci"
+    },
+    {
+      "category": "product",
+      "lab": "Hugging Face",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "date": "2026-06-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/cross-origin-storage"
     }
   ]
 }

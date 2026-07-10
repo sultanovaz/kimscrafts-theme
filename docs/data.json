@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-10T19:49:53.696Z",
+  "updated": "2026-07-10T22:14:40.947Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 154
+    "fresh": 153
   },
   "ranking": [
     {
@@ -322,6 +322,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "date": "2026-07-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
     },
     {
       "category": "industry",
@@ -692,16 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/"
     },
     {
       "category": "industry",

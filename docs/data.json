@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-09T22:42:19.902Z",
+  "updated": "2026-07-10T04:12:31.532Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 146
+    "fresh": 145
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Quoting OpenAI",
+      "summary": "<blockquote cite=\"https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex\"><p>[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in d",
+      "date": "2026-07-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "date": "2026-07-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
+    },
+    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "The new GPT-5.6 family: Luna, Terra, Sol",
@@ -287,7 +307,7 @@
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI launches its new family of models with GPT-5.6",
-      "summary": "OpenAI's latest family of models promise improvements across a range of areas, including cybersecurity.",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
       "date": "2026-07-09",
       "importance": 3,
       "tags": [],
@@ -365,8 +385,18 @@
     },
     {
       "category": "industry",
+      "lab": "Anthropic",
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "date": "2026-07-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
-      "title": "An AI agent startup just let its agent run its $100 million fundraise",
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
       "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
       "date": "2026-07-09",
       "importance": 2,
@@ -566,32 +596,12 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-      "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
       "summary": "AI cheating leads to \"a failed society,\" professor says.",
       "date": "2026-07-08",
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/"
     },
     {
       "category": "industry",
@@ -1062,16 +1072,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Have your agent record video demos of its work with shot-scraper video",
-      "summary": "<p><a href=\"https://shot-scraper.datasette.io/en/stable/video.html\">shot-scraper video</a> is a new command introduced in today's <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.10\">shot-scraper 1.10</a> release which accepts a <code>storyboard.yml</code> file defi",
-      "date": "2026-06-30",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything"
     },
     {
       "category": "model",

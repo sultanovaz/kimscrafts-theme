@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T17:06:22.916Z",
+  "updated": "2026-07-10T19:49:53.696Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -274,6 +274,26 @@
       "url": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/"
     },
     {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
+      "summary": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5. OpenAI believes the \"automated r",
+      "date": "2026-07-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity",
+      "summary": "GPT-5.6 Sol ships with five reasoning levels from \"Light\" to \"xhigh,\" plus \"Max\" and \"Ultra\" modes that deploy multiple sub-agents in parallel. OpenAI's Vaibhav Srivastav recommends starting low and only scaling up when needed. The article OpenAI staffer maps out which of GPT-5.6",
+      "date": "2026-07-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation",
@@ -305,13 +325,53 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the sa",
+      "date": "2026-07-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "date": "2026-07-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Quoting Nilay Patel",
+      "summary": "<blockquote cite=\"https://youtu.be/v4vkwUf4AMw?t=2427\"><p>The reality is to make augmented reality glasses, you need to put a camera next to your eyes that is continuously recording everything you see and processing that to put information over it.</p> <p>There is not another way",
+      "date": "2026-07-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything"
+    },
+    {
+      "category": "industry",
       "lab": "Meta",
-      "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
       "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
       "date": "2026-07-10",
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the sa",
+      "date": "2026-07-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/"
     },
     {
       "category": "industry",
@@ -475,16 +535,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Databricks makes Chinese open-source model GLM 5.2 its default coding engine after it matched Opus at lower cost",
-      "summary": "Databricks benchmarked coding agents on its own multi-million-line codebase and found that the Chinese open-source model GLM 5.2 matched Anthropic's Opus 4.8 at $1.28 per task versus $1.94. The company plans to roll it out as a daily coding workhorse. Its broader takeaway: no sin",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
@@ -502,16 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/bio-bug-bounty"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI's AI beats every human at AtCoder, a top competitive programming contest",
-      "summary": "At the AtCoder World Tour Finals 2026, an OpenAI system crushed all human competitors in an exhibition match, solving all five problems in the Algorithm Division. Two of those problems were rated exceptionally difficult by observers. The article OpenAI's AI beats every human at A",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/"
     },
     {
       "category": "industry",
@@ -662,36 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "AI",
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-      "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/"
     },
     {
       "category": "industry",
@@ -1212,16 +1222,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "The AI Compass",
-      "summary": "<p><strong><a href=\"https://bambamramfan.github.io/ai-compass/\">The AI Compass</a></strong></p> This political compass style quiz <a href=\"https://bambamramfan.tumblr.com/post/820505178072580096/the-ai-compass\">by bambamramfan</a> is pretty neat - answer 29 questions about AI and",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything"
     },
     {
       "category": "model",

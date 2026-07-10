@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-10T04:12:31.532Z",
+  "updated": "2026-07-10T09:51:32.975Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 145
+    "fresh": 157
   },
   "ranking": [
     {
@@ -264,6 +264,16 @@
       "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "date": "2026-07-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/deutsche-telekom"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
@@ -272,6 +282,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "summary": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "date": "2026-07-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/torch-attention-profile"
     },
     {
       "category": "benchmark",
@@ -335,6 +355,36 @@
     },
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost",
+      "summary": "OpenAI's GPT-5.6 Sol scores 59 points on the Artificial Analysis Intelligence Index, just one point behind Claude Fable 5. At $1.04 per task, it costs a third of what Anthropic's top model charges. In agentic coding, Sol beats every competitor, adding even more pricing pressure o",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
+      "summary": "OpenAI is launching ChatGPT Work, an agent-based product powered by Codex and the now publicly available GPT-5.6. The agent can independently handle complex projects across apps like Google Drive, Slack, and Salesforce. ChatGPT Work is available now on web, mobile, and desktop, t",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
+      "summary": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday. At $4.25 per million output tokens, Meta charges a fraction of what Anthropic or OpenAI ask. For pure-play AI labs burning through billions, the",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/"
+    },
+    {
+      "category": "model",
       "lab": "Meta",
       "title": "llm-meta-ai 0.1",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-meta-ai/releases/tag/0.1\">llm-meta-ai 0.1</a></p> <p>Let's LLM run prompts against the new <a href=\"https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/\">muse-spark-1.1</a> model.</p> <p>Tags: <a href=",
@@ -354,6 +404,16 @@
       "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything"
     },
     {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "OpenAI finds roughly 30 percent of popular AI coding test is broken",
+      "summary": "OpenAI reviewed SWE-Bench Pro, a widely used test for measuring AI models' programming skills, and found roughly 30 percent of its tasks are broken. The company is pulling its earlier endorsement of the benchmark. The article OpenAI finds roughly 30 percent of popular AI coding t",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
@@ -362,6 +422,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Databricks makes Chinese open-source model GLM 5.2 its default coding engine after it matched Opus at lower cost",
+      "summary": "Databricks benchmarked coding agents on its own multi-million-line codebase and found that the Chinese open-source model GLM 5.2 matched Anthropic's Opus 4.8 at $1.28 per task versus $1.94. The company plans to roll it out as a daily coding workhorse. Its broader takeaway: no sin",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/gpt-5-6"
     },
     {
       "category": "model",
@@ -374,14 +454,24 @@
       "url": "https://openai.com/index/bio-bug-bounty"
     },
     {
-      "category": "model",
+      "category": "industry",
       "lab": "OpenAI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "title": "OpenAI's AI beats every human at AtCoder, a top competitive programming contest",
+      "summary": "At the AtCoder World Tour Finals 2026, an OpenAI system crushed all human competitors in an exhibition match, solving all five problems in the Algorithm Division. Two of those problems were rated exceptionally difficult by observers. The article OpenAI's AI beats every human at A",
       "date": "2026-07-09",
       "importance": 3,
       "tags": [],
-      "url": "https://openai.com/index/gpt-5-6"
+      "url": "https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much",
+      "summary": "xAI releases Grok 4.5, trained on tens of thousands of Nvidia GB300 GPUs. In coding benchmarks, the model trails Fable 5 and GPT-5.5 but needs 4.2 times fewer tokens than Opus 4.8. At $2 per million input tokens, it costs a fraction of the competition. EU availability is expected",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/"
     },
     {
       "category": "industry",
@@ -592,6 +682,36 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "ChatGPT can now listen and talk at the same time, making AI conversations seem more human",
+      "summary": "OpenAI's GPT-Live can listen and speak at the same time using a full-duplex architecture. Complex questions get handed off to GPT-5.5 in the background, which drastically improves response quality. GPT-Live-1 is available now for paying ChatGPT users, with a mini version for free",
+      "date": "2026-07-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Mistral",
+      "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera",
+      "summary": "Mistral is entering the robotics market with Robostral Navigate, an 8B model that guides robots through unknown environments using only a single RGB camera. Trained in simulation and refined with reinforcement learning (CISPO), it hits 76.6 percent on the R2R-CE benchmark. Mistra",
+      "date": "2026-07-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's fix for Fable 5's high cost is turning it into a manager that delegates to Sonnet 5",
+      "summary": "Anthropic recommends using the expensive Claude Fable 5 mainly as a planner for smaller models instead of running it on every task. Combined with Sonnet 5 in the \"Advisor\" pattern, this setup hits 92 percent of Fable 5's solo performance at 63 percent of the cost. The article Ant",
+      "date": "2026-07-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/"
     },
     {
       "category": "industry",
@@ -1184,16 +1304,6 @@
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
     },
     {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Introducing GeneBench-Pro",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-genebench-pro"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
@@ -1202,6 +1312,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Introducing GeneBench-Pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-genebench-pro"
     },
     {
       "category": "industry",
@@ -1338,138 +1458,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ffasr-leaderboard"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "DeepMind talent exodus: Shazeer to OpenAI, Jumper to Anthropic",
-      "summary": "In one week, Transformer co-author Noam Shazeer left for OpenAI and AlphaFold Nobel laureate John Jumper left for Anthropic — the most high-profile defections of 2026's talent war, reportedly wiping roughly $250B off Alphabet's market value.",
-      "date": "2026-06-23",
-      "importance": 5,
-      "tags": [
-        "talent-war",
-        "personnel",
-        "DeepMind",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "url": "https://fortune.com/2026/06/23/google-deepmind-ai-researcher-departures-raise-doubts-about-ability-to-win-the-ai-race-shazeer-jumper-eye-on-ai/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "date": "2026-06-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-5-immunology-mystery"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Helping build shared standards for advanced AI",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "How Omio is building the future of conversational travel",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/omio"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "summary": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci"
-    },
-    {
-      "category": "product",
-      "lab": "Hugging Face",
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "date": "2026-06-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/cross-origin-storage"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google invests $75M in A24 for AI filmmaking tools",
-      "summary": "Google's first stake in a Hollywood studio: a multiyear ~$75M partnership embedding DeepMind researchers inside A24 productions to build filmmaker tools, starting with an AI storyboard generator rather than text-to-video.",
-      "date": "2026-06-22",
-      "importance": 3,
-      "tags": [
-        "A24",
-        "Hollywood",
-        "filmmaking",
-        "partnership",
-        "investment"
-      ],
-      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "date": "2026-06-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/daybreak-securing-the-world"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "summary": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "date": "2026-06-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "date": "2026-06-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/patch-the-planet"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Codex-maxxing for long-running work",
-      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "date": "2026-06-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/codex-maxxing-long-running-work"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "We got local models to triage the OpenClaw repo for FREE!*",
-      "summary": "We got local models to triage the OpenClaw repo for FREE!*",
-      "date": "2026-06-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/local-models-pr-triage"
     }
   ]
 }

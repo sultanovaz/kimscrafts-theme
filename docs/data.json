@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-10T09:51:32.975Z",
+  "updated": "2026-07-10T14:50:14.039Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 155
   },
   "ranking": [
     {
@@ -256,6 +256,36 @@
     {
       "category": "model",
       "lab": "OpenAI",
+      "title": "OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT",
+      "summary": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGPT directly in Chrome's sidebar. Atlas joins a growing list of scrapped OpenAI products. The article OpenAI k",
+      "date": "2026-07-10",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation",
+      "summary": "Fed Chair Kevin Warsh has appointed venture capitalist Marc Andreessen to advise the Federal Reserve on AI's economic impact. Warsh views AI as a \"significant disinflationary force,\" but Andreessen's firm Andreessen Horowitz is heavily invested in AI companies, raising conflict-o",
+      "date": "2026-07-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days",
+      "summary": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work. The article Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days appeared first on The Decoder.",
+      "date": "2026-07-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
       "title": "Quoting OpenAI",
       "summary": "<blockquote cite=\"https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex\"><p>[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in d",
       "date": "2026-07-10",
@@ -476,7 +506,7 @@
     {
       "category": "industry",
       "lab": "Anthropic",
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
       "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
       "date": "2026-07-09",
       "importance": 2,
@@ -682,36 +712,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "ChatGPT can now listen and talk at the same time, making AI conversations seem more human",
-      "summary": "OpenAI's GPT-Live can listen and speak at the same time using a full-duplex architecture. Complex questions get handed off to GPT-5.5 in the background, which drastically improves response quality. GPT-Live-1 is available now for paying ChatGPT users, with a mini version for free",
-      "date": "2026-07-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Mistral",
-      "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera",
-      "summary": "Mistral is entering the robotics market with Robostral Navigate, an 8B model that guides robots through unknown environments using only a single RGB camera. Trained in simulation and refined with reinforcement learning (CISPO), it hits 76.6 percent on the R2R-CE benchmark. Mistra",
-      "date": "2026-07-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/mistral-enters-robotics-with-robostral-navigate-an-8b-model-that-steers-robots-using-just-one-camera/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's fix for Fable 5's high cost is turning it into a manager that delegates to Sonnet 5",
-      "summary": "Anthropic recommends using the expensive Claude Fable 5 mainly as a planner for smaller models instead of running it on every task. Combined with Sonnet 5 in the \"Advisor\" pattern, this setup hits 92 percent of Fable 5's solo performance at 63 percent of the cost. The article Ant",
-      "date": "2026-07-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-fix-for-fable-5s-high-cost-is-turning-it-into-a-manager-that-delegates-to-sonnet-5/"
     },
     {
       "category": "industry",

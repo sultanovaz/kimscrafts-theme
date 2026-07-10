@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-10T14:50:14.039Z",
+  "updated": "2026-07-10T17:06:22.916Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 155
+    "fresh": 154
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "Meta",
+      "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal",
+      "summary": "Tencent is in talks to buy a majority stake in AI agent startup Manus at the same $2 billion valuation, according to the Financial Times, after Beijing blocked Meta's acquisition. Tencent sees overlap with its own agent plans, including for WeChat. U.S. firm Benchmark is not expe",
+      "date": "2026-07-10",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT",
@@ -292,6 +302,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+      "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
+      "date": "2026-07-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/"
     },
     {
       "category": "industry",
@@ -492,16 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much",
-      "summary": "xAI releases Grok 4.5, trained on tens of thousands of Nvidia GB300 GPUs. In coding benchmarks, the model trails Fable 5 and GPT-5.5 but needs 4.2 times fewer tokens than Opus 4.8. At $2 per million input tokens, it costs a fraction of the competition. EU availability is expected",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/"
     },
     {
       "category": "industry",
@@ -1272,16 +1282,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Trump asked Musk for SpaceX stock to seed US kids’ savings accounts, report says",
-      "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/"
     },
     {
       "category": "industry",

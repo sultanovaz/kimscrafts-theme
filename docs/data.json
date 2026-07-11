@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T16:09:12.744Z",
+  "updated": "2026-07-11T19:30:36.707Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -265,6 +265,26 @@
     },
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
+      "summary": "OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years. Mathematician Thomas Bloom calls the proof surprisingly elementary but criticizes the lack",
+      "date": "2026-07-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+      "summary": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023. Given that the study found safe",
+      "date": "2026-07-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
       "summary": "The Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels. Trained on 125,000 hours of video without a single action label, Orca matches the specialized π0.5 on five robotics tasks and could hel",
@@ -342,26 +362,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation",
-      "summary": "Fed Chair Kevin Warsh has appointed venture capitalist Marc Andreessen to advise the Federal Reserve on AI's economic impact. Warsh views AI as a \"significant disinflationary force,\" but Andreessen's firm Andreessen Horowitz is heavily invested in AI companies, raising conflict-o",
-      "date": "2026-07-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days",
-      "summary": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work. The article Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days appeared first on The Decoder.",
-      "date": "2026-07-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/"
     },
     {
       "category": "model",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T13:51:36.401Z",
+  "updated": "2026-07-11T16:09:12.744Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -292,6 +292,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "date": "2026-07-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
     },
     {
       "category": "benchmark",
@@ -692,16 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/"
     },
     {
       "category": "industry",

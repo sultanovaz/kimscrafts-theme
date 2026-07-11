@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T03:40:12.063Z",
+  "updated": "2026-07-11T08:13:36.566Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
+      "summary": "Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop interface for chats and projects, an unclear distinction between Codex and ChatGPT Work, and regressions in existing wo",
+      "date": "2026-07-11",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees",
+      "summary": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at OpenAI, including former iPhone design chief Tang Tan. The lawsuit hits OpenAI righ",
+      "date": "2026-07-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/"
+    },
+    {
       "category": "benchmark",
       "lab": "Meta",
       "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal",
@@ -505,16 +525,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
-      "summary": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday. At $4.25 per million output tokens, Meta charges a fraction of what Anthropic or OpenAI ask. For pure-play AI labs burning through billions, the",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/"
-    },
-    {
-      "category": "model",
       "lab": "Meta",
       "title": "llm-meta-ai 0.1",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-meta-ai/releases/tag/0.1\">llm-meta-ai 0.1</a></p> <p>Let's LLM run prompts against the new <a href=\"https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/\">muse-spark-1.1</a> model.</p> <p>Tags: <a href=",
@@ -532,16 +542,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "OpenAI finds roughly 30 percent of popular AI coding test is broken",
-      "summary": "OpenAI reviewed SWE-Bench Pro, a widely used test for measuring AI models' programming skills, and found roughly 30 percent of its tasks are broken. The company is pulling its earlier endorsement of the benchmark. The article OpenAI finds roughly 30 percent of popular AI coding t",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/"
     },
     {
       "category": "model",

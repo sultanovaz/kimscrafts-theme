@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T19:29:21.593Z",
+  "updated": "2026-07-12T22:06:12.171Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -262,6 +262,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Fable gets another bump",
+      "summary": "<p>One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again, <a href=\"https://x.com/claudeai/status/2076351399999557669\">bumped the date</a> that Fable stops being available in their Claude Max plans:</p> <blockquote> <p>W",
+      "date": "2026-07-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything"
     },
     {
       "category": "model",
@@ -1212,16 +1222,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Nano Banana 2 Lite",
-      "summary": "<p><strong><a href=\"https://deepmind.google/models/gemini-image/flash-lite/\">Nano Banana 2 Lite</a></strong></p> Also known as Gemini 3.1 Flash Lite Image (<code>gemini-3.1-flash-lite-image</code> <a href=\"https://ai.google.dev/gemini-api/docs/image-generation\">in their API</a>),",
-      "date": "2026-06-30",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything"
     },
     {
       "category": "model",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T10:41:54.917Z",
+  "updated": "2026-07-12T13:54:18.025Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "S&P Global sees OpenAI as a \"key credit risk\" for Oracle and cuts its credit rating",
+      "summary": "S&P Global has downgraded Oracle's credit rating to \"BBB-,\" one notch above junk status. OpenAI accounts for roughly half of Oracle's $638 billion in contractual obligations. If OpenAI walked away, Oracle would be stuck with massive data center capacity it couldn't fill. The arti",
+      "date": "2026-07-12",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent",
+      "summary": "Meta pulled a controversial feature from its new Muse Image model after widespread criticism. The feature let users generate AI images of other people by @-mentioning their public Instagram accounts. No consent needed, just a username. Meta admits \"this feature missed the mark\" a",
+      "date": "2026-07-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-kills-muse-image-feature-that-let-anyone-generate-ai-photos-of-instagram-users-without-consent/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says",
@@ -306,16 +326,6 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
-      "summary": "Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop interface for chats and projects, an unclear distinction between Codex and ChatGPT Work, and regressions in existing wo",
-      "date": "2026-07-11",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
       "summary": "OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years. Mathematician Thomas Bloom calls the proof surprisingly elementary but criticizes the lack",
       "date": "2026-07-11",
@@ -352,16 +362,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees",
-      "summary": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at OpenAI, including former iPhone design chief Tang Tan. The lawsuit hits OpenAI righ",
-      "date": "2026-07-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/"
     },
     {
       "category": "product",

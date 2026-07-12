@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T13:54:18.025Z",
+  "updated": "2026-07-12T16:10:04.916Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -265,6 +265,16 @@
     },
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
+      "summary": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers, and purchases or account creations need user approval. The article Claude Code",
+      "date": "2026-07-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/"
+    },
+    {
+      "category": "model",
       "lab": "Meta",
       "title": "Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent",
       "summary": "Meta pulled a controversial feature from its new Muse Image model after widespread criticism. The feature let users generate AI images of other people by @-mentioning their public Instagram accounts. No consent needed, just a username. Meta admits \"this feature missed the mark\" a",
@@ -352,16 +362,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less",
-      "summary": "Meta's Muse Spark 1.1 scored 51 on the Artificial Analysis Intelligence Index, up eight points in three months. In coding, it edges past GLM-5.2 with a score of 71.3 at a lower cost of $0.26 per task. The hallucination rate dropped from 73 to 38 percent. The article Meta's Muse S",
-      "date": "2026-07-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/"
     },
     {
       "category": "product",

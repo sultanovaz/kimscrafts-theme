@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-11T22:05:59.924Z",
+  "updated": "2026-07-12T03:54:33.603Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 148
+    "fresh": 147
   },
   "ranking": [
     {
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "sqlite-utils 4.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.1\">sqlite-utils 4.1</a></p> <p>The first dot-release since <a href=\"https://simonwillison.net/2026/Jul/7/sqlite-utils-4/\">4.0 a few days ago</a>, introducing a number of minor new features",
+      "date": "2026-07-11",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything"
+    },
     {
       "category": "model",
       "lab": "OpenAI",
@@ -1212,16 +1222,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "What's new in Claude Sonnet 5",
-      "summary": "<p><strong><a href=\"https://platform.claude.com/docs/en/about-claude/models/whats-new-sonnet-5\">What&#x27;s new in Claude Sonnet 5</a></strong></p> Claude Sonnet 5 came out <a href=\"https://www.anthropic.com/news/claude-sonnet-5\">this morning</a>. I always head straight for the \"",
-      "date": "2026-06-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything"
     },
     {
       "category": "model",

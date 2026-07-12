@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T16:10:04.916Z",
+  "updated": "2026-07-12T19:29:21.593Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -265,6 +265,16 @@
     },
     {
       "category": "model",
+      "lab": "AI",
+      "title": "LinkedIn is the undisputed king of long-form AI slop, according to a study spanning five platforms",
+      "summary": "One in four longer social media posts is entirely AI-generated, according to a Pangram analysis. LinkedIn leads with 41 percent of long-form posts flagged as AI-written. The platform made up only a third of all posts scanned but accounted for nearly two-thirds of all detected AI ",
+      "date": "2026-07-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
       "summary": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers, and purchases or account creations need user approval. The article Claude Code",
@@ -352,16 +362,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
-      "summary": "The Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels. Trained on 125,000 hours of video without a single action label, Orca matches the specialized π0.5 on five robotics tasks and could hel",
-      "date": "2026-07-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/"
     },
     {
       "category": "product",

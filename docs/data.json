@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T03:54:33.603Z",
+  "updated": "2026-07-12T08:30:33.062Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Grades dropped from 96 to 48 percent when a Brown professor made students take the exam without AI",
+      "summary": "An economics professor at Brown University suspects most of his 86 students used AI to cheat on a take-home exam that averaged 96 percent. When he made the final an in-person test, 18 students dropped the course, nine didn't show up, and the average fell to 48.6 percent. Two larg",
+      "date": "2026-07-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/grades-dropped-from-96-to-48-percent-when-a-brown-professor-made-students-take-the-exam-without-ai/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory",
+      "summary": "The AgenticSTS project replaces the ever-growing chat log of AI agents with five separate memory layers. Tested on the card game Slay the Spire 2, the prompt stays at around 5,000 tokens instead of ballooning past 500,000. The agent wins 6 out of 10 games, while competing agents ",
+      "date": "2026-07-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "sqlite-utils 4.1",
@@ -332,26 +352,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Meta",
-      "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal",
-      "summary": "Tencent is in talks to buy a majority stake in AI agent startup Manus at the same $2 billion valuation, according to the Financial Times, after Beijing blocked Meta's acquisition. Tencent sees overlap with its own agent plans, including for WeChat. U.S. firm Benchmark is not expe",
-      "date": "2026-07-10",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT",
-      "summary": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGPT directly in Chrome's sidebar. Atlas joins a growing list of scrapped OpenAI products. The article OpenAI k",
-      "date": "2026-07-10",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/"
     },
     {
       "category": "benchmark",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T19:46:53.521Z",
+  "updated": "2026-07-13T22:08:11.311Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,16 @@
       "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "datasette code-frequency chart on GitHub",
+      "summary": "<p><strong><a href=\"https://github.com/simonw/datasette/graphs/code-frequency\">datasette code-frequency chart on GitHub</a></strong></p> Out of curiosity I decided to see if I could find a useful illustration of the impact of coding agents and Opus 4.5 class models on my own outp",
+      "date": "2026-07-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
@@ -322,6 +332,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "date": "2026-07-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/"
     },
     {
       "category": "industry",
@@ -776,16 +796,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
       "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
       "date": "2026-07-09",
@@ -1212,16 +1222,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "llm-coding-agent 0.1a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-coding-agent/releases/tag/0.1a0\">llm-coding-agent 0.1a0</a></p> <p>Another Fable 5 experiment. Now that my <a href=\"https://llm.datasette.io/\">LLM library</a> has evolved into more of an agent framework it's time",
-      "date": "2026-07-02",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything"
     },
     {
       "category": "industry",

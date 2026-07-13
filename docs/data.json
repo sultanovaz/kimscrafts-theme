@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T17:21:58.736Z",
+  "updated": "2026-07-13T19:46:53.521Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -265,6 +265,16 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+      "summary": "OpenAI has released a prompting guide for everyday users, not developers. Instead of rigid formulas, it suggests four optional building blocks: goal, context, format, and constraints. The core advice is simple: describe the result you want, not the steps to get there. It's the fi",
+      "date": "2026-07-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own",
       "summary": "Richard Sutton, 2024 Turing Award winner and co-founder of modern reinforcement learning, has launched a new startup called Oak Lab in Toronto. He calls current deep learning methods \"weak and inefficient\" and wants to build AI agents that learn continuously from their environmen",
@@ -312,6 +322,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
+      "date": "2026-07-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "date": "2026-07-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+      "date": "2026-07-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/"
     },
     {
       "category": "industry",
@@ -422,16 +462,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent",
-      "summary": "Meta pulled a controversial feature from its new Muse Image model after widespread criticism. The feature let users generate AI images of other people by @-mentioning their public Instagram accounts. No consent needed, just a username. Meta admits \"this feature missed the mark\" a",
-      "date": "2026-07-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-kills-muse-image-feature-that-let-anyone-generate-ai-photos-of-instagram-users-without-consent/"
     },
     {
       "category": "product",
@@ -762,26 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google will now disclose which ads are made with AI",
-      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/"
     },
     {
       "category": "industry",
@@ -1262,16 +1272,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
     },
     {
       "category": "industry",

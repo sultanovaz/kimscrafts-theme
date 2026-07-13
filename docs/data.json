@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T15:09:43.611Z",
+  "updated": "2026-07-13T17:21:58.736Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -265,6 +265,26 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own",
+      "summary": "Richard Sutton, 2024 Turing Award winner and co-founder of modern reinforcement learning, has launched a new startup called Oak Lab in Toronto. He calls current deep learning methods \"weak and inefficient\" and wants to build AI agents that learn continuously from their environmen",
+      "date": "2026-07-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/"
+    },
+    {
+      "category": "research",
+      "lab": "Anthropic",
+      "title": "Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast",
+      "summary": "More than 200 economists and AI researchers, including 16 Nobel laureates and representatives from Google, OpenAI, and Anthropic, are calling for immediate action in a coordinated statement. The AI transformation could surpass the Industrial Revolution but unfold in a fraction of",
+      "date": "2026-07-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/"
+    },
+    {
+      "category": "industry",
       "lab": "Anthropic",
       "title": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
       "summary": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions. Nadella wants companies to control ",
@@ -294,14 +314,54 @@
       "url": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Should AI help you get away with killing your spouse?",
+      "summary": "What does a world of total user-aligned AI actually look like?",
+      "date": "2026-07-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "date": "2026-07-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
+      "date": "2026-07-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Waze adds new AI-powered features and customization updates",
-      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
       "date": "2026-07-13",
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Simulating everything, sort of: The promise and limits of world models",
+      "summary": "Experts explain how they work, what they can do, and what's still unsettled.",
+      "date": "2026-07-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/"
     },
     {
       "category": "hardware",
@@ -372,26 +432,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/meta-kills-muse-image-feature-that-let-anyone-generate-ai-photos-of-instagram-users-without-consent/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says",
-      "summary": "Anthropic analyzed 1.2 million Claude Cowork sessions from more than 600,000 organizations. About half of all usage goes toward business processes and text creation, what Anthropic calls \"the work around the work.\" That means tasks like compiling status reports, building onboardi",
-      "date": "2026-07-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-coworks-biggest-use-case-is-the-mundane-office-work-nobody-wants-to-own-anthropic-says/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-      "summary": "OpenAI CEO Sam Altman now says he's \"pretty sure\" AI has created more jobs than it's eliminated. That's a sharp turn from his earlier warnings about entire professions disappearing. Anthropic CEO Dario Amodei is walking back similar claims, too. But studies so far back neither th",
-      "date": "2026-07-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/"
     },
     {
       "category": "product",
@@ -552,16 +592,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "date": "2026-07-09",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/"
     },
     {
       "category": "model",
@@ -752,16 +782,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/"
     },
     {
       "category": "industry",
@@ -1254,16 +1274,6 @@
       "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
@@ -1272,16 +1282,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/scarfbench"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
-      "summary": "A year in, National Design Studio delays plan to update government web standards.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/"
     },
     {
       "category": "model",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-13T09:46:33.496Z",
+  "updated": "2026-07-13T15:09:43.611Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 146
+    "fresh": 147
   },
   "ranking": [
     {
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "model",
+      "lab": "AI",
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+      "summary": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keepin",
+      "date": "2026-07-13",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
+      "summary": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions. Nadella wants companies to control ",
+      "date": "2026-07-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google’s SensorFM turns messy wearable sensor data into a general-purpose health intelligence layer",
       "summary": "Google Research's SensorFM is a foundation model trained on more than a trillion minutes of wearable data from five million Fitbit and Pixel Watch users. It beats existing benchmarks on 34 of 35 health and behavioral tasks. SensorFM could eventually power Google's AI health coach",
@@ -272,6 +292,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "date": "2026-07-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
     },
     {
       "category": "hardware",
@@ -364,26 +394,6 @@
       "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Grades dropped from 96 to 48 percent when a Brown professor made students take the exam without AI",
-      "summary": "An economics professor at Brown University suspects most of his 86 students used AI to cheat on a take-home exam that averaged 96 percent. When he made the final an in-person test, 18 students dropped the course, nine didn't show up, and the average fell to 48.6 percent. Two larg",
-      "date": "2026-07-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/grades-dropped-from-96-to-48-percent-when-a-brown-professor-made-students-take-the-exam-without-ai/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory",
-      "summary": "The AgenticSTS project replaces the ever-growing chat log of AI agents with five separate memory layers. Tested on the card game Slay the Spire 2, the prompt stays at around 5,000 tokens instead of ballooning past 500,000. The agent wins 6 out of 10 games, while competing agents ",
-      "date": "2026-07-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Directly Responsible Individuals (DRI)",
@@ -422,6 +432,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Getting started with ChatGPT",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "date": "2026-07-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/academy/getting-started"
     },
     {
       "category": "product",
@@ -616,22 +636,22 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-5-6"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "GPT-5.5 Bio Bug Bounty",
       "summary": "Details about the OpenAI Bio Bounty program",
       "date": "2026-07-09",
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/bio-bug-bounty"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/gpt-5-6"
     },
     {
       "category": "industry",
@@ -742,16 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta’s new AI chips will begin production in September",
-      "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/"
     },
     {
       "category": "industry",
@@ -1304,16 +1314,6 @@
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-    },
-    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "Introducing GeneBench-Pro",
@@ -1332,6 +1332,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/genebench-pro/case-studies"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
     },
     {
       "category": "benchmark",
@@ -1448,16 +1458,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Hugging Face",
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "summary": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "date": "2026-06-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ffasr-leaderboard"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T03:57:46.424Z",
+  "updated": "2026-07-13T09:46:33.496Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google’s SensorFM turns messy wearable sensor data into a general-purpose health intelligence layer",
+      "summary": "Google Research's SensorFM is a foundation model trained on more than a trillion minutes of wearable data from five million Fitbit and Pixel Watch users. It beats existing benchmarks on 34 of 35 health and behavioral tasks. SensorFM could eventually power Google's AI health coach",
+      "date": "2026-07-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/sensorfm/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war",
+      "summary": "Anthropic is keeping Claude Fable 5 in its subscription plans through July 19, 2026. The model was supposed to switch to pay-per-use today. Subscribers can use up to 50 percent of their weekly limit for Fable 5. The extension is likely a response to pricing pressure from OpenAI's",
+      "date": "2026-07-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/"
+    },
+    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "S&P Global sees OpenAI as a \"key credit risk\" for Oracle and cuts its credit rating",
@@ -382,26 +402,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
-      "summary": "OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years. Mathematician Thomas Bloom calls the proof surprisingly elementary but criticizes the lack",
-      "date": "2026-07-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-      "summary": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023. Given that the study found safe",
-      "date": "2026-07-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/"
     },
     {
       "category": "product",

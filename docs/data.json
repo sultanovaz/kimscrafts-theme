@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T19:41:35.363Z",
+  "updated": "2026-07-14T22:11:15.410Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -284,6 +284,26 @@
       "url": "https://the-decoder.com/pixverses-2b-valuation-shows-investors-still-believe-ai-video-generation-has-room-for-another-winner/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "date": "2026-07-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch",
+      "date": "2026-07-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "US military sent explosive drone boats into combat for the first time",
@@ -302,6 +322,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette 1.0a37",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a37\">datasette 1.0a37</a></p> <p>A minor release. Performance and <a href=\"https://docs.datasette.io/en/latest/authentication.html#authentication-permissions-explained\">documentation</a> imp",
+      "date": "2026-07-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything"
     },
     {
       "category": "model",
@@ -375,9 +405,39 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "lobste.rs is now running on SQLite",
+      "summary": "<p><strong><a href=\"https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite\">lobste.rs is now running on SQLite</a></strong></p> Community site <a href=\"https://lobste.rs\">Lobsters</a> has been planning a migration away from MariaDB <a href=\"https://github.com/lobsters/lobs",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything"
+    },
+    {
+      "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic’s newest ad is creeping people out",
-      "summary": "Anthropic's latest advert is stirring up high emotions — which is undoubtedly what it was designed to do.",
+      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
       "date": "2026-07-14",
       "importance": 2,
       "tags": [],
@@ -516,22 +576,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "How sales teams use ChatGPT Work",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "How data science teams use ChatGPT Work",
       "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "date": "2026-07-14",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How sales teams use ChatGPT Work",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
     },
     {
       "category": "model",
@@ -632,36 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
-      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
-      "date": "2026-07-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Should AI help you get away with killing your spouse?",
-      "summary": "What does a world of total user-aligned AI actually look like?",
-      "date": "2026-07-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-      "date": "2026-07-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/"
     },
     {
       "category": "industry",
@@ -866,22 +896,22 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/bio-bug-bounty"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "date": "2026-07-09",
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/bio-bug-bounty"
     },
     {
       "category": "product",
@@ -1136,22 +1166,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/australian-payments-plus"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "MUFG aims to become AI-native with OpenAI",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "date": "2026-07-07",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/mufg"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/australian-payments-plus"
     },
     {
       "category": "industry",
@@ -1254,16 +1284,6 @@
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Better Models: Worse Tools",
-      "summary": "<p><strong><a href=\"https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/\">Better Models: Worse Tools</a></strong></p> Armin reports on a weird problem he ran into while hacking on Pi:</p> <blockquote> <p>The short version is that newer Claude models sometimes call Pi’s ed",
-      "date": "2026-07-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Building a World Map with only 500 bytes",
@@ -1282,26 +1302,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Open Source AI Gap Map",
-      "summary": "<p><strong><a href=\"https://map.currentai.org\">Open Source AI Gap Map</a></strong></p> <a href=\"https://www.currentai.org\">Current AI</a> is \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backe",
-      "date": "2026-07-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
-      "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
-      "date": "2026-07-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/"
     },
     {
       "category": "industry",

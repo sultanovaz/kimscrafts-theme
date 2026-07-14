@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T16:37:47.128Z",
+  "updated": "2026-07-14T19:41:35.363Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "date": "2026-07-14",
+      "importance": 4,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "DeepSeek needs more cash just weeks after closing its first $7 billion round",
+      "summary": "DeepSeek is already raising again. The Chinese AI lab just closed its first funding round and needs capital for its own data centers and chips to keep its aggressive pricing strategy going. The article DeepSeek needs more cash just weeks after closing its first $7 billion round a",
+      "date": "2026-07-14",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/deepseek-needs-more-cash-just-weeks-after-closing-its-first-7-billion-round/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "PixVerse's $2B valuation shows investors still believe AI video generation has room for another winner",
@@ -262,6 +282,26 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/pixverses-2b-valuation-shows-investors-still-believe-ai-video-generation-has-room-for-another-winner/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "US military sent explosive drone boats into combat for the first time",
+      "summary": "US military’s drone boats struck an Iranian naval port as war heats up again.",
+      "date": "2026-07-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic opens Claude for Teachers with a promise not to train models on student data",
+      "summary": "Anthropic is rolling out Claude for Teachers, a free offering for verified K-12 educators at US schools. The article Anthropic opens Claude for Teachers with a promise not to train models on student data appeared first on The Decoder.",
+      "date": "2026-07-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/"
     },
     {
       "category": "model",
@@ -335,6 +375,46 @@
     },
     {
       "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic’s newest ad is creeping people out",
+      "summary": "Anthropic's latest advert is stirring up high emotions — which is undoubtedly what it was designed to do.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Armin Ronacher",
+      "summary": "<blockquote cite=\"https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/\"><p>The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and ",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything"
+    },
+    {
+      "category": "industry",
       "lab": "Google DeepMind",
       "title": "Google revamps image search for its 25th anniversary with more images and more AI",
       "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
@@ -392,6 +472,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How to manage AI investments in the agentic era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
     },
     {
       "category": "industry",
@@ -455,16 +545,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-      "summary": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keepin",
-      "date": "2026-07-13",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "DOOMQL",
       "summary": "<p><strong><a href=\"https://github.com/petergpt/doomql\">DOOMQL</a></strong></p> Peter Gostev built this using GPT-5.6 Sol. This is a <em>lot</em> of fun: </p> <blockquote> <p>DOOMQL started with a deliberately unreasonable question: what if SQLite were the game engine, not merely",
@@ -512,16 +592,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
-      "summary": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions. Nadella wants companies to control ",
-      "date": "2026-07-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/"
     },
     {
       "category": "industry",
@@ -606,16 +676,6 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Waze adds new AI-powered features and customization updates",
-      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
-      "date": "2026-07-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Empowering India’s next generation of innovators with ATL Saathi",
       "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
       "date": "2026-07-13",
@@ -684,16 +744,6 @@
       "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "date": "2026-07-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Quoting OpenAI",
@@ -712,26 +762,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/academy/getting-started"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-      "date": "2026-07-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "date": "2026-07-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
     },
     {
       "category": "hardware",
@@ -1106,22 +1136,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/mufg"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "date": "2026-07-07",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/australian-payments-plus"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/mufg"
     },
     {
       "category": "industry",
@@ -1244,16 +1274,6 @@
       "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Quoting Josh W. Comeau",
-      "summary": "<blockquote cite=\"https://bsky.app/profile/joshwcomeau.com/post/3mkxyqgrp2d2t\"><p>I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch.</p> <p>It’s a similar story with my two existing courses",
-      "date": "2026-07-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything"
-    },
-    {
       "category": "research",
       "lab": "Google DeepMind",
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
@@ -1282,16 +1302,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
-      "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.",
-      "date": "2026-07-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/"
     },
     {
       "category": "industry",
@@ -1344,16 +1354,6 @@
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
     },
     {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Introducing GeneBench-Pro",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-genebench-pro"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Inside Genebench-Pro",
@@ -1372,6 +1372,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Introducing GeneBench-Pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-genebench-pro"
     },
     {
       "category": "benchmark",
@@ -1442,22 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-agents-are-transforming-work"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "OpenAI and Broadcom unveil Jalapeño, first custom inference chip",
-      "summary": "OpenAI revealed Jalapeño, its first in-house-designed AI accelerator built with Broadcom, optimized for LLM inference and taped out in nine months. Initial deployment targets end of 2026 as part of a 10 GW program — OpenAI's most direct move yet to reduce its reliance on Nvidia.",
-      "date": "2026-06-24",
-      "importance": 4,
-      "tags": [
-        "chips",
-        "inference",
-        "Broadcom",
-        "custom-silicon",
-        "compute"
-      ],
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
     }
   ]
 }

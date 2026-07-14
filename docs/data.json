@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T03:31:09.055Z",
+  "updated": "2026-07-14T08:26:54.449Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 147
+    "fresh": 148
   },
   "ranking": [
     {
@@ -472,6 +472,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "date": "2026-07-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
     },
     {
       "category": "industry",
@@ -1314,6 +1324,16 @@
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+    },
+    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "Introducing GeneBench-Pro",
@@ -1332,16 +1352,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/genebench-pro/case-studies"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
     },
     {
       "category": "benchmark",
@@ -1448,16 +1458,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "summary": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "date": "2026-06-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
     }
   ]
 }

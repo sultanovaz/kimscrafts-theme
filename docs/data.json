@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T22:08:11.311Z",
+  "updated": "2026-07-14T03:31:09.055Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Using uvx in GitHub Actions in a cache-friendly way",
+      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/github-actions/uvx-github-actions-cache\">Using uvx in GitHub Actions in a cache-friendly way</a></p> <p>I finally found a cache-friendly recipe for using <code>uvx tool-name</code> in GitHub Actions workflows that I ",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
@@ -262,6 +302,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "DOOMQL",
+      "summary": "<p><strong><a href=\"https://github.com/petergpt/doomql\">DOOMQL</a></strong></p> Peter Gostev built this using GPT-5.6 Sol. This is a <em>lot</em> of fun: </p> <blockquote> <p>DOOMQL started with a deliberately unreasonable question: what if SQLite were the game engine, not merely",
+      "date": "2026-07-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything"
     },
     {
       "category": "model",
@@ -332,6 +382,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "date": "2026-07-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
     },
     {
       "category": "hardware",
@@ -665,16 +725,6 @@
     },
     {
       "category": "industry",
-      "lab": "Anthropic",
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
       "summary": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
@@ -756,42 +806,12 @@
     {
       "category": "product",
       "lab": "OpenAI",
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Can AI answer the $3 trillion question?",
-      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
       "title": "OpenAI wants its new tool to do your work for you and with you",
       "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
       "date": "2026-07-09",
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
     },
     {
       "category": "industry",
@@ -1184,16 +1204,6 @@
       "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "June 2026 newsletter",
-      "summary": "<p>The June edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a> is out. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-06-june.md\">access it here</a>.<",
-      "date": "2026-07-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything"
-    },
-    {
       "category": "research",
       "lab": "Google DeepMind",
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
@@ -1212,16 +1222,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Fable's judgement",
-      "summary": "<p>One of the most interesting tips I got from <a href=\"https://www.ai.engineer/worldsfair/schedule?session=asn_slot_2026_06_30_main_stage_1230_2026_06_08t09_35_43_039z\">the Fireside Chat</a> I hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday w",
-      "date": "2026-07-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything"
     },
     {
       "category": "industry",

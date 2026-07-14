@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T14:11:53.621Z",
+  "updated": "2026-07-14T16:37:47.128Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,46 @@
       "url": "https://the-decoder.com/pixverses-2b-valuation-shows-investors-still-believe-ai-video-generation-has-room-for-another-winner/"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Search now generates AI images when it can't find what you're looking for on the web",
+      "summary": "Google is adding AI image generation to Search's AI Overviews. When no matching image exists on the web, the new Nano Banana 2 Lite model generates one from the search query. The rollout starts in the coming weeks. The article Google Search now generates AI images when it can't f",
+      "date": "2026-07-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-search-now-generates-ai-images-when-it-cant-find-what-youre-looking-for-on-the-web/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "New York State halts construction of all new data centers",
+      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+      "date": "2026-07-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "date": "2026-07-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The real AI race may no longer be at the frontier",
+      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+      "date": "2026-07-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots",
@@ -294,14 +334,64 @@
       "url": "https://the-decoder.com/claude-values-study/"
     },
     {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/"
+    },
+    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, and audiobooks, and more.",
+      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
       "date": "2026-07-14",
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/"
     },
     {
       "category": "industry",
@@ -432,16 +522,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google’s SensorFM turns messy wearable sensor data into a general-purpose health intelligence layer",
-      "summary": "Google Research's SensorFM is a foundation model trained on more than a trillion minutes of wearable data from five million Fitbit and Pixel Watch users. It beats existing benchmarks on 34 of 35 health and behavioral tasks. SensorFM could eventually power Google's AI health coach",
-      "date": "2026-07-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/sensorfm/"
     },
     {
       "category": "industry",
@@ -654,26 +734,6 @@
       "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the sa",
-      "date": "2026-07-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "date": "2026-07-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
-    },
-    {
       "category": "hardware",
       "lab": "AI",
       "title": "Quoting Nilay Patel",
@@ -695,16 +755,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the sa",
-      "date": "2026-07-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
@@ -712,16 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/deutsche-telekom"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-      "date": "2026-07-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
     },
     {
       "category": "industry",
@@ -752,16 +792,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
     },
     {
       "category": "industry",
@@ -822,16 +852,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
-      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
     },
     {
       "category": "product",
@@ -1274,26 +1294,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/"
     },
     {
-      "category": "hardware",
-      "lab": "Google DeepMind",
-      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-      "summary": "Google tries balancing AI data center emissions with clean energy efforts.",
-      "date": "2026-07-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-      "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
-      "date": "2026-07-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
-    },
-    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
@@ -1344,16 +1344,6 @@
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "summary": "Inside Genebench-Pro",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/genebench-pro/case-studies"
-    },
-    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "Introducing GeneBench-Pro",
@@ -1362,6 +1352,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-genebench-pro"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "summary": "Inside Genebench-Pro",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
       "category": "industry",

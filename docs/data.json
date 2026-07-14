@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T08:26:54.449Z",
+  "updated": "2026-07-14T10:55:38.303Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 148
+    "fresh": 150
   },
   "ranking": [
     {
@@ -282,6 +282,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How data science teams use ChatGPT Work",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How sales teams use ChatGPT Work",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
     },
     {
       "category": "model",
@@ -776,22 +796,22 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/bio-bug-bounty"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "date": "2026-07-09",
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/bio-bug-bounty"
     },
     {
       "category": "industry",
@@ -1066,22 +1086,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/mufg"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "date": "2026-07-07",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/australian-payments-plus"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/mufg"
     },
     {
       "category": "industry",
@@ -1334,16 +1354,6 @@
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
     },
     {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Introducing GeneBench-Pro",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-genebench-pro"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Inside Genebench-Pro",
@@ -1352,6 +1362,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/genebench-pro/case-studies"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Introducing GeneBench-Pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-genebench-pro"
     },
     {
       "category": "benchmark",
@@ -1438,26 +1458,6 @@
         "compute"
       ],
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing computer use in Gemini 3.5 Flash",
-      "summary": "Introducing computer use in Gemini 3.5 Flash",
-      "date": "2026-06-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "date": "2026-06-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
     }
   ]
 }

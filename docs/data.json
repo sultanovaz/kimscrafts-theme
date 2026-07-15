@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T16:43:52.943Z",
+  "updated": "2026-07-15T19:35:11.071Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 152
+    "fresh": 156
   },
   "ranking": [
     {
@@ -284,6 +284,36 @@
       "url": "https://the-decoder.com/openais-first-hardware-product-is-a-screenless-ai-speaker-designed-to-feel-alive/"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "date": "2026-07-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "date": "2026-07-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6 Sol reportedly disproves a 30-year-old statistics conjecture in 90 minutes after humans couldn't crack it",
+      "summary": "A University of Pennsylvania statistics professor used OpenAI's GPT-5.6 Sol Pro to disprove a central open conjecture about the Benjamini-Hochberg method in roughly 90 minutes. The predecessor model, GPT-5.5, couldn't find a solution even after 20 hours. The answer combines known",
+      "date": "2026-07-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI's first branded hardware is... a light-up keyboard?",
@@ -307,7 +337,7 @@
       "category": "model",
       "lab": "Alibaba",
       "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into o",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
       "date": "2026-07-15",
       "importance": 3,
       "tags": [],
@@ -342,6 +372,56 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "What building Shippy taught us about building agents",
+      "summary": "What building Shippy taught us about building agents",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "summary": "Model Routing Is Simple. Until It Isn’t.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and othe",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/"
     },
     {
       "category": "model",
@@ -414,6 +494,26 @@
       "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Welcome Inkling by Thinking Machines",
+      "summary": "Welcome Inkling by Thinking Machines",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling"
+    },
+    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
@@ -422,16 +522,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/real-world-voiceeq"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
-      "date": "2026-07-14",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
     },
     {
       "category": "model",
@@ -535,16 +625,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "New York State halts construction of all new data centers",
-      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
-      "date": "2026-07-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots",
       "summary": "OpenAI has re-enabled ChatGPT on WhatsApp, but only in the European Economic Area, covering the 27 EU member states plus Liechtenstein, Iceland, and Norway. The article ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots appeared first on ",
@@ -552,16 +632,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/"
-    },
-    {
-      "category": "research",
-      "lab": "Google DeepMind",
-      "title": "Deepmind CEO Hassabis says \"nobody in the world knows what happens next\" so \"cautious optimism\" means building guardrails now",
-      "summary": "Google Deepmind CEO Demis Hassabis has published a sweeping proposal for how to handle advanced AI. He wants a new US standards body modeled after financial regulator FINRA that would develop evaluation protocols for frontier models and could coordinate a slowdown in AI developme",
-      "date": "2026-07-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now/"
     },
     {
       "category": "industry",
@@ -625,16 +695,6 @@
     },
     {
       "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google faces another AI training lawsuit from major publishers",
-      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "Quoting Armin Ronacher",
       "summary": "<blockquote cite=\"https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/\"><p>The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and ",
@@ -652,26 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/"
     },
     {
       "category": "hardware",
@@ -706,22 +746,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "How sales teams use ChatGPT Work",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "How data science teams use ChatGPT Work",
       "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "date": "2026-07-14",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How sales teams use ChatGPT Work",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
     },
     {
       "category": "model",
@@ -956,22 +996,22 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-5-6"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "GPT-5.5 Bio Bug Bounty",
       "summary": "Details about the OpenAI Bio Bounty program",
       "date": "2026-07-09",
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/bio-bug-bounty"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/gpt-5-6"
     },
     {
       "category": "product",
@@ -1376,12 +1416,12 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "title": "Inside Genebench-Pro",
+      "summary": "Inside Genebench-Pro",
       "date": "2026-06-30",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+      "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
       "category": "benchmark",
@@ -1396,12 +1436,12 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "summary": "Inside Genebench-Pro",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "date": "2026-06-30",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/genebench-pro/case-studies"
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
     },
     {
       "category": "benchmark",
@@ -1412,46 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/eee-community-evals"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "summary": "DiScoFormer: One transformer for density and score, across distributions",
-      "date": "2026-06-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/discoformer"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "date": "2026-06-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "date": "2026-06-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/hp-frontier-partnership"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "date": "2026-06-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol"
     }
   ]
 }

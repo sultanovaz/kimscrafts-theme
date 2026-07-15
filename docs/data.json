@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T14:07:25.934Z",
+  "updated": "2026-07-15T16:43:52.943Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 151
+    "fresh": 152
   },
   "ranking": [
     {
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "model",
+      "lab": "Microsoft",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+      "date": "2026-07-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Bonsai 27B is a full open reasoning model that fits on an iPhone",
+      "summary": "PrismML has compressed a 27-billion-parameter AI model to under 4 GB, small enough to run on an iPhone. In the company's own benchmarks, the smallest version keeps 90 percent of the original performance, with math and coding scores barely affected. Apple is reportedly already tes",
+      "date": "2026-07-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/bonsai-27b-is-a-full-open-reasoning-model-that-fits-on-an-iphone/"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive",
       "summary": "OpenAI plans to enter hardware with a portable, screenless smart speaker. Equipped with a camera, sensors, and moving mechanical parts, the device is designed as an AI companion that feels \"alive.\" But Apple's trade secrets lawsuit involving OpenAI hardware chief Tang Tan could d",
@@ -262,6 +282,36 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/openais-first-hardware-product-is-a-screenless-ai-speaker-designed-to-feel-alive/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+      "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
+      "date": "2026-07-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Spotify bets Premium subscribers want to chat with their music player",
+      "summary": "Spotify is expanding its AI voice interface. Premium subscribers can now talk to or text the service directly inside the app. The article Spotify bets Premium subscribers want to chat with their music player appeared first on The Decoder.",
+      "date": "2026-07-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/spotify-bets-premium-subscribers-want-to-chat-with-their-music-player/"
+    },
+    {
+      "category": "model",
+      "lab": "Alibaba",
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into o",
+      "date": "2026-07-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
     },
     {
       "category": "model",
@@ -294,9 +344,19 @@
       "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+      "summary": "<p><strong><a href=\"https://www.ayush.digital/blog/the-memory-heist\">How I tricked Claude into leaking your deepest, darkest secrets</a></strong></p> I've <a href=\"https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/\">been impressed</a> by the way the Claude <code>web_fet",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
       "date": "2026-07-15",
       "importance": 2,
@@ -322,6 +382,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "The US is advancing AI safety through state and federal action",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
     },
     {
       "category": "industry",
@@ -372,16 +442,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/deepseek-needs-more-cash-just-weeks-after-closing-its-first-7-billion-round/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "PixVerse's $2B valuation shows investors still believe AI video generation has room for another winner",
-      "summary": "Singapore-based AI video startup PixVerse is now valued at over $2 billion after an extended Series C round. The article PixVerse's $2B valuation shows investors still believe AI video generation has room for another winner appeared first on The Decoder.",
-      "date": "2026-07-14",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/pixverses-2b-valuation-shows-investors-still-believe-ai-video-generation-has-room-for-another-winner/"
     },
     {
       "category": "model",
@@ -484,26 +544,6 @@
       "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
-      "date": "2026-07-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The real AI race may no longer be at the frontier",
-      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
-      "date": "2026-07-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots",
@@ -522,16 +562,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers",
-      "summary": "A new Anthropic study maps hundreds of value concepts derived from thousands of individual terms onto four core dimensions. It reveals systematic differences across Claude models and languages, but also raises methodological questions. Anthropic has published a study examining wh",
-      "date": "2026-07-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-values-study/"
     },
     {
       "category": "industry",
@@ -676,22 +706,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "How data science teams use ChatGPT Work",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "How sales teams use ChatGPT Work",
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "date": "2026-07-14",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How data science teams use ChatGPT Work",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
     },
     {
       "category": "model",
@@ -1275,16 +1305,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
-      "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
-      "date": "2026-07-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "🤗 Kernels: Major Updates",
       "summary": "🤗 Kernels: Major Updates",
@@ -1292,16 +1312,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/revamped-kernels"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "summary": "<p>I wrote about the <a href=\"https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/\">sqlite-utils 4.0rc1</a> release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable r",
-      "date": "2026-07-05",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything"
     },
     {
       "category": "research",
@@ -1366,12 +1376,12 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "summary": "Inside Genebench-Pro",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "date": "2026-06-30",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/genebench-pro/case-studies"
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
     },
     {
       "category": "benchmark",
@@ -1386,12 +1396,12 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "title": "Inside Genebench-Pro",
+      "summary": "Inside Genebench-Pro",
       "date": "2026-06-30",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+      "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
       "category": "benchmark",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/previewing-gpt-5-6-sol"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "summary": "Run a vLLM Server on HF Jobs in One Command",
-      "date": "2026-06-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/vllm-jobs"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T03:31:26.731Z",
+  "updated": "2026-07-15T08:34:26.577Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,36 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive",
+      "summary": "OpenAI plans to enter hardware with a portable, screenless smart speaker. Equipped with a camera, sensors, and moving mechanical parts, the device is designed as an AI companion that feels \"alive.\" But Apple's trade secrets lawsuit involving OpenAI hardware chief Tang Tan could d",
+      "date": "2026-07-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-first-hardware-product-is-a-screenless-ai-speaker-designed-to-feel-alive/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's Codex now encrypts instructions between AI agents, leaving developers blind to internal delegation",
+      "summary": "Since early June, OpenAI's coding tool Codex encrypts the instructions a main agent passes to its subagents. Developers can no longer track how tasks get delegated internally. For the larger GPT-5.6 variants Sol and Terra, the encryption is mandatory. The article OpenAI's Codex n",
+      "date": "2026-07-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta employees sue over layoffs they say were driven by discriminatory AI selection systems",
+      "summary": "Former and current Meta employees are suing the company in a California federal court over AI-driven mass layoffs. Meta allegedly used internal AI systems to generate the layoff lists when it cut 8,000 workers, disproportionately targeting employees with disabilities or on parent",
+      "date": "2026-07-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-employees-sue-over-layoffs-they-say-were-driven-by-discriminatory-ai-selection-systems/"
+    },
     {
       "category": "model",
       "lab": "OpenAI",
@@ -672,36 +702,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
-      "summary": "OpenAI has released a prompting guide for everyday users, not developers. Instead of rigid formulas, it suggests four optional building blocks: goal, context, format, and constraints. The core advice is simple: describe the result you want, not the steps to get there. It's the fi",
-      "date": "2026-07-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own",
-      "summary": "Richard Sutton, 2024 Turing Award winner and co-founder of modern reinforcement learning, has launched a new startup called Oak Lab in Toronto. He calls current deep learning methods \"weak and inefficient\" and wants to build AI agents that learn continuously from their environmen",
-      "date": "2026-07-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/"
-    },
-    {
-      "category": "research",
-      "lab": "Anthropic",
-      "title": "Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast",
-      "summary": "More than 200 economists and AI researchers, including 16 Nobel laureates and representatives from Google, OpenAI, and Anthropic, are calling for immediate action in a coordinated statement. The AI transformation could surpass the Industrial Revolution but unfold in a fraction of",
-      "date": "2026-07-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/"
     },
     {
       "category": "industry",
@@ -1364,16 +1364,6 @@
       "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-    },
-    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "Introducing GeneBench-Pro",
@@ -1382,6 +1372,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-genebench-pro"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
     },
     {
       "category": "benchmark",

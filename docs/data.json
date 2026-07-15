@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T11:01:32.197Z",
+  "updated": "2026-07-15T14:07:25.934Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 150
+    "fresh": 151
   },
   "ranking": [
     {
@@ -292,6 +292,66 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "summary": "Rime is handling over 100 million calls each month across multiple companies.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "summary": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/real-world-voiceeq"
     },
     {
       "category": "model",
@@ -594,26 +654,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
-      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "How to manage AI investments in the agentic era",
@@ -624,16 +664,6 @@
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Using uvx in GitHub Actions in a cache-friendly way",
@@ -642,16 +672,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/"
     },
     {
       "category": "industry",
@@ -672,16 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/vllm-jobs"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "How agents are transforming work",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "date": "2026-06-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/how-agents-are-transforming-work"
     }
   ]
 }

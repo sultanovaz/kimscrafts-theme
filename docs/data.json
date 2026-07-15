@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T19:35:11.071Z",
+  "updated": "2026-07-15T22:11:26.902Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -285,13 +285,23 @@
     },
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
+      "summary": "OpenAI's internal GPT-Red model finds successful attacks in 84 percent of test scenarios through self-play training. Human red teamers manage just 13 percent. The results feed directly into hardening models like GPT-5.6 Sol. The article OpenAI is now using AI to attack its own AI",
+      "date": "2026-07-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/"
+    },
+    {
+      "category": "model",
       "lab": "AI",
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
       "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
       "date": "2026-07-15",
       "importance": 3,
       "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/"
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/"
     },
     {
       "category": "model",
@@ -372,6 +382,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
     },
     {
       "category": "industry",
@@ -625,16 +645,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots",
-      "summary": "OpenAI has re-enabled ChatGPT on WhatsApp, but only in the European Economic Area, covering the 27 EU member states plus Liechtenstein, Iceland, and Norway. The article ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots appeared first on ",
-      "date": "2026-07-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "Lorde says AI glasses are ‘not sexy’",
       "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
@@ -682,16 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/"
     },
     {
       "category": "industry",
@@ -746,22 +746,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "How data science teams use ChatGPT Work",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "How sales teams use ChatGPT Work",
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "date": "2026-07-14",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How data science teams use ChatGPT Work",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
     },
     {
       "category": "model",
@@ -996,22 +996,22 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/bio-bug-bounty"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "date": "2026-07-09",
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/bio-bug-bounty"
     },
     {
       "category": "product",
@@ -1414,16 +1414,6 @@
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "summary": "Inside Genebench-Pro",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/genebench-pro/case-studies"
-    },
-    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "Introducing GeneBench-Pro",
@@ -1432,6 +1422,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-genebench-pro"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "summary": "Inside Genebench-Pro",
+      "date": "2026-06-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/genebench-pro/case-studies"
     },
     {
       "category": "industry",

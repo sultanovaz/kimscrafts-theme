@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T14:20:00.261Z",
+  "updated": "2026-07-16T16:39:54.383Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Inkling: Our open-weights model",
+      "summary": "<p><strong><a href=\"https://thinkingmachines.ai/news/introducing-inkling/\">Inkling: Our open-weights model</a></strong></p> Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 4",
+      "date": "2026-07-16",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "Ex-OpenAI CTO Murati's Thinking Machines drops Inkling, a 975B parameter model that leads US labs but trails China",
       "summary": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has released Inkling, a multimodal open-weights model with 975 billion parameters. It leads U.S. open-weights models on the Artificial Analysis Intelligence Index, though top Chinese open models still beat it on som",
@@ -262,6 +272,36 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Germany puts Google's AI Overviews and Perplexity under media law in first-of-its-kind ruling",
+      "summary": "German media regulators say Google's AI Overviews are Google's own content, not neutral search results, and that they crowd out regular links. The regulators have issued their first rulings against Google and Perplexity under the country's State Media Treaty. Both companies have ",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents",
+      "summary": "OpenAI and keyboard manufacturer Work Louder have unveiled the Codex Micro, a compact hardware controller designed for working with AI agents. The article OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents appeared first on The D",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/"
     },
     {
       "category": "benchmark",
@@ -302,6 +342,86 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "summary": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Why teens deserve access to safe AI",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "summary": "Companies coming to market are raising money at fastest pace this century.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Yes, you can now order DoorDash from the command line",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/"
     },
     {
       "category": "product",
@@ -352,6 +472,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/cars24"
     },
     {
       "category": "industry",
@@ -464,36 +594,6 @@
       "url": "https://the-decoder.com/spotify-bets-premium-subscribers-want-to-chat-with-their-music-player/"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's Codex now encrypts instructions between AI agents, leaving developers blind to internal delegation",
-      "summary": "Since early June, OpenAI's coding tool Codex encrypts the instructions a main agent passes to its subagents. Developers can no longer track how tasks get delegated internally. For the larger GPT-5.6 variants Sol and Terra, the encryption is mandatory. The article OpenAI's Codex n",
-      "date": "2026-07-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta employees sue over layoffs they say were driven by discriminatory AI selection systems",
-      "summary": "Former and current Meta employees are suing the company in a California federal court over AI-driven mass layoffs. Meta allegedly used internal AI systems to generate the layoff lists when it cut 8,000 workers, disproportionately targeting employees with disabilities or on parent",
-      "date": "2026-07-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-employees-sue-over-layoffs-they-say-were-driven-by-discriminatory-ai-selection-systems/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-      "date": "2026-07-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
-    },
-    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
@@ -595,16 +695,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-      "summary": "Rime is handling over 100 million calls each month across multiple companies.",
-      "date": "2026-07-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "The US is advancing AI safety through state and federal action",
       "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
@@ -612,26 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-      "date": "2026-07-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
-      "date": "2026-07-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
     },
     {
       "category": "model",
@@ -685,16 +755,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
-      "date": "2026-07-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "US military sent explosive drone boats into combat for the first time",
       "summary": "US military’s drone boats struck an Iranian naval port as war heats up again.",
@@ -712,26 +772,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Lorde says AI glasses are ‘not sexy’",
-      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/"
     },
     {
       "category": "industry",
@@ -1056,22 +1096,22 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-5-6"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "GPT-5.5 Bio Bug Bounty",
       "summary": "Details about the OpenAI Bio Bounty program",
       "date": "2026-07-09",
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/bio-bug-bounty"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/gpt-5-6"
     },
     {
       "category": "product",
@@ -1152,16 +1192,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Data for Agents",
-      "summary": "Data for Agents",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents"
     },
     {
       "category": "model",
@@ -1254,16 +1284,6 @@
       "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "sqlite-utils 4.0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0\">sqlite-utils 4.0</a></p> <p>See <a href=\"https://simonwillison.net/2026/Jul/7/sqlite-utils-4/\">sqlite-utils 4.0, now with database schema migrations</a> for details.</p> <p>Tags: <a hre",
-      "date": "2026-07-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -1316,22 +1336,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/mufg"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "date": "2026-07-07",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/australian-payments-plus"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/mufg"
     },
     {
       "category": "industry",
@@ -1352,16 +1372,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/lerobot-release-v060"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-      "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
-      "date": "2026-07-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Introducing GeneBench-Pro",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-genebench-pro"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T22:11:26.902Z",
+  "updated": "2026-07-16T03:34:33.178Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Mermaid to Unicode box art (grok-mermaid)",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/grok-mermaid\">Mermaid to Unicode box art (grok-mermaid)</a></p> <p>While <a href=\"https://simonwillison.net/2026/Jul/15/grok-build/\">exploring the codebase</a> for the newly open-sourced Grok CLI coding agent I ca",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything"
+    },
+    {
+      "category": "model",
       "lab": "Microsoft",
       "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
       "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
@@ -282,6 +292,26 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/openais-first-hardware-product-is-a-screenless-ai-speaker-designed-to-feel-alive/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "xai-org/grok-build, now open source",
+      "summary": "<p><strong><a href=\"https://github.com/xai-org/grok-build\">xai-org/grok-build, now open source</a></strong></p> xAI's <code>grok</code> CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that <em>entire ",
+      "date": "2026-07-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: mo",
+      "date": "2026-07-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
     },
     {
       "category": "model",
@@ -382,6 +412,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
     },
     {
       "category": "product",
@@ -682,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic’s newest ad is creeping people out",
-      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/"
     },
     {
       "category": "industry",
@@ -1305,26 +1335,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "tencent/Hy3",
-      "summary": "<p><strong><a href=\"https://huggingface.co/tencent/Hy3\">tencent/Hy3</a></strong></p> New Apache 2.0 licensed model from Tencent in China:</p> <blockquote> <p>Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed",
-      "date": "2026-07-06",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "sqlite-utils 4.0rc3",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc3\">sqlite-utils 4.0rc3</a></p> <p>I hoped to release <code>sqlite-utils 4.0</code> stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claud",
-      "date": "2026-07-06",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
       "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Hugging Face",
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "summary": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/eee-community-evals"
     }
   ]
 }

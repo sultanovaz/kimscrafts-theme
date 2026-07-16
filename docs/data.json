@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-16T11:11:18.650Z",
+  "updated": "2026-07-16T14:20:00.261Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 158
   },
   "ranking": [
     {
@@ -264,6 +264,26 @@
       "url": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/"
     },
     {
+      "category": "benchmark",
+      "lab": "Nvidia",
+      "title": "Sakana AI's orchestrator adds Nvidia Nemotron to prove \"collective intelligence\" can rival single frontier models",
+      "summary": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks. The core argument: Open models only become competitive with Frontier systems when used in a coordinated manner. Howeve",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under the same name",
@@ -282,6 +302,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Quoting Linus Torvalds",
+      "summary": "<blockquote cite=\"https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/\"><p>I realize that some people really dislike AI, but this is an area where I'm willing to absolutely put my foot down as the top-level maintainer.</p> <p>Lin",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Newer Models, Same Advantage",
+      "summary": "Newer Models, Same Advantage",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
     },
     {
       "category": "industry",
@@ -314,6 +354,16 @@
       "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything"
     },
     {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Security incident disclosure — July 2026",
+      "summary": "Security incident disclosure — July 2026",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/security-incident-july-2026"
+    },
+    {
       "category": "model",
       "lab": "Microsoft",
       "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
@@ -332,16 +382,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/bonsai-27b-is-a-full-open-reasoning-model-that-fits-on-an-iphone/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive",
-      "summary": "OpenAI plans to enter hardware with a portable, screenless smart speaker. Equipped with a camera, sensors, and moving mechanical parts, the device is designed as an AI companion that feels \"alive.\" But Apple's trade secrets lawsuit involving OpenAI hardware chief Tang Tan could d",
-      "date": "2026-07-15",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-first-hardware-product-is-a-screenless-ai-speaker-designed-to-feel-alive/"
     },
     {
       "category": "model",
@@ -422,16 +462,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/spotify-bets-premium-subscribers-want-to-chat-with-their-music-player/"
-    },
-    {
-      "category": "model",
-      "lab": "Alibaba",
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "date": "2026-07-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
     },
     {
       "category": "model",
@@ -662,16 +692,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-      "date": "2026-07-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/"
     },
     {
       "category": "industry",
@@ -1244,16 +1264,6 @@
       "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "sqlite-utils 4.0rc4",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc4\">sqlite-utils 4.0rc4</a></p> <p>The last RC before the 4.0 stable release. Mainly <a href=\"https://github.com/simonw/sqlite-utils/issues/769#issuecomment-4900034150\">implements feedba",
-      "date": "2026-07-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-genebench-pro"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "summary": "Inside Genebench-Pro",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/genebench-pro/case-studies"
     }
   ]
 }

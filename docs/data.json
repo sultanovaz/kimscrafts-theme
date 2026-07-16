@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-16T16:39:54.383Z",
+  "updated": "2026-07-16T19:33:12.466Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 158
+    "fresh": 162
   },
   "ranking": [
     {
@@ -274,6 +274,66 @@
       "url": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none ",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, ",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Quoting Thibault Sottiaux",
+      "summary": "<blockquote cite=\"https://twitter.com/thsottiaux/status/2077630111499882637\"><p>On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. </p> <p>What we have found is that this most commonly occurs when:</p> <ul> <li>Full access mode is",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google rebrands NotebookLM as Gemini Notebook and opens its search app to third-party integration",
+      "summary": "Google is renaming NotebookLM to Gemini Notebook and integrating the tool more deeply into its ecosystem. A new feature gives each notebook its own cloud computer that can write and run code, initially for AI Ultra and Workspace customers. Separately, Google Search is getting app",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-rebrands-notebooklm-as-gemini-notebook-and-opens-its-search-app-to-third-party-integration/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector data",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to pr",
+      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
+    },
+    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Germany puts Google's AI Overviews and Perplexity under media law in first-of-its-kind ruling",
@@ -342,6 +402,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "summary": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/"
     },
     {
       "category": "hardware",
@@ -584,16 +674,6 @@
       "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Spotify bets Premium subscribers want to chat with their music player",
-      "summary": "Spotify is expanding its AI voice interface. Premium subscribers can now talk to or text the service directly inside the app. The article Spotify bets Premium subscribers want to chat with their music player appeared first on The Decoder.",
-      "date": "2026-07-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/spotify-bets-premium-subscribers-want-to-chat-with-their-music-player/"
-    },
-    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
@@ -672,26 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-      "date": "2026-07-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-      "date": "2026-07-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/"
     },
     {
       "category": "industry",
@@ -1274,16 +1334,6 @@
       "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "github-code Web Component",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/github-code-component\">github-code Web Component</a></p> <p>An experimental Web Component built using GPT-5.5 and <a href=\"https://gist.github.com/simonw/0e3db21947b5ae7e29e8a4f69a0b0617\">the following prompt</a>:",
-      "date": "2026-07-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -1322,16 +1372,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/"
     },
     {
       "category": "industry",
@@ -1412,46 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "summary": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "summary": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Why Specialization Is Inevitable",
-      "summary": "Why Specialization Is Inevitable",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How ChatGPT adoption has expanded",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "date": "2026-06-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
     }
   ]
 }

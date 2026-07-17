@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-16T22:13:57.796Z",
+  "updated": "2026-07-17T03:35:05.701Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 161
+    "fresh": 159
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Spot birds not golf",
+      "summary": "<p>Suggestion for hyperscalers feeling pressure over data center water use:</p> <p>Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable ",
+      "date": "2026-07-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything"
+    },
+    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "Kimi K3, and what we can still learn from the pelican benchmark",
@@ -292,6 +302,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Firefox in WebAssembly",
+      "summary": "<p><strong><a href=\"https://developer.puter.com/labs/firefox-wasm/\">Firefox in WebAssembly</a></strong></p> This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser.</p> <p>Here's my blog, running in Firefox, running in WebA",
+      "date": "2026-07-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything"
     },
     {
       "category": "model",
@@ -542,6 +562,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Mermaid to ASCII art (mermaid-ascii)",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/mermaid-ascii\">Mermaid to ASCII art (mermaid-ascii)</a></p> <p>After building the <a href=\"https://simonwillison.net/2026/Jul/16/grok-mermaid/\">Mermaid to ASCII tool based on Grok Build's Rust code</a> I learned t",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything"
     },
     {
       "category": "model",
@@ -1254,16 +1284,6 @@
       "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Introducing GPT‑Live",
-      "summary": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-live/\">Introducing GPT‑Live</a></strong></p> OpenAI <em>finally</em> upgraded the model used by ChatGPT voice mode!</p> <p>I've had preview access for a few weeks in the iPhone app, and the new model is very impressive.",
-      "date": "2026-07-08",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
@@ -1272,16 +1292,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Kenton Varda",
-      "summary": "<blockquote cite=\"https://twitter.com/kentonvarda/status/2074924213983740233\"><p>I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team.</p> <p>AI was writing change descriptions that were worse than use",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything"
     },
     {
       "category": "model",
@@ -1334,6 +1344,16 @@
       "url": "https://openai.com/index/k-12-educators-practical-skills"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Introducing GPT-Live",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-gpt-live"
+    },
+    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Native-speed vLLM transformers modeling backend",
@@ -1342,16 +1362,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "sqlite-utils 4.0, now with database schema migrations",
-      "summary": "<p>This morning I released <a href=\"https://sqlite-utils.datasette.io/en/stable/changelog.html#v4-0\">sqlite-utils 4.0</a>, the 124th release of that project and the first major version bump since <a href=\"https://sqlite-utils.datasette.io/en/stable/changelog.html#v3-0\">3.0</a> in",
-      "date": "2026-07-07",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "summary": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "date": "2026-07-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
     }
   ]
 }

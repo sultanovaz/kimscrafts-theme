@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T16:34:15.268Z",
+  "updated": "2026-07-17T19:31:01.540Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage",
+      "summary": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dean W. Ball calls it \"very good,\" but, of course, warns that a world dominated by open-weight models would amount to \"AI c",
+      "date": "2026-07-17",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Netflix's 300 AI productions show how fast the technology is spreading through entertainment",
@@ -294,6 +304,16 @@
       "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s ",
+      "date": "2026-07-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/"
+    },
+    {
       "category": "product",
       "lab": "Google DeepMind",
       "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
@@ -325,6 +345,16 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s ",
+      "date": "2026-07-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/"
+    },
+    {
+      "category": "industry",
       "lab": "Moonshot",
       "title": "Quoting Kimi K3",
       "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=48935342#48936515\"><p>Is there something I can actually help you with today?</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://news.ycombinator.com/item?id=48935342#48936515\">Kimi K3</a>, after refusing to leak its sy",
@@ -334,10 +364,20 @@
       "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything"
     },
     {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "LLM cliché highlighter",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/llm-cliche-highlighter\">LLM cliché highlighter</a></p> <p>I got frustrated reading <em>yet another</em> article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type st",
+      "date": "2026-07-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything"
+    },
+    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "A scorecard for the AI age",
-      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "date": "2026-07-17",
       "importance": 2,
       "tags": [],
@@ -522,16 +562,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "xAI open-sources \"Grok-Build\" on GitHub after massive data breach",
-      "summary": "xAI's command-line tool \"Grok Build\" silently uploaded entire directories to Google Cloud servers, including SSH keys and password databases. After the backlash, Elon Musk promised to delete all uploaded user data, and xAI open-sourced the full 844,530-line Rust codebase under th",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/"
     },
     {
       "category": "industry",
@@ -822,26 +852,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-      "date": "2026-07-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
-      "date": "2026-07-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/"
     },
     {
       "category": "model",
@@ -1232,16 +1242,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "llm 0.31.1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.31.1\">llm 0.31.1</a></p> <blockquote> <ul> <li>Fix for a bug with OpenAI Chat Completion endpoints where a tool call with empty arguments could result in a JSON error from some providers. <a href=\"",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything"
     },
     {
       "category": "model",

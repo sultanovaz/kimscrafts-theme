@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-17T08:26:55.598Z",
+  "updated": "2026-07-17T10:57:38.898Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 159
+    "fresh": 156
   },
   "ranking": [
     {
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Netflix's 300 AI productions show how fast the technology is spreading through entertainment",
+      "summary": "Netflix now uses AI in about 300 productions, mostly in post-production. Co-CEO Ted Sarandos put specific numbers to the effort: the docuseries \"The American Experiment\" includes 17 minutes of AI-assisted footage, produced twice as fast at half the cost. The savings will \"likely\"",
+      "date": "2026-07-17",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/"
+    },
     {
       "category": "hardware",
       "lab": "Google DeepMind",
@@ -722,16 +732,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-5.6 Sol reportedly disproves a 30-year-old statistics conjecture in 90 minutes after humans couldn't crack it",
-      "summary": "A University of Pennsylvania statistics professor used OpenAI's GPT-5.6 Sol Pro to disprove a central open conjecture about the Benjamini-Hochberg method in roughly 90 minutes. The predecessor model, GPT-5.5, couldn't find a solution even after 20 hours. The answer combines known",
-      "date": "2026-07-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/"
     },
     {
       "category": "industry",

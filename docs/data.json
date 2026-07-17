@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T19:31:01.540Z",
+  "updated": "2026-07-17T22:05:44.015Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -274,6 +274,46 @@
       "url": "https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+      "date": "2026-07-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic",
+      "summary": "Meta is reportedly in talks with Anthropic to rent out compute capacity from its data centers. The article Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic appeared first on The Decoder.",
+      "date": "2026-07-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "summary": "The FireSat program can spot wildfires that other satellites miss.",
+      "date": "2026-07-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did",
+      "summary": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected \"Full Access Mode.\" The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation. OpenAI has",
+      "date": "2026-07-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/"
+    },
+    {
       "category": "hardware",
       "lab": "AI",
       "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
@@ -302,6 +342,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "date": "2026-07-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+      "date": "2026-07-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/"
     },
     {
       "category": "industry",
@@ -412,16 +472,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Ex-OpenAI CTO Murati's Thinking Machines drops Inkling, a 975B parameter model that leads US labs but trails China",
-      "summary": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has released Inkling, a multimodal open-weights model with 975 billion parameters. It leads U.S. open-weights models on the Artificial Analysis Intelligence Index, though top Chinese open models still beat it on som",
-      "date": "2026-07-16",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/"
     },
     {
       "category": "model",
@@ -552,16 +602,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under the same name",
-      "summary": "Google shipped an update to its open AI model Gemma 4 that speeds up performance on Nvidia Hopper GPUs, fixes tool calling bugs, and addresses problems with truncated responses. The article Gemma 4 gets a stealth update that fixes tool calling bugs and truncated responses under t",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/"
     },
     {
       "category": "industry",
@@ -784,26 +824,6 @@
       "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "date": "2026-07-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "date": "2026-07-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI's first branded hardware is... a light-up keyboard?",
@@ -822,16 +842,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "date": "2026-07-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
     },
     {
       "category": "industry",
@@ -1312,16 +1322,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
-      "summary": "More young girls sue X over Grok CSAM; X accused of shielding child predators.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/"
     },
     {
       "category": "industry",

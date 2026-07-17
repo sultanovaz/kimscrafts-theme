@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-17T10:57:38.898Z",
+  "updated": "2026-07-17T14:00:56.105Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 156
+    "fresh": 157
   },
   "ranking": [
     {
@@ -265,6 +265,26 @@
     },
     {
       "category": "hardware",
+      "lab": "AI",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "date": "2026-07-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Linus Torvalds tells AI critics in the Linux kernel community to fork off",
+      "summary": "Linux creator Linus Torvalds has come out strongly in favor of AI tools in kernel development. \"Linux is not one of those anti-AI projects,\" he wrote on the kernel mailing list amid a debate over Sashiko, the Linux Foundation's AI-powered code review tool. Torvalds said he would ",
+      "date": "2026-07-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/"
+    },
+    {
+      "category": "hardware",
       "lab": "Google DeepMind",
       "title": "Spot birds not golf",
       "summary": "<p>Suggestion for hyperscalers feeling pressure over data center water use:</p> <p>Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable ",
@@ -272,6 +292,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "Moonshot",
+      "title": "Quoting Kimi K3",
+      "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=48935342#48936515\"><p>Is there something I can actually help you with today?</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://news.ycombinator.com/item?id=48935342#48936515\">Kimi K3</a>, after refusing to leak its sy",
+      "date": "2026-07-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "A scorecard for the AI age",
+      "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "date": "2026-07-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
     },
     {
       "category": "benchmark",
@@ -705,16 +745,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
-      "summary": "OpenAI's internal GPT-Red model finds successful attacks in 84 percent of test scenarios through self-play training. Human red teamers manage just 13 percent. The results feed directly into hardening models like GPT-5.6 Sol. The article OpenAI is now using AI to attack its own AI",
-      "date": "2026-07-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
       "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
@@ -802,16 +832,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and othe",
-      "date": "2026-07-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/"
     },
     {
       "category": "model",
@@ -1274,16 +1294,6 @@
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Rewriting Bun in Rust",
-      "summary": "<p><strong><a href=\"https://bun.com/blog/bun-in-rust\">Rewriting Bun in Rust</a></strong></p> Jarred Sumner has been promising this blog post (<a href=\"https://x.com/jarredsumner/status/2053063524826620129\">since May 9th</a>) about his Zig to Rust rewrite of Bun for significantly ",
-      "date": "2026-07-08",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
@@ -1386,22 +1396,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/australian-payments-plus"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "MUFG aims to become AI-native with OpenAI",
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "date": "2026-07-07",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/mufg"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/australian-payments-plus"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/revamped-kernels"
-    },
-    {
-      "category": "research",
-      "lab": "Google DeepMind",
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "summary": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "date": "2026-07-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
     }
   ]
 }

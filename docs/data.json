@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-17T22:05:44.015Z",
+  "updated": "2026-07-18T03:28:51.862Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 155
   },
   "ranking": [
     {
@@ -342,6 +342,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "date": "2026-07-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "date": "2026-07-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
     },
     {
       "category": "industry",
@@ -765,16 +785,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "Mermaid to Unicode box art (grok-mermaid)",
       "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/grok-mermaid\">Mermaid to Unicode box art (grok-mermaid)</a></p> <p>While <a href=\"https://simonwillison.net/2026/Jul/15/grok-build/\">exploring the codebase</a> for the newly open-sourced Grok CLI coding agent I ca",
@@ -832,16 +842,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "date": "2026-07-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
     },
     {
       "category": "industry",

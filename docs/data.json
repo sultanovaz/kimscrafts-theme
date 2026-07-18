@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T19:29:31.492Z",
+  "updated": "2026-07-18T22:06:09.499Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -322,6 +322,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "SQLite Query Explainer",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/sqlite-query-explainer\">SQLite Query Explainer</a></p> <p>Julia Evan's, in <a href=\"https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/\">Learning a few things about running SQLite</a>:</p> <blockquote> ",
+      "date": "2026-07-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
     },
     {
       "category": "industry",
@@ -1252,16 +1262,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/torch-attention-profile"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "The new GPT-5.6 family: Luna, Terra, Sol",
-      "summary": "<p>OpenAI's latest flagship model <a href=\"https://openai.com/index/gpt-5-6/\">hit general availability this morning</a>, and comes in three sizes: Luna, Terra, and Sol (from smallest to largest).</p> <p>The new models are priced per 1M input/output tokens as Luna $1/$6, Terra $2.",
-      "date": "2026-07-09",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything"
     },
     {
       "category": "industry",

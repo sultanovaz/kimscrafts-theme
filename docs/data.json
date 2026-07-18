@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T03:28:51.862Z",
+  "updated": "2026-07-18T08:06:34.937Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 155
+    "fresh": 154
   },
   "ranking": [
     {
@@ -253,6 +253,46 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
+      "summary": "Anthropic will include Claude Fable 5 in Max and Team Premium plans starting July 20, but at just 50 percent of regular limits, which themselves drop by a third that same day. Pro users get a one-time $100 credit, then pay API rates. The reversal from Anthropic's original plan to",
+      "date": "2026-07-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude make Fable 5 permanent",
+      "summary": "<p><strong><a href=\"https://twitter.com/claudeai/status/2078302415804379218\">Claude make Fable 5 permanent</a></strong></p> An update from the <code>@claudeai</code> account on Twitter:</p> <blockquote> <p>Beginning July 20, Claude Fable 5 will be included in all Max and Team Pre",
+      "date": "2026-07-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "date": "2026-07-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "nascheme/quixote",
+      "summary": "<p><strong><a href=\"https://github.com/nascheme/quixote\">nascheme/quixote</a></strong></p> A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was <a href=\"(https://github.com/nascheme/quixote/commit/7f775cf9d1",
+      "date": "2026-07-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -602,26 +642,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Nvidia",
-      "title": "Sakana AI's orchestrator adds Nvidia Nemotron to prove \"collective intelligence\" can rival single frontier models",
-      "summary": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks. The core argument: Open models only become competitive with Frontier systems when used in a coordinated manner. Howeve",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/"
     },
     {
       "category": "industry",
@@ -1224,16 +1244,6 @@
       "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Introducing Muse Spark 1.1",
-      "summary": "<p><strong><a href=\"https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/\">Introducing Muse Spark 1.1</a></strong></p> Following <a href=\"https://simonwillison.net/2026/Apr/8/muse-spark/\">Muse Spark in April</a>, here's Muse Spark 1.1 - the first Spark model to offer an",
-      "date": "2026-07-09",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
@@ -1242,16 +1252,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "llm-meta-ai 0.1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-meta-ai/releases/tag/0.1\">llm-meta-ai 0.1</a></p> <p>Let's LLM run prompts against the new <a href=\"https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/\">muse-spark-1.1</a> model.</p> <p>Tags: <a href=",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything"
     },
     {
       "category": "model",

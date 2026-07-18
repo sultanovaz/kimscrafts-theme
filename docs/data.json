@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-18T10:39:30.823Z",
+  "updated": "2026-07-18T13:46:20.656Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 154
+    "fresh": 153
   },
   "ranking": [
     {
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "AI",
+      "title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order",
+      "summary": "At the World AI Conference in Shanghai, Xi Jinping announced 5,000 AI training slots for Global South countries and the launch of the \"World Artificial Intelligence Cooperation Organization.\" Cooperation centers with ASEAN, the African Union, BRICS, and other alliances are planne",
+      "date": "2026-07-18",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/"
+    },
+    {
+      "category": "model",
       "lab": "DeepSeek",
       "title": "Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost",
       "summary": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four to seven months. At the start of 2025, the gap was still six to ten months. It also found that safety measures on open m",
@@ -266,7 +276,7 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than \"imperfect alignment\"",
+      "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than imperfect alignment",
       "summary": "The US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet. Large language models would run directly on warships, and an AI war council would prioritize mission scenarios. The core message is that moving too slowly carries greater",
       "date": "2026-07-18",
       "importance": 3,
@@ -302,6 +312,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "date": "2026-07-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
     },
     {
       "category": "industry",
@@ -602,16 +622,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google rebrands NotebookLM as Gemini Notebook and opens its search app to third-party integration",
-      "summary": "Google is renaming NotebookLM to Gemini Notebook and integrating the tool more deeply into its ecosystem. A new feature gives each notebook its own cloud computer that can write and run code, initially for AI Ultra and Workspace customers. Separately, Google Search is getting app",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-rebrands-notebooklm-as-gemini-notebook-and-opens-its-search-app-to-third-party-integration/"
     },
     {
       "category": "model",
@@ -1312,16 +1322,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-      "summary": "AI cheating leads to \"a failed society,\" professor says.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
     },
     {
       "category": "industry",

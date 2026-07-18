@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T08:06:34.937Z",
+  "updated": "2026-07-18T10:39:30.823Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost",
+      "summary": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four to seven months. At the start of 2025, the gap was still six to ten months. It also found that safety measures on open m",
+      "date": "2026-07-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than \"imperfect alignment\"",
+      "summary": "The US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet. Large language models would run directly on warships, and an AI war council would prioritize mission scenarios. The core message is that moving too slowly carries greater",
+      "date": "2026-07-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -615,16 +635,6 @@
     },
     {
       "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Germany puts Google's AI Overviews and Perplexity under media law in first-of-its-kind ruling",
-      "summary": "German media regulators say Google's AI Overviews are Google's own content, not neutral search results, and that they crowd out regular links. The regulators have issued their first rulings against Google and Perplexity under the country's State Media Treaty. Both companies have ",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Why is OpenAI selling a ChatGPT basketball?",
       "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
@@ -632,16 +642,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents",
-      "summary": "OpenAI and keyboard manufacturer Work Louder have unveiled the Codex Micro, a compact hardware controller designed for working with AI agents. The article OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents appeared first on The D",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/"
     },
     {
       "category": "industry",

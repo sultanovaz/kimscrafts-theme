@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T16:08:49.687Z",
+  "updated": "2026-07-19T19:30:22.536Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -312,6 +312,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "date": "2026-07-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
     },
     {
       "category": "industry",
@@ -802,16 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/"
     },
     {
       "category": "model",

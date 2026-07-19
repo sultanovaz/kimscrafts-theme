@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T10:42:38.706Z",
+  "updated": "2026-07-19T13:51:27.428Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\"",
+      "summary": "Alibaba has unveiled Qwen 3.8, a multimodal AI model with 2.4 trillion parameters that the Qwen team says rivals leading models and trails only Fable 5. A preview is available now. The article Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only t",
+      "date": "2026-07-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/"
+    },
+    {
       "category": "benchmark",
       "lab": "Google DeepMind",
       "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing",
@@ -442,16 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did",
-      "summary": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected \"Full Access Mode.\" The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation. OpenAI has",
-      "date": "2026-07-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/"
     },
     {
       "category": "hardware",

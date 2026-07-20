@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T09:32:21.908Z",
+  "updated": "2026-07-20T14:32:04.875Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
+      "summary": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures. Rather than impose an outright ban, Washington could use soft rules to deter adoption while pr",
+      "date": "2026-07-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+      "summary": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system. The attack spanned thousands of actions controlled by an agent framework. During forensic analysis, commercial AI models actually got",
+      "date": "2026-07-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/"
+    },
+    {
       "category": "model",
       "lab": "Moonshot",
       "title": "Moonshot pauses new Kimi K3 subscriptions after GPU demand maxes out in 48 hours",
@@ -272,6 +292,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/"
     },
     {
       "category": "model",
@@ -347,7 +377,7 @@
       "category": "industry",
       "lab": "OpenAI",
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
       "date": "2026-07-19",
       "importance": 2,
       "tags": [],
@@ -367,7 +397,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
       "date": "2026-07-19",
       "importance": 2,
       "tags": [],
@@ -402,26 +432,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than imperfect alignment",
-      "summary": "The US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet. Large language models would run directly on warships, and an AI war council would prioritize mission scenarios. The core message is that moving too slowly carries greater",
-      "date": "2026-07-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
-      "summary": "Anthropic will include Claude Fable 5 in Max and Team Premium plans starting July 20, but at just 50 percent of regular limits, which themselves drop by a third that same day. Pro users get a one-time $100 credit, then pay API rates. The reversal from Anthropic's original plan to",
-      "date": "2026-07-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/"
     },
     {
       "category": "model",
@@ -1312,16 +1322,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-      "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/"
     },
     {
       "category": "industry",

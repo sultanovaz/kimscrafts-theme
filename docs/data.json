@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-20T16:43:09.183Z",
+  "updated": "2026-07-20T19:55:02.073Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 152
+    "fresh": 154
   },
   "ranking": [
     {
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Alibaba",
+      "title": "Who’s Afraid of Chinese Models?",
+      "summary": "<p><strong><a href=\"https://stratechery.com/2026/whos-afraid-of-chinese-models/\">Who’s Afraid of Chinese Models?</a></strong></p> Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlic",
+      "date": "2026-07-20",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+      "summary": "Google is developing \"Frozen v2,\" a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs. Scheduled for 2028, the chip would drastically cut Google's AI inference costs and",
+      "date": "2026-07-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+      "summary": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prompts and founded a new AI film studio, Barley Studios, to produce a full-length f",
+      "date": "2026-07-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow",
+      "summary": "Microsoft is expanding Azure's AI infrastructure with AMD's new Helios platform, which is set to challenge Nvidia's GPU systems in the second half of 2026. A public GitHub profile suggests Anthropic is also testing AMD hardware, putting more pressure on Nvidia's pricing power. Th",
+      "date": "2026-07-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
@@ -294,6 +334,36 @@
       "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "summary": "X says the rebuilt version of its Android app is now available globally.",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Reverse-engineering is cheap now",
+      "summary": "<p>I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes.</p> <p>I think this is an interesting illustration of the impact of the reduced cost of writing code.</p> <p>Prior to agents, it was entirely possible to revers",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything"
+    },
+    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Introducing Cosmos 3 Edge",
@@ -302,6 +372,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/"
     },
     {
       "category": "industry",
@@ -322,6 +402,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models"
     },
     {
       "category": "model",
@@ -362,16 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "AI",
-      "title": "AI chatbots reading X-rays can be dangerously confident even when they're wrong",
-      "summary": "The RadLE 2.0 benchmark tests whether AI models in radiology can tell when they should leave a diagnosis to a human. Many models deliver wrong findings with full confidence, and human radiologists are still well ahead. Before AI can diagnose on its own, it needs to learn when it'",
-      "date": "2026-07-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/"
     },
     {
       "category": "model",
@@ -432,26 +512,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order",
-      "summary": "At the World AI Conference in Shanghai, Xi Jinping announced 5,000 AI training slots for Global South countries and the launch of the \"World Artificial Intelligence Cooperation Organization.\" Cooperation centers with ASEAN, the African Union, BRICS, and other alliances are planne",
-      "date": "2026-07-18",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost",
-      "summary": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four to seven months. At the start of 2025, the gap was still six to ten months. It also found that safety measures on open m",
-      "date": "2026-07-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/"
     },
     {
       "category": "model",
@@ -794,16 +854,6 @@
       "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Why teens deserve access to safe AI",
@@ -812,16 +862,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
     },
     {
       "category": "industry",
@@ -1204,26 +1244,6 @@
       "url": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Fable gets another bump",
-      "summary": "<p>One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again, <a href=\"https://x.com/claudeai/status/2076351399999557669\">bumped the date</a> that Fable stops being available in their Claude Max plans:</p> <blockquote> <p>W",
-      "date": "2026-07-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "sqlite-utils 4.1.1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.1.1\">sqlite-utils 4.1.1</a></p> <p>Mainly a fix for an edge case that regular Claude chat spotted while <a href=\"https://claude.ai/share/564b187d-d126-47ea-9b59-07c16ade0b70\">experimenting",
-      "date": "2026-07-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Directly Responsible Individuals (DRI)",
@@ -1296,22 +1316,22 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/bio-bug-bounty"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "date": "2026-07-09",
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/bio-bug-bounty"
     },
     {
       "category": "product",
@@ -1406,22 +1426,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/mufg"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "date": "2026-07-07",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/australian-payments-plus"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "date": "2026-07-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/mufg"
     },
     {
       "category": "industry",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/skypilot-hf-storage"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "summary": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/lerobot-release-v060"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "PRX Part 4: Our Data Strategy",
-      "summary": "PRX Part 4: Our Data Strategy",
-      "date": "2026-07-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data"
     }
   ]
 }

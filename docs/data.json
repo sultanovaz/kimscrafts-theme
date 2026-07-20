@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T19:55:02.073Z",
+  "updated": "2026-07-20T22:12:14.293Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -334,6 +334,36 @@
       "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead ",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "X relaunches a rebuilt Android app after year-long effort",
@@ -595,16 +625,6 @@
     },
     {
       "category": "hardware",
-      "lab": "AI",
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "date": "2026-07-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"
-    },
-    {
-      "category": "hardware",
       "lab": "Google DeepMind",
       "title": "Spot birds not golf",
       "summary": "<p>Suggestion for hyperscalers feeling pressure over data center water use:</p> <p>Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable ",
@@ -842,16 +862,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google Vids now lets you star in your own AI videos",
-      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/"
     },
     {
       "category": "industry",
@@ -1292,16 +1302,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/torch-attention-profile"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
-      "summary": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/"
     },
     {
       "category": "model",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T22:08:02.148Z",
+  "updated": "2026-07-20T04:02:31.499Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Quoting Sam Altman",
+      "summary": "<blockquote cite=\"https://twitter.com/techemails/status/2078854346683678927\"><p>We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the appr",
+      "date": "2026-07-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -1212,16 +1222,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "sqlite-utils 4.1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.1\">sqlite-utils 4.1</a></p> <p>The first dot-release since <a href=\"https://simonwillison.net/2026/Jul/7/sqlite-utils-4/\">4.0 a few days ago</a>, introducing a number of minor new features",
-      "date": "2026-07-11",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything"
     },
     {
       "category": "research",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T14:32:04.875Z",
+  "updated": "2026-07-20T16:43:09.183Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -295,6 +295,26 @@
     },
     {
       "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Introducing Cosmos 3 Edge",
+      "summary": "Introducing Cosmos 3 Edge",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Beyond grep: The case for a context-rich AI coding harness",
       "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
@@ -487,7 +507,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "nascheme/quixote",
-      "summary": "<p><strong><a href=\"https://github.com/nascheme/quixote\">nascheme/quixote</a></strong></p> A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was <a href=\"(https://github.com/nascheme/quixote/commit/7f775cf9d1",
+      "summary": "<p><strong><a href=\"https://github.com/nascheme/quixote\">nascheme/quixote</a></strong></p> A certain vintage of Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was <a href=\"(https://github.com/nascheme/quixote/commit/7f775cf9d1",
       "date": "2026-07-18",
       "importance": 2,
       "tags": [],
@@ -547,7 +567,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
       "date": "2026-07-17",
       "importance": 2,
       "tags": [],
@@ -592,16 +612,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "summary": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "date": "2026-07-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
     },
     {
       "category": "industry",
@@ -822,16 +832,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Yes, you can now order DoorDash from the command line",
-      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/"
     },
     {
       "category": "model",

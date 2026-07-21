@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-21T16:40:32.238Z",
+  "updated": "2026-07-21T19:49:39.632Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 158
   },
   "ranking": [
     {
@@ -274,6 +274,56 @@
       "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested",
+      "summary": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent. The catch: only judges who got hands-on training saw gains. Without it, the effect mostly disappeared. The researchers estimate a return of up to $38.50 per",
+      "date": "2026-07-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+      "date": "2026-07-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Cowork learns new skills through screen recordings and voice-over explanations",
+      "summary": "Anthropic's Claude Cowork desktop app now lets users record their screen while completing a task, add voice commentary, and have Claude turn the whole thing into a reusable skill. The article Claude Cowork learns new skills through screen recordings and voice-over explanations ap",
+      "date": "2026-07-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
+      "date": "2026-07-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training",
+      "summary": "Google is shipping three new Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens, and a cybersecurity model available only to governments and select partners. But the anticipated flagship, Gemini 3.5 Pro, is still mi",
+      "date": "2026-07-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/"
+    },
+    {
       "category": "model",
       "lab": "Alibaba",
       "title": "Alibaba's Qwen-Image-3.0 renders full infographic grids and readable ten-pixel text in a single pass",
@@ -332,6 +382,56 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/grabette"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "date": "2026-07-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "AI and the rise of the universal entertainment app",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, ",
+      "date": "2026-07-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
+      "date": "2026-07-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
+      "date": "2026-07-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Introducing the ChatGPT for small business program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "date": "2026-07-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
     },
     {
       "category": "industry",
@@ -412,36 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
-      "summary": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures. Rather than impose an outright ban, Washington could use soft rules to deter adoption while pr",
-      "date": "2026-07-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
-      "summary": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system. The attack spanned thousands of actions controlled by an agent framework. During forensic analysis, commercial AI models actually got",
-      "date": "2026-07-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/"
-    },
-    {
-      "category": "model",
-      "lab": "Moonshot",
-      "title": "Moonshot pauses new Kimi K3 subscriptions after GPU demand maxes out in 48 hours",
-      "summary": "Moonshot has temporarily stopped selling new subscriptions for its Kimi K3 model as demand nearly maxed out its GPU capacity within 48 hours. The company plans to split its subscription model to spread computing power more evenly. The article Moonshot pauses new Kimi K3 subscript",
-      "date": "2026-07-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/"
     },
     {
       "category": "model",
@@ -644,16 +714,6 @@
       "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
-      "date": "2026-07-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
-    },
-    {
       "category": "model",
       "lab": "Moonshot",
       "title": "Kimi: Threat or menace?",
@@ -694,16 +754,6 @@
       "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-      "date": "2026-07-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
@@ -732,26 +782,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "date": "2026-07-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
-      "date": "2026-07-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
     },
     {
       "category": "product",
@@ -1305,16 +1335,6 @@
     },
     {
       "category": "industry",
-      "lab": "Meta",
-      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
-      "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
-      "date": "2026-07-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
@@ -1362,16 +1382,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/bio-bug-bounty"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI wants its new tool to do your work for you and with you",
-      "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
-    },
-    {
-      "category": "hardware",
-      "lab": "Hugging Face",
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "summary": "Hugging Face Models on Foundry Managed Compute",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute"
     }
   ]
 }

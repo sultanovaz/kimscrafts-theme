@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T22:12:14.293Z",
+  "updated": "2026-07-21T03:42:39.046Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "date": "2026-07-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
+    },
+    {
       "category": "model",
       "lab": "Alibaba",
       "title": "Who’s Afraid of Chinese Models?",
@@ -336,6 +346,16 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Trump’s latest AI czar has already resigned",
+      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "date": "2026-07-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
       "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
       "date": "2026-07-20",
@@ -354,10 +374,10 @@
       "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
     },
     {
-      "category": "model",
+      "category": "industry",
       "lab": "AI",
       "title": "AI’s most important protocol is getting a little bit easier to use",
-      "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead ",
+      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
       "date": "2026-07-20",
       "importance": 2,
       "tags": [],
@@ -692,26 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
-      "date": "2026-07-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s ",
-      "date": "2026-07-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/"
     },
     {
       "category": "industry",

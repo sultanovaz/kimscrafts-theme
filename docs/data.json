@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-21T14:19:47.531Z",
+  "updated": "2026-07-21T16:40:32.238Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 155
+    "fresh": 157
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Mistral",
+      "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe",
+      "summary": "Microsoft and Mistral are expanding their strategic partnership with a multi-billion-dollar deal to build out AI infrastructure in Europe. The article Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe appeared first on The Decoder.",
+      "date": "2026-07-21",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/"
+    },
+    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
@@ -262,6 +272,26 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Alibaba",
+      "title": "Alibaba's Qwen-Image-3.0 renders full infographic grids and readable ten-pixel text in a single pass",
+      "summary": "Alibaba's Qwen team has introduced Qwen-Image-3.0, an image generator that accepts prompts up to 4,500 tokens, renders legible text as small as ten pixels, and supports twelve languages natively. It can create complex layouts such as infographics, LaTeX papers, and newspaper page",
+      "date": "2026-07-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/alibabas-qwen-image-3-0-renders-full-infographic-grids-and-readable-ten-pixel-text-in-a-single-pass/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "date": "2026-07-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
     },
     {
       "category": "benchmark",
@@ -306,8 +336,28 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+      "date": "2026-07-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Nativ: Run AI models locally on your Mac",
+      "summary": "<p><strong><a href=\"https://blaizzy.github.io/nativ/\">Nativ: Run AI models locally on your Mac</a></strong></p> Prince Canuma is the developer behind the excellent <a href=\"https://github.com/Blaizzy/mlx-vlm\">MLX-VLM</a> Python library for running vision-LLMs using MLX on a Mac.<",
+      "date": "2026-07-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
       "date": "2026-07-21",
       "importance": 2,
       "tags": [],
@@ -526,26 +576,6 @@
     {
       "category": "model",
       "lab": "Anthropic",
-      "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\"",
-      "summary": "Alibaba has unveiled Qwen 3.8, a multimodal AI model with 2.4 trillion parameters that the Qwen team says rivals leading models and trails only Fable 5. A preview is available now. The article Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only t",
-      "date": "2026-07-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Google DeepMind",
-      "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing",
-      "summary": "Google Deepmind's GenCeption repurposes a video generator for classic vision tasks such as depth estimation and segmentation, matching state-of-the-art systems with far less training data. The model trained almost entirely on synthetic videos. Its results add to the debate over w",
-      "date": "2026-07-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
       "title": "Claude Code uses Bun written in Rust now",
       "summary": "<p>In <a href=\"https://bun.com/blog/bun-in-rust\">Rewriting Bun in Rust</a> Jarred Sumner made the following claim:</p> <blockquote> <p>Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone notice",
       "date": "2026-07-19",
@@ -684,6 +714,16 @@
       "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "date": "2026-07-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/"
+    },
+    {
       "category": "hardware",
       "lab": "Google DeepMind",
       "title": "Spot birds not golf",
@@ -712,16 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "date": "2026-07-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
     },
     {
       "category": "product",
@@ -1264,16 +1294,6 @@
       "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Directly Responsible Individuals (DRI)",
-      "summary": "<p><strong><a href=\"https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/\">Directly Responsible Individuals (DRI)</a></strong></p> I went looking for a definition of \"Directly Responsible Individuals\" and the best I found was in the GitLab handbook. ",
-      "date": "2026-07-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything"
-    },
-    {
       "category": "research",
       "lab": "OpenAI",
       "title": "Getting started with ChatGPT",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/australian-payments-plus"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/mufg"
     }
   ]
 }

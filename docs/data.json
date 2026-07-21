@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-21T19:49:39.632Z",
+  "updated": "2026-07-21T22:10:59.763Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 158
+    "fresh": 160
   },
   "ranking": [
     {
@@ -274,6 +274,16 @@
       "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "date": "2026-07-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested",
@@ -385,6 +395,16 @@
     },
     {
       "category": "industry",
+      "lab": "Hugging Face",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "summary": "The State of Simulation for Physical AI: An Overview",
+      "date": "2026-07-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
       "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
@@ -472,6 +492,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "date": "2026-07-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "date": "2026-07-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
     },
     {
       "category": "model",
@@ -594,16 +634,6 @@
       "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything"
     },
     {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Introducing Cosmos 3 Edge",
-      "summary": "Introducing Cosmos 3 Edge",
-      "date": "2026-07-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Adobe camera app’s new feature will critique your photos using AI",
@@ -712,16 +742,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Moonshot",
-      "title": "Kimi: Threat or menace?",
-      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "date": "2026-07-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
     },
     {
       "category": "model",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-gpt-live"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Native-speed vLLM transformers modeling backend",
-      "summary": "Native-speed vLLM transformers modeling backend",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "summary": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "date": "2026-07-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
     }
   ]
 }

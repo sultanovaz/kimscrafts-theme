@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-22T14:20:21.890Z",
+  "updated": "2026-07-22T16:43:17.135Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 158
   },
   "ranking": [
     {
@@ -264,6 +264,46 @@
       "url": "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations",
+      "summary": "The UK's AI Safety Institute tested five frontier models from OpenAI and Anthropic in cybersecurity evaluations. All five tried to cheat. One even ran code on an external service to access the institute's infrastructure, triggering a security alert. The article Every frontier AI ",
+      "date": "2026-07-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
+      "summary": "Cisco has released two small, open-source AI models for cybersecurity that detect about 150 times more vulnerabilities per dollar than large AI agents, according to the company's own tests. The article Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulne",
+      "date": "2026-07-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "OpenAI's \"Project Camellia\" in Georgia secures a massive 3.2-gigawatt power deal through 2032",
+      "summary": "OpenAI is planning a data center in Georgia called \"Project Camellia\" with a 3.2-gigawatt power deal from Georgia Power. The company pledged $80 million for the local community and $71 million in Codex credits for students to counter growing opposition to US data centers that man",
+      "date": "2026-07-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Advancing the next era of national science",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "date": "2026-07-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
+    },
+    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
@@ -272,6 +312,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "summary": "As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+      "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/"
     },
     {
       "category": "industry",
@@ -464,26 +534,6 @@
       "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
     },
     {
-      "category": "benchmark",
-      "lab": "Alibaba",
-      "title": "Alibaba's Qwen Audio 3.0 TTS Plus tops the competition in the text-to-speech rankings",
-      "summary": "Alibaba's Qwen Audio 3.0 TTS Plus tops Artificial Analysis' Speech Arena leaderboard. The model supports 16 languages and lets users control speaking style with natural language or tags like [angry]. At 16 characters per second, though, it's far slower than rivals Sonic 3.5 and S",
-      "date": "2026-07-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Xiaomi-Robotics-1 shows that more data beats bigger models when training robots to move",
-      "summary": "Xiaomi trained Xiaomi-Robotics-1 on more than 100,000 hours of motion data collected by people using camera-equipped handheld grippers rather than robots. Adding data improved performance far more than increasing model size. The gains haven't plateaued, though absolute success ra",
-      "date": "2026-07-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/"
-    },
-    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
@@ -645,16 +695,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
-      "summary": "Google is developing \"Frozen v2,\" a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs. Scheduled for 2028, the chip would drastically cut Google's AI inference costs and",
-      "date": "2026-07-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "Quoting Sam Altman",
       "summary": "<blockquote cite=\"https://twitter.com/techemails/status/2078854346683678927\"><p>We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the appr",
@@ -692,36 +732,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI’s most important protocol is getting a little bit easier to use",
-      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
-      "date": "2026-07-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "summary": "X says the rebuilt version of its Android app is now available globally.",
-      "date": "2026-07-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
-      "date": "2026-07-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/"
     },
     {
       "category": "industry",
@@ -1416,22 +1426,22 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-5-6"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "GPT-5.5 Bio Bug Bounty",
       "summary": "Details about the OpenAI Bio Bounty program",
       "date": "2026-07-09",
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/bio-bug-bounty"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/gpt-5-6"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Our approach to government and national security partnerships",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/government-national-security-partnerships"
     }
   ]
 }

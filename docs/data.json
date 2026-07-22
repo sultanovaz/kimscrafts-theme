@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-22T08:42:40.257Z",
+  "updated": "2026-07-22T11:18:13.461Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 155
   },
   "ranking": [
     {
@@ -262,6 +262,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/"
     },
     {
       "category": "industry",
@@ -712,16 +722,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "What to watch for after Jensen Huang’s Japan visit",
-      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-      "date": "2026-07-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
     },
     {
       "category": "benchmark",

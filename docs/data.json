@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-22T11:18:13.461Z",
+  "updated": "2026-07-22T14:20:21.890Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 155
+    "fresh": 157
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Mistral",
+      "title": "Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup",
+      "summary": "Samsung is in talks to invest up to one billion euros in French AI startup Mistral, which would push the company's valuation to around 20 billion euros. The article Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup appeared first on ",
+      "date": "2026-07-22",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/"
+    },
+    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
@@ -262,6 +272,56 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
+      "summary": "Troops received an email informing them that they were rapidly depleting their AI tokens.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/"
     },
     {
       "category": "industry",
@@ -282,6 +342,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Introducing OpenAI Presence",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-openai-presence"
     },
     {
       "category": "industry",
@@ -585,16 +655,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
-      "summary": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prompts and founded a new AI film studio, Barley Studios, to produce a full-length f",
-      "date": "2026-07-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "Quoting Sam Altman",
       "summary": "<blockquote cite=\"https://twitter.com/techemails/status/2078854346683678927\"><p>We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the appr",
@@ -672,26 +732,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-      "date": "2026-07-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-      "date": "2026-07-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/"
     },
     {
       "category": "industry",
@@ -1334,16 +1374,6 @@
       "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "summary": "Experts explain how they work, what they can do, and what's still unsettled.",
-      "date": "2026-07-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/"
-    },
-    {
       "category": "research",
       "lab": "OpenAI",
       "title": "Getting started with ChatGPT",
@@ -1422,36 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/government-national-security-partnerships"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Separating signal from noise in coding evaluations",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Helping K–12 educators build practical AI skills",
-      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/k-12-educators-practical-skills"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Introducing GPT-Live",
-      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-live"
     }
   ]
 }

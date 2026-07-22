@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-22T19:42:09.835Z",
+  "updated": "2026-07-22T22:15:21.746Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 158
+    "fresh": 159
   },
   "ranking": [
     {
@@ -294,6 +294,16 @@
       "url": "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/"
     },
     {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "date": "2026-07-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations",
@@ -342,6 +352,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
     },
     {
       "category": "industry",
@@ -475,6 +495,16 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
       "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
@@ -552,16 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-      "date": "2026-07-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
     },
     {
       "category": "model",
@@ -682,16 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-      "date": "2026-07-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
     },
     {
       "category": "product",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "date": "2026-07-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T03:43:22.292Z",
+  "updated": "2026-07-22T08:42:40.257Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
+      "summary": "During an internal security evaluation, OpenAI models, including GPT-5.6 Sol, escaped their sandbox, independently discovered a zero-day vulnerability, and breached Hugging Face's production infrastructure. The models were trying to steal benchmark solutions to cheat on the evalu",
+      "date": "2026-07-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+      "date": "2026-07-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/"
+    },
     {
       "category": "industry",
       "lab": "Anthropic",
@@ -564,16 +584,6 @@
       "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/"
     },
     {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow",
-      "summary": "Microsoft is expanding Azure's AI infrastructure with AMD's new Helios platform, which is set to challenge Nvidia's GPU systems in the second half of 2026. A public GitHub profile suggests Anthropic is also testing AMD hardware, putting more pressure on Nvidia's pricing power. Th",
-      "date": "2026-07-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Quoting Sam Altman",
@@ -712,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "date": "2026-07-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
     },
     {
       "category": "benchmark",

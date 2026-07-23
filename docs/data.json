@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T14:29:12.851Z",
+  "updated": "2026-07-23T16:44:17.849Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,26 @@
       "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/"
     },
     {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
+      "date": "2026-07-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google’s Gemini nears billion-user milestone",
+      "summary": "Gemini had over 750 million monthly users in February.",
+      "date": "2026-07-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
@@ -272,6 +292,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia is sending GPUs to the moon",
+      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/"
     },
     {
       "category": "model",
@@ -634,16 +694,6 @@
       "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Introducing OpenAI Presence",
@@ -652,16 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-openai-presence"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/"
     },
     {
       "category": "industry",
@@ -682,16 +722,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "date": "2026-07-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/"
     },
     {
       "category": "product",
@@ -732,16 +762,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/grabette"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-      "date": "2026-07-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/"
     },
     {
       "category": "industry",
@@ -1352,26 +1372,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "New York bans data center construction for a year, rattling AI industry",
-      "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/"
     },
     {
       "category": "industry",

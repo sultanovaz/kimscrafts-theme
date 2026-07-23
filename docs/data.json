@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-23T16:44:17.849Z",
+  "updated": "2026-07-23T19:44:28.726Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 152
   },
   "ranking": [
     {
@@ -264,6 +264,36 @@
       "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "ChatGPT will give you worse health advice if you don't pay",
+      "summary": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask ChatGPT health questions every week, but paying users get better answers. The more powerful GPT-5.6 Sol model is reserved",
+      "date": "2026-07-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs",
+      "summary": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time. BFL's own tests put it just ahead of market leader Seedance 2.0, though independent results aren't yet avail",
+      "date": "2026-07-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+      "summary": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an employee's behalf. The agent inherited the victim's identity and access rights, bypassed approval requirements through the ma",
+      "date": "2026-07-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/"
+    },
+    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Google just had its first negative cash flow quarter due to massive AI spending",
@@ -292,6 +322,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
     },
     {
       "category": "industry",
@@ -365,6 +435,16 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "Launching Health in ChatGPT",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/health-in-chatgpt"
+    },
+    {
+      "category": "industry",
       "lab": "Hugging Face",
       "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
       "summary": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
@@ -402,26 +482,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-      "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthr",
-      "date": "2026-07-22",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/"
-    },
-    {
-      "category": "industry",
-      "lab": "Mistral",
-      "title": "Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup",
-      "summary": "Samsung is in talks to invest up to one billion euros in French AI startup Mistral, which would push the company's valuation to around 20 billion euros. The article Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup appeared first on ",
-      "date": "2026-07-22",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/"
     },
     {
       "category": "model",
@@ -492,16 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
-      "summary": "During an internal security evaluation, OpenAI models, including GPT-5.6 Sol, escaped their sandbox, independently discovered a zero-day vulnerability, and breached Hugging Face's production infrastructure. The models were trying to steal benchmark solutions to cheat on the evalu",
-      "date": "2026-07-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/"
     },
     {
       "category": "industry",
@@ -644,16 +694,6 @@
       "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Building AI infrastructure with the Effingham County community",
@@ -672,26 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-news-organizations-are-using-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/"
     },
     {
       "category": "product",
@@ -722,16 +742,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested",
-      "summary": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent. The catch: only judges who got hands-on training saw gains. Without it, the effect mostly disappeared. The researchers estimate a return of up to $38.50 per",
-      "date": "2026-07-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/"
     },
     {
       "category": "model",
@@ -1065,26 +1075,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none ",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, ",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "Quoting Thibault Sottiaux",
       "summary": "<blockquote cite=\"https://twitter.com/thsottiaux/status/2077630111499882637\"><p>On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. </p> <p>What we have found is that this most commonly occurs when:</p> <ul> <li>Full access mode is",
@@ -1092,26 +1082,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector data",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to pr",
-      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
     },
     {
       "category": "industry",
@@ -1242,16 +1212,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: mo",
-      "date": "2026-07-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
     },
     {
       "category": "industry",
@@ -1386,22 +1346,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "How data science teams use ChatGPT Work",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "How sales teams use ChatGPT Work",
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "date": "2026-07-14",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How data science teams use ChatGPT Work",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
     },
     {
       "category": "model",
@@ -1452,6 +1412,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/bio-bug-bounty"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/gpt-5-6"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "date": "2026-07-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Our approach to government and national security partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "date": "2026-07-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/government-national-security-partnerships"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-23T03:42:39.361Z",
+  "updated": "2026-07-23T08:43:23.013Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 158
   },
   "ranking": [
     {
@@ -253,6 +253,36 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Seth Larson",
+      "summary": "<blockquote cite=\"https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/\"><p>The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was <a href=\"https://github.com/pypi/warehouse/",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "summary": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nunchaku-diffusers"
+    },
     {
       "category": "benchmark",
       "lab": "Anthropic",
@@ -732,16 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "AI and the rise of the universal entertainment app",
-      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, ",
-      "date": "2026-07-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/"
     },
     {
       "category": "industry",
@@ -1335,16 +1355,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "lobste.rs is now running on SQLite",
-      "summary": "<p><strong><a href=\"https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite\">lobste.rs is now running on SQLite</a></strong></p> Community site <a href=\"https://lobste.rs\">Lobsters</a> has been planning a migration away from MariaDB <a href=\"https://github.com/lobsters/lobs",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything"
-    },
-    {
-      "category": "industry",
       "lab": "Google DeepMind",
       "title": "Google revamps image search for its 25th anniversary with more images and more AI",
       "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-5-6"
     }
   ]
 }

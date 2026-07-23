@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-23T11:19:13.217Z",
+  "updated": "2026-07-23T14:29:12.851Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 158
+    "fresh": 157
   },
   "ranking": [
     {
@@ -253,6 +253,36 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\"",
+      "summary": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the second quarter. CEO Sundar Pichai says Google needs a larger base model for its next leap in AI and has kicked off an ambi",
+      "date": "2026-07-23",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
+      "summary": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, revise failed approaches, and avoid giving up too soon during long agentic sessions. The compact model beats several much l",
+      "date": "2026-07-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+      "date": "2026-07-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/"
+    },
     {
       "category": "industry",
       "lab": "AI",
@@ -675,16 +705,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Cowork learns new skills through screen recordings and voice-over explanations",
-      "summary": "Anthropic's Claude Cowork desktop app now lets users record their screen while completing a task, add voice commentary, and have Claude turn the whole thing into a reusable skill. The article Claude Cowork learns new skills through screen recordings and voice-over explanations ap",
-      "date": "2026-07-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
       "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
@@ -692,16 +712,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training",
-      "summary": "Google is shipping three new Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens, and a cybersecurity model available only to governments and select partners. But the anticipated flagship, Gemini 3.5 Pro, is still mi",
-      "date": "2026-07-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/"
     },
     {
       "category": "model",
@@ -752,16 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "date": "2026-07-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
     },
     {
       "category": "industry",

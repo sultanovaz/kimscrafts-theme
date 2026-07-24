@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-24T14:09:49.873Z",
+  "updated": "2026-07-24T16:56:23.466Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 151
+    "fresh": 149
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Microsoft's open-weight AI push is so obviously an Azure play it hurts",
+      "summary": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models. The company is also ",
+      "date": "2026-07-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool",
+      "summary": "Sakana AI has updated its Fugu Ultra AI router to version 1.1, claiming gains of up to 7.9 points over v1.0. Independent verification doesn't exist yet. The update adds a Claude Code-compatible endpoint. The service remains unavailable in the EU. The article Sakana claims its AI ",
+      "date": "2026-07-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/"
+    },
+    {
       "category": "benchmark",
       "lab": "AI",
       "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
@@ -282,6 +302,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/"
+    },
+    {
+      "category": "model",
+      "lab": "Mistral",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+      "date": "2026-07-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+      "date": "2026-07-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+      "date": "2026-07-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+      "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a",
+      "date": "2026-07-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/"
     },
     {
       "category": "industry",
@@ -554,26 +614,6 @@
       "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything"
     },
     {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
-      "summary": "Anthropic has to pay $1.5 billion to book authors, the largest copyright settlement in class action history. But the payout is for downloading roughly 482,460 works from piracy databases, not for AI training itself. Judge Alsup had previously ruled that AI training on legally obt",
-      "date": "2026-07-22",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion",
-      "summary": "AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models. For AMD, this is another major deal after Meta and OpenAI as it tries to challenge Nvidia as an AI chip supplier. Critics s",
-      "date": "2026-07-22",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Quoting Thomas Ptacek",
@@ -635,26 +675,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
       "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
@@ -662,26 +682,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by ",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Monday.com lays off hundreds to focus on AI",
-      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/"
     },
     {
       "category": "product",

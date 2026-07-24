@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T22:13:31.697Z",
+  "updated": "2026-07-24T03:41:13.604Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "date": "2026-07-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\"",
@@ -262,6 +272,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "summary": "<p><strong><a href=\"https://martinalderson.com/posts/huggingface-openai-exploit/\">The first known runaway AI agent - or a very bad marketing stunt?</a></strong></p> Martin Alderson's commentary on the <a href=\"https://simonwillison.net/2026/Jul/22/openai-cyberattack/\">OpenAI acci",
+      "date": "2026-07-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything"
     },
     {
       "category": "model",
@@ -662,16 +682,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-      "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/"
     },
     {
       "category": "industry",
@@ -1184,6 +1194,16 @@
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Codex became a collaborator for OpenAI’s creative team",
+      "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/codex-collaborator-creative-team"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Mermaid to Unicode box art (grok-mermaid)",
@@ -1314,16 +1334,6 @@
       "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "simonw/pedalican",
-      "summary": "<p><strong><a href=\"https://github.com/simonw/pedalican\">simonw/pedalican</a></strong></p> Clearly I wasn't paying attention when these were <a href=\"https://twitter.com/OpenAIDevs/status/2050301642717950166\">first announced</a> back in May, but today I accidentally activated a \"",
-      "date": "2026-07-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "Meta",
       "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
@@ -1346,22 +1356,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "How sales teams use ChatGPT Work",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "How data science teams use ChatGPT Work",
       "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "date": "2026-07-14",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How sales teams use ChatGPT Work",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
     },
     {
       "category": "model",
@@ -1416,22 +1426,22 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/bio-bug-bounty"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "date": "2026-07-09",
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "date": "2026-07-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/bio-bug-bounty"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Our approach to government and national security partnerships",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "date": "2026-07-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/government-national-security-partnerships"
     }
   ]
 }

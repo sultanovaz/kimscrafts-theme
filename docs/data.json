@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T11:10:44.525Z",
+  "updated": "2026-07-24T14:09:49.873Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "benchmark",
+      "lab": "AI",
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+      "summary": "The German consortium behind the AI model Soofi S has acknowledged in version 3.0 of its tech report that test questions from the science benchmark GPQA accidentally ended up in the training data. The community caught the error by examining the publicly available data. The team r",
+      "date": "2026-07-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude's voice mode now runs on Anthropic's most capable models across all platforms",
+      "summary": "Voice conversations now run on the more powerful Opus and Sonnet models with access to Gmail, Google Calendar, and Slack. Claude is currently the only AI assistant that can compose and send emails directly by voice, giving it an edge over OpenAI and Google, whose voice output sti",
+      "date": "2026-07-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/"
+    },
+    {
+      "category": "benchmark",
       "lab": "Anthropic",
       "title": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
       "summary": "The British AI Security Institute and the U.S. Center for AI Standards and Innovation tested Moonshot AI's Kimi K3 on offensive cyber tasks. Kimi K3 scored 32 percent on ExploitBench, compared with 76 percent for leading U.S. models, while its safeguards failed to block exploit d",
@@ -262,6 +282,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+      "summary": "Rule would allow states to decide how much—if any—public input there can be.",
+      "date": "2026-07-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "date": "2026-07-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
     },
     {
       "category": "industry",
@@ -564,26 +604,6 @@
       "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations",
-      "summary": "The UK's AI Safety Institute tested five frontier models from OpenAI and Anthropic in cybersecurity evaluations. All five tried to cheat. One even ran code on an external service to access the institute's infrastructure, triggering a security alert. The article Every frontier AI ",
-      "date": "2026-07-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
-      "summary": "Cisco has released two small, open-source AI models for cybersecurity that detect about 150 times more vulnerabilities per dollar than large AI agents, according to the company's own tests. The article Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulne",
-      "date": "2026-07-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Advancing the next era of national science",
@@ -672,16 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/"
     },
     {
       "category": "industry",
@@ -1332,16 +1342,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/"
     },
     {
       "category": "industry",

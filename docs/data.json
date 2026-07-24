@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T19:44:38.285Z",
+  "updated": "2026-07-24T22:17:04.834Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -312,6 +312,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Canadian legislator reads out apparent LLM response in floor speech",
+      "summary": "\"Here’s a more natural, flowing version of that section...\"",
+      "date": "2026-07-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "summary": "Models are improving quickly, but the cheaper options are often good enough.",
+      "date": "2026-07-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
     },
     {
       "category": "model",
@@ -1145,16 +1165,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-      "summary": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Why teens deserve access to safe AI",
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
@@ -1162,16 +1172,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-      "summary": "Companies coming to market are raising money at fastest pace this century.",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
     },
     {
       "category": "model",

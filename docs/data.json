@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T14:00:07.333Z",
+  "updated": "2026-07-25T16:11:55.500Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -294,6 +294,16 @@
       "url": "https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "date": "2026-07-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
+    },
+    {
       "category": "hardware",
       "lab": "AI",
       "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
@@ -542,16 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google’s Gemini nears billion-user milestone",
-      "summary": "Gemini had over 750 million monthly users in February.",
-      "date": "2026-07-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/"
     },
     {
       "category": "hardware",

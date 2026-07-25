@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T03:34:54.608Z",
+  "updated": "2026-07-25T08:22:23.665Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -1356,22 +1356,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "How data science teams use ChatGPT Work",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "How sales teams use ChatGPT Work",
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "date": "2026-07-14",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How data science teams use ChatGPT Work",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
     },
     {
       "category": "model",

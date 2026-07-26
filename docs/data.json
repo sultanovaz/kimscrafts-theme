@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T03:53:09.334Z",
+  "updated": "2026-07-26T08:38:01.121Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
+      "summary": "In summer 2025, OpenAI internally flagged GPT-5 as high-risk because it helped users create biological hazards, but downgraded the model's risk rating that fall. According to the Wall Street Journal, some users got step-by-step instructions for making poisons and biological weapo",
+      "date": "2026-07-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns",
+      "summary": "The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban. After public pressure, OpenAI and Google DeepMind signed an open letter opposing regulation of open-weight models, yet OpenAI and Anthropic continue to lobby privately for those sam",
+      "date": "2026-07-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The AI coding tutor paradox grows as educators scramble to rethink how they test real skills",
+      "summary": "An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exams, proctored tests, and project-based work. Teaching is moving from writing code to understanding it. But nearly half o",
+      "date": "2026-07-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
@@ -394,26 +424,6 @@
       "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude's voice mode now runs on Anthropic's most capable models across all platforms",
-      "summary": "Voice conversations now run on the more powerful Opus and Sonnet models with access to Gmail, Google Calendar, and Slack. Claude is currently the only AI assistant that can compose and send emails directly by voice, giving it an edge over OpenAI and Google, whose voice output sti",
-      "date": "2026-07-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-      "summary": "The British AI Security Institute and the U.S. Center for AI Standards and Innovation tested Moonshot AI's Kimi K3 on offensive cyber tasks. Kimi K3 scored 32 percent on ExploitBench, compared with 76 percent for leading U.S. models, while its safeguards failed to block exploit d",
-      "date": "2026-07-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
@@ -552,16 +562,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "ChatGPT will give you worse health advice if you don't pay",
-      "summary": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask ChatGPT health questions every week, but paying users get better answers. The more powerful GPT-5.6 Sol model is reserved",
-      "date": "2026-07-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/"
     },
     {
       "category": "industry",

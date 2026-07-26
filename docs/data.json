@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T19:33:19.387Z",
+  "updated": "2026-07-26T22:11:13.626Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -312,6 +312,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Moonshot",
+      "title": "Making sense of the panic over Chinese AI",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "date": "2026-07-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/"
     },
     {
       "category": "model",
@@ -652,16 +662,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
-      "date": "2026-07-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
     },
     {
       "category": "industry",

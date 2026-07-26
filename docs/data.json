@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T16:13:38.543Z",
+  "updated": "2026-07-26T19:33:19.387Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "product",
+      "lab": "OpenAI",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "date": "2026-07-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+    },
+    {
+      "category": "product",
       "lab": "AI",
       "title": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work",
       "summary": "Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every configuration of the new system, which separates planners from workers, eventually scored 100 percent on the test suite.",
@@ -302,6 +312,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+      "summary": "<p><strong><a href=\"https://vectoral.com/blog/token-relay-market\">An Inside Look at the Relay Market Powering Token Resellers and Fraud</a></strong></p> Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by poolin",
+      "date": "2026-07-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"
     },
     {
       "category": "industry",
@@ -642,16 +662,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia is sending GPUs to the moon",
-      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-      "date": "2026-07-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/"
     },
     {
       "category": "industry",
@@ -1252,16 +1262,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/codex-collaborator-creative-team"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Mermaid to Unicode box art (grok-mermaid)",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/grok-mermaid\">Mermaid to Unicode box art (grok-mermaid)</a></p> <p>While <a href=\"https://simonwillison.net/2026/Jul/15/grok-build/\">exploring the codebase</a> for the newly open-sourced Grok CLI coding agent I ca",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything"
     },
     {
       "category": "industry",

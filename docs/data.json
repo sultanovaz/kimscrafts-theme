@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T15:11:22.742Z",
+  "updated": "2026-07-27T17:06:30.054Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -256,6 +256,16 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+      "date": "2026-07-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans",
       "summary": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could change the picture. The artic",
       "date": "2026-07-27",
@@ -277,11 +287,51 @@
       "category": "industry",
       "lab": "AI",
       "title": "Are brain waves the next unlock for physical AI?",
-      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
       "date": "2026-07-27",
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT stops cloning famous writers’ voices but may capture a \"similar feeling\"",
+      "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
+      "date": "2026-07-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "date": "2026-07-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/"
+    },
+    {
+      "category": "research",
+      "lab": "Google DeepMind",
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "date": "2026-07-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "This $9 key physically locks your most addictive apps",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "date": "2026-07-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/"
     },
     {
       "category": "hardware",
@@ -296,7 +346,7 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
       "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
       "date": "2026-07-27",
       "importance": 2,
@@ -476,7 +526,7 @@
     {
       "category": "hardware",
       "lab": "AI",
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "title": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
       "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
       "date": "2026-07-25",
       "importance": 2,
@@ -624,26 +674,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-      "date": "2026-07-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-      "date": "2026-07-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
-    },
-    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "The first known runaway AI agent - or a very bad marketing stunt?",
@@ -664,16 +694,6 @@
       "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "date": "2026-07-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
@@ -682,16 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-      "date": "2026-07-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
     },
     {
       "category": "industry",
@@ -1182,16 +1192,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-      "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/"
     },
     {
       "category": "model",

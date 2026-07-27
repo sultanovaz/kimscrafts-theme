@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T19:53:21.786Z",
+  "updated": "2026-07-27T22:16:25.934Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -266,6 +266,16 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "summary": "<p><strong><a href=\"https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22\">An opinionated guide to which AI to use to do stuff</a></strong></p> It's interesting watching the evolution of Ethan Mollick's guide over time. </p> <p><a href=\"https://www.oneusefulthing.",
+      "date": "2026-07-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race",
       "summary": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks, but independent tests found major gaps in cyber and math performance,",
       "date": "2026-07-27",
@@ -352,6 +362,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "Microsoft",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "date": "2026-07-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+      "date": "2026-07-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "date": "2026-07-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+      "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+      "date": "2026-07-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/"
     },
     {
       "category": "industry",
@@ -652,26 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
-    },
-    {
-      "category": "model",
-      "lab": "Mistral",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-      "date": "2026-07-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-      "date": "2026-07-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
     },
     {
       "category": "industry",
@@ -1106,16 +1136,6 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "summary": "The FireSat program can spot wildfires that other satellites miss.",
-      "date": "2026-07-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Introducing Gemini 3.5 Flash Cyber",
       "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
       "date": "2026-07-17",
@@ -1132,16 +1152,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-      "summary": "Official estimates Google and Apple likely made millions in nudify app fees.",
-      "date": "2026-07-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/"
     },
     {
       "category": "industry",
@@ -1232,16 +1242,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Quoting Linus Torvalds",
-      "summary": "<blockquote cite=\"https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/\"><p>I realize that some people really dislike AI, but this is an area where I'm willing to absolutely put my foot down as the top-level maintainer.</p> <p>Lin",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything"
     },
     {
       "category": "industry",

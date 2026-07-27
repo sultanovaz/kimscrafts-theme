@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T04:00:13.135Z",
+  "updated": "2026-07-27T10:07:18.812Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Shared Claude chats were reportedly showing up in search engines",
+      "summary": "Shared conversations with Anthropic's Claude chatbot briefly appeared in Google search results because the pages lacked a noindex tag. Users said some chats contained crypto keys and legal questions. OpenAI made the same mistake last year. The article Shared Claude chats were rep",
+      "date": "2026-07-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Are brain waves the next unlock for physical AI?",
@@ -262,6 +272,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "summary": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "date": "2026-07-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
     },
     {
       "category": "product",
@@ -452,16 +472,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Microsoft's open-weight AI push is so obviously an Azure play it hurts",
-      "summary": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models. The company is also ",
-      "date": "2026-07-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/"
     },
     {
       "category": "industry",
@@ -872,16 +882,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/grabette"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "summary": "The State of Simulation for Physical AI: An Overview",
-      "date": "2026-07-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
     },
     {
       "category": "industry",

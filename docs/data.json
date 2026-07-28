@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T16:49:23.991Z",
+  "updated": "2026-07-28T19:50:51.953Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+      "summary": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years. The model found it in just 60 hours at an API cost of about $100,000. Th",
+      "date": "2026-07-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team",
       "summary": "Amazon is scaling back most of its in-house Nova AI models, including Nova Premier, Omni, Reel, and Canvas. The models stay online for existing customers in \"keep the lights on\" mode but are no longer actively developed. Instead, Amazon is betting on a new Frontier Model Research",
@@ -295,6 +305,16 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "Scientific computing in the age of agentic AI",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "date": "2026-07-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/scientific-computing-agentic-ai"
+    },
+    {
+      "category": "industry",
       "lab": "Hugging Face",
       "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
       "summary": "The OlmoEarth Platform: Geospatial inference at planetary scale",
@@ -327,7 +347,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
       "date": "2026-07-28",
       "importance": 2,
       "tags": [],
@@ -336,8 +356,8 @@
     {
       "category": "hardware",
       "lab": "AI",
-      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
-      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
       "date": "2026-07-28",
       "importance": 2,
       "tags": [],
@@ -462,16 +482,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Shared Claude chats were reportedly showing up in search engines",
-      "summary": "Shared conversations with Anthropic's Claude chatbot briefly appeared in Google search results because the pages lacked a noindex tag. Users said some chats contained crypto keys and legal questions. OpenAI made the same mistake last year. The article Shared Claude chats were rep",
-      "date": "2026-07-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "date": "2026-07-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-5-6"
     }
   ]
 }

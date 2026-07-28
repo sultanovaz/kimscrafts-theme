@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-28T19:50:51.953Z",
+  "updated": "2026-07-28T22:15:40.638Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 148
+    "fresh": 149
   },
   "ranking": [
     {
@@ -255,6 +255,56 @@
   "items": [
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "summary": "<p><strong><a href=\"https://huggingface.co/blog/agent-intrusion-technical-timeline\">Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident</a></strong></p> Hugging Face just released this extremely detailed technical description of <a href=\"http",
+      "date": "2026-07-28",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Quoting Akshat Bubna",
+      "summary": "<blockquote cite=\"https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/\"><p>We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code exe",
+      "date": "2026-07-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "uv 0.12.0",
+      "summary": "<p><strong><a href=\"https://github.com/astral-sh/uv/releases/tag/0.12.0\">uv 0.12.0</a></strong></p> Some interesting breaking changes in this release of <code>uv</code>, in particular to the default project produced by the <code>uv init</code> command.</p> <p><a href=\"https://doc",
+      "date": "2026-07-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+      "date": "2026-07-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Sam Altman is ready to decelerate",
+      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "date": "2026-07-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
       "summary": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years. The model found it in just 60 hours at an API cost of about $100,000. Th",
@@ -302,6 +352,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "date": "2026-07-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+      "date": "2026-07-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "summary": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
+      "date": "2026-07-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/"
     },
     {
       "category": "industry",
@@ -634,16 +714,6 @@
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "date": "2026-07-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
-    },
-    {
       "category": "hardware",
       "lab": "Moonshot",
       "title": "Making sense of the panic over Chinese AI",
@@ -664,16 +734,6 @@
       "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "date": "2026-07-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Ruff v0.16.0",
@@ -682,16 +742,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-      "date": "2026-07-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
     },
     {
       "category": "benchmark",
@@ -1095,16 +1145,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Beyond grep: The case for a context-rich AI coding harness",
-      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
-      "date": "2026-07-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Safety and alignment in an era of long-horizon models",
       "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
@@ -1152,16 +1192,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
-      "date": "2026-07-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
     },
     {
       "category": "industry",
@@ -1224,26 +1254,6 @@
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "summary": "<p>Chinese AI lab Moonshot AI <a href=\"https://www.kimi.com/blog/kimi-k3\">announced Kimi K3</a> this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but an open weight release is promi",
-      "date": "2026-07-16",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Inkling: Our open-weights model",
-      "summary": "<p><strong><a href=\"https://thinkingmachines.ai/news/introducing-inkling/\">Inkling: Our open-weights model</a></strong></p> Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 4",
-      "date": "2026-07-16",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Firefox in WebAssembly",
@@ -1252,16 +1262,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Quoting Thibault Sottiaux",
-      "summary": "<blockquote cite=\"https://twitter.com/thsottiaux/status/2077630111499882637\"><p>On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. </p> <p>What we have found is that this most commonly occurs when:</p> <ul> <li>Full access mode is",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything"
     },
     {
       "category": "industry",

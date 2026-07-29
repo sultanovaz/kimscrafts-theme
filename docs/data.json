@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T22:15:40.638Z",
+  "updated": "2026-07-29T03:36:10.458Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "date": "2026-07-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
@@ -352,6 +362,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "summary": "<p><strong><a href=\"https://www.anthropic.com/research/discovering-cryptographic-weaknesses\">Discovering cryptographic weaknesses with Claude</a></strong></p> The best part of this article (here's <a href=\"https://github.com/anthropics/cryptography-research-demo\">the repo</a>) ab",
+      "date": "2026-07-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything"
     },
     {
       "category": "industry",
@@ -714,14 +734,14 @@
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
     },
     {
-      "category": "hardware",
-      "lab": "Moonshot",
-      "title": "Making sense of the panic over Chinese AI",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "category": "model",
+      "lab": "AI",
+      "title": "sqlite-utils 3.39.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/3.39.1\">sqlite-utils 3.39.1</a></p> <p>I back-ported <a href=\"https://github.com/simonw/sqlite-utils/issues/815\">a fix</a> for <code>table.delete_where()</code> that shipped in version 4.</p",
       "date": "2026-07-26",
-      "importance": 2,
+      "importance": 3,
       "tags": [],
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/"
+      "url": "https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything"
     },
     {
       "category": "model",
@@ -1214,16 +1234,6 @@
       "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/"
     },
     {
-      "category": "hardware",
-      "lab": "Google DeepMind",
-      "title": "Spot birds not golf",
-      "summary": "<p>Suggestion for hyperscalers feeling pressure over data center water use:</p> <p>Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable ",
-      "date": "2026-07-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "Moonshot",
       "title": "Quoting Kimi K3",
@@ -1252,16 +1262,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Firefox in WebAssembly",
-      "summary": "<p><strong><a href=\"https://developer.puter.com/labs/firefox-wasm/\">Firefox in WebAssembly</a></strong></p> This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser.</p> <p>Here's my blog, running in Firefox, running in WebA",
-      "date": "2026-07-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything"
     },
     {
       "category": "industry",

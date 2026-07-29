@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T09:06:56.661Z",
+  "updated": "2026-07-29T11:32:58.243Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "summary": "Deciding what's real on the Internet won't be easy in the future.",
+      "date": "2026-07-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "date": "2026-07-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
+    },
     {
       "category": "industry",
       "lab": "AI",
@@ -582,16 +602,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Are brain waves the next unlock for physical AI?",
-      "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-      "date": "2026-07-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
     },
     {
       "category": "industry",
@@ -1142,16 +1152,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-      "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
-      "date": "2026-07-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/"
     },
     {
       "category": "industry",

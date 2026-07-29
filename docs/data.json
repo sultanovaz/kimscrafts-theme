@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T16:38:26.205Z",
+  "updated": "2026-07-29T19:40:56.442Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,66 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "date": "2026-07-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/"
+    },
+    {
+      "category": "product",
+      "lab": "Microsoft",
+      "title": "AI Worming through Word",
+      "summary": "<p><strong><a href=\"https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/\">AI Worming through Word</a></strong></p> Neat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-re",
+      "date": "2026-07-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's Lyria 3.5 music model now lets users edit individual track sections without starting over",
+      "summary": "Google released Lyria 3.5, its new music generation model, and built it into Google Flow Music. The model generates tracks between 30 seconds and 3 minutes long. A new feature called \"Selective Section Painting\" lets users edit specific sections of a track. Google still hasn't sh",
+      "date": "2026-07-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting Matthew Green",
+      "summary": "<blockquote cite=\"https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/\"><p>Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new <em>post-quan",
+      "date": "2026-07-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "PwC has allegedly published AI-generated reports containing false or fabricated sources",
+      "summary": "Following KPMG, Deloitte, and Ernst & Young, GPTZero has now found fabricated sources and false claims in four PwC Middle East reports. One governance report scored 84 percent AI-generated and promoted a PwC product with unverified customer references. All Big Four firms are now ",
+      "date": "2026-07-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Pangram says its new AI text detector makes only one mistake per 24,000 documents",
+      "summary": "Pangram 4 detects 99.66 percent of AI-generated text with just one false positive per 24,000 documents, the company claims. The model also resists \"humanizer\" tools that disguise AI writing as human. API prices go up two- to tenfold. The article Pangram says its new AI text detec",
+      "date": "2026-07-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/"
+    },
+    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
@@ -302,6 +362,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+      "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.",
+      "date": "2026-07-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/"
     },
     {
       "category": "industry",
@@ -372,6 +442,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "date": "2026-07-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Adding a custom MCP server to Claude and ChatGPT",
+      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/llms/mcp-in-claude-and-chatgpt\">Adding a custom MCP server to Claude and ChatGPT</a></p> <p>Connecting a custom MCP server to Claude and ChatGPT's standard chat interfaces is possible, but can take quite a few steps.",
+      "date": "2026-07-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything"
     },
     {
       "category": "industry",
@@ -452,36 +542,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Taiwan detains Nvidia employee in widening China chip smuggling probe",
-      "summary": "Taiwan's prosecutors have detained an Nvidia employee in connection with the alleged illegal export of Super Micro AI servers to China, according to Bloomberg and Reuters. The article Taiwan detains Nvidia employee in widening China chip smuggling probe appeared first on The Deco",
-      "date": "2026-07-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Nvidia invests in Ilya Sutskever's AI lab, shifting SSI away from Google chips",
-      "summary": "Nvidia is pouring what it calls a \"substantial\" sum into Safe Superintelligence (SSI), the AI lab run by Ilya Sutskever, OpenAI's former chief scientist. The article Nvidia invests in Ilya Sutskever's AI lab, shifting SSI away from Google chips appeared first on The Decoder.",
-      "date": "2026-07-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidia-invests-in-ilya-sutskevers-ai-lab-shifting-ssi-away-from-google-chips/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic CEO Amodei doubles down on open-weight risk stance while insisting he never called for a ban",
-      "summary": "Anthropic CEO Dario Amodei is once again warning about the risks of open AI models while insisting he has never called for a ban. He argues that authoritarian states like China could overtake the US and that open models could be misused for biological or cyberattacks. Critics say",
-      "date": "2026-07-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/"
     },
     {
       "category": "benchmark",
@@ -732,16 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "This $9 key physically locks your most addictive apps",
-      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "date": "2026-07-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/"
     },
     {
       "category": "industry",
@@ -1015,16 +1065,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-      "summary": "Troops received an email informing them that they were rapidly depleting their AI tokens.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Building AI infrastructure with the Effingham County community",
       "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
@@ -1224,16 +1264,6 @@
       "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "nascheme/quixote",
-      "summary": "<p><strong><a href=\"https://github.com/nascheme/quixote\">nascheme/quixote</a></strong></p> A certain vintage of Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was <a href=\"(https://github.com/nascheme/quixote/commit/7f775cf9d1",
-      "date": "2026-07-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing Gemini 3.5 Flash Cyber",
@@ -1242,26 +1272,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/"
-    },
-    {
-      "category": "industry",
-      "lab": "Moonshot",
-      "title": "Quoting Kimi K3",
-      "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=48935342#48936515\"><p>Is there something I can actually help you with today?</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://news.ycombinator.com/item?id=48935342#48936515\">Kimi K3</a>, after refusing to leak its sy",
-      "date": "2026-07-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "LLM cliché highlighter",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/llm-cliche-highlighter\">LLM cliché highlighter</a></p> <p>I got frustrated reading <em>yet another</em> article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type st",
-      "date": "2026-07-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything"
     },
     {
       "category": "hardware",
@@ -1396,22 +1406,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "How sales teams use ChatGPT Work",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "How data science teams use ChatGPT Work",
       "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "date": "2026-07-14",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How sales teams use ChatGPT Work",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/deutsche-telekom"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "summary": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "date": "2026-07-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/torch-attention-profile"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-30T08:47:20.811Z",
+  "updated": "2026-07-30T11:20:18.150Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 147
+    "fresh": 146
   },
   "ranking": [
     {
@@ -256,12 +256,12 @@
     {
       "category": "benchmark",
       "lab": "Anthropic",
-      "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 but only with its own custom test harness",
-      "summary": "OpenAI counters Anthropic's ARC-AGI-3 record: GPT-5.6 Sol scores 38.3 percent, but only through its own API with retained reasoning and context compaction. In the official test environment, the model managed just 7.8 percent. Opus 5 hit its 30.2 percent without such aids. The art",
+      "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings",
+      "summary": "OpenAI counters Anthropic's ARC-AGI-3 record: GPT-5.6 Sol scores 38.3 percent, but only with its own API features instead of the official test setup, where the model landed at 7.8 percent. ARC Prize claims its test environment is provider-neutral, but may have used an outdated AP",
       "date": "2026-07-30",
       "importance": 3,
       "tags": [],
-      "url": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-but-only-with-its-own-custom-test-harness/"
+      "url": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/"
     },
     {
       "category": "industry",

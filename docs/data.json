@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T16:47:05.576Z",
+  "updated": "2026-07-30T19:49:30.071Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,10 +254,30 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
+      "summary": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas. Ho ",
+      "date": "2026-07-30",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model",
+      "summary": "Starting July 30, OpenAI is cutting GPT-5.6 Luna prices by 80 percent and Terra by 20 percent. OpenAI says its top-tier Sol model helped make the company's own infrastructure more efficient, enabling the cuts. Price pressure from cheap Chinese providers and Microsoft's own MAI mo",
+      "date": "2026-07-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/"
+    },
+    {
       "category": "model",
       "lab": "Meta",
       "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gamin",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
       "date": "2026-07-30",
       "importance": 3,
       "tags": [],
@@ -294,6 +314,16 @@
       "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "date": "2026-07-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+    },
+    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings",
@@ -306,7 +336,67 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Chrome may get faster updates with no restart required",
+      "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Bruce Schneier",
+      "summary": "<blockquote cite=\"https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html\"><p>The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy m",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Okta buys AI security startup Permiso — source says for about $200M",
       "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
       "date": "2026-07-30",
       "importance": 2,
@@ -484,26 +574,6 @@
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
     },
     {
-      "category": "research",
-      "lab": "Anthropic",
-      "title": "Deepmind dismantles its AlphaFold team as key authors leave for Anthropic",
-      "summary": "The majority of the researchers behind AlphaFold are now working on other projects, and almost a quarter have left Google Deepmind altogether. The restructuring marks a sharp turn away from the strategy that put the lab on the map. The article Deepmind dismantles its AlphaFold te",
-      "date": "2026-07-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates",
-      "summary": "OpenAI has released GPT Transcribe and GPT Live Transcribe, two new speech recognition models available through its API. The article GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates appeared first on The Decoder.",
-      "date": "2026-07-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
@@ -674,16 +744,6 @@
       "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/"
-    },
-    {
       "category": "research",
       "lab": "OpenAI",
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
@@ -702,16 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "summary": "The deal is Cyera's third acquisition this year.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
     },
     {
       "category": "model",
@@ -762,16 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "date": "2026-07-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
     },
     {
       "category": "industry",
@@ -1012,26 +1052,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
-      "date": "2026-07-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-      "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
-      "date": "2026-07-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/"
     },
     {
       "category": "industry",
@@ -1305,16 +1325,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "SQLite Query Explainer",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/sqlite-query-explainer\">SQLite Query Explainer</a></p> <p>Julia Evan's, in <a href=\"https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/\">Learning a few things about running SQLite</a>:</p> <blockquote> ",
-      "date": "2026-07-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing Gemini 3.5 Flash Cyber",
       "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/real-world-voiceeq"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How to manage AI investments in the agentic era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
     }
   ]
 }

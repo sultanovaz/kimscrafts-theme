@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T19:49:30.071Z",
+  "updated": "2026-07-30T22:17:28.714Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -332,6 +332,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/"
     },
     {
       "category": "industry",
@@ -712,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/"
     },
     {
       "category": "industry",

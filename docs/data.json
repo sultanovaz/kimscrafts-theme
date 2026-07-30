@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-30T14:29:27.263Z",
+  "updated": "2026-07-30T16:47:05.576Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 146
+    "fresh": 147
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gamin",
+      "date": "2026-07-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/"
+    },
+    {
       "category": "research",
       "lab": "Google DeepMind",
       "title": "Language models can't spark scientific revolutions, but world models might",
@@ -292,6 +302,76 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Hugging Face",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "summary": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "New MCP specification addresses the main barrier to enterprise adoption",
+      "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/"
     },
     {
       "category": "industry",
@@ -674,16 +754,6 @@
       "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Sam Altman is ready to decelerate",
-      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "date": "2026-07-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/"
-    },
-    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "Discovering cryptographic weaknesses with Claude",
@@ -702,16 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-      "date": "2026-07-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/"
     },
     {
       "category": "industry",
@@ -744,16 +804,6 @@
       "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-      "date": "2026-07-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
@@ -764,24 +814,14 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "summary": "Gemini Robotics 2 brings whole body intelligence to robots",
       "date": "2026-07-28",
       "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
-      "date": "2026-07-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/"
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
     },
     {
       "category": "model",
@@ -992,16 +1032,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
-      "date": "2026-07-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/"
     },
     {
       "category": "industry",
@@ -1422,36 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How sales teams use ChatGPT Work",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How data science teams use ChatGPT Work",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Empowering India’s next generation of innovators with ATL Saathi",
-      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-      "date": "2026-07-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-29T22:11:16.295Z",
+  "updated": "2026-07-30T03:25:40.580Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 150
+    "fresh": 147
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
@@ -324,6 +334,16 @@
       "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/"
     },
     {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "date": "2026-07-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+    },
+    {
       "category": "research",
       "lab": "Anthropic",
       "title": "Deepmind dismantles its AlphaFold team as key authors leave for Anthropic",
@@ -372,6 +392,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "date": "2026-07-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "date": "2026-07-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Meta",
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "date": "2026-07-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+      "date": "2026-07-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
     },
     {
       "category": "product",
@@ -725,16 +785,6 @@
     },
     {
       "category": "model",
-      "lab": "Microsoft",
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "date": "2026-07-27",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"
-    },
-    {
-      "category": "model",
       "lab": "Moonshot",
       "title": "moonshotai/Kimi-K3",
       "summary": "<p><strong><a href=\"https://huggingface.co/moonshotai/Kimi-K3\">moonshotai/Kimi-K3</a></strong></p> As promised <a href=\"https://simonwillison.net/2026/Jul/16/kimi-k3/\">earlier this month</a>, Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. T",
@@ -774,26 +824,6 @@
       "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-      "date": "2026-07-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-      "date": "2026-07-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/"
-    },
-    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
@@ -802,16 +832,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-      "date": "2026-07-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/"
     },
     {
       "category": "industry",
@@ -1052,16 +1072,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-      "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/"
     },
     {
       "category": "industry",
@@ -1416,22 +1426,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "How data science teams use ChatGPT Work",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "date": "2026-07-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "How sales teams use ChatGPT Work",
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "date": "2026-07-14",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How data science teams use ChatGPT Work",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "date": "2026-07-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Getting started with ChatGPT",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "date": "2026-07-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/academy/getting-started"
     }
   ]
 }

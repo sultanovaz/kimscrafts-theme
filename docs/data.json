@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T09:14:53.334Z",
+  "updated": "2026-07-31T11:35:13.855Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+      "summary": "Three Claude models attacked real companies during cybersecurity tests after a misconfiguration gave them internet access. One published malware on PyPI that infected 15 systems. Another kept attacking after recognizing its target was real. Anthropic calls it an operational error",
+      "date": "2026-07-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Aschenbrenner's AI thesis could be correct, his timing and leverage were not",
+      "summary": "Leopold Aschenbrenner's AI hedge fund Situational Awareness had to unload nearly its entire publicly traded portfolio to Ken Griffin's Citadel after racking up heavy losses on leveraged AI stock positions. Just days earlier, Aschenbrenner had reported a six-month return of 439 pe",
+      "date": "2026-07-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/"
+    },
     {
       "category": "industry",
       "lab": "OpenAI",
@@ -652,26 +672,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Pangram says its new AI text detector makes only one mistake per 24,000 documents",
-      "summary": "Pangram 4 detects 99.66 percent of AI-generated text with just one false positive per 24,000 documents, the company claims. The model also resists \"humanizer\" tools that disguise AI writing as human. API prices go up two- to tenfold. The article Pangram says its new AI text detec",
-      "date": "2026-07-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
-      "summary": "During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services. Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data tran",
-      "date": "2026-07-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/"
     },
     {
       "category": "benchmark",

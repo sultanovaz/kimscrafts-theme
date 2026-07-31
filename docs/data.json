@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T22:17:28.714Z",
+  "updated": "2026-07-31T03:47:56.786Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "llm 0.32rc2",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.32rc2\">llm 0.32rc2</a></p> <p>Hot on the heels of <a href=\"https://simonwillison.net/2026/Jul/30/llm-rc1/\">RC1</a>, this fixes a dependency issue and also adds two neat new features:</p> <blockquot",
+      "date": "2026-07-30",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
       "summary": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas. Ho ",
@@ -262,6 +282,46 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "llm-chat-completions-server 0.1a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-chat-completions-server/releases/tag/0.1a0\">llm-chat-completions-server 0.1a0</a></p> <p>A key goal of the new content-addressable logs <a href=\"https://simonwillison.net/2026/Jul/30/llm-rc1/\">in LLM 0.32rc1</a> ",
+      "date": "2026-07-30",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "llm 0.32rc1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.32rc1\">llm 0.32rc1</a></p> <p>This RC for LLM 0.32 finishes the work that <a href=\"https://simonwillison.net/2026/Apr/29/llm/\">started in LLM 0.32a0</a> - it adds a <a href=\"https://llm.datasette.i",
+      "date": "2026-07-30",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "summary": "<p><strong><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">Advancing the price-performance frontier with GPT‑5.6</a></strong></p> Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% dro",
+      "date": "2026-07-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "<p><strong><a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\">Investigating three real-world incidents in our cybersecurity evaluations</a></strong></p> It happened again! This is turning into something of a pattern.</p> <p>Last week <a href=\"htt",
+      "date": "2026-07-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything"
     },
     {
       "category": "model",
@@ -314,16 +374,6 @@
       "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "date": "2026-07-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
-    },
-    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings",
@@ -332,6 +382,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "date": "2026-07-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/"
     },
     {
       "category": "industry",
@@ -505,13 +585,13 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-      "date": "2026-07-29",
-      "importance": 3,
+      "lab": "OpenAI",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "date": "2026-07-30",
+      "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/"
+      "url": "https://openai.com/index/avatarin"
     },
     {
       "category": "product",
@@ -654,16 +734,6 @@
       "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything"
     },
     {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Who wins and who loses after US bans foreign robots?",
@@ -672,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The Hugging Face break-in explained",
-      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/"
     },
     {
       "category": "model",
@@ -712,16 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/"
     },
     {
       "category": "industry",
@@ -1264,36 +1314,6 @@
       "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
     },
     {
-      "category": "model",
-      "lab": "Alibaba",
-      "title": "Who’s Afraid of Chinese Models?",
-      "summary": "<p><strong><a href=\"https://stratechery.com/2026/whos-afraid-of-chinese-models/\">Who’s Afraid of Chinese Models?</a></strong></p> Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlic",
-      "date": "2026-07-20",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Quoting Sam Altman",
-      "summary": "<blockquote cite=\"https://twitter.com/techemails/status/2078854346683678927\"><p>We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the appr",
-      "date": "2026-07-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Reverse-engineering is cheap now",
-      "summary": "<p>I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes.</p> <p>I think this is an interesting illustration of the impact of the reduced cost of writing code.</p> <p>Prior to agents, it was entirely possible to revers",
-      "date": "2026-07-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Safety and alignment in an era of long-horizon models",
@@ -1302,26 +1322,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/safety-alignment-long-horizon-models"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Code uses Bun written in Rust now",
-      "summary": "<p>In <a href=\"https://bun.com/blog/bun-in-rust\">Rewriting Bun in Rust</a> Jarred Sumner made the following claim:</p> <blockquote> <p>Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone notice",
-      "date": "2026-07-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "summary": "<p><strong><a href=\"https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/\">AI Mania Is Eviscerating Global Decision-Making</a></strong></p> Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that ",
-      "date": "2026-07-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything"
     },
     {
       "category": "model",

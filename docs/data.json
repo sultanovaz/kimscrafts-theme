@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T19:50:35.875Z",
+  "updated": "2026-07-31T22:14:47.048Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,16 +255,6 @@
   "items": [
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "EU pools up to €30 billion for AI gigafactories while US tech giants casually spend 20 times more",
       "summary": "The European Commission wants to build up to seven AI gigafactories across Europe, backed by around 30 billion euros in public and private funding. For context, the major U.S. tech companies alone plan to spend more than $600 billion on computing infrastructure this year. The art",
@@ -272,6 +262,36 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+      "summary": "<p><strong><a href=\"https://oxide-and-friends.transistor.fm/episodes/the-open-weight-revolution-with-simon-willison\">Oxide and Friends: The Open Weight Revolution with Simon Willison</a></strong></p> On Monday Bryan Cantrill and Adam Leventhal invited me to join their podcast to ",
+      "date": "2026-07-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "summary": "<p><strong><a href=\"https://primeradiant.com/blog/2026/smevals.html\">smevals - a small eval suite for evaluating models, prompts, and harnesses</a></strong></p> I've been working with Jesse Vincent's <a href=\"https://primeradiant.com\">Prime Radiant</a> applied AI research lab bui",
+      "date": "2026-07-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "India is starting to pay for apps, not just download them",
+      "summary": "India's app market generated a record $345 million in Q2.",
+      "date": "2026-07-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/"
     },
     {
       "category": "model",
@@ -332,6 +352,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+      "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+      "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+      "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/"
     },
     {
       "category": "industry",
@@ -472,6 +522,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Disrupting a Criminal Scam Operation",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
     },
     {
       "category": "model",
@@ -732,16 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/"
     },
     {
       "category": "model",
@@ -1015,16 +1065,6 @@
     },
     {
       "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-      "summary": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
-      "date": "2026-07-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/"
-    },
-    {
-      "category": "industry",
       "lab": "Microsoft",
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
@@ -1042,26 +1082,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
-      "date": "2026-07-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-      "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
-      "date": "2026-07-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/"
     },
     {
       "category": "hardware",
@@ -1274,16 +1294,6 @@
       "url": "https://openai.com/index/ntt-data"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
-      "summary": "<p>Earlier this month I hosted a fireside chat session at the <a href=\"https://www.ai.engineer/worldsfair/2026\">AI Engineer World's Fair</a> with Cat Wu and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag, Fable, coding agent security, e",
-      "date": "2026-07-21",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -1322,16 +1332,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Nativ: Run AI models locally on your Mac",
-      "summary": "<p><strong><a href=\"https://blaizzy.github.io/nativ/\">Nativ: Run AI models locally on your Mac</a></strong></p> Prince Canuma is the developer behind the excellent <a href=\"https://github.com/Blaizzy/mlx-vlm\">MLX-VLM</a> Python library for running vision-LLMs using MLX on a Mac.<",
-      "date": "2026-07-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything"
     },
     {
       "category": "model",

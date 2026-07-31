@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T11:35:13.855Z",
+  "updated": "2026-07-31T14:32:42.535Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -282,6 +282,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI scammers outperform humans when it comes to building trust",
+      "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/"
     },
     {
       "category": "industry",
@@ -1092,26 +1112,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
-    },
-    {
-      "category": "research",
-      "lab": "Google DeepMind",
-      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-      "date": "2026-07-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-      "summary": "Rule would allow states to decide how much—if any—public input there can be.",
-      "date": "2026-07-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/"
     },
     {
       "category": "benchmark",

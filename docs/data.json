@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T16:55:42.817Z",
+  "updated": "2026-07-31T19:50:35.875Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -275,6 +275,36 @@
     },
     {
       "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "date": "2026-07-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids",
+      "summary": "Google Deepmind's Gemini Robotics 2 is its most advanced vision-language-action model yet, built to control everything from tabletop robots to full-body humanoids. Gemini Robotics ER 2 adds a higher-level reasoning layer for robotics tasks. The article Google Deepmind unveils Gem",
+      "date": "2026-07-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small",
+      "summary": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding and reasoning benchmarks. The article Thinking Machines bets on efficiency over s",
+      "date": "2026-07-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost",
       "summary": "Deepseek's budget model V4 Flash gets a major boost with the \"0731\" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index. That puts it just one point behind OpenAI's GPT-5.6 Luna, at roughly 60 percent lower cost per task. The article New Deepseek Flash ",
@@ -306,8 +336,38 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+      "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal.",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though a",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "summary": "Snapchat has adjusted it recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
       "date": "2026-07-31",
       "importance": 2,
       "tags": [],
@@ -372,6 +432,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though a",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/"
     },
     {
       "category": "industry",
@@ -502,26 +572,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-      "summary": "The FCC is blocking imports of new Chinese humanoid robots and robot dogs. But the rule's broad definition also sweeps in Roombas, robotic lawn mowers, and delivery bots. The article FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats ap",
-      "date": "2026-07-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings",
-      "summary": "OpenAI counters Anthropic's ARC-AGI-3 record: GPT-5.6 Sol scores 38.3 percent, but only with its own API features instead of the official test setup, where the model landed at 7.8 percent. ARC Prize claims its test environment is provider-neutral, but may have used an outdated AP",
-      "date": "2026-07-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/"
     },
     {
       "category": "industry",
@@ -692,36 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-      "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/"
     },
     {
       "category": "model",
@@ -1112,26 +1132,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "summary": "\"Here’s a more natural, flowing version of that section...\"",
-      "date": "2026-07-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-      "date": "2026-07-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
     },
     {
       "category": "benchmark",

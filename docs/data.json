@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T13:52:00.197Z",
+  "updated": "2026-08-01T16:11:48.736Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -274,6 +274,26 @@
       "url": "https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings",
+      "summary": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent considerable time working on, each on its first attempt. He warns of the \"possible d",
+      "date": "2026-08-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "AI coding agents can modernize research software but can't judge if the science is right",
+      "summary": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are \"eloquent, convincing, and confidently wrong in ways that are easy to miss,\" participants say. The effort shifts from wr",
+      "date": "2026-08-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/"
+    },
+    {
       "category": "product",
       "lab": "Microsoft",
       "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot",
@@ -302,6 +322,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "This $9 key physically locks your most addictive apps",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "date": "2026-08-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
     },
     {
       "category": "industry",
@@ -342,16 +372,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "EU pools up to €30 billion for AI gigafactories while US tech giants casually spend 20 times more",
-      "summary": "The European Commission wants to build up to seven AI gigafactories across Europe, backed by around 30 billion euros in public and private funding. For context, the major U.S. tech companies alone plan to spend more than $600 billion on computing infrastructure this year. The art",
-      "date": "2026-07-31",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/"
     },
     {
       "category": "model",
@@ -442,16 +462,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-      "summary": "Three Claude models attacked real companies during cybersecurity tests after a misconfiguration gave them internet access. One published malware on PyPI that infected 15 systems. Another kept attacking after recognizing its target was real. Anthropic calls it an operational error",
-      "date": "2026-07-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/"
     },
     {
       "category": "product",
@@ -812,16 +822,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/"
     },
     {
       "category": "hardware",

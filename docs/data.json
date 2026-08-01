@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T22:14:47.048Z",
+  "updated": "2026-08-01T03:47:42.063Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "summary": "<p><strong><a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\">deepseek-ai/DeepSeek-V4-Flash-0731</a></strong></p> The latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face -",
+      "date": "2026-07-31",
+      "importance": 5,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "summary": "<p>Tuesday was <a href=\"https://x.com/ade_oshineye/status/2082129440943866149\">Stateless MCP day</a> - the rollout of MCP 2.0, or <a href=\"https://blog.modelcontextprotocol.io/posts/2026-07-28/\">the 2026-07-28 Model Context Protocol specification</a> to use the more formal but le",
+      "date": "2026-07-31",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "EU pools up to €30 billion for AI gigafactories while US tech giants casually spend 20 times more",
@@ -262,6 +282,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "llm-mcp-client 0.1a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-mcp-client/releases/tag/0.1a0\">llm-mcp-client 0.1a0</a></p> <p>See <a href=\"https://simonwillison.net/2026/Jul/31/stateless-mcp/#llm-mcp-client\">this blog entry</a>.</p> <p>Tags: <a href=\"https://simonwillison.ne",
+      "date": "2026-07-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything"
     },
     {
       "category": "model",
@@ -335,6 +365,16 @@
     },
     {
       "category": "model",
+      "lab": "AI",
+      "title": "datasette-agent 0.4a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.4a0\">datasette-agent 0.4a0</a></p> <blockquote> <ul> <li>New <code>await context.browser_task()</code> mechanism allowing agent tools to run code directly in the user's browser. <a h",
+      "date": "2026-07-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
       "summary": "Three Claude models attacked real companies during cybersecurity tests after a misconfiguration gave them internet access. One published malware on PyPI that infected 15 systems. Another kept attacking after recognizing its target was real. Anthropic calls it an operational error",
@@ -352,6 +392,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
     },
     {
       "category": "industry",
@@ -776,16 +826,6 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "New MCP specification addresses the main barrier to enterprise adoption",
       "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
       "date": "2026-07-30",
@@ -1194,16 +1234,6 @@
       "url": "https://huggingface.co/blog/nunchaku-diffusers"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-      "summary": "<p>This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then found exploits to break <em>in</em> to",
-      "date": "2026-07-22",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Quoting Thomas Ptacek",
@@ -1214,16 +1244,6 @@
       "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Are AI labs pelicanmaxxing?",
-      "summary": "<p><strong><a href=\"https://dylancastillo.co/posts/pelicanmaxxing.html\">Are AI labs pelicanmaxxing?</a></strong></p> Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models",
-      "date": "2026-07-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Advancing the next era of national science",
@@ -1232,16 +1252,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Orchestrions",
-      "summary": "<p>San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in <a href=\"https://en.wikipedia.org/wiki/Musée_Mécanique\">Musée Mécanique</a>.</p> <p>And because most people are bad at allocating th",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything"
     },
     {
       "category": "industry",
@@ -1312,16 +1322,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/grabette"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "California Sea Lion",
-      "summary": "<p><img src=\"https://static.inaturalist.org/photos/702321069/large.jpg\" alt=\"California Sea Lion\"></p><p><img src=\"https://static.inaturalist.org/photos/702321114/large.jpg\" alt=\"California Sea Lion\"></p><p>California Sea Lion, in San Francisco County, US, CA</p><p>We took some v",
-      "date": "2026-07-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything"
     },
     {
       "category": "industry",

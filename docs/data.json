@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-01T03:47:42.063Z",
+  "updated": "2026-08-01T08:32:32.232Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 151
+    "fresh": 152
   },
   "ranking": [
     {
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI is reportedly building Astra, a model family designed to work on problems for hours or days",
+      "summary": "OpenAI is building a new model family called \"Astra\" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has already demoed Astra to policymakers in Washington. OpenAI hasn't decided whether to release it as GPT-6 or a new GPT-5 ",
+      "date": "2026-08-01",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-is-reportedly-building-astra-a-model-family-designed-to-work-on-problems-for-hours-or-days/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "date": "2026-08-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/ten-advances-in-mathematics"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -672,16 +692,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
-      "summary": "Microsoft AI is betting on small specialist models instead of expensive general-purpose ones, according to AI CEO Mustafa Suleyman. MAI-Cyber-1-Flash tops the CyberGym benchmark when embedded in an orchestrator and reportedly costs half as much as Anthropic's Mythos, but it still",
-      "date": "2026-07-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/security-incident-july-2026"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "Model Routing Is Simple. Until It Isn’t.",
-      "summary": "Model Routing Is Simple. Until It Isn’t.",
-      "date": "2026-07-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
     }
   ]
 }

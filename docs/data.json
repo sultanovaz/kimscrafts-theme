@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T08:32:32.232Z",
+  "updated": "2026-08-01T10:47:11.966Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -256,12 +256,32 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "OpenAI is reportedly building Astra, a model family designed to work on problems for hours or days",
+      "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions",
       "summary": "OpenAI is building a new model family called \"Astra\" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has already demoed Astra to policymakers in Washington. OpenAI hasn't decided whether to release it as GPT-6 or a new GPT-5 ",
       "date": "2026-08-01",
       "importance": 4,
       "tags": [],
-      "url": "https://the-decoder.com/openai-is-reportedly-building-astra-a-model-family-designed-to-work-on-problems-for-hours-or-days/"
+      "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google handed users the easiest possible tool for fake satellite imagery, then pulled it after two days",
+      "summary": "Google pulled its Nano Banana 2 image model from Google Earth just two days after launch. Users showed how easy it was to generate convincing fake satellite images. A simple prompt was enough to fill an empty lot at the Mexican border with a refugee column. The article Google han",
+      "date": "2026-08-01",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+      "summary": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-and-data-mining exception and the US fair use defense. The ruling isn't final, a",
+      "date": "2026-08-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/"
     },
     {
       "category": "industry",
@@ -614,16 +634,6 @@
       "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
-      "summary": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas. Ho ",
-      "date": "2026-07-30",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "llm-chat-completions-server 0.1a0",
@@ -682,16 +692,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/"
-    },
-    {
-      "category": "research",
-      "lab": "Google DeepMind",
-      "title": "Language models can't spark scientific revolutions, but world models might",
-      "summary": "Can language models spark a scientific revolution? In a position paper titled \"LLMs can't jump,\" Google Deepmind's Tom Zahavy argues they can't. They're missing the cognitive mechanism needed to create something truly new. The article Language models can't spark scientific revolu",
-      "date": "2026-07-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/"
     },
     {
       "category": "industry",

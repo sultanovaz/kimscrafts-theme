@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T10:47:11.966Z",
+  "updated": "2026-08-01T13:52:00.197Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -274,6 +274,26 @@
       "url": "https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/"
     },
     {
+      "category": "product",
+      "lab": "Microsoft",
+      "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot",
+      "summary": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically into new files every time they're reused. Microsoft confirmed the issue but failed to fix it after 144 days and two attemp",
+      "date": "2026-08-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio",
+      "summary": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go. Each clip runs up to 30 seconds, three times what Google's Gemini Omni Flash puts out. Users can feed in dozens of images, videos, and audio files as reference. For ad teams, ",
+      "date": "2026-08-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
@@ -282,6 +302,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "summary": "Reddit may still be considering ending its licensing deal with Google.",
+      "date": "2026-08-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/"
     },
     {
       "category": "industry",
@@ -422,16 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Aschenbrenner's AI thesis could be correct, his timing and leverage were not",
-      "summary": "Leopold Aschenbrenner's AI hedge fund Situational Awareness had to unload nearly its entire publicly traded portfolio to Ken Griffin's Citadel after racking up heavy losses on leveraged AI stock positions. Just days earlier, Aschenbrenner had reported a six-month return of 439 pe",
-      "date": "2026-07-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/"
     },
     {
       "category": "product",
@@ -672,16 +692,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model",
-      "summary": "Starting July 30, OpenAI is cutting GPT-5.6 Luna prices by 80 percent and Terra by 20 percent. OpenAI says its top-tier Sol model helped make the company's own infrastructure more efficient, enabling the cuts. Price pressure from cheap Chinese providers and Microsoft's own MAI mo",
-      "date": "2026-07-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/"
     },
     {
       "category": "model",
@@ -1122,16 +1132,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-      "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
-      "date": "2026-07-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/"
     },
     {
       "category": "hardware",

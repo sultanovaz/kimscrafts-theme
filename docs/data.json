@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T19:31:33.471Z",
+  "updated": "2026-08-01T22:09:44.839Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -275,6 +275,26 @@
     },
     {
       "category": "model",
+      "lab": "AI",
+      "title": "datasette-apps 0.2a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.2a0\">datasette-apps 0.2a0</a></p> <blockquote> <p>Changes that improve Datasette Apps when created and edited using <a href=\"https://agent.datasette.io/\">Datasette Agent</a>:</p> <ul>",
+      "date": "2026-08-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "summary": "<p><strong><a href=\"https://openai.com/index/ten-advances-in-mathematics/\">Ten advances in mathematics and theoretical computer science</a></strong></p> A few days ago it was Anthropic <a href=\"https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude",
+      "date": "2026-08-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings",
       "summary": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent considerable time working on, each on its first attempt. He warns of the \"possible d",
@@ -325,6 +345,26 @@
     },
     {
       "category": "industry",
+      "lab": "xAI",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "date": "2026-08-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "date": "2026-08-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
       "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
@@ -352,16 +392,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "date": "2026-08-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/ten-advances-in-mathematics"
     },
     {
       "category": "model",
@@ -512,6 +542,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Slack Emoji Maker",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/slack-emoji-maker\">Slack Emoji Maker</a></p> <p>I wanted to create a new Slack emoji, and their tool recommends a square that's 128x128 and has a transparent background... so I <a href=\"https://github.com/simonw/t",
+      "date": "2026-07-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything"
     },
     {
       "category": "industry",
@@ -794,16 +834,6 @@
       "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
@@ -812,16 +842,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
     },
     {
       "category": "hardware",
@@ -1204,26 +1224,6 @@
       "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything"
     },
     {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-      "summary": "<p><strong><a href=\"https://martinalderson.com/posts/huggingface-openai-exploit/\">The first known runaway AI agent - or a very bad marketing stunt?</a></strong></p> Martin Alderson's commentary on the <a href=\"https://simonwillison.net/2026/Jul/22/openai-cyberattack/\">OpenAI acci",
-      "date": "2026-07-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Seth Larson",
-      "summary": "<blockquote cite=\"https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/\"><p>The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was <a href=\"https://github.com/pypi/warehouse/",
-      "date": "2026-07-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Launching Health in ChatGPT",
@@ -1242,16 +1242,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/nunchaku-diffusers"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Quoting Thomas Ptacek",
-      "summary": "<blockquote cite=\"https://twitter.com/tqbf/status/2080045032162173329\"><p>I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising becau",
-      "date": "2026-07-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything"
     },
     {
       "category": "industry",
@@ -1452,6 +1442,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/security-incident-july-2026"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "summary": "Model Routing Is Simple. Until It Isn’t.",
+      "date": "2026-07-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T19:32:06.901Z",
+  "updated": "2026-08-02T22:09:04.989Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -342,6 +342,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Sam Altman and AI’s decel debate",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "date": "2026-08-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
     },
     {
       "category": "model",
@@ -842,16 +852,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"
     },
     {
       "category": "industry",

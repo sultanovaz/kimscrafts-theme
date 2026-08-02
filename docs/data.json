@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T03:52:02.355Z",
+  "updated": "2026-08-02T08:35:43.736Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior",
+      "summary": "Research organization METR is calling for systematic, independently led investigations whenever AI agents act autonomously against their developers' intentions. The push comes partly in response to the Hugging Face hack carried out by OpenAI models. METR's own Frontier Risk Repor",
+      "date": "2026-08-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Snap and LinkedIn are fighting back against a flood of low-quality AI content",
+      "summary": "Snap is banning AI-generated videos from Spotlight to keep the feed focused on human creativity. Content edited with Snapchat's own AI tools is still allowed. LinkedIn, meanwhile, has rolled out a dedicated \"AI slop\" reporting button. The article Snap and LinkedIn are fighting ba",
+      "date": "2026-08-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Open letters about AI development",
+      "summary": "<h4>Open letters about AI development</h4> <p><em>I wrote this summary of the past few weeks of open letters as a section of <a href=\"https://simonwillison.net/2026/Aug/2/july-newsletter/\">my sponsors-only newsletter</a> but I've decided to share it here as well.</em></p> <p><str",
+      "date": "2026-08-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "July 2026 newsletter",
+      "summary": "<p>The June edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a> is out. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-07-july.md\">access it here</a>.<",
+      "date": "2026-08-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions",
@@ -482,26 +522,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small",
-      "summary": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding and reasoning benchmarks. The article Thinking Machines bets on efficiency over s",
-      "date": "2026-07-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost",
-      "summary": "Deepseek's budget model V4 Flash gets a major boost with the \"0731\" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index. That puts it just one point behind OpenAI's GPT-5.6 Luna, at roughly 60 percent lower cost per task. The article New Deepseek Flash ",
-      "date": "2026-07-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/"
     },
     {
       "category": "model",
@@ -1202,26 +1222,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Ruff v0.16.0",
-      "summary": "<p><strong><a href=\"https://astral.sh/blog/ruff-v0.16.0\">Ruff v0.16.0</a></strong></p> Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff",
-      "date": "2026-07-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Quoting Boris Cherny",
-      "summary": "<blockquote cite=\"https://twitter.com/bcherny/status/2080713091688583312\"><p>More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red team",
-      "date": "2026-07-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything"
     },
     {
       "category": "industry",

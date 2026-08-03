@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T22:09:04.989Z",
+  "updated": "2026-08-03T03:52:19.264Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "condense-json 1.0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/condense-json/releases/tag/1.0\">condense-json 1.0</a></p> <p>I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes ",
+      "date": "2026-08-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything"
+    },
     {
       "category": "industry",
       "lab": "OpenAI",
@@ -1202,16 +1212,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "sqlite-utils 3.39.1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/3.39.1\">sqlite-utils 3.39.1</a></p> <p>I back-ported <a href=\"https://github.com/simonw/sqlite-utils/issues/815\">a fix</a> for <code>table.delete_where()</code> that shipped in version 4.</p",
-      "date": "2026-07-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything"
     },
     {
       "category": "model",

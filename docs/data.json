@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T10:03:56.740Z",
+  "updated": "2026-08-03T15:13:34.165Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -256,6 +256,66 @@
     {
       "category": "model",
       "lab": "AI",
+      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
+      "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week. The article Alibaba’s open-weight Qwen3.8-Max takes on long",
+      "date": "2026-08-03",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa",
+      "summary": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484 million, and about 600,000 cases of digital extortion involving deepfakes were recorded. The article Interpol says AI h",
+      "date": "2026-08-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "China's MiniMax H3 is the first open model to top an AI video ranking",
+      "summary": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time. The article China's MiniMax H3 is the first open model to top an AI video ranking appeared first on The Decoder.",
+      "date": "2026-08-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
+      "summary": "One paragraph of \"Lord of the Rings\" in, 5,500 lines of code out. Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene. The article Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test appeared first on The De",
+      "date": "2026-08-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
+      "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says one of the researchers. The",
+      "date": "2026-08-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "date": "2026-08-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
       "title": "condense-json 1.0",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/condense-json/releases/tag/1.0\">condense-json 1.0</a></p> <p>I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes ",
       "date": "2026-08-02",
@@ -314,26 +374,6 @@
       "url": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior",
-      "summary": "Research organization METR is calling for systematic, independently led investigations whenever AI agents act autonomously against their developers' intentions. The push comes partly in response to the Hugging Face hack carried out by OpenAI models. METR's own Frontier Risk Repor",
-      "date": "2026-08-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Snap and LinkedIn are fighting back against a flood of low-quality AI content",
-      "summary": "Snap is banning AI-generated videos from Spotlight to keep the feed focused on human creativity. Content edited with Snapchat's own AI tools is still allowed. LinkedIn, meanwhile, has rolled out a dedicated \"AI slop\" reporting button. The article Snap and LinkedIn are fighting ba",
-      "date": "2026-08-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Open letters about AI development",
@@ -382,36 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings",
-      "summary": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent considerable time working on, each on its first attempt. He warns of the \"possible d",
-      "date": "2026-08-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "AI coding agents can modernize research software but can't judge if the science is right",
-      "summary": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are \"eloquent, convincing, and confidently wrong in ways that are easy to miss,\" participants say. The effort shifts from wr",
-      "date": "2026-08-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/"
-    },
-    {
-      "category": "product",
-      "lab": "Microsoft",
-      "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot",
-      "summary": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically into new files every time they're reused. Microsoft confirmed the issue but failed to fix it after 144 days and two attemp",
-      "date": "2026-08-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/"
     },
     {
       "category": "industry",
@@ -842,16 +852,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/"
     },
     {
       "category": "industry",

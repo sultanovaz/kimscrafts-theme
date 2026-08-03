@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T17:18:47.379Z",
+  "updated": "2026-08-03T19:55:22.285Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,36 @@
       "url": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "date": "2026-08-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "date": "2026-08-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genui",
+      "date": "2026-08-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
@@ -342,6 +372,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Devtools must be open source (exe.dev)",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49156111#49156719\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49156111\">Devtools must be open source (exe.dev)</a> &mdash; Hacker News.</p><p>One of the arguments for open source software for end-users has alwa",
+      "date": "2026-08-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything"
     },
     {
       "category": "industry",
@@ -446,6 +486,16 @@
     {
       "category": "industry",
       "lab": "OpenAI",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.",
+      "date": "2026-08-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
       "title": "Quoting Greg Brockman",
       "summary": "<blockquote cite=\"https://twitter.com/gdb/status/2083435180392673714\"><p>at openai, many people hook their chatgpt up to slack.</p> <p>people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same",
       "date": "2026-08-01",
@@ -472,16 +522,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-      "date": "2026-08-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
     },
     {
       "category": "industry",
@@ -835,36 +875,6 @@
     },
     {
       "category": "industry",
-      "lab": "Anthropic",
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "Chrome may get faster updates with no restart required",
       "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
@@ -1182,16 +1192,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "An opinionated guide to which AI to use to do stuff",
-      "summary": "<p><strong><a href=\"https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22\">An opinionated guide to which AI to use to do stuff</a></strong></p> It's interesting watching the evolution of Ethan Mollick's guide over time. </p> <p><a href=\"https://www.oneusefulthing.",
-      "date": "2026-07-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything"
     },
     {
       "category": "industry",

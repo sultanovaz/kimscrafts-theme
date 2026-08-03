@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T15:13:34.165Z",
+  "updated": "2026-08-03T17:18:47.379Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,26 @@
       "url": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
+      "summary": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. It's a deliberate contrast to the job loss warnings from OpenAI and Anthropic. Of course, it's still just marketing. The article Alibaba's new Qwen model is ",
+      "date": "2026-08-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "IBM finds 92% of companies hit by AI security breaches lacked basic access controls",
+      "summary": "According to IBM, 92 percent of companies that experienced an AI security incident had inadequate access controls for their AI systems. The model itself was rarely the problem. The article IBM finds 92% of companies hit by AI security breaches lacked basic access controls appeare",
+      "date": "2026-08-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa",
@@ -302,6 +322,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Congress’s favorite AI tool? ChatGPT",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "date": "2026-08-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting David Crawshaw's prompt",
+      "summary": "<blockquote cite=\"https://blog.exe.dev/devtools-must-be-open-source\"><p><code>Set up a nightly cron job that executes the prompt: fetch upstream changes to the <software> and rebase all local changes on top of upstream. Check that the software works as intended and replace the cu",
+      "date": "2026-08-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything"
     },
     {
       "category": "industry",
@@ -354,26 +394,6 @@
       "url": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI finds plenty of security flaws, but almost none of them get exploited",
-      "summary": "VulnCheck counted how often security flaws found by AI actually get exploited. Out of 1,061 AI-discovered vulnerabilities in the first half of 2026, just 14 saw confirmed attacks. That's 1.3 percent, the same rate as vulnerabilities overall. But exploits are landing faster, with ",
-      "date": "2026-08-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music",
-      "summary": "Anthropic's Claude Opus 5 generates complete 3D games from single prompts, including a first-person shooter, a kart racer, and a Minecraft clone, all without a single external asset. Geometry, textures, physics, and in some cases music are produced as code and run directly in the",
-      "date": "2026-08-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Open letters about AI development",
@@ -397,7 +417,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Sam Altman and AI’s decel debate",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
       "date": "2026-08-02",
       "importance": 2,
       "tags": [],
@@ -845,16 +865,6 @@
     },
     {
       "category": "industry",
-      "lab": "Anthropic",
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "Chrome may get faster updates with no restart required",
       "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
@@ -1212,16 +1222,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
-      "summary": "<p><strong><a href=\"https://vectoral.com/blog/token-relay-market\">An Inside Look at the Relay Market Powering Token Resellers and Fraud</a></strong></p> Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by poolin",
-      "date": "2026-07-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"
     },
     {
       "category": "industry",

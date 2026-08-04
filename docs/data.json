@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T08:52:09.680Z",
+  "updated": "2026-08-04T11:32:34.005Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague",
+      "summary": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu. The messages appear to show Apple employees themselves reaching out to their former colleague for technical help and internal files after he left th",
+      "date": "2026-08-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/"
+    },
     {
       "category": "model",
       "lab": "AI",
@@ -512,16 +522,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop",
-      "summary": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging the review pipeline. As a result, Italian startup Bynario was initially unable to report a serious macOS vulnerability wor",
-      "date": "2026-08-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/"
     },
     {
       "category": "model",

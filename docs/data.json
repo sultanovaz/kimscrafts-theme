@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-03T22:16:21.928Z",
+  "updated": "2026-08-04T03:34:27.128Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 152
+    "fresh": 153
   },
   "ranking": [
     {
@@ -256,6 +256,26 @@
     {
       "category": "model",
       "lab": "AI",
+      "title": "Quoting Steve Yegge",
+      "summary": "<blockquote cite=\"https://yegge.ai/essays/the-shape-of-things-to-come/\"><p><a href=\"https://yegge.ai/gastown.html\">Gas Town</a> was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was wo",
+      "date": "2026-08-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "date": "2026-08-03",
+      "importance": 4,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
       "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
       "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week. The article Alibaba’s open-weight Qwen3.8-Max takes on long",
       "date": "2026-08-03",
@@ -346,7 +366,17 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Ukraine’s drones get AI upgrades for kamikaze strikes, future swarm attacks",
+      "title": "Don't be a meat proxy",
+      "summary": "<p><strong><a href=\"https://gruhn.me/blog/2026-08-03/\">Don&#x27;t be a meat proxy</a></strong></p> Niklas Gruhn coins an excellent new term - <strong>meat proxy</strong> - for people who blindly copy and paste the output of AI systems to their peers.</p> <blockquote> <p>By all me",
+      "date": "2026-08-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
       "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
       "date": "2026-08-03",
       "importance": 2,
@@ -432,6 +462,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "date": "2026-08-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/circles"
     },
     {
       "category": "model",
@@ -815,16 +855,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though a",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
       "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
@@ -1114,16 +1144,6 @@
       "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "summary": "<p><strong><a href=\"https://huggingface.co/blog/agent-intrusion-technical-timeline\">Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident</a></strong></p> Hugging Face just released this extremely detailed technical description of <a href=\"http",
-      "date": "2026-07-28",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Quoting Akshat Bubna",
@@ -1204,14 +1224,14 @@
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
     },
     {
-      "category": "model",
-      "lab": "Moonshot",
-      "title": "moonshotai/Kimi-K3",
-      "summary": "<p><strong><a href=\"https://huggingface.co/moonshotai/Kimi-K3\">moonshotai/Kimi-K3</a></strong></p> As promised <a href=\"https://simonwillison.net/2026/Jul/16/kimi-k3/\">earlier this month</a>, Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. T",
+      "category": "product",
+      "lab": "Hugging Face",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
       "date": "2026-07-27",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything"
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
     },
     {
       "category": "hardware",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/codex-collaborator-creative-team"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/cars24"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Security incident disclosure — July 2026",
-      "summary": "Security incident disclosure — July 2026",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/security-incident-july-2026"
     }
   ]
 }

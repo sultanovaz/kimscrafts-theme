@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-04T14:37:34.306Z",
+  "updated": "2026-08-04T17:02:09.938Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 154
+    "fresh": 155
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Google moves billions in Anthropic chip risk off its balance sheet",
+      "summary": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and data centers while keeping most of the risk off Google's balance sheet. The setup leaves roughly $200 billion in contract",
+      "date": "2026-08-04",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
+      "summary": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old. The article Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago appeared first on The Decode",
+      "date": "2026-08-04",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "Is the future of data centers portable? Runware builds a pod to find out",
@@ -267,7 +287,7 @@
       "category": "hardware",
       "lab": "Anthropic",
       "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI",
-      "summary": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-source AI models, according to the New York Times. OpenAI and Anthropic pushed for restrictions, while Nvidia, Google, and Meta fought back. After pushback from Silicon Valley, Washington backed of",
+      "summary": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-weight AI models, according to the New York Times. OpenAI and Anthropic pushed for restrictions, while Nvidia, Google, and Meta fought back. After pushback from Silicon Valley, Washington backed of",
       "date": "2026-08-04",
       "importance": 3,
       "tags": [],
@@ -277,7 +297,7 @@
       "category": "model",
       "lab": "AI",
       "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+      "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
       "date": "2026-08-04",
       "importance": 3,
       "tags": [],
@@ -292,6 +312,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ m",
+      "date": "2026-08-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Texas halts new data centers as governor calls for audits",
+      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+      "date": "2026-08-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "date": "2026-08-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/"
     },
     {
       "category": "industry",
@@ -324,6 +374,16 @@
       "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything"
     },
     {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "date": "2026-08-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
@@ -332,16 +392,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
-      "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week. The article Alibaba’s open-weight Qwen3.8-Max takes on long",
-      "date": "2026-08-03",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/"
     },
     {
       "category": "industry",
@@ -554,16 +604,6 @@
       "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
-      "summary": "OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Workspace Agents, Presence targets external deployments. For complex cases, OpenAI's own engineers step in. The article OpenAI",
-      "date": "2026-08-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Open letters about AI development",
@@ -735,16 +775,6 @@
     },
     {
       "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "date": "2026-07-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "datasette-agent 0.4a0",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.4a0\">datasette-agent 0.4a0</a></p> <blockquote> <ul> <li>New <code>await context.browser_task()</code> mechanism allowing agent tools to run code directly in the user's browser. <a h",
@@ -822,26 +852,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though a",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Our approach to bioresilience",
-      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/"
     }
   ]
 }

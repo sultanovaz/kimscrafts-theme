@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-04T19:54:24.028Z",
+  "updated": "2026-08-04T22:20:57.277Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 155
+    "fresh": 156
   },
   "ranking": [
     {
@@ -275,9 +275,19 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "date": "2026-08-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
+    },
+    {
+      "category": "industry",
       "lab": "Anthropic",
-      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
-      "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
       "date": "2026-08-04",
       "importance": 3,
       "tags": [],
@@ -344,6 +354,36 @@
       "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "date": "2026-08-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+      "date": "2026-08-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "date": "2026-08-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
@@ -352,6 +392,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "date": "2026-08-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
     },
     {
       "category": "product",
@@ -377,7 +427,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
       "date": "2026-08-04",
       "importance": 2,
       "tags": [],
@@ -686,16 +736,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.",
-      "date": "2026-08-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Quoting Greg Brockman",
       "summary": "<blockquote cite=\"https://twitter.com/gdb/status/2083435180392673714\"><p>at openai, many people hook their chatgpt up to slack.</p> <p>people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same",
       "date": "2026-08-01",
@@ -712,26 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "date": "2026-08-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "This $9 key physically locks your most addictive apps",
-      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "date": "2026-08-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
     },
     {
       "category": "industry",
@@ -1194,16 +1214,6 @@
       "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-      "date": "2026-07-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
-    },
-    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "Discovering cryptographic weaknesses with Claude",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Newer Models, Same Advantage",
-      "summary": "Newer Models, Same Advantage",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
     }
   ]
 }

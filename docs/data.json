@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T17:02:09.938Z",
+  "updated": "2026-08-04T19:54:24.028Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -274,6 +274,36 @@
       "url": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/"
     },
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "date": "2026-08-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "PipeNetwork/minimax-h3-mlx",
+      "summary": "<p><strong><a href=\"https://github.com/PipeNetwork/minimax-h3-mlx\">PipeNetwork/minimax-h3-mlx</a></strong></p> MiniMax released <a href=\"https://huggingface.co/MiniMaxAI/MiniMax-H3\">MiniMax-H3</a> two days ago - they describe it as a \"a general-purpose, omni-modal generative syst",
+      "date": "2026-08-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "This year's Pulitzer Prizes saw a record number of winners disclose AI use",
+      "summary": "A record eight entries honored at the 2026 Pulitzer Prizes disclosed using AI, including five winners. Newsrooms such as the Wall Street Journal and AP used LLMs mainly to search large document sets faster. Pulitzer administrator Marjorie Miller said AI remains off-limits for wri",
+      "date": "2026-08-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "Is the future of data centers portable? Runware builds a pod to find out",
@@ -312,6 +342,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "date": "2026-08-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
     },
     {
       "category": "product",
@@ -462,16 +502,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
-      "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says one of the researchers. The",
-      "date": "2026-08-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/"
     },
     {
       "category": "industry",
@@ -764,16 +794,6 @@
       "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "India is starting to pay for apps, not just download them",
-      "summary": "India's app market generated a record $345 million in Q2.",
-      "date": "2026-07-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "datasette-agent 0.4a0",
@@ -782,16 +802,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
     },
     {
       "category": "industry",
@@ -1182,16 +1192,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "uv 0.12.0",
-      "summary": "<p><strong><a href=\"https://github.com/astral-sh/uv/releases/tag/0.12.0\">uv 0.12.0</a></strong></p> Some interesting breaking changes in this release of <code>uv</code>, in particular to the default project produced by the <code>uv init</code> command.</p> <p><a href=\"https://doc",
-      "date": "2026-07-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything"
     },
     {
       "category": "model",

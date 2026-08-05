@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-04T22:20:57.277Z",
+  "updated": "2026-08-05T03:29:44.294Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 156
+    "fresh": 155
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+      "summary": "<p>I released <a href=\"https://llm.datasette.io/en/stable/changelog.html#v0-32\">LLM 0.32</a> this morning, the most significant new version of LLM since the initial launch of the project. The new version includes support for visible reasoning traces, server-side provider tools, r",
+      "date": "2026-08-04",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything"
+    },
+    {
       "category": "hardware",
       "lab": "Anthropic",
       "title": "Google moves billions in Anthropic chip risk off its balance sheet",
@@ -272,6 +282,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "llm-anthropic 0.26",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.26\">llm-anthropic 0.26</a></p> <p>Includes new features enabled by <a href=\"https://simonwillison.net/2026/Aug/4/new-release-of-llm/\">LLM 0.32</a>:</p> <blockquote> <ul> <li>New models: <",
+      "date": "2026-08-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything"
     },
     {
       "category": "industry",
@@ -312,6 +332,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "llm 0.32",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.32\">llm 0.32</a></p> <p>See <a href=\"https://simonwillison.net/2026/Aug/4/new-release-of-llm/\">my detailed blog post about this release</a>.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/llm",
+      "date": "2026-08-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything"
     },
     {
       "category": "model",
@@ -552,6 +582,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "condense-json 1.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/condense-json/releases/tag/1.1\">condense-json 1.1</a></p> <p>After shipping <a href=\"https://simonwillison.net/2026/Aug/2/condense-json/\">condense-json 1.0</a> I started integrating it into LLM, and found there were ",
+      "date": "2026-08-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything"
     },
     {
       "category": "industry",
@@ -1074,16 +1114,6 @@
       "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Quoting Matthew Green",
-      "summary": "<blockquote cite=\"https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/\"><p>Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new <em>post-quan",
-      "date": "2026-07-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything"
-    },
-    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
@@ -1192,36 +1222,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/chatgpt-for-academic-researchers"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Adding a custom MCP server to Claude and ChatGPT",
-      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/llms/mcp-in-claude-and-chatgpt\">Adding a custom MCP server to Claude and ChatGPT</a></p> <p>Connecting a custom MCP server to Claude and ChatGPT's standard chat interfaces is possible, but can take quite a few steps.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Quoting Akshat Bubna",
-      "summary": "<blockquote cite=\"https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/\"><p>We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code exe",
-      "date": "2026-07-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Discovering cryptographic weaknesses with Claude",
-      "summary": "<p><strong><a href=\"https://www.anthropic.com/research/discovering-cryptographic-weaknesses\">Discovering cryptographic weaknesses with Claude</a></strong></p> The best part of this article (here's <a href=\"https://github.com/anthropics/cryptography-research-demo\">the repo</a>) ab",
-      "date": "2026-07-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything"
     },
     {
       "category": "industry",

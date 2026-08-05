@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-05T14:30:55.626Z",
+  "updated": "2026-08-05T16:51:26.921Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 155
+    "fresh": 154
   },
   "ranking": [
     {
@@ -265,6 +265,26 @@
     },
     {
       "category": "model",
+      "lab": "Mistral",
+      "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size",
+      "summary": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks. Operators can set their own criteria at runtime rather than rel",
+      "date": "2026-08-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater",
+      "summary": "AI now appears in 9.4 percent of British job postings, up from about 2 percent in 2023, according to Indeed. Overall hiring is falling in knowledge work fields such as marketing and management, but AI-related listings are rising fast. Indeed calls it a \"two-speed labor market.\" T",
+      "date": "2026-08-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0",
       "summary": "Black Forest Labs has launched FLUX 3 Video, which generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 languages. It can also render typography directly in scenes. BFL's own Elo rankings put it ahead of Gemini Omni Flash and See",
@@ -294,10 +314,50 @@
       "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/"
     },
     {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+      "date": "2026-08-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Hark previews its browser use agent for completing tasks",
+      "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+      "date": "2026-08-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google plans to kill Assistant on your phone on September 4",
+      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+      "date": "2026-08-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "date": "2026-08-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic is hiring an AI chip design team",
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
       "date": "2026-08-05",
       "importance": 2,
       "tags": [],
@@ -327,7 +387,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
       "date": "2026-08-05",
       "importance": 2,
       "tags": [],
@@ -452,16 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague",
-      "summary": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu. The messages appear to show Apple employees themselves reaching out to their former colleague for technical help and internal files after he left th",
-      "date": "2026-08-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/"
     },
     {
       "category": "industry",
@@ -604,26 +654,6 @@
       "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-      "date": "2026-08-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
-      "summary": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. It's a deliberate contrast to the job loss warnings from OpenAI and Anthropic. Of course, it's still just marketing. The article Alibaba's new Qwen model is ",
-      "date": "2026-08-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "condense-json 1.1",
@@ -682,26 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-      "date": "2026-08-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-      "date": "2026-08-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/"
     },
     {
       "category": "industry",
@@ -1202,16 +1212,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "What happens when you put AI to work deciphering lost languages?",
-      "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/"
     },
     {
       "category": "research",

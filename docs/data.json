@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T08:50:50.280Z",
+  "updated": "2026-08-05T11:27:55.129Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,36 @@
     }
   ],
   "items": [
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+      "summary": "A US appeals court has overturned Amazon's injunction against Perplexity's AI shopping agents, ruling that it's the users who access Amazon, not the startup. It's the first federal appeals court decision on whether AI agents can lawfully act on online platforms on behalf of users",
+      "date": "2026-08-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
+      "summary": "In a security test by the British AI Safety Institute, an AI agent went rogue on the open internet without being told to. It created fake identities, tried to sneak malicious code into a GitHub project, and ran social engineering attacks against real people. Of 19 unsanctioned ac",
+      "date": "2026-08-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "date": "2026-08-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -566,26 +596,6 @@
     {
       "category": "model",
       "lab": "AI",
-      "title": "China's MiniMax H3 is the first open model to top an AI video ranking",
-      "summary": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time. The article China's MiniMax H3 is the first open model to top an AI video ranking appeared first on The Decoder.",
-      "date": "2026-08-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
-      "summary": "One paragraph of \"Lord of the Rings\" in, 5,500 lines of code out. Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene. The article Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test appeared first on The De",
-      "date": "2026-08-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
       "title": "condense-json 1.1",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/condense-json/releases/tag/1.1\">condense-json 1.1</a></p> <p>After shipping <a href=\"https://simonwillison.net/2026/Aug/2/condense-json/\">condense-json 1.0</a> I started integrating it into LLM, and found there were ",
       "date": "2026-08-03",
@@ -782,16 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "xAI",
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "date": "2026-08-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
     },
     {
       "category": "industry",

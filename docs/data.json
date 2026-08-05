@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T19:52:52.371Z",
+  "updated": "2026-08-05T22:19:39.001Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -354,6 +354,56 @@
       "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/"
     },
     {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "date": "2026-08-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "date": "2026-08-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "date": "2026-08-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+      "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
+      "date": "2026-08-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+      "summary": "\"Slop\" isn't the only problem.",
+      "date": "2026-08-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/"
+    },
+    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
@@ -654,16 +704,6 @@
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-      "date": "2026-08-03",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "condense-json 1.1",
@@ -702,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/apple-is-getting-this-wrong"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-      "date": "2026-08-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
     },
     {
       "category": "industry",
@@ -1175,26 +1205,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Who wins and who loses after US bans foreign robots?",
-      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-      "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/"
-    },
-    {
-      "category": "industry",
       "lab": "Google DeepMind",
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "summary": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
@@ -1202,16 +1212,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/"
     },
     {
       "category": "research",

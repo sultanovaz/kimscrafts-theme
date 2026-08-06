@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-05T22:19:39.001Z",
+  "updated": "2026-08-06T03:33:57.219Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 154
+    "fresh": 150
   },
   "ranking": [
     {
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "An AI model from Meta also hacked another company during testing",
+      "summary": "<p><strong><a href=\"https://www.cnn.com/2026/08/05/tech/meta-ai-hacking\">An AI model from Meta also hacked another company during testing</a></strong></p> Stop me if you've <a href=\"https://simonwillison.net/tags/accidental-cyberattacks/\">heard this one before</a>:</p> <blockquot",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Introducing Muse Code and Muse Spark 1.2",
+      "summary": "<p><strong><a href=\"https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2\">Introducing Muse Code and Muse Spark 1.2</a></strong></p> Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipp",
+      "date": "2026-08-05",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
       "summary": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop. Former Deepmind CTO Koray Kavukcuoglu will take over as Googl",
@@ -272,6 +292,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+      "summary": "<p><strong><a href=\"https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\">Incident Report: unsanctioned agent behaviour during cyber testing</a></strong></p> It happened <em>again</em>. This time it was the UK government's AI Security Ins",
+      "date": "2026-08-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything"
     },
     {
       "category": "model",
@@ -352,6 +382,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "summary": "<p><strong><a href=\"https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/\">Third-party cyber evaluations involving OpenAI models</a></strong></p> And <em>another one</em>. I had to create a <a href=\"https://simonwillison.net/tags/accidental-cyberattacks/",
+      "date": "2026-08-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything"
     },
     {
       "category": "product",
@@ -622,16 +662,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
     },
     {
       "category": "product",
@@ -1055,26 +1085,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "llm-chat-completions-server 0.1a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-chat-completions-server/releases/tag/0.1a0\">llm-chat-completions-server 0.1a0</a></p> <p>A key goal of the new content-addressable logs <a href=\"https://simonwillison.net/2026/Jul/30/llm-rc1/\">in LLM 0.32rc1</a> ",
-      "date": "2026-07-30",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "llm 0.32rc1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.32rc1\">llm 0.32rc1</a></p> <p>This RC for LLM 0.32 finishes the work that <a href=\"https://simonwillison.net/2026/Apr/29/llm/\">started in LLM 0.32a0</a> - it adds a <a href=\"https://llm.datasette.i",
-      "date": "2026-07-30",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "Advancing the price-performance frontier with GPT‑5.6",
       "summary": "<p><strong><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">Advancing the price-performance frontier with GPT‑5.6</a></strong></p> Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% dro",
@@ -1102,16 +1112,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Bruce Schneier",
-      "summary": "<blockquote cite=\"https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html\"><p>The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy m",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything"
     },
     {
       "category": "model",
@@ -1192,16 +1192,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting D. Richard Hipp",
-      "summary": "<blockquote cite=\"https://www.youtube.com/watch?v=R57nUGzo7CA&amp;t=848s\"><p>Years ago, we didn’t have SQL. There were people whose job was to generate software that would query large data sets. Their job title was COBOL programmer.</p> <p>Then SQL comes along—I’m simplifying thi",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything"
     },
     {
       "category": "industry",
@@ -1452,6 +1442,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Newer Models, Same Advantage",
+      "summary": "Newer Models, Same Advantage",
+      "date": "2026-07-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-06T11:31:42.196Z",
+  "updated": "2026-08-06T14:33:04.744Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 150
+    "fresh": 151
   },
   "ranking": [
     {
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less",
+      "summary": "Alibaba's Qwen3.8 Max scores 56 on the Artificial Analysis Intelligence Index, a 10-point jump over Qwen3.7 Max (46). The article Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less appeared first on The Decoder.",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/qwen3-8-max-catches-claude-opus-4-8-but-kimi-k3-still-scores-higher-for-25-percent-less/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "The company that made open weights mainstream now competes on discounts",
+      "summary": "Meta released Muse Spark 1.2 along with its own coding agent, Muse Code, which is designed to pick up exactly where it left off after a crash. The cheapest tier runs just 20 cents per million output tokens but requires users to share their data for training. Meta is competing on ",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/the-company-that-made-open-weights-mainstream-now-competes-on-discounts/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+      "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face. When OpenAI shut the board down, the agents rebuilt it using direct",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/"
+    },
+    {
       "category": "product",
       "lab": "OpenAI",
       "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
@@ -262,6 +302,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/"
     },
     {
       "category": "industry",
@@ -282,6 +362,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "summary": "Baseten on Hugging Face Inference Providers 🔥",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/baseten"
     },
     {
       "category": "model",
@@ -382,26 +472,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/black-forest-labs-makes-flux-3-video-generally-available-and-claims-it-beats-seedance-2-0/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-      "summary": "A US appeals court has overturned Amazon's injunction against Perplexity's AI shopping agents, ruling that it's the users who access Amazon, not the startup. It's the first federal appeals court decision on whether AI agents can lawfully act on online platforms on behalf of users",
-      "date": "2026-08-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/"
-    },
-    {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
-      "summary": "In a security test by the British AI Safety Institute, an AI agent went rogue on the open internet without being told to. It created fake identities, tried to sneak malicious code into a GitHub project, and ran social engineering attacks against real people. Of 19 unsanctioned ac",
-      "date": "2026-08-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/"
     },
     {
       "category": "model",
@@ -594,16 +664,6 @@
       "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "This year's Pulitzer Prizes saw a record number of winners disclose AI use",
-      "summary": "A record eight entries honored at the 2026 Pulitzer Prizes disclosed using AI, including five winners. Newsrooms such as the Wall Street Journal and AP used LLMs mainly to search large document sets faster. Pulitzer administrator Marjorie Miller said AI remains off-limits for wri",
-      "date": "2026-08-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "llm 0.32",
@@ -612,26 +672,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-      "date": "2026-08-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
-      "date": "2026-08-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/"
     },
     {
       "category": "industry",
@@ -682,36 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Texas halts new data centers as governor calls for audits",
-      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Newer Models, Same Advantage",
-      "summary": "Newer Models, Same Advantage",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
     }
   ]
 }

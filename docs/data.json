@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T08:51:33.400Z",
+  "updated": "2026-08-06T11:31:42.196Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
+      "summary": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale. His warning follows OpenAI's autonomous Hugging Face hack, which he called a \"warning shot.\" The article OpenAI developer warns the \"t",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI isn’t enough to protect social media communities from AI",
+      "summary": "Why humans need to moderate humans.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -532,16 +552,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Google moves billions in Anthropic chip risk off its balance sheet",
-      "summary": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and data centers while keeping most of the risk off Google's balance sheet. The setup leaves roughly $200 billion in contract",
-      "date": "2026-08-04",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/"
     },
     {
       "category": "model",
@@ -1182,16 +1192,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
     },
     {
       "category": "industry",

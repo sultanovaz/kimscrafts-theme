@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T19:13:18.224Z",
+  "updated": "2026-08-07T21:53:54.014Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
+      "summary": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework. Parts of Astra's development have been paused. The move follows recently disclosed incidents in whic",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "summary": "<p><strong><a href=\"https://simonw.github.io/raccoon-heist-codex/\">Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)</a></strong></p> On Wednesday I wrote about <a href=\"https://simonwillison.net/2026/Aug/5/raccoon-heist/\">One-shotting a Raccoon Heist game using",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "AI music generator Suno tightens rules to fight spam and address growing copyright concerns",
@@ -324,16 +344,6 @@
       "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI's hockey-puck-sized smart speaker with moving parts is set to ship in 2027",
-      "summary": "OpenAI's planned smart speaker is taking shape. The company's first hardware device will be donut-shaped, roughly the size of a hockey puck, and priced above $300, according to Bloomberg. The article OpenAI's hockey-puck-sized smart speaker with moving parts is set to ship in 202",
-      "date": "2026-08-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-hockey-puck-sized-smart-speaker-with-moving-parts-is-set-to-ship-in-2027/"
-    },
-    {
       "category": "research",
       "lab": "OpenAI",
       "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
@@ -362,6 +372,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
     },
     {
       "category": "industry",
@@ -397,7 +417,7 @@
       "category": "product",
       "lab": "AI",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       "date": "2026-08-07",
       "importance": 2,
       "tags": [],
@@ -447,7 +467,7 @@
       "category": "industry",
       "lab": "Meta",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "summary": "Meta's total fine has raked up to $942 million in this case.",
+      "summary": "Meta's total fine has racked up to $942 million in this case.",
       "date": "2026-08-07",
       "importance": 2,
       "tags": [],
@@ -836,16 +856,6 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "date": "2026-08-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "SpaceX spooks investors with debut earnings report",
       "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
       "date": "2026-08-05",
@@ -1172,16 +1182,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/"
-    },
-    {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "Slack Emoji Maker",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/slack-emoji-maker\">Slack Emoji Maker</a></p> <p>I wanted to create a new Slack emoji, and their tool recommends a square that's 128x128 and has a transparent background... so I <a href=\"https://github.com/simonw/t",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything"
     },
     {
       "category": "industry",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T07:39:05.215Z",
+  "updated": "2026-08-07T10:09:06.979Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+      "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face. When OpenAI shut the board down, the agents rebuilt it using direct",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Amazon, Cursor, Microsoft, OpenAI, and Vercel unite on a shared standard for AI agent plugins",
+      "summary": "Amazon, Cursor, Microsoft, OpenAI, and Vercel have jointly created Agent Plugins, an open standard that defines a single package format for AI agent extensions. Version 1.0.0 uses a plugin.json manifest file and supports both agent skills and MCP servers. The article Amazon, Curs",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+      "summary": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer. But the sma",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/hsp-gruppe"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
@@ -262,16 +302,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
-      "summary": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer. But the sma",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/"
     },
     {
       "category": "model",
@@ -352,16 +382,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
-      "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face. When OpenAI shut the board down, the agents rebuilt it using direct",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/"
     },
     {
       "category": "product",
@@ -622,16 +642,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS",
-      "summary": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto. Whether a probability-based LLM can match the reliability of its deterministic pred",
-      "date": "2026-08-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "date": "2026-07-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
     }
   ]
 }

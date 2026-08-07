@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-07T16:07:40.993Z",
+  "updated": "2026-08-07T19:13:18.224Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 149
+    "fresh": 150
   },
   "ranking": [
     {
@@ -254,6 +254,56 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI music generator Suno tightens rules to fight spam and address growing copyright concerns",
+      "summary": "Suno CEO Mikey Shulman has announced new guidelines and tighter download limits after its AI-generated music was used to game streaming platforms for profit. The company also faces pressure from a German copyright ruling and an admission by one of its investors that AI music comp",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon",
+      "summary": "AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips. That makes them extremely fast but locks each chip to a single model. A demo chip hit over 16,000 tokens per second per user running Llama 3.1-8B. Google is reportedly working on ",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic loosens Fable 5's biology restrictions but keeps the guardrails on for virology and toxicology",
+      "summary": "Anthropic has cut false positives in its biology safety filters for Fable 5 by about 85 percent. Previously, nearly all biology-related queries got blocked and rerouted to the less capable Opus 5. The restrictions stay in place for sensitive dual-use topics like virology and toxi",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-loosens-fable-5s-biology-restrictions-but-keeps-the-guardrails-on-for-virology-and-toxicology/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI's first smart speaker is expected in 2027 at over $300",
+      "summary": "OpenAI is planning a donut-shaped smart speaker for 2027, priced above $300. The screenless device has a camera, microphones, and moving parts. It's designed to learn from conversations and adapt to users, fitting Sam Altman's \"Her\" vision. The article OpenAI's first smart speake",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-first-smart-speaker-is-expected-in-2027-at-over-300/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+    },
+    {
       "category": "model",
       "lab": "Moonshot",
       "title": "China's Largest AI Model Is Being Developed at Bytedance",
@@ -315,6 +365,46 @@
     },
     {
       "category": "industry",
+      "lab": "Hugging Face",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "summary": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/tutormoments"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "summary": "<p><strong><a href=\"https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/\">The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI</a></strong></p> There's a fun anecdote from Accenture (apparently ",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
       "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
@@ -322,6 +412,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a th",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/"
     },
     {
       "category": "industry",
@@ -364,16 +464,6 @@
       "url": "https://openai.com/index/hsp-gruppe"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
-      "summary": "Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis. The heavy reliance helps explain why a company long known for vendor lock-in has recently been ch",
-      "date": "2026-08-06",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "datasette 1.0a38",
@@ -394,26 +484,6 @@
       "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything"
     },
     {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Deepmind's talent drain likely comes down to chip shortages, a conflict of interest, and Google's bureaucracy",
-      "summary": "Ex-Google Deepmind CEO Demis Hassabis has reportedly stepped back from day-to-day operations for about a year, as he sees himself more as a scientist than a manager. Researchers are also complaining about limited access to Google’s own TPU chips, while external customers like Ant",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deepminds-talent-drain-likely-comes-down-to-chip-shortages-a-conflict-of-interest-and-googles-bureaucracy/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival",
-      "summary": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks. Success rates were mostly similar, but costs varied by nearly 3x: OpenCode came in cheapest at $0.073 per task, while Claude Code cost $0.195 despite using the fewest tool calls and output toke",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -422,16 +492,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less",
-      "summary": "Alibaba's Qwen3.8 Max scores 56 on the Artificial Analysis Intelligence Index, a 10-point jump over Qwen3.7 Max (46). The article Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less appeared first on The Decoder.",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/qwen3-8-max-catches-claude-opus-4-8-but-kimi-k3-still-scores-higher-for-25-percent-less/"
     },
     {
       "category": "model",
@@ -784,16 +844,6 @@
       "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic is hiring an AI chip design team",
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "date": "2026-08-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "SpaceX spooks investors with debut earnings report",
@@ -802,16 +852,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
-      "date": "2026-08-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
     },
     {
       "category": "model",
@@ -1104,16 +1144,6 @@
       "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-agent 0.4a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.4a0\">datasette-agent 0.4a0</a></p> <blockquote> <ul> <li>New <code>await context.browser_task()</code> mechanism allowing agent tools to run code directly in the user's browser. <a h",
-      "date": "2026-07-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Reddit keeps its strange DMCA fight over Google search results alive",
@@ -1152,16 +1182,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-      "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/"
     },
     {
       "category": "industry",
@@ -1292,16 +1312,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/scientific-computing-agentic-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "summary": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "date": "2026-07-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/grabette"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Introducing the ChatGPT for small business program",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "date": "2026-07-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
     }
   ]
 }

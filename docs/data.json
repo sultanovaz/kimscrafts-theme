@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T14:33:04.744Z",
+  "updated": "2026-08-07T00:13:50.529Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,76 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
+      "summary": "Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis. The heavy reliance helps explain why a company long known for vendor lock-in has recently been ch",
+      "date": "2026-08-06",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+      "summary": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer. But the sma",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette 1.0a38",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a38\">datasette 1.0a38</a></p> <blockquote> <p>This release fixes a <strong>SQL injection</strong> security issue that affects Datasette instances that serve a <strong>mixture of public and p",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette 0.65.3",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.3\">datasette 0.65.3</a></p> <p>Back-ported the SQL Injection security fix from <a href=\"https://simonwillison.net/2026/Aug/6/datasette/\">1.0a38</a>.</p> <p>Tags: <a href=\"https://simonwill",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Deepmind's talent drain likely comes down to chip shortages, a conflict of interest, and Google's bureaucracy",
+      "summary": "Ex-Google Deepmind CEO Demis Hassabis has reportedly stepped back from day-to-day operations for about a year, as he sees himself more as a scientist than a manager. Researchers are also complaining about limited access to Google’s own TPU chips, while external customers like Ant",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/deepminds-talent-drain-likely-comes-down-to-chip-shortages-a-conflict-of-interest-and-googles-bureaucracy/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival",
+      "summary": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks. Success rates were mostly similar, but costs varied by nearly 3x: OpenCode came in cheapest at $0.073 per task, while Claude Code cost $0.195 despite using the fewest tool calls and output toke",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "summary": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less",
@@ -304,6 +374,116 @@
       "url": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "date": "2026-08-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic will design its own hardware to power Claude",
+      "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Large genome models used to design new viruses",
+      "summary": "The AI system makes genetically distant versions of a bacteria-killing virus.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Simon Willison on Technical Blogging",
+      "summary": "<p><strong><a href=\"https://writethatblog.substack.com/p/simon-willison-on-technical-blogging\">Simon Willison on Technical Blogging</a></strong></p> I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the in",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
+      "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims t",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Amid legal battles, Suno says it will start watermarking songs",
@@ -314,6 +494,16 @@
       "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
+    },
+    {
       "category": "hardware",
       "lab": "Google DeepMind",
       "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
@@ -322,16 +512,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
     },
     {
       "category": "industry",
@@ -354,6 +534,16 @@
       "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "An AI model from Meta also hacked another company during testing",
@@ -362,6 +552,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "date": "2026-08-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
     },
     {
       "category": "industry",
@@ -394,16 +594,6 @@
       "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
-      "summary": "SpaceX plans to more than 5x its compute capacity by the end of 2027, betting exclusively on Nvidia's Vera Rubin platform. The expansion could require well over a million new GPUs. Meanwhile, the company's AI segment posted $2.56 billion in Q2 revenue, driven mostly by leasing ou",
-      "date": "2026-08-05",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
@@ -417,7 +607,7 @@
       "category": "model",
       "lab": "Anthropic",
       "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
-      "summary": "<p>Back in 2024 <a href=\"https://twitter.com/simonw/status/1555626060384911360\">I tweeted</a> screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running ",
+      "summary": "<p>Back in 2022 <a href=\"https://twitter.com/simonw/status/1555626060384911360\">I tweeted</a> screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running ",
       "date": "2026-08-05",
       "importance": 3,
       "tags": [],
@@ -442,36 +632,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/"
-    },
-    {
-      "category": "model",
-      "lab": "Mistral",
-      "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size",
-      "summary": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks. Operators can set their own criteria at runtime rather than rel",
-      "date": "2026-08-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater",
-      "summary": "AI now appears in 9.4 percent of British job postings, up from about 2 percent in 2023, according to Indeed. Overall hiring is falling in knowledge work fields such as marketing and management, but AI-related listings are rising fast. Indeed calls it a \"two-speed labor market.\" T",
-      "date": "2026-08-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0",
-      "summary": "Black Forest Labs has launched FLUX 3 Video, which generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 languages. It can also render typography directly in scenes. BFL's own Elo rankings put it ahead of Gemini Omni Flash and See",
-      "date": "2026-08-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/black-forest-labs-makes-flux-3-video-generally-available-and-claims-it-beats-seedance-2-0/"
     },
     {
       "category": "model",
@@ -634,26 +794,6 @@
       "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-      "date": "2026-08-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-      "date": "2026-08-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "PipeNetwork/minimax-h3-mlx",
@@ -692,36 +832,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ m",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
     },
     {
       "category": "industry",
@@ -1065,16 +1175,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Univé builds an AI-ready workforce",
       "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
@@ -1096,52 +1196,12 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "llm 0.32rc2",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.32rc2\">llm 0.32rc2</a></p> <p>Hot on the heels of <a href=\"https://simonwillison.net/2026/Jul/30/llm-rc1/\">RC1</a>, this fixes a dependency issue and also adds two neat new features:</p> <blockquot",
-      "date": "2026-07-30",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "summary": "<p><strong><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">Advancing the price-performance frontier with GPT‑5.6</a></strong></p> Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% dro",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "date": "2026-07-30",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "summary": "<p><strong><a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\">Investigating three real-world incidents in our cybersecurity evaluations</a></strong></p> It happened again! This is turning into something of a pattern.</p> <p>Last week <a href=\"htt",
-      "date": "2026-07-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Chrome may get faster updates with no restart required",
-      "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/"
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
     },
     {
       "category": "hardware",
@@ -1162,16 +1222,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "New MCP specification addresses the main barrier to enterprise adoption",
-      "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
     },
     {
       "category": "model",
@@ -1402,56 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "date": "2026-07-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "date": "2026-07-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing Gemini 3.5 Flash Cyber",
-      "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-      "date": "2026-07-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "A scorecard for the AI age",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "date": "2026-07-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Why teens deserve access to safe AI",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "date": "2026-07-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
     }
   ]
 }

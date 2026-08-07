@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T13:36:46.173Z",
+  "updated": "2026-08-07T16:07:40.993Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -314,6 +314,26 @@
       "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+      "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "ByteDance trains massive AI model in bid to rival Anthropic",
@@ -327,7 +347,7 @@
       "category": "industry",
       "lab": "Meta",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "summary": "Meta's total fine has raked up to $942 million in this case",
+      "summary": "Meta's total fine has raked up to $942 million in this case.",
       "date": "2026-08-07",
       "importance": 2,
       "tags": [],
@@ -794,16 +814,6 @@
       "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
-      "date": "2026-08-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
@@ -1152,16 +1162,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-      "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/"
     },
     {
       "category": "industry",

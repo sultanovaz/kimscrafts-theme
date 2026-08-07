@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-07T10:09:06.979Z",
+  "updated": "2026-08-07T13:36:46.173Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 151
+    "fresh": 149
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Moonshot",
+      "title": "China's Largest AI Model Is Being Developed at Bytedance",
+      "summary": "Bytedance is training an AI model with up to ten trillion parameters, according to the Financial Times. That's three times the size of Moonshot's Kimi K3, currently the largest Chinese model. The article China's Largest AI Model Is Being Developed at Bytedance appeared first on T",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+      "summary": "A research team in California has used artificial intelligence to design working viruses that kill bacteria, in what they describe as the \"first generative design of complete genomes.\" The project marks an early step toward AI-designed life forms, according to a report in MIT Tec",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI's hockey-puck-sized smart speaker with moving parts is set to ship in 2027",
+      "summary": "OpenAI's planned smart speaker is taking shape. The company's first hardware device will be donut-shaped, roughly the size of a hockey puck, and priced above $300, according to Bloomberg. The article OpenAI's hockey-puck-sized smart speaker with moving parts is set to ship in 202",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-hockey-puck-sized-smart-speaker-with-moving-parts-is-set-to-ship-in-2027/"
+    },
+    {
       "category": "research",
       "lab": "OpenAI",
       "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
@@ -282,6 +312,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "summary": "TikTok owner training a model with 10 trillion parameters.",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "summary": "Meta's total fine has raked up to $942 million in this case",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
     },
     {
       "category": "research",
@@ -365,16 +415,6 @@
     },
     {
       "category": "model",
-      "lab": "Meta",
-      "title": "The company that made open weights mainstream now competes on discounts",
-      "summary": "Meta released Muse Spark 1.2 along with its own coding agent, Muse Code, which is designed to pick up exactly where it left off after a crash. The cheapest tier runs just 20 cents per million output tokens but requires users to share their data for training. Meta is competing on ",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/the-company-that-made-open-weights-mainstream-now-competes-on-discounts/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
       "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
@@ -382,16 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
-      "summary": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale. His warning follows OpenAI's autonomous Hugging Face hack, which he called a \"warning shot.\" The article OpenAI developer warns the \"t",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/"
     },
     {
       "category": "model",
@@ -605,16 +635,6 @@
     },
     {
       "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-      "summary": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop. Former Deepmind CTO Koray Kavukcuoglu will take over as Googl",
-      "date": "2026-08-05",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
       "summary": "<p><strong><a href=\"https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\">Incident Report: unsanctioned agent behaviour during cyber testing</a></strong></p> It happened <em>again</em>. This time it was the UK government's AI Security Ins",
@@ -822,16 +842,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/"
     },
     {
       "category": "hardware",
@@ -1172,16 +1182,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/building-abundant-intelligence"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI scammers outperform humans when it comes to building trust",
-      "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/"
     },
     {
       "category": "industry",

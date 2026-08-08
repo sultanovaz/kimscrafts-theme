@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T21:53:54.014Z",
+  "updated": "2026-08-08T02:19:38.073Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting John Gruber",
+      "summary": "<blockquote cite=\"https://daringfireball.net/linked/2026/08/07/simon-willison-on-blogging\"><p>Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t <em>rare</em>, ",
+      "date": "2026-08-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "summary": "<p>OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" (<a href=\"https://simonwillison.net/2026/Jul/22/openai-cyberattack/\">previously</a> on this blog). <a href=\"https://www.youtube.com/watch?v=87DyyMV0kCY\">The video</a",
+      "date": "2026-08-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
@@ -372,6 +392,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "date": "2026-08-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
     },
     {
       "category": "product",
@@ -834,16 +864,6 @@
       "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Hark previews its browser use agent for completing tasks",
-      "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
-      "date": "2026-08-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google plans to kill Assistant on your phone on September 4",
@@ -1132,26 +1152,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
-      "summary": "<p><strong><a href=\"https://oxide-and-friends.transistor.fm/episodes/the-open-weight-revolution-with-simon-willison\">Oxide and Friends: The Open Weight Revolution with Simon Willison</a></strong></p> On Monday Bryan Cantrill and Adam Leventhal invited me to join their podcast to ",
-      "date": "2026-07-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
-      "summary": "<p><strong><a href=\"https://primeradiant.com/blog/2026/smevals.html\">smevals - a small eval suite for evaluating models, prompts, and harnesses</a></strong></p> I've been working with Jesse Vincent's <a href=\"https://primeradiant.com\">Prime Radiant</a> applied AI research lab bui",
-      "date": "2026-07-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything"
     },
     {
       "category": "industry",

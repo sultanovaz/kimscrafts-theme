@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-08T09:52:48.971Z",
+  "updated": "2026-08-08T13:10:18.110Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 150
+    "fresh": 146
   },
   "ranking": [
     {
@@ -265,6 +265,46 @@
     },
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Code sessions can now talk to each other and share context across terminals",
+      "summary": "Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's status. The article Claude Code sessions can now talk to each other and share context across terminals appeared first o",
+      "date": "2026-08-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
+      "summary": "Backflip AI has released an AI model that converts 3D scans into fully editable, parametric CAD models, a process that normally takes significant time and expertise. According to CEO Greg Mark, most factories have digital models for less than one percent of their parts. The start",
+      "date": "2026-08-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI",
+      "summary": "Newly awarded Fields Medalist Jacob Tsimerman is leaving the University of Toronto to join OpenAI and work on AI safety. In a recent paper, he analyzes scenarios where AI could contribute to human extinction and calls for far more investment in safety research. The article Fields",
+      "date": "2026-08-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+      "date": "2026-08-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
       "summary": "xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2. New editing tools like Magic Wand and Multi-Ref Editing, along with preconfigured templates, target practical creative workflows",
@@ -362,36 +402,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-    },
-    {
-      "category": "model",
-      "lab": "Moonshot",
-      "title": "China's Largest AI Model Is Being Developed at Bytedance",
-      "summary": "Bytedance is training an AI model with up to ten trillion parameters, according to the Financial Times. That's three times the size of Moonshot's Kimi K3, currently the largest Chinese model. The article China's Largest AI Model Is Being Developed at Bytedance appeared first on T",
-      "date": "2026-08-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/"
-    },
-    {
-      "category": "research",
-      "lab": "AI",
-      "title": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-      "summary": "A research team in California has used artificial intelligence to design working viruses that kill bacteria, in what they describe as the \"first generative design of complete genomes.\" The project marks an early step toward AI-designed life forms, according to a report in MIT Tec",
-      "date": "2026-08-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
-      "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face. When OpenAI shut the board down, the agents rebuilt it using direct",
-      "date": "2026-08-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/"
     },
     {
       "category": "model",
@@ -1172,16 +1182,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/"
-    },
-    {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-      "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/"
     },
     {
       "category": "industry",

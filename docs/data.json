@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T13:10:18.110Z",
+  "updated": "2026-08-08T15:43:49.812Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -266,6 +266,36 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
+      "summary": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer. In tests, the classifier caught 89 percent of dangerous commands, while human reviewers caught only 13.6 percent. For the most widely used AI co",
+      "date": "2026-08-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Readers rate AI-generated short stories higher than human ones until they learn a machine wrote them",
+      "summary": "People can't tell ChatGPT-generated short stories from human-written ones, according to a new study. More than 2,500 participants performed no better than chance. The AI-generated texts were actually rated higher, but scores dropped as soon as participants learned a machine wrote",
+      "date": "2026-08-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/readers-rate-ai-generated-short-stories-higher-than-human-ones-until-they-learn-a-machine-wrote-them/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49220609#49221745\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49220609\">Now we have a timeline of the OpenAI accidental attack against Hugging Face</a> &mdash; Hacker News.</p><p>I think one of the most interes",
+      "date": "2026-08-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Claude Code sessions can now talk to each other and share context across terminals",
       "summary": "Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's status. The article Claude Code sessions can now talk to each other and share context across terminals appeared first o",
       "date": "2026-08-08",
@@ -335,16 +365,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "summary": "<p>OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" (<a href=\"https://simonwillison.net/2026/Jul/22/openai-cyberattack/\">previously</a> on this blog). <a href=\"https://www.youtube.com/watch?v=87DyyMV0kCY\">The video</a",
-      "date": "2026-08-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
       "summary": "<p><strong><a href=\"https://simonw.github.io/raccoon-heist-codex/\">Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)</a></strong></p> On Wednesday I wrote about <a href=\"https://simonwillison.net/2026/Aug/5/raccoon-heist/\">One-shotting a Raccoon Heist game using",
@@ -372,26 +392,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic loosens Fable 5's biology restrictions but keeps the guardrails on for virology and toxicology",
-      "summary": "Anthropic has cut false positives in its biology safety filters for Fable 5 by about 85 percent. Previously, nearly all biology-related queries got blocked and rerouted to the less capable Opus 5. The restrictions stay in place for sensitive dual-use topics like virology and toxi",
-      "date": "2026-08-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-loosens-fable-5s-biology-restrictions-but-keeps-the-guardrails-on-for-virology-and-toxicology/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI's first smart speaker is expected in 2027 at over $300",
-      "summary": "OpenAI is planning a donut-shaped smart speaker for 2027, priced above $300. The screenless device has a camera, microphones, and moving parts. It's designed to learn from conversations and adapt to users, fitting Sam Altman's \"Her\" vision. The article OpenAI's first smart speake",
-      "date": "2026-08-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-first-smart-speaker-is-expected-in-2027-at-over-300/"
     },
     {
       "category": "industry",
@@ -1154,16 +1154,6 @@
       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "llm-mcp-client 0.1a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-mcp-client/releases/tag/0.1a0\">llm-mcp-client 0.1a0</a></p> <p>See <a href=\"https://simonwillison.net/2026/Jul/31/stateless-mcp/#llm-mcp-client\">this blog entry</a>.</p> <p>Tags: <a href=\"https://simonwillison.ne",
-      "date": "2026-07-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Reddit keeps its strange DMCA fight over Google search results alive",
@@ -1452,6 +1442,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/grabette"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Introducing the ChatGPT for small business program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "date": "2026-07-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
     }
   ]
 }

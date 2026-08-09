@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T13:14:12.999Z",
+  "updated": "2026-08-09T15:45:18.821Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -312,6 +312,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "date": "2026-08-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The AI safety test is becoming a safety risk",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "date": "2026-08-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
     },
     {
       "category": "model",
@@ -834,16 +854,6 @@
       "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything"
     },
     {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-      "date": "2026-08-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
-    },
-    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
@@ -852,16 +862,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-      "date": "2026-08-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/"
     },
     {
       "category": "industry",

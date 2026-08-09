@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T07:14:14.985Z",
+  "updated": "2026-08-09T09:54:36.473Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
+      "summary": "The AI industry's hunger for power keeps growing. Nvidia is investing up to $3 billion in Lancium, a power infrastructure developer that already has four gigawatts under contract in Texas. Amazon, meanwhile, is building a gas-fired power plant in the state with a capacity of up t",
+      "date": "2026-08-09",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
+      "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the CEO title, and all Gemini development is moving to the Bay Area. Internally, Goo",
+      "date": "2026-08-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "AI agents use roughly 600 times more energy than a simple chat prompt",
@@ -402,26 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI music generator Suno tightens rules to fight spam and address growing copyright concerns",
-      "summary": "Suno CEO Mikey Shulman has announced new guidelines and tighter download limits after its AI-generated music was used to game streaming platforms for profit. The company also faces pressure from a German copyright ruling and an admission by one of its investors that AI music comp",
-      "date": "2026-08-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon",
-      "summary": "AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips. That makes them extremely fast but locks each chip to a single model. A demo chip hit over 16,000 tokens per second per user running Llama 3.1-8B. Google is reportedly working on ",
-      "date": "2026-08-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/"
     },
     {
       "category": "industry",

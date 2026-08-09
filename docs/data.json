@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-08T21:44:11.372Z",
+  "updated": "2026-08-09T02:27:14.153Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 146
+    "fresh": 144
   },
   "ranking": [
     {
@@ -262,6 +262,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "summary": "<p><strong><a href=\"https://claude.com/blog/auto-mode-default-in-claude-code\">Auto mode is now the default in Claude Code for Pro, Max, and Team plans</a></strong></p> Anthropic are <em>really</em> confident in Claude Code's <a href=\"https://code.claude.com/docs/en/auto-mode-conf",
+      "date": "2026-08-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything"
     },
     {
       "category": "model",
@@ -1142,16 +1152,6 @@
       "importance": 5,
       "tags": [],
       "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
-      "summary": "<p>Tuesday was <a href=\"https://x.com/ade_oshineye/status/2082129440943866149\">Stateless MCP day</a> - the rollout of MCP 2.0, or <a href=\"https://blog.modelcontextprotocol.io/posts/2026-07-28/\">the 2026-07-28 Model Context Protocol specification</a> to use the more formal but le",
-      "date": "2026-07-31",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything"
     },
     {
       "category": "industry",

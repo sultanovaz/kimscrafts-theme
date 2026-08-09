@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T18:59:03.922Z",
+  "updated": "2026-08-09T21:46:03.452Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -316,6 +316,26 @@
     {
       "category": "hardware",
       "lab": "AI",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "date": "2026-08-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "date": "2026-08-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
       "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
       "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
       "date": "2026-08-09",
@@ -605,16 +625,6 @@
     },
     {
       "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
@@ -752,16 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/"
     },
     {
       "category": "industry",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T19:14:35.983Z",
+  "updated": "2026-08-10T21:56:04.679Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
+      "date": "2026-08-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
@@ -342,6 +352,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
     },
     {
       "category": "industry",
@@ -895,26 +925,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims t",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "AI isn’t enough to protect social media communities from AI",
       "summary": "Why humans need to moderate humans.",
@@ -1262,16 +1272,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/ten-advances-in-mathematics"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
-      "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/"
     },
     {
       "category": "industry",

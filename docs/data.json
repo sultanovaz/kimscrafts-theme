@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-10T13:41:26.426Z",
+  "updated": "2026-08-10T16:08:00.525Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 146
+    "fresh": 147
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction",
+      "summary": "Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs. It's a 30B agent model that runs on consumer hardware once the weights are compressed, needing less than 20 GB of memory. In an accompanying essay, Mark Zuckerberg mounts an aggressive defen",
+      "date": "2026-08-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist",
@@ -292,6 +302,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
     },
     {
       "category": "industry",
@@ -482,16 +502,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
-      "summary": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer. In tests, the classifier caught 89 percent of dangerous commands, while human reviewers caught only 13.6 percent. For the most widely used AI co",
-      "date": "2026-08-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-news-organizations-are-using-ai"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Introducing OpenAI Presence",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-openai-presence"
     }
   ]
 }

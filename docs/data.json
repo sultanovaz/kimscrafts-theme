@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-10T10:34:56.544Z",
+  "updated": "2026-08-10T13:41:26.426Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 144
+    "fresh": 146
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist",
+      "summary": "An Australian user just wanted a spot in a class. His AI agent found a security hole instead and exploited it. The article Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist appeared first on The Decoder.",
+      "date": "2026-08-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "date": "2026-08-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/model-ml"
+    },
+    {
       "category": "research",
       "lab": "OpenAI",
       "title": "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT",
@@ -275,6 +295,26 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "Peer review is overwhelmed—can it survive in the AI era?",
+      "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/"
+    },
+    {
+      "category": "industry",
       "lab": "Hugging Face",
       "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
       "summary": "Making Knowledge Distillation Cheap Enough to Run at Scale",
@@ -292,6 +332,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "summary": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/muse-glimmer"
     },
     {
       "category": "model",
@@ -442,16 +492,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Readers rate AI-generated short stories higher than human ones until they learn a machine wrote them",
-      "summary": "People can't tell ChatGPT-generated short stories from human-written ones, according to a new study. More than 2,500 participants performed no better than chance. The AI-generated texts were actually rated higher, but scores dropped as soon as participants learned a machine wrote",
-      "date": "2026-08-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/readers-rate-ai-generated-short-stories-higher-than-human-ones-until-they-learn-a-machine-wrote-them/"
     },
     {
       "category": "model",
@@ -814,16 +854,6 @@
       "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
     },
     {
-      "category": "hardware",
-      "lab": "Google DeepMind",
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "AI isn’t enough to protect social media communities from AI",
@@ -1184,16 +1214,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Advancing responsible AI across Europe",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-openai-presence"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/ntt-data"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "date": "2026-07-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/"
     }
   ]
 }

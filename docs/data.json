@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-10T16:08:00.525Z",
+  "updated": "2026-08-10T19:14:35.983Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 147
+    "fresh": 152
   },
   "ranking": [
     {
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "model",
+      "lab": "AI",
+      "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
+      "summary": "The FineBooks project from Hugging Face and EleutherAI tested 14 open-source OCR models on more than 2,000 historical book pages. The top model, dots.mocr, hits 97.6 percent character accuracy at under two dollars per thousand pages. That's good enough for AI training data, but n",
+      "date": "2026-08-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
+      "summary": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blocked and has already uncovered two previously unknown Chrome vulnerabilities. According to OpenAI, the window of opportu",
+      "date": "2026-08-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction",
       "summary": "Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs. It's a 30B agent model that runs on consumer hardware once the weights are compressed, needing less than 20 GB of memory. In an accompanying essay, Mark Zuckerberg mounts an aggressive defen",
@@ -294,6 +314,26 @@
       "url": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "date": "2026-08-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "date": "2026-08-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo",
@@ -302,6 +342,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "What building an AI-native finance function taught me",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/building-an-ai-native-finance-function"
+    },
+    {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "summary": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
     },
     {
       "category": "industry",
@@ -354,6 +424,16 @@
       "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/premium-seats-chatgpt-business"
+    },
+    {
       "category": "model",
       "lab": "Meta",
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
@@ -372,16 +452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
-      "summary": "The AI industry's hunger for power keeps growing. Nvidia is investing up to $3 billion in Lancium, a power infrastructure developer that already has four gigawatts under contract in Texas. Amazon, meanwhile, is building a gas-fired power plant in the state with a capacity of up t",
-      "date": "2026-08-09",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/"
     },
     {
       "category": "model",
@@ -444,16 +514,6 @@
       "url": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
-      "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the CEO title, and all Gemini development is moving to the Bay Area. Internally, Goo",
-      "date": "2026-08-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/"
-    },
-    {
       "category": "hardware",
       "lab": "AI",
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -487,7 +547,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "The AI safety test is becoming a safety risk",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
       "date": "2026-08-09",
       "importance": 2,
       "tags": [],
@@ -526,18 +586,18 @@
     {
       "category": "hardware",
       "lab": "AI",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
+      "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040.",
       "date": "2026-08-08",
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
     },
     {
-      "category": "industry",
+      "category": "product",
       "lab": "OpenAI",
       "title": "OpenAI acquires presentation startup NextSlide",
-      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
       "date": "2026-08-08",
       "importance": 2,
       "tags": [],
@@ -852,16 +912,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/"
     },
     {
       "category": "industry",
@@ -1402,56 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/health-in-chatgpt"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "date": "2026-07-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nunchaku-diffusers"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Advancing the next era of national science",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "date": "2026-07-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How news organizations are using AI to advance their vital missions",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "date": "2026-07-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai"
     }
   ]
 }

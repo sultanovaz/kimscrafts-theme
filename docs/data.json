@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-10T08:02:30.242Z",
+  "updated": "2026-08-10T10:34:56.544Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 143
+    "fresh": 144
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT",
+      "summary": "OpenAI acquired NextSlide, the startup that turned prompts, notes, documents, and research into editable presentations. The article OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT appeared first on The Decoder.",
+      "date": "2026-08-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo",
+      "summary": "Security firm PromptArmor shows how hidden instructions in a PDF can hijack Atlassian's AI agent Rovo, silently forwarding sensitive data from Jira and Confluence to an external server. The attack needs no user confirmation and leaves no trace. The article Hidden text in a PDF is",
+      "date": "2026-08-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "summary": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Quoting OpenClaw",
@@ -432,26 +462,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Code sessions can now talk to each other and share context across terminals",
-      "summary": "Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's status. The article Claude Code sessions can now talk to each other and share context across terminals appeared first o",
-      "date": "2026-08-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
-      "summary": "Backflip AI has released an AI model that converts 3D scans into fully editable, parametric CAD models, a process that normally takes significant time and expertise. According to CEO Greg Mark, most factories have digital models for less than one percent of their parts. The start",
-      "date": "2026-08-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "summary": "Grabette: an open system to record robot-manipulation data",
-      "date": "2026-07-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://huggingface.co/blog/grabette"
     }
   ]
 }

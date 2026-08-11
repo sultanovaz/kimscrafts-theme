@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-11T19:17:45.159Z",
+  "updated": "2026-08-11T22:02:46.133Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 156
+    "fresh": 157
   },
   "ranking": [
     {
@@ -305,9 +305,9 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "Google’s Gemini app surges to one billion users",
-      "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "lab": "Google DeepMind",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
       "date": "2026-08-11",
       "importance": 3,
       "tags": [],
@@ -362,6 +362,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "date": "2026-08-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "summary": "But will Gemini's surge survive slowing model releases?",
+      "date": "2026-08-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
     },
     {
       "category": "product",
@@ -432,6 +452,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/testing-ads-in-chatgpt"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Daybreak models are now available on AWS",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "date": "2026-08-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
     },
     {
       "category": "benchmark",
@@ -812,16 +842,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "date": "2026-08-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
     },
     {
       "category": "industry",
@@ -1246,16 +1266,6 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-      "summary": "Top scores increased by 5x.",
-      "date": "2026-08-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "Quoting David Crawshaw's prompt",
       "summary": "<blockquote cite=\"https://blog.exe.dev/devtools-must-be-open-source\"><p><code>Set up a nightly cron job that executes the prompt: fetch upstream changes to the <software> and rebase all local changes on top of upstream. Check that the software works as intended and replace the cu",
       "date": "2026-08-03",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/scientific-computing-agentic-ai"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summary": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "date": "2026-07-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
     }
   ]
 }

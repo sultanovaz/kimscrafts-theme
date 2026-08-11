@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T07:34:29.320Z",
+  "updated": "2026-08-11T10:09:05.442Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing",
+      "summary": "Nvidia is teaming up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to mobilize over $500 billion for AI infrastructure. To win over investors, the chipmaker is guaranteeing up to 25 percent of the residual value of its own hardware. The Bank of England is",
+      "date": "2026-08-11",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\"",
+      "summary": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will have labeling built in from day one. The policy applies worldwide, and Anthropic plans to provide detection tools for th",
+      "date": "2026-08-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/"
+    },
     {
       "category": "industry",
       "lab": "OpenAI",
@@ -582,26 +602,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "AI is flooding Britain's employment courts with lawsuits",
-      "summary": "Britain's employment courts saw 39 percent more claims in the year through March 2026, many written with ChatGPT or Grok. The backlog jumped 55 percent to 64,000 unresolved cases, with AI-generated filings often running hundreds of pages and citing fabricated laws. The Economist ",
-      "date": "2026-08-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
-      "summary": "Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training budget. DiffusionGemma generates 256 tokens in parallel instead of one at a time, hitting about 1,500 tokens per second. Qu",
-      "date": "2026-08-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/"
     },
     {
       "category": "hardware",

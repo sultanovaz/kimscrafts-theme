@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-10T21:56:04.679Z",
+  "updated": "2026-08-11T02:25:29.909Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 152
+    "fresh": 154
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "summary": "San Francisco's housing market is in trouble again.",
+      "date": "2026-08-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Meta",
+      "title": "Introducing Muse Glimmer",
+      "summary": "<p><strong><a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\">Introducing Muse Glimmer</a></strong></p> Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama ",
+      "date": "2026-08-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything"
+    },
+    {
       "category": "hardware",
       "lab": "AI",
       "title": "Amazon backs power plant that may become top source of US climate pollution",
@@ -352,6 +372,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
     },
     {
       "category": "industry",
@@ -462,6 +502,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/premium-seats-chatgpt-business"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/zapier"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work"
     },
     {
       "category": "model",
@@ -894,16 +954,6 @@
       "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
@@ -912,16 +962,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/"
     },
     {
       "category": "industry",
@@ -1244,26 +1284,6 @@
       "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Open letters about AI development",
-      "summary": "<h4>Open letters about AI development</h4> <p><em>I wrote this summary of the past few weeks of open letters as a section of <a href=\"https://simonwillison.net/2026/Aug/2/july-newsletter/\">my sponsors-only newsletter</a> but I've decided to share it here as well.</em></p> <p><str",
-      "date": "2026-08-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "summary": "Reddit may still be considering ending its licensing deal with Google.",
-      "date": "2026-08-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Ten advances in mathematics and theoretical computer science",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "How AI is expanding what people do at work",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "date": "2026-07-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Launching Health in ChatGPT",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "date": "2026-07-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/health-in-chatgpt"
     }
   ]
 }

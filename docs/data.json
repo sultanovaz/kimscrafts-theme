@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-11T16:09:56.580Z",
+  "updated": "2026-08-11T19:17:45.159Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 155
+    "fresh": 156
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI lets employees cash out another $7 billion in stock",
+      "summary": "OpenAI wrapped up a $7 billion stock buyback, letting current and former employees sell shares at the company's $852 billion valuation. The move is meant to ease pressure on employees waiting for liquidity ahead of a potential IPO. OpenAI ran a similar $6.6 billion sale in Octobe",
+      "date": "2026-08-11",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence",
@@ -294,6 +304,36 @@
       "url": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Google’s Gemini app surges to one billion users",
+      "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "date": "2026-08-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
+    },
+    {
+      "category": "industry",
+      "lab": "xAI",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "date": "2026-08-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+      "summary": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned up dozens of passwords and API keys. The traces also show that the reasoning su",
+      "date": "2026-08-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens",
@@ -324,6 +364,36 @@
       "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
     },
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "date": "2026-08-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "date": "2026-08-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "date": "2026-08-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/"
+    },
+    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
@@ -352,6 +422,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Testing ads in ChatGPT",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "date": "2026-08-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/testing-ads-in-chatgpt"
     },
     {
       "category": "benchmark",
@@ -392,26 +472,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction",
-      "summary": "Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs. It's a 30B agent model that runs on consumer hardware once the weights are compressed, needing less than 20 GB of memory. In an accompanying essay, Mark Zuckerberg mounts an aggressive defen",
-      "date": "2026-08-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist",
-      "summary": "An Australian user just wanted a spot in a class. His AI agent found a security hole instead and exploited it. The article Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist appeared first on The Decoder.",
-      "date": "2026-08-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist/"
     },
     {
       "category": "model",
@@ -764,16 +824,6 @@
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "date": "2026-08-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
@@ -804,36 +854,6 @@
       "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-      "date": "2026-08-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "date": "2026-08-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a th",
-      "date": "2026-08-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "AI chatbots have failed people in crisis. Can that be fixed?",
@@ -852,16 +872,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "summary": "Meta's total fine has racked up to $942 million in this case.",
-      "date": "2026-08-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
     },
     {
       "category": "research",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
-    },
-    {
-      "category": "product",
-      "lab": "Hugging Face",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "date": "2026-07-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T22:02:46.133Z",
+  "updated": "2026-08-12T02:42:12.655Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "summary": "<p><strong><a href=\"https://stolen-thoughts.com/\">Stealing Reasoning Traces from Proprietary LLM APIs</a></strong></p> A vanity domain name (<code>stolen-thoughts.com</code>) for <a href=\"https://www.alphaxiv.org/abs/2608.09867\">a neat paper</a>:</p> <blockquote> <p>Anthropic, Op",
+      "date": "2026-08-11",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI lets employees cash out another $7 billion in stock",
@@ -362,6 +372,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "There are no lossless transformations of natural-language text",
+      "summary": "<p><strong><a href=\"https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text\">There are no lossless transformations of natural-language text</a></strong></p> Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engin",
+      "date": "2026-08-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything"
     },
     {
       "category": "industry",
@@ -1224,16 +1244,6 @@
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "condense-json 1.1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/condense-json/releases/tag/1.1\">condense-json 1.1</a></p> <p>After shipping <a href=\"https://simonwillison.net/2026/Aug/2/condense-json/\">condense-json 1.0</a> I started integrating it into LLM, and found there were ",
-      "date": "2026-08-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Don't be a meat proxy",
@@ -1302,16 +1312,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/circles"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "condense-json 1.0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/condense-json/releases/tag/1.0\">condense-json 1.0</a></p> <p>I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes ",
-      "date": "2026-08-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything"
     },
     {
       "category": "industry",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-12T19:17:57.401Z",
+  "updated": "2026-08-12T22:00:34.665Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 158
+    "fresh": 159
   },
   "ranking": [
     {
@@ -386,8 +386,38 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "date": "2026-08-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "date": "2026-08-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "date": "2026-08-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
       "date": "2026-08-12",
       "importance": 2,
       "tags": [],
@@ -461,7 +491,7 @@
       "date": "2026-08-12",
       "importance": 2,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/"
     },
     {
       "category": "industry",
@@ -504,6 +534,16 @@
       "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
     },
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "date": "2026-08-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/ringcentral"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
@@ -511,7 +551,7 @@
       "date": "2026-08-11",
       "importance": 4,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/"
     },
     {
       "category": "industry",
@@ -531,7 +571,7 @@
       "date": "2026-08-11",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/"
     },
     {
       "category": "model",
@@ -571,7 +611,7 @@
       "date": "2026-08-11",
       "importance": 2,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/"
     },
     {
       "category": "industry",
@@ -671,7 +711,7 @@
       "date": "2026-08-10",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/"
     },
     {
       "category": "hardware",
@@ -694,16 +734,6 @@
       "url": "https://openai.com/index/model-ml"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "date": "2026-08-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Putting frontier cyber models in more trusted hands",
@@ -716,12 +746,12 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
       "date": "2026-08-10",
-      "importance": 2,
+      "importance": 3,
       "tags": [],
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
     },
     {
       "category": "industry",
@@ -791,7 +821,7 @@
       "date": "2026-08-10",
       "importance": 2,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/10/openclaw/"
     },
     {
       "category": "industry",
@@ -841,7 +871,7 @@
       "date": "2026-08-09",
       "importance": 4,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/"
     },
     {
       "category": "model",
@@ -851,7 +881,7 @@
       "date": "2026-08-09",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/"
     },
     {
       "category": "model",
@@ -861,7 +891,7 @@
       "date": "2026-08-09",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/"
     },
     {
       "category": "model",
@@ -871,7 +901,7 @@
       "date": "2026-08-08",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/"
     },
     {
       "category": "model",
@@ -881,7 +911,7 @@
       "date": "2026-08-08",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/"
     },
     {
       "category": "model",
@@ -901,7 +931,7 @@
       "date": "2026-08-08",
       "importance": 2,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/8/john-gruber/"
     },
     {
       "category": "model",
@@ -911,7 +941,7 @@
       "date": "2026-08-07",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/"
     },
     {
       "category": "industry",
@@ -941,7 +971,7 @@
       "date": "2026-08-07",
       "importance": 2,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/"
     },
     {
       "category": "industry",
@@ -981,7 +1011,7 @@
       "date": "2026-08-06",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/"
     },
     {
       "category": "model",
@@ -991,7 +1021,7 @@
       "date": "2026-08-06",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/6/datasette/"
     },
     {
       "category": "model",
@@ -1001,7 +1031,7 @@
       "date": "2026-08-06",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/6/datasette-2/"
     },
     {
       "category": "model",
@@ -1061,7 +1091,7 @@
       "date": "2026-08-06",
       "importance": 2,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/"
     },
     {
       "category": "product",
@@ -1101,7 +1131,7 @@
       "date": "2026-08-06",
       "importance": 2,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/"
     },
     {
       "category": "industry",
@@ -1131,7 +1161,7 @@
       "date": "2026-08-05",
       "importance": 4,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/"
     },
     {
       "category": "model",
@@ -1141,7 +1171,7 @@
       "date": "2026-08-05",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/5/incident-report/"
     },
     {
       "category": "model",
@@ -1151,7 +1181,7 @@
       "date": "2026-08-05",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/"
     },
     {
       "category": "model",
@@ -1161,7 +1191,7 @@
       "date": "2026-08-05",
       "importance": 2,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/"
     },
     {
       "category": "industry",
@@ -1204,16 +1234,6 @@
       "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "SpaceX spooks investors with debut earnings report",
-      "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
-      "date": "2026-08-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
@@ -1221,7 +1241,7 @@
       "date": "2026-08-04",
       "importance": 4,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/"
     },
     {
       "category": "model",
@@ -1231,7 +1251,7 @@
       "date": "2026-08-04",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/"
     },
     {
       "category": "model",
@@ -1241,7 +1261,7 @@
       "date": "2026-08-04",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/"
     },
     {
       "category": "model",
@@ -1251,17 +1271,7 @@
       "date": "2026-08-04",
       "importance": 3,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Texas halts data center connections to power grid amid overwhelming demand",
-      "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
+      "url": "https://simonwillison.net/2026/Aug/4/llm/"
     },
     {
       "category": "model",
@@ -1271,7 +1281,7 @@
       "date": "2026-08-04",
       "importance": 2,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/"
     },
     {
       "category": "research",
@@ -1291,7 +1301,7 @@
       "date": "2026-08-03",
       "importance": 2,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything"
+      "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers"
     }
   ]
 }

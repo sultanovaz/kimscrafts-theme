@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T07:50:02.627Z",
+  "updated": "2026-08-12T10:18:40.627Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "Mistral",
+      "title": "Mistral now offers EU data processing and priority access, but both come with important limits",
+      "summary": "Mistral is giving customers the option to route AI requests through servers in either Europe or the US, and selling priority queue access during peak traffic. Both come with a surcharge, and the regional routing doesn't cover all features or data. The article Mistral now offers E",
+      "date": "2026-08-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -522,16 +532,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
-      "summary": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blocked and has already uncovered two previously unknown Chrome vulnerabilities. According to OpenAI, the window of opportu",
-      "date": "2026-08-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/"
     },
     {
       "category": "model",

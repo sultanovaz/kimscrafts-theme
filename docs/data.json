@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-12T13:43:35.317Z",
+  "updated": "2026-08-12T16:07:49.133Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 158
   },
   "ranking": [
     {
@@ -255,6 +255,36 @@
   "items": [
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Google's Gemini is losing market share to ChatGPT and Claude according to new market data",
+      "summary": "Three data sources tell the same story: Google's Gemini is losing AI market share. Pangram reports a drop from 12 to 1.9 percent, while OpenAI holds over 50 percent, and Anthropic grew from 4.3 to 14.9 percent. Similarweb and OpenRouter confirm the trend. The article Google's Gem",
+      "date": "2026-08-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Putting sign language AI into users’ hands",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "date": "2026-08-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
+      "summary": "Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry. The article Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices appeared first on The Dec",
+      "date": "2026-08-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/"
+    },
+    {
+      "category": "model",
       "lab": "Nvidia",
       "title": "Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed",
       "summary": "Nvidia is working on Nemotron 4, a new open-weight model designed to rival the world’s best freely available models. The article Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed appeared first on The Decoder.",
@@ -302,6 +332,66 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "date": "2026-08-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+      "date": "2026-08-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "summary": "AI firms quietly bulk buying rare books face resistance from booksellers.",
+      "date": "2026-08-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting Florian Herrengt",
+      "summary": "<blockquote cite=\"https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html\"><p>But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable ",
+      "date": "2026-08-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "date": "2026-08-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "summary": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "date": "2026-08-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
     },
     {
       "category": "industry",
@@ -354,16 +444,6 @@
       "url": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/"
     },
     {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Anthropic signs $9.1 billion data center deal with Bitcoin miner Riot Platforms",
-      "summary": "Anthropic is leasing $9.1 billion worth of data center capacity from Bitcoin miner Riot Platforms in Texas, according to Bloomberg. The deal covers 191 megawatts at Riot's Rockdale site, with extension options that could push the total value to $16.1 billion. It's the latest in a",
-      "date": "2026-08-11",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "datasette-upload-dbs 0.5a0",
@@ -402,16 +482,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens",
-      "summary": "OpenAI is rolling out \"Premium Seats\" for ChatGPT Business customers at $125 per user per month, five times the price of the existing Standard Seats. In return, users get significantly more capacity and no five-hour usage limit. The move signals that the flat-rate pricing AI prov",
-      "date": "2026-08-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/"
     },
     {
       "category": "industry",
@@ -784,26 +854,6 @@
       "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-      "date": "2026-08-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The AI safety test is becoming a safety risk",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
-      "date": "2026-08-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
@@ -832,16 +882,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-      "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040.",
-      "date": "2026-08-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
     },
     {
       "category": "industry",
@@ -1224,16 +1264,6 @@
       "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
     },
     {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "summary": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "Quoting Steve Yegge",
@@ -1265,16 +1295,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-      "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
-      "date": "2026-08-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Apple is getting this wrong",
       "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
@@ -1282,16 +1302,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/apple-is-getting-this-wrong"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting David Crawshaw's prompt",
-      "summary": "<blockquote cite=\"https://blog.exe.dev/devtools-must-be-open-source\"><p><code>Set up a nightly cron job that executes the prompt: fetch upstream changes to the <software> and rebase all local changes on top of upstream. Check that the software works as intended and replace the cu",
-      "date": "2026-08-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/chatgpt-for-academic-researchers"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Scientific computing in the age of agentic AI",
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "date": "2026-07-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/scientific-computing-agentic-ai"
     }
   ]
 }

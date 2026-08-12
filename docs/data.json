@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T10:18:40.627Z",
+  "updated": "2026-08-12T13:43:35.317Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed",
+      "summary": "Nvidia is working on Nemotron 4, a new open-weight model designed to rival the world’s best freely available models. The article Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed appeared first on The Decoder.",
+      "date": "2026-08-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "summary": "OpenAI brings its ChatGPT desktop app to Linux. The article OpenAI launches ChatGPT desktop app for Linux appeared first on The Decoder.",
+      "date": "2026-08-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-launches-chatgpt-desktop-app-for-linux/"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance",
+      "summary": "Microsoft has released MAI Code 1.1 Flash, a code model for GitHub Copilot that's said to be 25 percent more token-efficient at a quarter of the cost of its predecessor. In benchmarks, though, it gets crushed by the cheaper Deepseek V4 Flash. The move fits a pattern: Microsoft ta",
+      "date": "2026-08-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/"
+    },
+    {
       "category": "industry",
       "lab": "Mistral",
       "title": "Mistral now offers EU data processing and priority access, but both come with important limits",
@@ -262,6 +292,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "date": "2026-08-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "date": "2026-08-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
     },
     {
       "category": "model",
@@ -314,16 +364,6 @@
       "url": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing",
-      "summary": "Nvidia is teaming up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to mobilize over $500 billion for AI infrastructure. To win over investors, the chipmaker is guaranteeing up to 25 percent of the residual value of its own hardware. The Bank of England is",
-      "date": "2026-08-11",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "datasette-upload-dbs 0.5a0",
@@ -374,16 +414,6 @@
       "url": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\"",
-      "summary": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will have labeling built in from day one. The policy applies worldwide, and Anthropic plans to provide detection tools for th",
-      "date": "2026-08-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -422,16 +452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "date": "2026-08-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
     },
     {
       "category": "industry",
@@ -522,16 +542,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
-      "summary": "The FineBooks project from Hugging Face and EleutherAI tested 14 open-source OCR models on more than 2,000 historical book pages. The top model, dots.mocr, hits 97.6 percent character accuracy at under two dollars per thousand pages. That's good enough for AI training data, but n",
-      "date": "2026-08-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/"
     },
     {
       "category": "model",
@@ -832,16 +842,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
-      "date": "2026-08-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
     },
     {
       "category": "industry",

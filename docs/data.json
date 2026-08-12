@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T04:59:26.965Z",
+  "updated": "2026-08-12T07:50:02.627Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -312,6 +312,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-upload-dbs 0.5a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0\">datasette-upload-dbs 0.5a0</a></p> <p>This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point",
+      "date": "2026-08-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything"
     },
     {
       "category": "model",
@@ -1282,16 +1292,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Devtools must be open source (exe.dev)",
-      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49156111#49156719\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49156111\">Devtools must be open source (exe.dev)</a> &mdash; Hacker News.</p><p>One of the arguments for open source software for end-users has alwa",
-      "date": "2026-08-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything"
     },
     {
       "category": "model",

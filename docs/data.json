@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T02:44:59.017Z",
+  "updated": "2026-08-13T05:02:21.675Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "alchemy-utils 0.1a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/alchemy-utils/releases/tag/0.1a0\">alchemy-utils 0.1a0</a></p> <p>I've long pondered what a database agnostic version of my <a href=\"https://sqlite-utils.datasette.io/\">sqlite-utils</a> Python library and CLI utility ",
+      "date": "2026-08-12",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils/"
+    },
     {
       "category": "model",
       "lab": "DeepSeek",
@@ -1282,16 +1292,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/4/llm/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Quoting Steve Yegge",
-      "summary": "<blockquote cite=\"https://yegge.ai/essays/the-shape-of-things-to-come/\"><p><a href=\"https://yegge.ai/gastown.html\">Gas Town</a> was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was wo",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/"
     },
     {
       "category": "research",

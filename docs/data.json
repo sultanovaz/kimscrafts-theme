@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T19:17:58.003Z",
+  "updated": "2026-08-13T22:00:58.673Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,26 @@
       "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
+      "summary": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come without limits. That unlimited export clashes with Suno's own recently announce",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
@@ -282,6 +302,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/"
     },
     {
       "category": "model",
@@ -364,10 +394,40 @@
       "url": "https://openai.com/index/previewing-ultrafast"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
+    },
+    {
       "category": "product",
       "lab": "Anthropic",
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
       "date": "2026-08-13",
       "importance": 2,
       "tags": [],
@@ -382,16 +442,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
-      "date": "2026-08-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/"
     },
     {
       "category": "product",
@@ -532,16 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Google's Gemini is losing market share to ChatGPT and Claude according to new market data",
-      "summary": "Three data sources tell the same story: Google's Gemini is losing AI market share. Pangram reports a drop from 12 to 1.9 percent, while OpenAI holds over 50 percent, and Anthropic grew from 4.3 to 14.9 percent. Similarweb and OpenRouter confirm the trend. The article Google's Gem",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/"
     },
     {
       "category": "model",
@@ -724,16 +764,6 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "How RingCentral builds AI-native work from engineering to ops",
@@ -764,16 +794,6 @@
       "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-      "date": "2026-08-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "There are no lossless transformations of natural-language text",
@@ -784,16 +804,6 @@
       "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-      "date": "2026-08-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
@@ -802,16 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "date": "2026-08-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
     },
     {
       "category": "industry",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-13T16:08:11.434Z",
+  "updated": "2026-08-13T19:17:58.003Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 162
   },
   "ranking": [
     {
@@ -255,6 +255,56 @@
   "items": [
     {
       "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "date": "2026-08-13",
+      "importance": 4,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
+      "summary": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price. The article",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "summary": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "Introducing Gemini 3.7 Flash",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices",
+      "summary": "Deepseek has moved its flagship V4-Pro out of the testing phase and released its agent software, Harness v0.1, under the MIT license. API prices are going up at the same time, with cache hits jumping to six times their current cost. For agent workflows that repeatedly read the sa",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "Ling 3.0 Flash is the smartest open model at its size",
       "summary": "Ling 3.0 Flash is the smartest open model in its size class. The article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder.",
@@ -262,6 +312,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "The builder’s guide to GPT‑5.6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
     },
     {
       "category": "model",
@@ -292,6 +352,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/previewing-ultrafast"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
+      "summary": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/"
     },
     {
       "category": "product",
@@ -352,6 +452,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "summary": "What We Learned by Reproducing 2,200 papers from ICML",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions"
     },
     {
       "category": "model",
@@ -442,26 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
-      "summary": "Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry. The article Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices appeared first on The Dec",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/"
-    },
-    {
-      "category": "model",
-      "lab": "Nvidia",
-      "title": "Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed",
-      "summary": "Nvidia is working on Nemotron 4, a new open-weight model designed to rival the world’s best freely available models. The article Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed appeared first on The Decoder.",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/"
     },
     {
       "category": "research",
@@ -685,16 +775,6 @@
     },
     {
       "category": "industry",
-      "lab": "xAI",
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "date": "2026-08-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "There are no lossless transformations of natural-language text",
       "summary": "<p><strong><a href=\"https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text\">There are no lossless transformations of natural-language text</a></strong></p> Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engin",
@@ -732,16 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-      "date": "2026-08-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
     },
     {
       "category": "industry",
@@ -1175,16 +1245,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "AI isn’t enough to protect social media communities from AI",
-      "summary": "Why humans need to moderate humans.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Working with the American Psychological Association on youth mental health and AI",
       "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
@@ -1262,16 +1322,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-      "date": "2026-08-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
     },
     {
       "category": "model",
@@ -1402,56 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "date": "2026-07-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
-    },
-    {
-      "category": "hardware",
-      "lab": "Hugging Face",
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "summary": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-      "date": "2026-07-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/avatarin"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "date": "2026-07-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
     }
   ]
 }

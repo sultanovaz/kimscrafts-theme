@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-13T07:50:54.160Z",
+  "updated": "2026-08-13T10:20:11.626Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 156
   },
   "ranking": [
     {
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser",
+      "summary": "Claude Cowork now runs directly in the side panel of Anthropic's Chrome extension. The article Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser appeared first on The Decoder.",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/"
+    },
     {
       "category": "model",
       "lab": "OpenAI",
@@ -592,16 +602,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI lets employees cash out another $7 billion in stock",
-      "summary": "OpenAI wrapped up a $7 billion stock buyback, letting current and former employees sell shares at the company's $852 billion valuation. The move is meant to ease pressure on employees waiting for liquidity ahead of a potential IPO. OpenAI ran a similar $6.6 billion sale in Octobe",
-      "date": "2026-08-11",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/"
     },
     {
       "category": "model",

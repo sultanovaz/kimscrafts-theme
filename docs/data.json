@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-13T13:44:50.515Z",
+  "updated": "2026-08-13T16:08:11.434Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 156
+    "fresh": 157
   },
   "ranking": [
     {
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "AI",
+      "title": "Ling 3.0 Flash is the smartest open model at its size",
+      "summary": "Ling 3.0 Flash is the smartest open model in its size class. The article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder.",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling",
       "summary": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it. According to Ramp data, Fable 5 accounts for only six percent of Anthropic tokens sold. The model's steep price tag suggests corporate AI spending may have hit a c",
@@ -284,6 +294,46 @@
       "url": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/"
     },
     {
+      "category": "product",
+      "lab": "Microsoft",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Claude's new Scarlet Letter watermark is invisible—for now",
@@ -292,6 +342,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
     },
     {
       "category": "model",
@@ -402,16 +462,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "summary": "OpenAI brings its ChatGPT desktop app to Linux. The article OpenAI launches ChatGPT desktop app for Linux appeared first on The Decoder.",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-launches-chatgpt-desktop-app-for-linux/"
     },
     {
       "category": "research",
@@ -674,6 +724,16 @@
       "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
     },
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "date": "2026-08-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
@@ -684,16 +744,6 @@
       "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-      "date": "2026-08-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
@@ -702,26 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-      "date": "2026-08-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "date": "2026-08-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/"
     },
     {
       "category": "industry",
@@ -1244,16 +1274,6 @@
       "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-      "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
-      "date": "2026-08-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
@@ -1432,26 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "date": "2026-07-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "summary": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "date": "2026-07-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
     }
   ]
 }

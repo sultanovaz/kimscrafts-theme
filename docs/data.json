@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T10:20:11.626Z",
+  "updated": "2026-08-13T13:44:50.515Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -256,12 +256,42 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling",
+      "summary": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it. According to Ramp data, Fable 5 accounts for only six percent of Anthropic tokens sold. The model's steep price tag suggests corporate AI spending may have hit a c",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/"
+    },
+    {
+      "category": "research",
+      "lab": "Anthropic",
+      "title": "Top AI lab researchers warned about automated AI research, and several of their predicted milestones have already fallen",
+      "summary": "IAPS fellow Severin Field interviewed 25 researchers from OpenAI, Anthropic, Google Deepmind, Meta, and US universities about recursive self-improvement. In a new blog post, he takes stock. Several of the milestones those researchers named have already been hit. The article Top A",
+      "date": "2026-08-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser",
       "summary": "Claude Cowork now runs directly in the side panel of Anthropic's Chrome extension. The article Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser appeared first on The Decoder.",
       "date": "2026-08-13",
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+      "date": "2026-08-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/"
     },
     {
       "category": "model",
@@ -382,26 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-launches-chatgpt-desktop-app-for-linux/"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance",
-      "summary": "Microsoft has released MAI Code 1.1 Flash, a code model for GitHub Copilot that's said to be 25 percent more token-efficient at a quarter of the cost of its predecessor. In benchmarks, though, it gets crushed by the cheaper Deepseek V4 Flash. The move fits a pattern: Microsoft ta",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/"
-    },
-    {
-      "category": "industry",
-      "lab": "Mistral",
-      "title": "Mistral now offers EU data processing and priority access, but both come with important limits",
-      "summary": "Mistral is giving customers the option to route AI requests through servers in either Europe or the US, and selling priority queue access during peak traffic. Both come with a surcharge, and the regional routing doesn't cover all features or data. The article Mistral now offers E",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/"
     },
     {
       "category": "research",
@@ -854,6 +864,16 @@
       "url": "https://simonwillison.net/2026/Aug/10/openclaw/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "date": "2026-08-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/premium-seats-chatgpt-business"
+    },
+    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
@@ -872,16 +892,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/zapier"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "date": "2026-08-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/premium-seats-chatgpt-business"
     },
     {
       "category": "model",
@@ -1242,16 +1252,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Hank Green found the AI problem that YouTube labels can’t catch",
-      "summary": "\"Slop\" isn't the only problem.",
-      "date": "2026-08-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/"
     },
     {
       "category": "model",

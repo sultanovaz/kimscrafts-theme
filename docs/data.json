@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-14T10:15:16.514Z",
+  "updated": "2026-08-14T13:39:47.328Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 159
+    "fresh": 158
   },
   "ranking": [
     {
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
+      "summary": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI created 388 pull requests, and 46 percent were merged after human review. Claude Code inventor Boris Cherny sees this a",
+      "date": "2026-08-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
+      "summary": "Zhipu AI has released GLM-5.3, a model that, according to its own benchmarks, is the most powerful open-weights coding model, with a 50 percent improvement over its predecessor through post-training alone. Trained for cybersecurity, GLM-5.3 helped security teams find 2,436 vulner",
+      "date": "2026-08-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
+    },
     {
       "category": "model",
       "lab": "Google DeepMind",
@@ -602,26 +622,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy",
-      "summary": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect accuracy. Their method, called \"Previous-Token Prediction,\" doesn't need access to model weights and works across differe",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI tools for breast cancer detection fall short of radiologists' expectations",
-      "summary": "About half of 215 surveyed members of the Society of Breast Imaging already use FDA-approved AI tools for breast cancer detection, but the results fall short of expectations. Only 35 percent report lower recall rates, while 59 percent had expected them. The gap between promise an",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/"
     },
     {
       "category": "model",

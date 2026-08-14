@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-14T13:39:47.328Z",
+  "updated": "2026-08-14T16:04:25.944Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 158
+    "fresh": 159
   },
   "ranking": [
     {
@@ -255,6 +255,46 @@
   "items": [
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
+      "summary": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $10 billion partnership. Together with \"Standard\" and \"Fast,\" Ultrafast creates a three-tier pricing structure that turns",
+      "date": "2026-08-14",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI sh",
+      "date": "2026-08-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "date": "2026-08-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI sh",
+      "date": "2026-08-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
       "summary": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI created 388 pull requests, and 46 percent were merged after human review. Claude Code inventor Boris Cherny sees this a",
@@ -272,6 +312,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "date": "2026-08-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "date": "2026-08-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "summary": "State of Open Models: Summer 2026 Observations",
+      "date": "2026-08-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
     },
     {
       "category": "model",
@@ -594,16 +664,6 @@
       "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
-      "summary": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about 53 steps where Claude Opus 5 needs 103, at a price more than 60 percent lower. T",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
@@ -736,26 +796,6 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "Booksellers suspect AI firms are buying and then destroying rare books",
       "summary": "AI firms quietly bulk buying rare books face resistance from booksellers.",
       "date": "2026-08-12",
@@ -772,26 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especiall",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
     },
     {
       "category": "industry",
@@ -1274,16 +1294,6 @@
       "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Working with the American Psychological Association on youth mental health and AI",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/unive"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
     }
   ]
 }

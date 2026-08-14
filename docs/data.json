@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T19:11:46.258Z",
+  "updated": "2026-08-14T21:38:10.307Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -274,6 +274,16 @@
       "url": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+      "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says. The approach has ",
+      "date": "2026-08-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/"
+    },
+    {
       "category": "product",
       "lab": "OpenAI",
       "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
@@ -502,16 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Ling 3.0 Flash is the smartest open model at its size",
-      "summary": "Ling 3.0 Flash is the smartest open model in its size class. The article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder.",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/"
     },
     {
       "category": "model",

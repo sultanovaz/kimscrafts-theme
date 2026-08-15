@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T03:52:11.985Z",
+  "updated": "2026-08-15T06:55:44.184Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "research",
+      "lab": "AI",
+      "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise",
+      "summary": "A new research paper frames AI adoption as a \"tragedy of the cognitive commons.\" Every company that cuts entry-level jobs benefits individually, but the collective expertise of entire professions erodes. The consequences may not become visible until 2030 to 2045, when today's mis",
+      "date": "2026-08-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "New benchmark confirms AI models still perform poorly at visual perception",
+      "summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors actually happen as early as the image-rea",
+      "date": "2026-08-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Northern Gannet",
@@ -484,16 +504,6 @@
       "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
-      "summary": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price. The article",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
@@ -522,16 +532,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices",
-      "summary": "Deepseek has moved its flagship V4-Pro out of the testing phase and released its agent software, Harness v0.1, under the MIT license. API prices are going up at the same time, with cache hits jumping to six times their current cost. For agent workflows that repeatedly read the sa",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/"
     },
     {
       "category": "model",

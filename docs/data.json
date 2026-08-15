@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T01:47:54.848Z",
+  "updated": "2026-08-15T03:52:11.985Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Northern Gannet",
+      "summary": "<p><img src=\"https://static.inaturalist.org/photos/716984157/large.jpg\" alt=\"Northern Gannet\"></p><p>Northern Gannet, in Pillar Point Harbor, CA, US</p><p>This is Morris.</p> <p>Morris is a local celebrity: the only known Northern Gannet (<em>Morus bassanus</em>) in the entire Pa",
+      "date": "2026-08-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/"
+    },
     {
       "category": "model",
       "lab": "Alibaba",
@@ -1352,16 +1362,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
-      "summary": "<p><strong><a href=\"https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\">Incident Report: unsanctioned agent behaviour during cyber testing</a></strong></p> It happened <em>again</em>. This time it was the UK government's AI Security Ins",
-      "date": "2026-08-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/5/incident-report/"
     },
     {
       "category": "model",

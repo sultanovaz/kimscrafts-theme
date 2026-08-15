@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-15T15:33:25.602Z",
+  "updated": "2026-08-15T18:45:46.551Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 153
+    "fresh": 152
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+      "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with revenue that jumped from $4.7 billion to $11",
+      "date": "2026-08-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
@@ -304,6 +314,16 @@
       "url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "date": "2026-08-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Northern Gannet",
@@ -322,16 +342,6 @@
       "importance": 5,
       "tags": [],
       "url": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
-      "summary": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $10 billion partnership. Together with \"Standard\" and \"Fast,\" Ultrafast creates a three-tier pricing structure that turns",
-      "date": "2026-08-14",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/"
     },
     {
       "category": "model",
@@ -802,16 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/"
     },
     {
       "category": "industry",

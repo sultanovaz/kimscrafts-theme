@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T18:45:46.551Z",
+  "updated": "2026-08-15T21:33:39.130Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -312,6 +312,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "date": "2026-08-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "date": "2026-08-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
     },
     {
       "category": "product",
@@ -724,16 +744,6 @@
       "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Putting sign language AI into users’ hands",
@@ -802,16 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/"
     },
     {
       "category": "industry",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-15T06:55:44.184Z",
+  "updated": "2026-08-15T09:37:18.394Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 156
+    "fresh": 154
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Plaintiff hid invisible AI instructions in court filings to secretly influence automated review",
+      "summary": "A plaintiff in Connecticut embedded invisible prompt injections in court filings, formatted in 3-point white text on a white background, to manipulate a potential AI review system. Judge Spader compared the attempt to secretly tampering with a jury and revoked the plaintiff's ele",
+      "date": "2026-08-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
+      "summary": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From a single real-world task, the system generates thousands of controlled variations. The trained models then ran for one h",
+      "date": "2026-08-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/"
+    },
+    {
       "category": "research",
       "lab": "AI",
       "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise",
@@ -376,16 +396,6 @@
     {
       "category": "model",
       "lab": "AI",
-      "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
-      "summary": "Zhipu AI has released GLM-5.3, a model that, according to its own benchmarks, is the most powerful open-weights coding model, with a 50 percent improvement over its predecessor through post-training alone. Trained for cybersecurity, GLM-5.3 helped security teams find 2,436 vulner",
-      "date": "2026-08-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
       "title": "Don't classify. Hallucinate!",
       "summary": "<p><strong><a href=\"https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications\">Don&#x27;t classify. Hallucinate!</a></strong></p> I still have quite a bit of older content on my blog that I never got round to tagging. My blog has <a href=\"https://simonwillison.net/\">1",
       "date": "2026-08-14",
@@ -482,16 +492,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
-      "summary": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come without limits. That unlimited export clashes with Suno's own recently announce",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/"
     },
     {
       "category": "model",

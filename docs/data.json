@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-16T09:39:45.790Z",
+  "updated": "2026-08-16T12:58:58.840Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 152
+    "fresh": 151
   },
   "ranking": [
     {
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
+      "summary": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models attributed significantly more inner life to animals and suddenly affirmed an after",
+      "date": "2026-08-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
       "summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is building, with one source describing a \"bur",
@@ -352,16 +362,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "New benchmark confirms AI models still perform poorly at visual perception",
-      "summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors actually happen as early as the image-rea",
-      "date": "2026-08-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/"
     },
     {
       "category": "model",

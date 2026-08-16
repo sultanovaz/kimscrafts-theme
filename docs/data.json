@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T21:33:39.130Z",
+  "updated": "2026-08-16T01:56:06.565Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -262,6 +262,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "CORS Chat",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/cors-chat\">CORS Chat</a></p> <p>I built this today (<a href=\"https://gist.github.com/simonw/92a1d97773744b45bf259e003013cf36\">with GPT-5.6-Sol xhigh</a>) to help test Qwen 3.8 27B running in LM Studio on both my M",
+      "date": "2026-08-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/15/cors-chat/"
     },
     {
       "category": "industry",
@@ -1365,13 +1375,13 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
+      "lab": "OpenAI",
       "title": "Third-party cyber evaluations involving OpenAI models",
-      "summary": "<p><strong><a href=\"https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/\">Third-party cyber evaluations involving OpenAI models</a></strong></p> And <em>another one</em>. I had to create a <a href=\"https://simonwillison.net/tags/accidental-cyberattacks/",
-      "date": "2026-08-05",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "date": "2026-08-04",
       "importance": 2,
       "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/"
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
     },
     {
       "category": "research",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/building-abundant-intelligence"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Univé builds an AI-ready workforce",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/unive"
     }
   ]
 }

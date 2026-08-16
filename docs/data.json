@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-16T12:58:58.840Z",
+  "updated": "2026-08-16T15:33:54.997Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 151
+    "fresh": 150
   },
   "ranking": [
     {
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
+      "summary": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas. The article Top mathematicians say LLMs are strong calculators but poor creative thinkers appea",
+      "date": "2026-08-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/"
+    },
+    {
+      "category": "industry",
       "lab": "Google DeepMind",
       "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
       "summary": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models attributed significantly more inner life to animals and suddenly affirmed an after",
@@ -302,6 +312,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Quoting Dario Amodei",
+      "summary": "<blockquote cite=\"https://twitter.com/darioamodei/status/2088758819304443967\"><p>I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks. I think it is fu",
+      "date": "2026-08-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
     },
     {
       "category": "hardware",
@@ -352,16 +372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/"
-    },
-    {
-      "category": "research",
-      "lab": "AI",
-      "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise",
-      "summary": "A new research paper frames AI adoption as a \"tragedy of the cognitive commons.\" Every company that cuts entry-level jobs benefits individually, but the collective expertise of entire professions erodes. The consequences may not become visible until 2030 to 2045, when today's mis",
-      "date": "2026-08-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/"
     },
     {
       "category": "model",
@@ -1362,16 +1372,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/baseten"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Introducing Muse Code and Muse Spark 1.2",
-      "summary": "<p><strong><a href=\"https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2\">Introducing Muse Code and Muse Spark 1.2</a></strong></p> Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipp",
-      "date": "2026-08-05",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/"
     },
     {
       "category": "model",

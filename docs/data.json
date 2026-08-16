@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T15:33:54.997Z",
+  "updated": "2026-08-16T18:45:00.768Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -312,6 +312,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "date": "2026-08-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
     },
     {
       "category": "industry",
@@ -752,16 +762,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
     },
     {
       "category": "model",

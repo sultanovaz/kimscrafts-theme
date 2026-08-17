@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-17T09:55:26.722Z",
+  "updated": "2026-08-17T13:03:49.775Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 150
+    "fresh": 151
   },
   "ranking": [
     {
@@ -264,6 +264,16 @@
       "url": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic watermarks Claude's output, but critics question the tradeoffs",
+      "summary": "Anthropic's text watermarking for Claude is supposed to make AI-generated content detectable. But critics doubt that word choice stays unaffected, and lawyers are facing new transparency headaches. The article Anthropic watermarks Claude's output, but critics question the tradeof",
+      "date": "2026-08-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics",
@@ -272,6 +282,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "New policy ideas for the Intelligence Age",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "date": "2026-08-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
     },
     {
       "category": "benchmark",
@@ -412,16 +432,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/15/cors-chat/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
-      "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres. The findings could give copyright plaintiffs the market-harm",
-      "date": "2026-08-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Building abundant intelligence",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-      "date": "2026-07-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/building-abundant-intelligence"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T07:14:32.970Z",
+  "updated": "2026-08-17T09:55:26.722Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,16 @@
       "url": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics",
+      "summary": "AI shows up in nearly 40 percent of all US races, ranking ahead of Israel, racism, and manufacturing as a campaign topic. Data centers and their impact on electricity costs and local resources drive most of the conversation. The article AI and data centers have leapfrogged Israel",
+      "date": "2026-08-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/"
+    },
+    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
@@ -412,16 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Plaintiff hid invisible AI instructions in court filings to secretly influence automated review",
-      "summary": "A plaintiff in Connecticut embedded invisible prompt injections in court filings, formatted in 3-point white text on a white background, to manipulate a potential AI review system. Judge Spader compared the attempt to secretly tampering with a jury and revoked the plaintiff's ele",
-      "date": "2026-08-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/"
     },
     {
       "category": "model",

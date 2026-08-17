@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T04:00:14.118Z",
+  "updated": "2026-08-17T07:14:32.970Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion",
+      "summary": "According to Bloomberg, Stripe is acquiring the AI startup OpenRouter for more than $7 billion, up from a latest valuation of $1.3 billion. OpenRouter offers access to over 400 AI models, has eight million users, and its CEO had described the company as \"Stripe for AI.\" Now that'",
+      "date": "2026-08-17",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/"
+    },
+    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
@@ -412,16 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
-      "summary": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From a single real-world task, the system generates thousands of controlled variations. The trained models then ran for one h",
-      "date": "2026-08-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/"
     },
     {
       "category": "model",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T15:36:33.602Z",
+  "updated": "2026-08-17T18:55:17.538Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -284,6 +284,16 @@
       "url": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/"
     },
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "date": "2026-08-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "AirTag reveals how Amazon destroys rare books for AI training",
@@ -312,6 +322,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
+      "date": "2026-08-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "date": "2026-08-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
     },
     {
       "category": "product",
@@ -516,6 +546,16 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "date": "2026-08-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "Northern Gannet",
       "summary": "<p><img src=\"https://static.inaturalist.org/photos/716984157/large.jpg\" alt=\"Northern Gannet\"></p><p>Northern Gannet, in Pillar Point Harbor, CA, US</p><p>This is Morris.</p> <p>Morris is a local celebrity: the only known Northern Gannet (<em>Morus bassanus</em>) in the entire Pa",
       "date": "2026-08-15",
@@ -674,16 +714,6 @@
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing Gemini 3.7 Flash",
@@ -754,16 +784,6 @@
       "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
     },
     {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "date": "2026-08-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "The new Instagram logo is the perfect embodiment of AI slop",
@@ -772,16 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/"
-    },
-    {
-      "category": "product",
-      "lab": "Microsoft",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "date": "2026-08-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/"
     },
     {
       "category": "model",
@@ -1362,16 +1372,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic will design its own hardware to power Claude",
-      "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/"
     },
     {
       "category": "industry",

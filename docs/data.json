@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T21:32:55.901Z",
+  "updated": "2026-08-17T01:53:46.154Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "summary": "<p>Friday's big release was <a href=\"https://huggingface.co/Qwen/Qwen3.8-27B\">Qwen 3.8 27B</a>, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasona",
+      "date": "2026-08-16",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
@@ -312,6 +322,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Markdown SVG upgrades",
+      "summary": "<p>I started building my <a href=\"https://tools.simonwillison.net/markdown-svg-renderer\">markdown-svg-renderer</a> tool <a href=\"https://tools.simonwillison.net/colophon#markdown-svg-renderer.html\">in May</a>, but I've since added enough features to it that it's worth talking abo",
+      "date": "2026-08-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/"
     },
     {
       "category": "industry",
@@ -1325,16 +1345,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Simon Willison on Technical Blogging",
-      "summary": "<p><strong><a href=\"https://writethatblog.substack.com/p/simon-willison-on-technical-blogging\">Simon Willison on Technical Blogging</a></strong></p> I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the in",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Working with the American Psychological Association on youth mental health and AI",
       "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
@@ -1342,16 +1352,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "An AI model from Meta also hacked another company during testing",
-      "summary": "<p><strong><a href=\"https://www.cnn.com/2026/08/05/tech/meta-ai-hacking\">An AI model from Meta also hacked another company during testing</a></strong></p> Stop me if you've <a href=\"https://simonwillison.net/tags/accidental-cyberattacks/\">heard this one before</a>:</p> <blockquot",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/"
     },
     {
       "category": "industry",

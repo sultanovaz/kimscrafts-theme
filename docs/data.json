@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-18T18:54:27.055Z",
+  "updated": "2026-08-18T21:36:01.992Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 159
+    "fresh": 160
   },
   "ranking": [
     {
@@ -382,6 +382,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Strengthening democratic oversight in national security",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "date": "2026-08-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
     },
     {
       "category": "product",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
     }
   ]
 }

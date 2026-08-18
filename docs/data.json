@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-18T09:46:53.620Z",
+  "updated": "2026-08-18T13:05:44.825Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 154
+    "fresh": 156
   },
   "ranking": [
     {
@@ -264,6 +264,66 @@
       "url": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "As AI beats doctors, regulators shouldn't force a human into the loop, JAMA piece says",
+      "summary": "An opinion piece in the medical journal JAMA argues that autonomous AI will soon outperform any doctor-AI team at medical reasoning tasks. The authors warn against writing a doctor's final say into regulation, but concede that almost all the evidence comes from simulations, not r",
+      "date": "2026-08-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "DOJ probes Andreessen Horowitz over partners sitting on competing AI boards",
+      "summary": "Andreessen Horowitz is the focus of an antitrust probe by the US Justice Department. The charge is that the firm's partners sit on the boards of competing data firms Databricks and Fivetran at the same time. The venture capital firm's close ties to the Trump administration add a ",
+      "date": "2026-08-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI launches a ChatGPT version built for teens",
+      "summary": "OpenAI is shipping a version of ChatGPT tailored to users aged 13 to 17. The article OpenAI launches a ChatGPT version built for teens appeared first on The Decoder.",
+      "date": "2026-08-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "date": "2026-08-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/partnering-with-codeai"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying",
+      "summary": "Anthropic dominated Vercel's AI Gateway spending in July, pulling in 65.1 percent of total revenue while accounting for only 30 percent of tokens processed. Its tokens cost 4.4 times as much as those from competing providers on average. The article Anthropic's per-token cost runs",
+      "date": "2026-08-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Code gets a /design command that lets developers create UI mockups right in the terminal",
+      "summary": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code. Developers can generate UI mockups as artboards right in the terminal before writing any code. Claude reads the existing codebase and matches the current UI style. The article Claude Co",
+      "date": "2026-08-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "AI systems quietly drop user instructions when they compress context",
@@ -272,6 +332,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/"
+    },
+    {
+      "category": "product",
+      "lab": "Microsoft",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+      "date": "2026-08-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "date": "2026-08-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-for-teens"
     },
     {
       "category": "hardware",
@@ -292,16 +372,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion",
-      "summary": "According to Bloomberg, Stripe is acquiring the AI startup OpenRouter for more than $7 billion, up from a latest valuation of $1.3 billion. OpenRouter offers access to over 400 AI models, has eight million users, and its CEO had described the company as \"Stripe for AI.\" Now that'",
-      "date": "2026-08-17",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/"
     },
     {
       "category": "model",
@@ -342,26 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic watermarks Claude's output, but critics question the tradeoffs",
-      "summary": "Anthropic's text watermarking for Claude is supposed to make AI-generated content detectable. But critics doubt that word choice stays unaffected, and lawyers are facing new transparency headaches. The article Anthropic watermarks Claude's output, but critics question the tradeof",
-      "date": "2026-08-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics",
-      "summary": "AI shows up in nearly 40 percent of all US races, ranking ahead of Israel, racism, and manufacturing as a campaign topic. Data centers and their impact on electricity costs and local resources drive most of the conversation. The article AI and data centers have leapfrogged Israel",
-      "date": "2026-08-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/"
     },
     {
       "category": "industry",
@@ -482,26 +532,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
-      "summary": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas. The article Top mathematicians say LLMs are strong calculators but poor creative thinkers appea",
-      "date": "2026-08-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
-      "summary": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models attributed significantly more inner life to animals and suddenly affirmed an after",
-      "date": "2026-08-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/"
     },
     {
       "category": "product",
@@ -1334,16 +1364,6 @@
       "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "summary": "TikTok owner training a model with 10 trillion parameters.",
-      "date": "2026-08-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
-    },
-    {
       "category": "research",
       "lab": "OpenAI",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Apple is getting this wrong",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "date": "2026-08-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/apple-is-getting-this-wrong"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "date": "2026-08-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
     }
   ]
 }

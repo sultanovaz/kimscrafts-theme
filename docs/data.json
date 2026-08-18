@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-18T13:05:44.825Z",
+  "updated": "2026-08-18T15:44:26.654Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 156
+    "fresh": 157
   },
   "ranking": [
     {
@@ -264,6 +264,16 @@
       "url": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/"
     },
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic CEO says AI centralizes by nature and open models just shift power to whoever owns the chips",
+      "summary": "An open fight over AI regulation has broken out on X. Investor Gavin Baker, former White House adviser David Sacks, and Meta researcher Yann LeCun accuse Anthropic CEO Dario Amodei of using fear rhetoric to buy himself a regulatory advantage. Amodei counters that regulation can a",
+      "date": "2026-08-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "As AI beats doctors, regulators shouldn't force a human into the loop, JAMA piece says",
@@ -334,6 +344,36 @@
       "url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+      "date": "2026-08-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "date": "2026-08-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "date": "2026-08-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/"
+    },
+    {
       "category": "product",
       "lab": "Microsoft",
       "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -354,6 +394,16 @@
       "url": "https://openai.com/index/chatgpt-for-teens"
     },
     {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "summary": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "date": "2026-08-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/multi-vector-encoder"
+    },
+    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
@@ -362,16 +412,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "AI video market has bounced back from Sora's false start",
-      "summary": "AI production companies like Promise are setting up shop around Hollywood's historic studios, using real-time backgrounds and other AI tools to cut film costs. Netflix already uses AI in 300 of its 1,000 titles, and the startup Higgsfield now carries a $5.4 billion valuation. Wha",
-      "date": "2026-08-17",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/"
     },
     {
       "category": "model",
@@ -665,16 +705,6 @@
     },
     {
       "category": "model",
-      "lab": "Meta",
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI sh",
-      "date": "2026-08-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "Don't classify. Hallucinate!",
       "summary": "<p><strong><a href=\"https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications\">Don&#x27;t classify. Hallucinate!</a></strong></p> I still have quite a bit of older content on my blog that I never got round to tagging. My blog has <a href=\"https://simonwillison.net/\">1",
@@ -822,26 +852,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "date": "2026-08-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "date": "2026-08-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "date": "2026-08-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T07:02:14.224Z",
+  "updated": "2026-08-18T09:46:53.620Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic increases revenue sevenfold, hits annualized rate above $65 billion",
+      "summary": "Anthropic's annualized revenue has topped $65 billion, a sevenfold increase in one year, according to Bloomberg. The company could go public as early as fall 2026 at a $1 trillion valuation, potentially beating OpenAI to market. The article Anthropic increases revenue sevenfold, ",
+      "date": "2026-08-18",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI systems quietly drop user instructions when they compress context",
+      "summary": "When AI systems condense long conversations, they drop an average of 83 percent of user rules, like \"don't send emails without my approval.\" Penn State researchers propose a small add-on module built on Qwen3.5-9B that preserves over 90 percent of these restrictions. The article ",
+      "date": "2026-08-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/"
+    },
+    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
@@ -482,26 +502,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
-      "summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is building, with one source describing a \"bur",
-      "date": "2026-08-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
-      "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models. The arti",
-      "date": "2026-08-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/"
     },
     {
       "category": "product",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T21:38:24.178Z",
+  "updated": "2026-08-18T01:48:54.653Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -284,6 +284,26 @@
       "url": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+      "summary": "<p><strong><a href=\"https://artificialanalysis.ai/models/qwen3-8-27b\">Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</a></strong></p> That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that G",
+      "date": "2026-08-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
+      "date": "2026-08-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
@@ -327,7 +347,7 @@
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "summary": "Relay, which offered businesses workflow automation, will stop operating next month. Its CEO and some of its staff plan to get to work on Google Chrome next.",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
       "date": "2026-08-17",
       "importance": 2,
       "tags": [],
@@ -722,16 +742,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
     },
     {
       "category": "industry",
@@ -1352,16 +1362,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette 1.0a38",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a38\">datasette 1.0a38</a></p> <blockquote> <p>This release fixes a <strong>SQL injection</strong> security issue that affects Datasette instances that serve a <strong>mixture of public and p",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/6/datasette/"
     },
     {
       "category": "model",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-18T21:36:01.992Z",
+  "updated": "2026-08-19T01:51:25.167Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 160
+    "fresh": 161
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "Mojo🔥 is now open source",
+      "summary": "<p><strong><a href=\"https://www.modular.com/blog/mojo-open-source\">Mojo🔥 is now open source</a></strong></p> Mojo🔥 is now open source</p> <p>The Mojo programming language has been promising an open source release <a href=\"https://simonwillison.net/2023/May/4/mojo/\">since May 20",
+      "date": "2026-08-18",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic increases revenue sevenfold, hits annualized rate above $65 billion",
@@ -384,6 +394,16 @@
       "url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "date": "2026-08-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Strengthening democratic oversight in national security",
@@ -482,6 +502,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/asana"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "date": "2026-08-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/nvidia/chatgpt-work"
     },
     {
       "category": "industry",
@@ -782,16 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "date": "2026-08-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
     },
     {
       "category": "industry",
@@ -1415,16 +1435,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "datasette-auth-tokens 0.4a13",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a13\">datasette-auth-tokens 0.4a13</a></p> <p>Upgraded for compatibility with `sqlite-utils 4.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a></p>",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "summary": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "date": "2026-08-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
     }
   ]
 }

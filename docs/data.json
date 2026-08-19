@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-19T03:57:10.491Z",
+  "updated": "2026-08-19T07:03:21.982Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 161
+    "fresh": 162
   },
   "ranking": [
     {
@@ -402,6 +402,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT Ads expands across Europe",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "date": "2026-08-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
     }
   ]
 }

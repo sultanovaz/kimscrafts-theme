@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-19T13:06:45.175Z",
+  "updated": "2026-08-19T15:44:04.878Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 161
+    "fresh": 163
   },
   "ranking": [
     {
@@ -254,6 +254,56 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Moonshot",
+      "title": "GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed",
+      "summary": "GLM-5.3, the AI model from Chinese startup Z.ai, scores 60 points on the Artificial Analysis Intelligence Index. That ties it with Kimi K3 for the top spot among open models, and it's seven points ahead of the previous GLM-5.2. The article GLM-5.3 tops the open-model rankings and",
+      "date": "2026-08-19",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization",
+      "date": "2026-08-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "China lets Nvidia's H200 chips trickle onto the mainland to help its AI firms keep pace with the US",
+      "summary": "China is letting small batches of Nvidia's H200 chips onto the mainland to help domestic AI firms in the race with the US. The article China lets Nvidia's H200 chips trickle onto the mainland to help its AI firms keep pace with the US appeared first on The Decoder.",
+      "date": "2026-08-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI labs are failing to keep their own systems in check",
+      "summary": "No AI company fully applies basic control measures to its own internal AI systems. The article AI labs are failing to keep their own systems in check appeared first on The Decoder.",
+      "date": "2026-08-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-labs-are-failing-to-keep-their-own-systems-in-check/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic says any lab can now let a language model agent run the whole protein design stack",
+      "summary": "Anthropic had its Claude models design small proteins on their own that dock onto target structures in the body, a key step in early drug development. The hit rate reached up to 35 percent, far above the industry average of 10 to 15 percent. Claude only steered existing specializ",
+      "date": "2026-08-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic passes OpenAI on revenue for the first time",
@@ -262,6 +312,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "date": "2026-08-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/replit"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+      "date": "2026-08-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+      "date": "2026-08-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "summary": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "date": "2026-08-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/LiquidAI/qad"
     },
     {
       "category": "industry",
@@ -287,7 +377,7 @@
       "category": "model",
       "lab": "AI",
       "title": "Mojo🔥 is now open source",
-      "summary": "<p><strong><a href=\"https://www.modular.com/blog/mojo-open-source\">Mojo🔥 is now open source</a></strong></p> Mojo🔥 is now open source</p> <p>The Mojo programming language has been promising an open source release <a href=\"https://simonwillison.net/2023/May/4/mojo/\">since May 20",
+      "summary": "<p><strong><a href=\"https://www.modular.com/blog/mojo-open-source\">Mojo🔥 is now open source</a></strong></p> The Mojo programming language has been promising an open source release <a href=\"https://simonwillison.net/2023/May/4/mojo/\">since May 2023</a>. Last week they <a href=\"h",
       "date": "2026-08-18",
       "importance": 4,
       "tags": [],
@@ -356,16 +446,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "OpenAI launches a ChatGPT version built for teens",
-      "summary": "OpenAI is shipping a version of ChatGPT tailored to users aged 13 to 17. The article OpenAI launches a ChatGPT version built for teens appeared first on The Decoder.",
-      "date": "2026-08-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
       "date": "2026-08-18",
@@ -382,36 +462,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying",
-      "summary": "Anthropic dominated Vercel's AI Gateway spending in July, pulling in 65.1 percent of total revenue while accounting for only 30 percent of tokens processed. Its tokens cost 4.4 times as much as those from competing providers on average. The article Anthropic's per-token cost runs",
-      "date": "2026-08-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Code gets a /design command that lets developers create UI mockups right in the terminal",
-      "summary": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code. Developers can generate UI mockups as artboards right in the terminal before writing any code. Claude reads the existing codebase and matches the current UI style. The article Claude Co",
-      "date": "2026-08-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI systems quietly drop user instructions when they compress context",
-      "summary": "When AI systems condense long conversations, they drop an average of 83 percent of user rules, like \"don't send emails without my approval.\" Penn State researchers propose a small add-on module built on Qwen3.5-9B that preserves over 90 percent of these restrictions. The article ",
-      "date": "2026-08-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/"
     },
     {
       "category": "product",
@@ -764,26 +814,6 @@
       "url": "https://simonwillison.net/2026/Aug/15/cors-chat/"
     },
     {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "date": "2026-08-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "date": "2026-08-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Northern Gannet",
@@ -1072,16 +1102,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "summary": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
     },
     {
       "category": "product",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "date": "2026-08-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/hsp-gruppe"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "summary": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "date": "2026-08-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
     }
   ]
 }

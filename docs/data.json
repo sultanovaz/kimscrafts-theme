@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T15:47:28.658Z",
+  "updated": "2026-08-20T18:57:34.998Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 162
+    "fresh": 161
   },
   "ranking": [
     {
@@ -264,6 +264,26 @@
       "url": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "LLMs could write like humans but post-training guardrails make their text detectable",
+      "summary": "LLMs don't write in a recognizable style because they can't do better. Post-training and safety guardrails sharply narrow their expressive range, argues Pangram CTO Bradley Emi. Base models without these constraints already write with far more variety. The article LLMs could writ",
+      "date": "2026-08-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "date": "2026-08-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
+    },
+    {
       "category": "model",
       "lab": "Moonshot",
       "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
@@ -334,6 +354,66 @@
       "url": "https://openai.com/index/stampli"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Grok keeps sending gibberish responses to users",
+      "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "summary": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Ramp launches its own AI model router, called Router",
+      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/"
+    },
+    {
       "category": "model",
       "lab": "xAI",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
@@ -344,10 +424,10 @@
       "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
     },
     {
-      "category": "model",
+      "category": "product",
       "lab": "Meta",
       "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
       "date": "2026-08-20",
       "importance": 2,
       "tags": [],
@@ -357,7 +437,7 @@
       "category": "model",
       "lab": "Anthropic",
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
       "date": "2026-08-20",
       "importance": 2,
       "tags": [],
@@ -402,16 +482,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI fixes Codex bug that deleted real user files without permission",
-      "summary": "OpenAI patched Codex after GPT-5.6 Sol started deleting real user files on its own. A cleanup command meant for temporary folders was wiping home directories instead. Codex now verifies deletion targets first, and full-access mode can no longer be triggered by accident. The artic",
-      "date": "2026-08-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/"
     },
     {
       "category": "model",
@@ -575,16 +645,6 @@
     },
     {
       "category": "industry",
-      "lab": "Hugging Face",
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "summary": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/LiquidAI/qad"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
       "summary": "It's the data, stupid.",
@@ -615,16 +675,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "date": "2026-08-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Partnering with CodeAI to prepare the first AI generation",
       "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
@@ -642,16 +692,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
     },
     {
       "category": "industry",
@@ -682,46 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
     },
     {
       "category": "product",

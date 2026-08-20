@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T03:56:42.346Z",
+  "updated": "2026-08-20T07:04:25.212Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 162
+    "fresh": 161
   },
   "ranking": [
     {

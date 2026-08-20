@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T07:04:25.212Z",
+  "updated": "2026-08-20T09:48:50.951Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 161
+    "fresh": 162
   },
   "ranking": [
     {
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "China now has its own AI circular financing scheme",
+      "summary": "Unitree Robotics rose 460 percent in its Shanghai IPO, hitting a valuation of around $50 billion. But an FT report shows much of the demand for its robots comes from state-backed training centers that buy the machines and sell the resulting data back to the manufacturers, a circu",
+      "date": "2026-08-20",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Terence Tao says AI could trigger math's biggest crisis since Gödel",
+      "summary": "In a new essay, Terence Tao warns that AI could push mathematics into a crisis on par with the foundational upheaval around 1900. What's being tested this time isn't mathematical truth but the values of the field: what counts as a contribution, what gets rewarded, and who did the",
+      "date": "2026-08-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI builds safety system that catches misuse without storing customer data",
+      "summary": "OpenAI plans to offer its most advanced AI models to corporate customers without storing their data, while still detecting misuse. The article OpenAI builds safety system that catches misuse without storing customer data appeared first on The Decoder.",
+      "date": "2026-08-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Stripe declares we're living in the singularity and uses it as a reason not to IPO",
@@ -352,16 +392,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic passes OpenAI on revenue for the first time",
-      "summary": "Anthropic has passed OpenAI on revenue for the first time in the AI race. The article Anthropic passes OpenAI on revenue for the first time appeared first on The Decoder.",
-      "date": "2026-08-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/"
     },
     {
       "category": "model",
@@ -554,26 +584,6 @@
       "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
-      "summary": "OpenAI is deliberately \"pacing AI model development,\" partly because the upcoming \"Astra\" model may be close to gaining critical cyberattack capabilities. A new monitoring system triggers an alert within 30 minutes if a model shows suspicious behavior. The article OpenAI says it'",
-      "date": "2026-08-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "New benchmark ranks search APIs for AI agents on quality, cost, and speed",
-      "summary": "Artificial Analysis has released the \"Search Index,\" a benchmark that rates search API providers for AI agents on quality, cost, and speed. Of seven providers tested with GPT-5.6 Luna, Parallel, Exa, and Firecrawl scored highest. The article New benchmark ranks search APIs for AI",
-      "date": "2026-08-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Etched’s valuation doubles to $21B in a month",
@@ -752,16 +762,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "summary": "The model maker added $18 billion in annualized revenue in two months.",
-      "date": "2026-08-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
     },
     {
       "category": "industry",
@@ -1215,6 +1215,16 @@
     },
     {
       "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "summary": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "date": "2026-08-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "Testing ads in ChatGPT",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-      "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
-      "date": "2026-08-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
     }
   ]
 }

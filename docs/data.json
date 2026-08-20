@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T18:57:34.998Z",
+  "updated": "2026-08-20T21:41:47.075Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 161
+    "fresh": 162
   },
   "ranking": [
     {
@@ -264,6 +264,16 @@
       "url": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
+      "summary": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projects. Adobe has also added Gemini Omni Flash to the platform. The article Adobe Fi",
+      "date": "2026-08-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "LLMs could write like humans but post-training guardrails make their text detectable",
@@ -352,6 +362,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/stampli"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Ok, can we actually cool data centers with our pee?",
+      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/"
+    },
+    {
+      "category": "research",
+      "lab": "Google DeepMind",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/"
     },
     {
       "category": "product",
@@ -445,6 +485,16 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "Introducing AI Futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-ai-futures"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Stripe declares we're living in the singularity and uses it as a reason not to IPO",
       "summary": "In a letter to investors, Stripe declares January 1 the \"beginning of the singularity\" and uses that as a reason to stay private. Not that it needs one: revenue grew 41 percent in the first half of the year, and the company confirmed its $8 billion-plus acquisition of OpenRouter.",
@@ -472,16 +522,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn",
-      "summary": "The NSA, CISA, and FBI say attackers are using AI to build exploit scripts targeting Siemens S7 controllers, drastically cutting the time and skill needed to attack industrial control systems. Critical U.S. sectors like energy, water, and manufacturing are affected. The article A",
-      "date": "2026-08-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/"
     },
     {
       "category": "model",
@@ -632,36 +672,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Calendly throws its hat into meeting note-taker circus",
-      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-      "summary": "It's the data, stupid.",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "SQLite compressed text-history prototypes",
-      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-text-history-prototype#readme\">SQLite compressed text-history prototypes</a></p> <p>I'm perennially interested in options for storing revision histories in relational databases. While out o",
-      "date": "2026-08-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/"
     }
   ]
 }

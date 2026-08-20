@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-19T21:38:10.561Z",
+  "updated": "2026-08-20T01:49:48.509Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 164
+    "fresh": 162
   },
   "ranking": [
     {
@@ -375,6 +375,66 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "date": "2026-08-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/smolmachines-untrusted-sandbox#readme\">smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</a></p> <p>I tasked Claude Fable 5 running in Claude Code for web with the following",
+      "date": "2026-08-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Quoting Jeremy Morrell",
+      "summary": "<blockquote cite=\"https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/\"><p>My hypothesis is that <strong>there is a new opportunity for Extensible Software on the web</strong>. LLMs radically lower the cost of authoring extensions, and modern sandbox primitives ",
+      "date": "2026-08-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Conceptual integrity and counting lines of code",
+      "summary": "<p>Last week I recorded <a href=\"https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison\">an episode of the Talking Postgres podcast</a> with Claire Giordano on the subject of \"How AI is changing software development\". We had a really grea",
+      "date": "2026-08-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "date": "2026-08-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "date": "2026-08-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/"
+    },
+    {
+      "category": "industry",
       "lab": "Google DeepMind",
       "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
       "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
@@ -704,26 +764,6 @@
       "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-      "date": "2026-08-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-      "date": "2026-08-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
@@ -752,16 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "date": "2026-08-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
     },
     {
       "category": "product",
@@ -1422,36 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting John Gruber",
-      "summary": "<blockquote cite=\"https://daringfireball.net/linked/2026/08/07/simon-willison-on-blogging\"><p>Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t <em>rare</em>, ",
-      "date": "2026-08-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/8/john-gruber/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
-      "summary": "<p><strong><a href=\"https://simonw.github.io/raccoon-heist-codex/\">Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)</a></strong></p> On Wednesday I wrote about <a href=\"https://simonwillison.net/2026/Aug/5/raccoon-heist/\">One-shotting a Raccoon Heist game using",
-      "date": "2026-08-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "date": "2026-08-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
     }
   ]
 }

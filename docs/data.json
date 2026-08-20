@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T09:48:50.951Z",
+  "updated": "2026-08-20T13:09:09.423Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,36 @@
       "url": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
+      "summary": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration. The article GEN-1.5: Generalist AI teaches robots new tasks from a single demo appeared first on The Decoder.",
+      "date": "2026-08-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world",
+      "summary": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expertise acting as a bottleneck that blocks real scaling. Sutton's alternative is age",
+      "date": "2026-08-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only",
+      "summary": "Anthropic uses an unpublished AI model internally that is more powerful than any publicly available version of Claude. The article Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only appeared first on The Decoder.",
+      "date": "2026-08-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Terence Tao says AI could trigger math's biggest crisis since Gödel",
@@ -285,6 +315,26 @@
     },
     {
       "category": "model",
+      "lab": "xAI",
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
       "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
@@ -302,16 +352,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/"
-    },
-    {
-      "category": "model",
-      "lab": "Moonshot",
-      "title": "GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed",
-      "summary": "GLM-5.3, the AI model from Chinese startup Z.ai, scores 60 points on the Artificial Analysis Intelligence Index. That ties it with Kimi K3 for the top spot among open models, and it's seven points ahead of the previous GLM-5.2. The article GLM-5.3 tops the open-model rankings and",
-      "date": "2026-08-19",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/"
     },
     {
       "category": "product",
@@ -372,26 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI labs are failing to keep their own systems in check",
-      "summary": "No AI company fully applies basic control measures to its own internal AI systems. The article AI labs are failing to keep their own systems in check appeared first on The Decoder.",
-      "date": "2026-08-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-labs-are-failing-to-keep-their-own-systems-in-check/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic says any lab can now let a language model agent run the whole protein design stack",
-      "summary": "Anthropic had its Claude models design small proteins on their own that dock onto target structures in the body, a key step in early drug development. The hit rate reached up to 35 percent, far above the industry average of 10 to 15 percent. Claude only steered existing specializ",
-      "date": "2026-08-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/"
     },
     {
       "category": "model",
@@ -692,16 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Perplexity’s free AI offer left it with millions more users in India",
-      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/"
     },
     {
       "category": "product",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/8/auto-mode/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49220609#49221745\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49220609\">Now we have a timeline of the OpenAI accidental attack against Hugging Face</a> &mdash; Hacker News.</p><p>I think one of the most interes",
-      "date": "2026-08-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/"
     }
   ]
 }

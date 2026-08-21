@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T15:46:32.340Z",
+  "updated": "2026-08-21T18:53:49.719Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,16 @@
       "url": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/"
     },
     {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Data center opposition surged from 42 to 75 percent in just one year, survey finds",
+      "summary": "Three out of four Americans now oppose having a data center built near them, up from an even split just a year ago, according to a Heatmap News survey. 61 percent are \"strongly opposed.\" The article Data center opposition surged from 42 to 75 percent in just one year, survey find",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
@@ -282,6 +292,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
     },
     {
       "category": "research",
@@ -342,6 +362,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Stop Making TUIs",
+      "summary": "<p><strong><a href=\"https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/\">Stop Making TUIs</a></strong></p> Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usabl",
+      "date": "2026-08-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/"
     },
     {
       "category": "product",
@@ -422,16 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/"
-    },
-    {
-      "category": "model",
-      "lab": "Moonshot",
-      "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
-      "summary": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models. Western labs blame distillation, and there's real evidence for it. But guilty or not, the conclusion is the same: a model lead can't be defended. This issue looks at what can. The article Frontier Radar #",
-      "date": "2026-08-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/"
     },
     {
       "category": "model",
@@ -612,16 +632,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-      "date": "2026-08-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/10/openclaw/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "date": "2026-08-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/premium-seats-chatgpt-business"
     }
   ]
 }

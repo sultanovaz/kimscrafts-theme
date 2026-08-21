@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T07:05:26.537Z",
+  "updated": "2026-08-21T09:50:53.532Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
+      "summary": "Nvidia is paying $6 billion for software that builds AI models from the startup Poolside, and it wants to bring on 109 employees. The article Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion appeared first on The Decoder.",
+      "date": "2026-08-21",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
+      "summary": "Since GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent. Ramp data shows OpenAI outpacing Anthropic in business API spending for the first time after Anthropic had overtaken OpenAI in quarte",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's GPT-Image-2 can now generate images without a background",
+      "summary": "OpenAI is previewing transparent background support for GPT-Image-2 through its API. The alpha channel gets baked in during image generation, which according to OpenAI beats conventional background removal. A single parameter activates the feature. The article OpenAI's GPT-Image-",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -362,26 +392,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Terence Tao says AI could trigger math's biggest crisis since Gödel",
-      "summary": "In a new essay, Terence Tao warns that AI could push mathematics into a crisis on par with the foundational upheaval around 1900. What's being tested this time isn't mathematical truth but the values of the field: what counts as a contribution, what gets rewarded, and who did the",
-      "date": "2026-08-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI builds safety system that catches misuse without storing customer data",
-      "summary": "OpenAI plans to offer its most advanced AI models to corporate customers without storing their data, while still detecting misuse. The article OpenAI builds safety system that catches misuse without storing customer data appeared first on The Decoder.",
-      "date": "2026-08-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/"
     },
     {
       "category": "model",
@@ -542,16 +552,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-ai-futures"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Stripe declares we're living in the singularity and uses it as a reason not to IPO",
-      "summary": "In a letter to investors, Stripe declares January 1 the \"beginning of the singularity\" and uses that as a reason to stay private. Not that it needs one: revenue grew 41 percent in the first half of the year, and the company confirmed its $8 billion-plus acquisition of OpenRouter.",
-      "date": "2026-08-19",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/"
     },
     {
       "category": "product",

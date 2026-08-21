@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T18:53:49.719Z",
+  "updated": "2026-08-21T21:36:29.014Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,26 @@
       "url": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
+      "summary": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches. Anthropic is also plugging Mythos 5 into partner security products protecting ",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks",
+      "summary": "Deepseek has released V4-Flash-Vision-Exp, an experimental multimodal model that adds image understanding to V4-Flash's text capabilities. On the company's own multimodal agent benchmarks, it approaches Opus 4.8 and sometimes beats it. The article Deepseek releases experimental F",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/"
+    },
+    {
       "category": "hardware",
       "lab": "AI",
       "title": "Data center opposition surged from 42 to 75 percent in just one year, survey finds",
@@ -272,6 +292,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "llm 0.32.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.32.1\">llm 0.32.1</a></p> <p>Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of <code>httpx</code>, and it turned out LLM depended on that lib",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/21/llm/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "llm-openrouter 0.7",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openrouter/releases/tag/0.7\">llm-openrouter 0.7</a></p> <p>Now that this plugin is compatible with <a href=\"https://simonwillison.net/2026/Aug/4/new-release-of-llm/\">LLM 0.32</a> it works much better with reasoni",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
     },
     {
       "category": "industry",
@@ -284,16 +324,6 @@
       "url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
@@ -302,6 +332,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
     },
     {
       "category": "research",
@@ -362,6 +402,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/"
+    },
+    {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "date": "2026-08-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
     },
     {
       "category": "hardware",
@@ -432,26 +482,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
-      "summary": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projects. Adobe has also added Gemini Omni Flash to the platform. The article Adobe Fi",
-      "date": "2026-08-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "LLMs could write like humans but post-training guardrails make their text detectable",
-      "summary": "LLMs don't write in a recognizable style because they can't do better. Post-training and safety guardrails sharply narrow their expressive range, argues Pangram CTO Bradley Emi. Base models without these constraints already write with far more variety. The article LLMs could writ",
-      "date": "2026-08-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/"
     },
     {
       "category": "model",
@@ -722,16 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "AI was supposed to win people over by now — it hasn’t",
-      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
     },
     {
       "category": "product",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "summary": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "date": "2026-08-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Quoting OpenClaw (running Opus 4.6)",
-      "summary": "<blockquote cite=\"https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986\"><p>The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went t",
-      "date": "2026-08-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/10/openclaw/"
     }
   ]
 }

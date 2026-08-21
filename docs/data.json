@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T13:09:00.975Z",
+  "updated": "2026-08-21T15:46:32.340Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,26 @@
       "url": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
+      "summary": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing, according to Reuters. The article US wants to force partner countries to choose between Washington and Beijing in the AI race appeared first on The Deco",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+    },
+    {
       "category": "research",
       "lab": "Google DeepMind",
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
@@ -325,6 +345,16 @@
     },
     {
       "category": "product",
+      "lab": "OpenAI",
+      "title": "Quoting Matt Webb",
+      "summary": "<blockquote cite=\"https://interconnected.org/home/2026/08/21/galactic\"><p>After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me. With a patient, interactive tut",
+      "date": "2026-08-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/21/matt-webb/"
+    },
+    {
+      "category": "product",
       "lab": "Meta",
       "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
       "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
@@ -342,6 +372,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Hugging Face",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "summary": "Measuring benchmark optimization in speech recognition",
+      "date": "2026-08-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization"
     },
     {
       "category": "model",
@@ -385,16 +425,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "date": "2026-08-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
-    },
-    {
-      "category": "model",
       "lab": "Moonshot",
       "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
       "summary": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models. Western labs blame distillation, and there's real evidence for it. But guilty or not, the conclusion is the same: a model lead can't be defended. This issue looks at what can. The article Frontier Radar #",
@@ -402,16 +432,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
-      "summary": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration. The article GEN-1.5: Generalist AI teaches robots new tasks from a single demo appeared first on The Decoder.",
-      "date": "2026-08-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/"
     },
     {
       "category": "model",
@@ -492,6 +512,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
     },
     {
       "category": "industry",
@@ -692,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/"
     },
     {
       "category": "product",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/premium-seats-chatgpt-business"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "date": "2026-08-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "date": "2026-08-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/zapier"
     }
   ]
 }

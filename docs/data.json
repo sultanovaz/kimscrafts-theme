@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T21:41:47.075Z",
+  "updated": "2026-08-21T01:55:59.141Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 162
+    "fresh": 161
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "date": "2026-08-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "ChatGPT search now uses the site:operator at scale",
+      "summary": "<p><strong><a href=\"https://promptwatch.com/data/chatgpt-site-operator-fanouts\">ChatGPT search now uses the site:operator at scale</a></strong></p> Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies of",
+      "date": "2026-08-20",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/bun-webview-json-api#readme\">A shot-scraper-style JSON API on Bun 1.4&#x27;s new Bun.WebView</a></p> <p>Today saw the long awaited <a href=\"https://bun.com/blog/bun-v1.4\">release of Bun 1.4</a>, t",
+      "date": "2026-08-20",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/"
+    },
+    {
       "category": "model",
       "lab": "Nvidia",
       "title": "China now has its own AI circular financing scheme",
@@ -356,7 +386,7 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "date": "2026-08-20",
       "importance": 3,
@@ -365,9 +395,29 @@
     },
     {
       "category": "industry",
+      "lab": "Anthropic",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "date": "2026-08-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
-      "title": "Ok, can we actually cool data centers with our pee?",
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+      "title": "OK, can we actually cool data centers with our pee?",
+      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
       "date": "2026-08-20",
       "importance": 2,
       "tags": [],
@@ -634,16 +684,6 @@
       "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Meet the startup helping Wall Street put a price on AI compute",
-      "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a pri",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/"
-    },
-    {
       "category": "product",
       "lab": "Meta",
       "title": "Meta ran ads for an app promising to nudify female politicians",
@@ -652,26 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
     },
     {
       "category": "model",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/muse-glimmer"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Quoting Claude Opus 5 system prompt",
-      "summary": "<blockquote cite=\"https://platform.claude.com/docs/en/release-notes/system-prompts#claude-opus-5\"><p>Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce expo",
-      "date": "2026-08-09",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GitHub Models is now retired",
-      "summary": "<p><strong><a href=\"https://github.blog/changelog/2026-07-30-github-models-is-now-retired/\">GitHub Models is now retired</a></strong></p> I missed this news until today, when the GitHub Actions run for my <a href=\"https://github.com/simonw/research\">simonw/research</a> repository",
-      "date": "2026-08-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T15:33:52.521Z",
+  "updated": "2026-08-22T18:47:13.213Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "llm 0.33",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.33\">llm 0.33</a></p> <p>My highlights from this release:</p> <blockquote> <ul> <li>Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from <code>httpx</code> to <code",
+      "date": "2026-08-22",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/22/llm/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "date": "2026-08-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
@@ -302,6 +322,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "date": "2026-08-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "More than just code review",
+      "summary": "<p>The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way.</p> <p>Sometimes this involves reviewing every line of code the",
+      "date": "2026-08-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
     },
     {
       "category": "model",
@@ -364,16 +404,6 @@
       "url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
@@ -382,6 +412,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
     },
     {
       "category": "research",
@@ -654,16 +694,6 @@
       "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-      "date": "2026-08-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Introducing AI Futures",
@@ -702,16 +732,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/replit"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/"
     },
     {
       "category": "model",
@@ -1364,16 +1384,6 @@
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
     },
     {
-      "category": "benchmark",
-      "lab": "Meta",
-      "title": "Introducing Muse Glimmer",
-      "summary": "<p><strong><a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\">Introducing Muse Glimmer</a></strong></p> Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama ",
-      "date": "2026-08-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/"
-    },
-    {
       "category": "hardware",
       "lab": "AI",
       "title": "Amazon backs power plant that may become top source of US climate pollution",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "date": "2026-08-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
     }
   ]
 }

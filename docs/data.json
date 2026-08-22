@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T06:57:14.948Z",
+  "updated": "2026-08-22T09:39:53.060Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,14 +254,44 @@
   ],
   "items": [
     {
-      "category": "model",
-      "lab": "Nvidia",
-      "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
-      "summary": "Nvidia is paying $6 billion for software that builds AI models from the startup Poolside, and it wants to bring on 109 employees. The article Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion appeared first on The Decoder.",
-      "date": "2026-08-21",
-      "importance": 4,
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
+      "summary": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental variables like beliefs and intentions. Even weaker language models using this approach outperform stronger models witho",
+      "date": "2026-08-22",
+      "importance": 3,
       "tags": [],
-      "url": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/"
+      "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "RayNeo's new AI glasses skip the camera, focus on text overlays",
+      "summary": "RayNeo is launching a new headset without a camera or speakers. The article RayNeo's new AI glasses skip the camera, focus on text overlays appeared first on The Decoder.",
+      "date": "2026-08-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Netflix tests language model as alternative to hand-built recommendation logic",
+      "summary": "Netflix pitted its years-old recommendation engine against an in-house language model called GenRec and says it got better results. Instead of relying on thousands of hand-crafted features, GenRec converts viewing behavior into plain text. Netflix itself calls it \"an early but pr",
+      "date": "2026-08-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Psychological methods reveal major weaknesses in AI security testing",
+      "summary": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait. Blanket blocking of requests can artificially inflate a safety score even as the model gets less useful day to day.",
+      "date": "2026-08-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/"
     },
     {
       "category": "model",
@@ -324,16 +354,6 @@
       "url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
@@ -342,6 +362,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
     },
     {
       "category": "research",
@@ -372,36 +402,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic changes data retention policy after enterprise pushback",
-      "summary": "Anthropic is easing its controversial data storage policy, letting enterprise customers keep their own data going forward. The article Anthropic changes data retention policy after enterprise pushback appeared first on The Decoder.",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
-      "summary": "Since GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent. Ramp data shows OpenAI outpacing Anthropic in business API spending for the first time after Anthropic had overtaken OpenAI in quarte",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's GPT-Image-2 can now generate images without a background",
-      "summary": "OpenAI is previewing transparent background support for GPT-Image-2 through its API. The alpha channel gets baked in during image generation, which according to OpenAI beats conventional background removal. A single parameter activates the feature. The article OpenAI's GPT-Image-",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/"
     },
     {
       "category": "model",

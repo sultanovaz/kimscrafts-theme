@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T09:39:53.060Z",
+  "updated": "2026-08-22T12:58:49.491Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
+      "summary": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge. But as the skill library grows, agents have a harder and harder time finding the right set of inst",
+      "date": "2026-08-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/"
+    },
+    {
       "category": "research",
       "lab": "OpenAI",
       "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
@@ -392,16 +402,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta spends hundreds of millions on Microsoft's AI services",
-      "summary": "Meta has become one of Microsoft's biggest AI customers, according to Bloomberg. The article Meta spends hundreds of millions on Microsoft's AI services appeared first on The Decoder.",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/"
     },
     {
       "category": "model",

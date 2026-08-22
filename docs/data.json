@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T18:47:13.213Z",
+  "updated": "2026-08-22T21:34:13.125Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -325,6 +325,26 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Linus Torvalds",
+      "summary": "<blockquote cite=\"https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c\"><p>And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work.</p> <p>I'd like to call it my tireless helper, but the AI several times stated ",
+      "date": "2026-08-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "date": "2026-08-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI says California should strengthen its AI safety bill",
       "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
@@ -404,16 +424,6 @@
       "url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -422,6 +432,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
+      "date": "2026-08-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
     },
     {
       "category": "research",
@@ -682,16 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-      "date": "2026-08-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/"
     },
     {
       "category": "industry",
@@ -1322,16 +1332,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-upload-dbs 0.5a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0\">datasette-upload-dbs 0.5a0</a></p> <p>This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point",
-      "date": "2026-08-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/"
     },
     {
       "category": "industry",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T09:40:46.696Z",
+  "updated": "2026-08-23T13:00:10.169Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
+      "summary": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consistently, while weaker ones hesita",
+      "date": "2026-08-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
+      "summary": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x. Nearly 70 percent of agent token consumption comes from cheap cached prompts, though, so actual costs are rising far mo",
+      "date": "2026-08-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/"
+    },
+    {
       "category": "research",
       "lab": "AI",
       "title": "AI could make scientists do more work less well, not less work better, study argues",
@@ -402,26 +422,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
-      "summary": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches. Anthropic is also plugging Mythos 5 into partner security products protecting ",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks",
-      "summary": "Deepseek has released V4-Flash-Vision-Exp, an experimental multimodal model that adds image understanding to V4-Flash's text capabilities. On the company's own multimodal agent benchmarks, it approaches Opus 4.8 and sometimes beats it. The article Deepseek releases experimental F",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/"
     },
     {
       "category": "model",

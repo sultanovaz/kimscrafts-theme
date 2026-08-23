@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T06:59:00.776Z",
+  "updated": "2026-08-23T09:40:46.696Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "research",
+      "lab": "AI",
+      "title": "AI could make scientists do more work less well, not less work better, study argues",
+      "summary": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' remaining hours become more valuable and get funneled into starting new projects instead of improving existing ones. In tw",
+      "date": "2026-08-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent",
+      "summary": "Nvidia servers with Vera Rubin and Grace Blackwell chips are set to cost about 15 percent more due to an ongoing DRAM shortage from Samsung, SK Hynix, and Micron, Bloomberg reports. The price hikes hit cloud giants like Microsoft, Google, and Meta, which are pouring billions into",
+      "date": "2026-08-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "How China's gray market sells Claude tokens at a fraction of the price",
+      "summary": "Anthropic's strict access controls against China, from geoblocking to selfie verification, are being systematically bypassed through a thriving network of so-called \"transfer stations.\" Chinese developers can buy Claude tokens for as little as ten percent of the list price. Analy",
+      "date": "2026-08-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "llm 0.33",
@@ -394,16 +424,6 @@
       "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Data center opposition surged from 42 to 75 percent in just one year, survey finds",
-      "summary": "Three out of four Americans now oppose having a data center built near them, up from an even split just a year ago, according to a Heatmap News survey. 61 percent are \"strongly opposed.\" The article Data center opposition surged from 42 to 75 percent in just one year, survey find",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "llm 0.32.1",
@@ -422,16 +442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
-      "summary": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing, according to Reuters. The article US wants to force partner countries to choose between Washington and Beijing in the AI race appeared first on The Deco",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/"
     },
     {
       "category": "model",
@@ -462,16 +472,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia",
-      "summary": "Waymo built its own chip for its robotaxis, cutting its reliance on Nvidia. The article Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia appeared first on The Decoder.",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/"
     },
     {
       "category": "model",

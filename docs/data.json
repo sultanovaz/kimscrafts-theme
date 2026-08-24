@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T10:01:48.804Z",
+  "updated": "2026-08-24T13:11:17.332Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -266,12 +266,42 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
+      "summary": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when the model can tap into the company's own content, like Westlaw. CTO Joel Hron makes the point that wh",
+      "date": "2026-08-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Cerebras unveils CS-4 with double the performance on the same chip",
+      "summary": "Cerebras has introduced its CS-4 AI accelerator, which CEO Andrew Feldman calls the fastest system in the industry. The article Cerebras unveils CS-4 with double the performance on the same chip appeared first on The Decoder.",
+      "date": "2026-08-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "AI chatbots regularly link pregnant users to anti-abortion websites without disclosure",
       "summary": "When asked about unplanned pregnancies, AI chatbots regularly link to anti-abortion groups without disclosing their stance. In an AlgorithmWatch investigation of 270 responses from ChatGPT, Gemini, Grok, and Claude, the anti-abortion organization Profemina appeared in 17 percent ",
       "date": "2026-08-24",
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Your executable is a SQLite database",
+      "summary": "<p><strong><a href=\"https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database\">Your executable is a SQLite database</a></strong></p> Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary.</p> ",
+      "date": "2026-08-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/"
     },
     {
       "category": "model",
@@ -412,26 +442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
-      "summary": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental variables like beliefs and intentions. Even weaker language models using this approach outperform stronger models witho",
-      "date": "2026-08-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "RayNeo's new AI glasses skip the camera, focus on text overlays",
-      "summary": "RayNeo is launching a new headset without a camera or speakers. The article RayNeo's new AI glasses skip the camera, focus on text overlays appeared first on The Decoder.",
-      "date": "2026-08-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/"
     },
     {
       "category": "industry",
@@ -1322,16 +1332,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Quoting Florian Herrengt",
-      "summary": "<blockquote cite=\"https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html\"><p>But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable ",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/"
     },
     {
       "category": "product",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T07:18:26.939Z",
+  "updated": "2026-08-24T10:01:48.804Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
+      "summary": "Nvidia is negotiating an investment in Perplexity at a valuation above $30 billion, more than 50 percent higher than its last funding round, The Information reports. Perplexity's annualized revenue has tripled to over $750 million. Much of Nvidia's investment money tends to flow ",
+      "date": "2026-08-24",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "AI chatbots regularly link pregnant users to anti-abortion websites without disclosure",
+      "summary": "When asked about unplanned pregnancies, AI chatbots regularly link to anti-abortion groups without disclosing their stance. In an AlgorithmWatch investigation of 270 responses from ChatGPT, Gemini, Grok, and Claude, the anti-abortion organization Profemina appeared in 17 percent ",
+      "date": "2026-08-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
@@ -412,26 +432,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Netflix tests language model as alternative to hand-built recommendation logic",
-      "summary": "Netflix pitted its years-old recommendation engine against an in-house language model called GenRec and says it got better results. Instead of relying on thousands of hand-crafted features, GenRec converts viewing behavior into plain text. Netflix itself calls it \"an early but pr",
-      "date": "2026-08-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Psychological methods reveal major weaknesses in AI security testing",
-      "summary": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait. Blanket blocking of requests can artificially inflate a safety score even as the model gets less useful day to day.",
-      "date": "2026-08-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/"
     },
     {
       "category": "industry",

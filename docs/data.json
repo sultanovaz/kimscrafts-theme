@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T15:54:23.362Z",
+  "updated": "2026-08-24T18:57:31.437Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
+      "summary": "The Pew Research Center analyzed nearly half a million English-language web pages for AI-generated content. More than a third of pages published since ChatGPT's launch show signs of machine-written text, and commercial .com sites are ten times more likely to contain AI content th",
+      "date": "2026-08-24",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
@@ -277,7 +287,7 @@
       "category": "model",
       "lab": "AI",
       "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
       "date": "2026-08-24",
       "importance": 3,
       "tags": [],
@@ -332,6 +342,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+      "date": "2026-08-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
+      "date": "2026-08-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/"
     },
     {
       "category": "industry",
@@ -392,16 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Google DeepMind",
-      "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent",
-      "summary": "Nvidia servers with Vera Rubin and Grace Blackwell chips are set to cost about 15 percent more due to an ongoing DRAM shortage from Samsung, SK Hynix, and Micron, Bloomberg reports. The price hikes hit cloud giants like Microsoft, Google, and Meta, which are pouring billions into",
-      "date": "2026-08-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/"
     },
     {
       "category": "model",
@@ -522,6 +542,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now ",
+      "date": "2026-08-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/"
     },
     {
       "category": "model",
@@ -692,26 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "date": "2026-08-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "OK, can we actually cool data centers with our pee?",
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "date": "2026-08-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/"
     },
     {
       "category": "industry",
@@ -1382,16 +1392,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
-      "date": "2026-08-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/"
     },
     {
       "category": "model",

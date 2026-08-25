@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-25T01:50:38.273Z",
+  "updated": "2026-08-25T03:57:45.813Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 157
+    "fresh": 158
   },
   "ranking": [
     {
@@ -262,6 +262,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "summary": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/gradio-workflow-guide"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "What building an AI-native finance function taught me",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "date": "2026-08-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/building-an-ai-native-finance-function"
     }
   ]
 }

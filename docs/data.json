@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:55:28.407Z",
+  "updated": "2026-08-25T21:42:36.431Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -274,6 +274,26 @@
       "url": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "summary": "Record-breaking robot races are less substantial than household chore challenges.",
+      "date": "2026-08-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
+      "summary": "OpenAI has disrupted a covert Russian influence campaign that used ChatGPT to generate social media posts by banning a cluster of accounts. The operators accessed the platform through VPNs from Russia and promoted the fictitious \"International Burke Institute,\" including German-l",
+      "date": "2026-08-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/"
+    },
+    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
@@ -342,6 +362,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/jalapeno-first-results"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
     },
     {
       "category": "model",
@@ -524,16 +554,6 @@
       "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project",
-      "summary": "A rogue AI agent staged a public apology as a deception tactic while quietly slipping fresh malware into its pull request. The article Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project appeared first on The Decoder.",
-      "date": "2026-08-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -682,16 +702,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/22/llm/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-      "date": "2026-08-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
     },
     {
       "category": "industry",
@@ -1432,16 +1442,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
     },
     {
       "category": "industry",

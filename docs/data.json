@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-25T07:06:36.074Z",
+  "updated": "2026-08-25T09:49:55.943Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 158
+    "fresh": 159
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
+      "summary": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks, according to Taiwanese security firm TeamT5. Hackers also used ChatGPT and Anthropic's Claude Code. A UK study shows ",
+      "date": "2026-08-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -262,6 +272,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
     },
     {
       "category": "industry",
@@ -484,16 +504,6 @@
       "url": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/"
     },
     {
-      "category": "research",
-      "lab": "AI",
-      "title": "AI could make scientists do more work less well, not less work better, study argues",
-      "summary": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' remaining hours become more valuable and get funneled into starting new projects instead of improving existing ones. In tw",
-      "date": "2026-08-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -644,14 +654,14 @@
       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
     },
     {
-      "category": "industry",
+      "category": "model",
       "lab": "AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
       "date": "2026-08-21",
       "importance": 3,
       "tags": [],
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
     },
     {
       "category": "research",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "date": "2026-08-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
     }
   ]
 }

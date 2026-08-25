@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T03:57:45.813Z",
+  "updated": "2026-08-25T07:06:36.074Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -644,14 +644,14 @@
       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
     },
     {
-      "category": "model",
+      "category": "industry",
       "lab": "AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
       "date": "2026-08-21",
       "importance": 3,
       "tags": [],
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
     },
     {
       "category": "research",

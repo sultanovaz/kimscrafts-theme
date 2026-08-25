@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T21:42:10.026Z",
+  "updated": "2026-08-25T01:50:38.273Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
@@ -352,6 +362,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+      "date": "2026-08-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
     },
     {
       "category": "industry",
@@ -612,16 +632,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
     },
     {
       "category": "model",
@@ -1432,16 +1442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
-      "date": "2026-08-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
     },
     {
       "category": "industry",

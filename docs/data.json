@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-25T13:09:17.521Z",
+  "updated": "2026-08-25T15:58:02.791Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 161
+    "fresh": 164
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
+      "summary": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October. The article Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decoder.",
+      "date": "2026-08-25",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
@@ -262,6 +272,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "date": "2026-08-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
     },
     {
       "category": "hardware",
@@ -294,9 +314,49 @@
       "url": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/"
     },
     {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "date": "2026-08-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/jalapeno-first-results"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Granite 4.2 LLMs: How They&apos;re Built",
+      "summary": "Granite 4.2 LLMs: How They&apos;re Built",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
+    },
+    {
       "category": "industry",
       "lab": "AI",
-      "title": "With new Mac Studio and Mac mini, Apple leans hard into local AI inference",
+      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "summary": "Lica co-founders are going to work on Gamma's new research team.",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Apple's new desktop computers are designed specifically for local AI development",
       "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
       "date": "2026-08-25",
       "importance": 2,
@@ -332,6 +392,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
     },
     {
       "category": "industry",
@@ -444,16 +514,6 @@
       "url": "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "AI chatbots regularly link pregnant users to anti-abortion websites without disclosure",
-      "summary": "When asked about unplanned pregnancies, AI chatbots regularly link to anti-abortion groups without disclosing their stance. In an AlgorithmWatch investigation of 270 responses from ChatGPT, Gemini, Grok, and Claude, the anti-abortion organization Profemina appeared in 17 percent ",
-      "date": "2026-08-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -496,7 +556,7 @@
     {
       "category": "hardware",
       "lab": "Nvidia",
-      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
       "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
       "date": "2026-08-24",
       "importance": 2,
@@ -702,26 +762,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "date": "2026-08-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "date": "2026-08-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
     },
     {
       "category": "hardware",
@@ -1404,16 +1444,6 @@
       "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "summary": "AI firms quietly bulk buying rare books face resistance from booksellers.",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "How RingCentral builds AI-native work from engineering to ops",
@@ -1422,36 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/ringcentral"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "summary": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "date": "2026-08-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Testing ads in ChatGPT",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "date": "2026-08-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/testing-ads-in-chatgpt"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Daybreak models are now available on AWS",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "date": "2026-08-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
     }
   ]
 }

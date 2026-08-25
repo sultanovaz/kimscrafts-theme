@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-25T15:58:02.791Z",
+  "updated": "2026-08-25T18:55:28.407Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 164
+    "fresh": 165
   },
   "ranking": [
     {
@@ -274,6 +274,26 @@
       "url": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/"
     },
     {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
+      "summary": "OpenAI showed off \"Jalapeño,\" its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nvidia's Blackwell and even Rubin in throughput and energy efficiency. \"Usually first generation chips aren't competitive,",
+      "date": "2026-08-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Google launches Gemini for legal work to automate contracts and research",
+      "summary": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review. Anthropic already offers s",
+      "date": "2026-08-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/"
+    },
+    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
@@ -322,6 +342,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/jalapeno-first-results"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
     },
     {
       "category": "industry",
@@ -425,6 +455,16 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-admin-plugin"
+    },
+    {
+      "category": "industry",
       "lab": "Hugging Face",
       "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
       "summary": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
@@ -492,26 +532,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
-      "summary": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when the model can tap into the company's own content, like Westlaw. CTO Joel Hron makes the point that wh",
-      "date": "2026-08-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Cerebras unveils CS-4 with double the performance on the same chip",
-      "summary": "Cerebras has introduced its CS-4 AI accelerator, which CEO Andrew Feldman calls the fastest system in the industry. The article Cerebras unveils CS-4 with double the performance on the same chip appeared first on The Decoder.",
-      "date": "2026-08-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/"
     },
     {
       "category": "industry",
@@ -722,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now ",
-      "date": "2026-08-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/ringcentral"
     }
   ]
 }

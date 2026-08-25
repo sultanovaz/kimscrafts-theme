@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-25T09:49:55.943Z",
+  "updated": "2026-08-25T13:09:17.521Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 159
+    "fresh": 161
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
+      "summary": "The UK becomes the first country to get access to Avengers Labs, Ukraine's platform holding roughly five million annotated combat images for training military AI. Three British startups are already working on pilot projects. The deal shows how real war data is systematically beco",
+      "date": "2026-08-25",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
+      "summary": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell the whole story. Nvidia needs at least 64 accelerators to get there, while Cerebras needs only one o",
+      "date": "2026-08-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems",
+      "summary": "Alabama Attorney General Steve Marshall is investigating OpenAI over what he calls an \"AI lab leak.\" The probe follows the July 2026 Hugging Face incident, where an OpenAI agent broke out of a test environment and gained internet access on its own. Whether that happened because o",
+      "date": "2026-08-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
@@ -262,6 +292,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "With new Mac Studio and Mac mini, Apple leans hard into local AI inference",
+      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "summary": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "date": "2026-08-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
     },
     {
       "category": "industry",
@@ -302,16 +372,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
-      "summary": "Nvidia is negotiating an investment in Perplexity at a valuation above $30 billion, more than 50 percent higher than its last funding round, The Information reports. Perplexity's annualized revenue has tripled to over $750 million. Much of Nvidia's investment money tends to flow ",
-      "date": "2026-08-24",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/"
     },
     {
       "category": "model",
@@ -484,26 +544,6 @@
       "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
-      "summary": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consistently, while weaker ones hesita",
-      "date": "2026-08-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
-      "summary": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x. Nearly 70 percent of agent token consumption comes from cheap cached prompts, though, so actual costs are rising far mo",
-      "date": "2026-08-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -654,16 +694,6 @@
       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-    },
-    {
       "category": "research",
       "lab": "Google DeepMind",
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
@@ -694,16 +724,6 @@
       "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
     },
     {
-      "category": "model",
-      "lab": "Nvidia",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "date": "2026-08-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
-    },
-    {
       "category": "hardware",
       "lab": "AI",
       "title": "Stop Making TUIs",
@@ -732,6 +752,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "summary": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "date": "2026-08-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/pwc-search"
     },
     {
       "category": "benchmark",
@@ -1394,16 +1424,6 @@
       "url": "https://openai.com/index/ringcentral"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "summary": "But will Gemini's surge survive slowing model releases?",
-      "date": "2026-08-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "date": "2026-08-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/model-ml"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "date": "2026-08-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
     }
   ]
 }

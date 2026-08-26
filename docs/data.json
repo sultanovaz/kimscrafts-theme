@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-26T09:55:18.703Z",
+  "updated": "2026-08-26T13:14:28.133Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 162
+    "fresh": 163
   },
   "ranking": [
     {
@@ -255,6 +255,66 @@
   "items": [
     {
       "category": "industry",
+      "lab": "Meta",
+      "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan",
+      "summary": "Meta wanted to replace far more of its workforce with AI than previously known, according to Reuters, but the plan collapsed under rebellious employees and agents that failed to deliver. The article Employee revolt and failing agents forced Meta to scrap its AI layoff plan appear",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Pro-Kremlin deepfakes put surrender rhetoric in the mouths of Ukrainian lawmakers",
+      "summary": "Pro-Kremlin Telegram channels are spreading AI-generated deepfake videos of two Ukrainian lawmakers who appear to call for peace talks. The clips racked up 130,000 views in two weeks, according to NewsGuard. Even when debunked, these fakes serve their purpose: they erode trust in",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google",
+      "summary": "A Chinese AI company could land its model on major US cloud platforms for the first time, taking a cut of the revenue. The article Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google appeared first on The Decoder.",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Bill Gates warns AI is more dangerous than the tech industry will admit",
+      "summary": "Bill Gates warns in an essay and an NYT interview about mass unemployment and easier bioterrorism through AI, and he accuses his own industry of deliberately hiding the risks. \"It's bad for us, for the next trillion we're trying to raise.\" He rejects self-regulation and instead c",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0",
+      "summary": "IBM is releasing its Granite 4.2 language models in 3B, 8B, and 30B sizes, trained on about 15 trillion tokens with a context window of up to 512,000 tokens. The larger models use \"agentic RL\" training to learn tool use and code execution on their own. All models are available un",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO",
+      "summary": "Anthropic wants to sell investors on a theoretical market opportunity worth more than $30 trillion ahead of its planned IPO. The article Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO appeared first on The Decoder.",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Robotics startup Generalist reaches $3B valuation, sources say",
       "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
@@ -262,6 +322,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Arga is building a better way to train enterprise AI agents",
+      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
     },
     {
       "category": "industry",
@@ -294,6 +394,16 @@
       "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
     },
     {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/loveholidays"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "EVE Online: The Move to Python 3 Begins!",
@@ -312,16 +422,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
-      "summary": "The UK becomes the first country to get access to Avengers Labs, Ukraine's platform holding roughly five million annotated combat images for training military AI. Three British startups are already working on pilot projects. The deal shows how real war data is systematically beco",
-      "date": "2026-08-25",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/"
     },
     {
       "category": "industry",
@@ -372,36 +472,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Google DeepMind",
-      "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
-      "summary": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell the whole story. Nvidia needs at least 64 accelerators to get there, while Cerebras needs only one o",
-      "date": "2026-08-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems",
-      "summary": "Alabama Attorney General Steve Marshall is investigating OpenAI over what he calls an \"AI lab leak.\" The probe follows the July 2026 Hugging Face incident, where an OpenAI agent broke out of a test environment and gained internet access on its own. Whether that happened because o",
-      "date": "2026-08-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
-      "summary": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks, according to Taiwanese security firm TeamT5. Hackers also used ChatGPT and Anthropic's Claude Code. A UK study shows ",
-      "date": "2026-08-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/"
     },
     {
       "category": "hardware",
@@ -555,16 +625,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
-      "summary": "The Pew Research Center analyzed nearly half a million English-language web pages for AI-generated content. More than a third of pages published since ChatGPT's launch show signs of machine-written text, and commercial .com sites are ten times more likely to contain AI content th",
-      "date": "2026-08-24",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "llm-anthropic 0.27",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.27\">llm-anthropic 0.27</a></p> <p>This release of the Anthropic plugin for <a href=\"https://llm.datasette.io/\">LLM</a> mainly provides compatibility with the recently released <a href=\"ht",
@@ -572,16 +632,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
-      "summary": "Alibaba's video generation model Wan3.0 creates clips up to 30 seconds long from text, PDFs, and PowerPoint files. A 30-second 1080p clip costs $6. Alibaba's quarterly profit dropped 75 percent year-over-year as the company ramps up AI spending. The article Alibaba's Wan3.0 gener",
-      "date": "2026-08-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/"
     },
     {
       "category": "model",
@@ -712,36 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "date": "2026-08-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "date": "2026-08-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "date": "2026-08-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
     },
     {
       "category": "model",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "summary": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
     }
   ]
 }

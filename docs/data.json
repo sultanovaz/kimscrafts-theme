@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-26T07:06:57.306Z",
+  "updated": "2026-08-26T09:55:18.703Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 163
+    "fresh": 162
   },
   "ranking": [
     {
@@ -262,6 +262,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Paul Dix",
+      "summary": "<blockquote cite=\"https://pauldix.com/the-end-of-programming\"><p>The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind b",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/"
     },
     {
       "category": "industry",
@@ -1342,16 +1352,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/previewing-ultrafast"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "alchemy-utils 0.1a1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/alchemy-utils/releases/tag/0.1a1\">alchemy-utils 0.1a1</a></p> <p>Performance boost for DuckDB exports and CSV imports, <a href=\"https://simonwillison.net/2026/Aug/12/alchemy-utils/\">see here</a>.</p>",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/"
     },
     {
       "category": "industry",

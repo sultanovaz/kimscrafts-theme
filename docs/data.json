@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-26T13:14:28.133Z",
+  "updated": "2026-08-26T16:33:41.911Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 163
+    "fresh": 165
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
+      "summary": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters per token. At one-ninth the training cost, it beats much larger competitors like DeepSeek-V4-Flash and Claude Opus 4.6 ",
+      "date": "2026-08-26",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never ",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+    },
+    {
       "category": "industry",
       "lab": "Meta",
       "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan",
@@ -324,9 +344,69 @@
       "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
-      "title": "Arga is building a better way to train enterprise AI agents",
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "summary": "Robot bodies are waiting for their AI brains to catch up.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
       "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
       "date": "2026-08-26",
       "importance": 2,
@@ -357,7 +437,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
       "date": "2026-08-26",
       "importance": 2,
       "tags": [],
@@ -404,6 +484,16 @@
       "url": "https://openai.com/index/loveholidays"
     },
     {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "EVE Online: The Move to Python 3 Begins!",
@@ -412,16 +502,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
-      "summary": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October. The article Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decoder.",
-      "date": "2026-08-25",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/"
     },
     {
       "category": "industry",
@@ -634,26 +714,6 @@
       "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-      "date": "2026-08-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "date": "2026-08-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -674,26 +734,6 @@
       "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-      "date": "2026-08-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "date": "2026-08-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
@@ -702,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-      "date": "2026-08-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
     },
     {
       "category": "model",
@@ -742,16 +772,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "date": "2026-08-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
     },
     {
       "category": "model",
@@ -1432,26 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
-      "date": "2026-08-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
     }
   ]
 }

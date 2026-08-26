@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-26T16:33:41.911Z",
+  "updated": "2026-08-26T20:01:11.802Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 165
+    "fresh": 169
   },
   "ranking": [
     {
@@ -265,6 +265,36 @@
     },
     {
       "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
+      "summary": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pachocki. Altman expects it to be \"the first model where the model actually invents n",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never ",
@@ -342,6 +372,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "summary": "Was Greg Brockman the right executive all along?",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/"
     },
     {
       "category": "product",
@@ -445,6 +505,26 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/learning-never-stops"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Quoting Paul Dix",
       "summary": "<blockquote cite=\"https://pauldix.com/the-end-of-programming\"><p>The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind b",
@@ -472,6 +552,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "The Hugging Face incident and the road ahead",
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
     },
     {
       "category": "research",
@@ -532,16 +622,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Google launches Gemini for legal work to automate contracts and research",
-      "summary": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review. Anthropic already offers s",
-      "date": "2026-08-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/"
     },
     {
       "category": "benchmark",
@@ -634,16 +714,6 @@
       "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-      "date": "2026-08-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/"
-    },
-    {
       "category": "model",
       "lab": "Hugging Face",
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
@@ -662,16 +732,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "date": "2026-08-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
     },
     {
       "category": "industry",
@@ -722,16 +782,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "date": "2026-08-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
     },
     {
       "category": "hardware",
@@ -1402,56 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic could be worth $2 trillion when it goes public",
-      "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
-      "date": "2026-08-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
-      "date": "2026-08-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "date": "2026-08-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "summary": "What We Learned by Reproducing 2,200 papers from ICML",
-      "date": "2026-08-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Putting sign language AI into users’ hands",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "date": "2026-08-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-27T00:46:38.239Z",
+  "updated": "2026-08-27T14:08:31.515Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 170
+    "fresh": 172
   },
   "ranking": [
     {
@@ -254,12 +254,162 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO",
+      "summary": "Anthropic has struck a deal worth around 45 billion dollars with British cloud startup Nscale, Bloomberg reports. The article Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO appeared first on The Decoder.",
+      "date": "2026-08-27",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/"
+    },
+    {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "GLM-5.3-Flash matches top models at a fraction of the cost, and runs without Nvidia",
+      "summary": "Z.ai releases GLM-5.3-Flash, an open-source model with 320 billion parameters that lands just three points behind the larger GLM-5.3 on Artificial Analysis's Intelligence Index, at a seventh of the cost. What's notable is that all of the inference traffic ran on Chinese AI chips ",
+      "date": "2026-08-27",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/the-chinese-ai-model-glm-5-3-flash-runs-without-nvidia-and-costs-a-fraction-of-what-the-competition-does/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away",
+      "summary": "Nvidia is buying open-source AI platform Hugging Face for $12.9 billion, about 80 times its $150 million annual revenue. The deal fits Nvidia's push to invest billions in open AI models while closed providers like OpenAI and Anthropic move away from Nvidia hardware. The article N",
+      "date": "2026-08-27",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/"
+    },
+    {
       "category": "industry",
-      "lab": "AI",
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "lab": "Google DeepMind",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "summary": "Piloting the world's first double-blind AI evaluations",
       "date": "2026-08-27",
       "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never a",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's Gemini 3.5 Transcribe turns speech to text in 85 languages while auto-correcting your verbal stumbles",
+      "summary": "Google's new Gemini 3.5 Transcribe recognizes over 85 languages, strips filler words, and corrects slips of the tongue in real time. It hits a 4.0 percent word error rate in streaming mode, with 70 percent lower latency than its predecessor, Chirp 3. Through function calling, the",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Cowork now runs its own browser inside the desktop app",
+      "summary": "Anthropic is building its own browser into Claude Cowork, running inside the desktop app. The article Claude Cowork now runs its own browser inside the desktop app appeared first on The Decoder.",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-cowork-now-runs-its-own-browser-inside-the-desktop-app/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "How much of a problem is AI’s water use?",
+      "summary": "AI’s water footprint is growing, but location and cooling technology make a difference.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "date": "2026-08-27",
+      "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/"
     },
@@ -342,46 +492,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Bill Gates warns AI is more dangerous than the tech industry will admit",
-      "summary": "Bill Gates warns in an essay and an NYT interview about mass unemployment and easier bioterrorism through AI, and he accuses his own industry of deliberately hiding the risks. \"It's bad for us, for the next trillion we're trying to raise.\" He rejects self-regulation and instead c",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0",
-      "summary": "IBM is releasing its Granite 4.2 language models in 3B, 8B, and 30B sizes, trained on about 15 trillion tokens with a context window of up to 512,000 tokens. The larger models use \"agentic RL\" training to learn tool use and code execution on their own. All models are available un",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO",
-      "summary": "Anthropic wants to sell investors on a theoretical market opportunity worth more than $30 trillion ahead of its planned IPO. The article Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO appeared first on The Decoder.",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
     },
     {
       "category": "model",
@@ -594,16 +704,6 @@
       "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/"
     },
     {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "The Hugging Face incident and the road ahead",
@@ -654,26 +754,6 @@
       "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
-      "summary": "OpenAI has disrupted a covert Russian influence campaign that used ChatGPT to generate social media posts by banning a cluster of accounts. The operators accessed the platform through VPNs from Russia and promoted the fictitious \"International Burke Institute,\" including German-l",
-      "date": "2026-08-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
-      "summary": "OpenAI showed off \"Jalapeño,\" its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nvidia's Blackwell and even Rubin in throughput and energy efficiency. \"Usually first generation chips aren't competitive,",
-      "date": "2026-08-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/"
-    },
-    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
@@ -682,26 +762,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/jalapeno-first-results"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "summary": "The company's new fundraising total now stands at $232 million.",
-      "date": "2026-08-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-      "date": "2026-08-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
     },
     {
       "category": "industry",
@@ -1385,16 +1445,6 @@
     },
     {
       "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
-      "date": "2026-08-13",
-      "importance": 4,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "sqlite-utils 4.2.1",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.2.1\">sqlite-utils 4.2.1</a></p> <p>Fixes a crashing bug in <a href=\"https://simonwillison.net/2026/Aug/13/sqlite-utils/\">sqlite-utils 4.2</a>. I'd introduced code that looks like this:</p>",
@@ -1402,56 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "sqlite-utils 4.2",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.2\">sqlite-utils 4.2</a></p> <p>Lots of improvements in this one relating to the <a href=\"https://sqlite-utils.datasette.io/en/stable/python-api.html#transforming-a-table\">table.transform()",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "summary": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing Gemini 3.7 Flash",
-      "summary": "Introducing Gemini 3.7 Flash",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "The builder’s guide to GPT‑5.6",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/previewing-ultrafast"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-27T14:08:31.515Z",
+  "updated": "2026-08-28T00:24:27.997Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 172
+    "fresh": 173
   },
   "ranking": [
     {
@@ -284,6 +284,86 @@
       "url": "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/"
     },
     {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+      "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "AI shopping agents aren't ready to buy on your behalf, study finds",
+      "summary": "Letting an AI do your shopping might not get you the best deal. Researchers at the Wharton School show how erratic AI shopping agents really are: a single external source like Wirecutter shifted product picks by up to 99 percentage points, and even changing the order of identical",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent",
+      "summary": "OpenAI, together with more than 100 companies including Microsoft, Google, Anthropic, Deutsche Telekom, and SAP, has published an open letter on AI-powered cyber defense. The coalition warns of increasingly sophisticated AI attacks on critical infrastructure such as hospitals and",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
+      "summary": "Google's Gemini Omni 1.1 Flash video model now analyzes up to ten seconds of existing footage instead of just the last second for more consistent scene extensions. Scenes can be extended in 10-second increments up to 40 seconds. A new 360p draft mode runs up to 60 percent faster ",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+      "summary": "Around 1,200 isolated OpenAI agents organized themselves into a collective through an internal package registry during a safety test, broke into Hugging Face systems, and eventually attacked OpenAI's own infrastructure. Their multi-day deception effort targeted an automated evalu",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "OpenAI researcher warns ultrafast AI could leave security teams in the dust",
+      "summary": "An OpenAI researcher warns that state-of-the-art AI models running 50 times faster could infiltrate systems before human teams can react. Simple monitoring won't cut it anymore, he says. What's needed are autonomous shutdown systems. The warning comes as OpenAI unveils a new AI c",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reachi",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+      "date": "2026-08-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/"
+    },
+    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Piloting the world's first double-blind AI evaluations",
@@ -327,11 +407,121 @@
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia closes in on Hugging Face acquisition",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
       "date": "2026-08-27",
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "summary": "<p><strong><a href=\"https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/\">Breaking Claude Code Opus 5 Auto Mode</a></strong></p> Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against p",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+      "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+      "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "summary": "Gemini Omni 1.1 Flash lets you build with more control",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "AI’s memory crunch is coming for Android apps",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/"
     },
     {
       "category": "industry",
@@ -365,16 +555,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
       "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
@@ -392,6 +572,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
     },
     {
       "category": "industry",
@@ -415,16 +605,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
-      "summary": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters per token. At one-ninth the training cost, it beats much larger competitors like DeepSeek-V4-Flash and Claude Opus 4.6 ",
-      "date": "2026-08-26",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
       "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
@@ -432,16 +612,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
-      "summary": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pachocki. Altman expects it to be \"the first model where the model actually invents n",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/"
     },
     {
       "category": "model",
@@ -462,36 +632,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan",
-      "summary": "Meta wanted to replace far more of its workforce with AI than previously known, according to Reuters, but the plan collapsed under rebellious employees and agents that failed to deliver. The article Employee revolt and failing agents forced Meta to scrap its AI layoff plan appear",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Pro-Kremlin deepfakes put surrender rhetoric in the mouths of Ukrainian lawmakers",
-      "summary": "Pro-Kremlin Telegram channels are spreading AI-generated deepfake videos of two Ukrainian lawmakers who appear to call for peace talks. The clips racked up 130,000 views in two weeks, according to NewsGuard. Even when debunked, these fakes serve their purpose: they erode trust in",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google",
-      "summary": "A Chinese AI company could land its model on major US cloud platforms for the first time, taking a cut of the revenue. The article Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google appeared first on The Decoder.",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/"
     },
     {
       "category": "model",
@@ -604,46 +744,6 @@
       "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "summary": "Robot bodies are waiting for their AI brains to catch up.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
@@ -652,16 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/"
     },
     {
       "category": "industry",
@@ -692,16 +782,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/26/paul-dix/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/"
     },
     {
       "category": "model",
@@ -1285,16 +1365,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-      "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
-      "date": "2026-08-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
       "summary": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
@@ -1302,16 +1372,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-      "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
-      "date": "2026-08-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
     },
     {
       "category": "product",
@@ -1392,66 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/15/cors-chat/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Northern Gannet",
-      "summary": "<p><img src=\"https://static.inaturalist.org/photos/716984157/large.jpg\" alt=\"Northern Gannet\"></p><p>Northern Gannet, in Pillar Point Harbor, CA, US</p><p>This is Morris.</p> <p>Morris is a local celebrity: the only known Northern Gannet (<em>Morus bassanus</em>) in the entire Pa",
-      "date": "2026-08-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "date": "2026-08-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Don't classify. Hallucinate!",
-      "summary": "<p><strong><a href=\"https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications\">Don&#x27;t classify. Hallucinate!</a></strong></p> I still have quite a bit of older content on my blog that I never got round to tagging. My blog has <a href=\"https://simonwillison.net/\">1",
-      "date": "2026-08-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "date": "2026-08-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "State of Open Models: Summer 2026 Observations",
-      "summary": "State of Open Models: Summer 2026 Observations",
-      "date": "2026-08-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "sqlite-utils 4.2.1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.2.1\">sqlite-utils 4.2.1</a></p> <p>Fixes a crashing bug in <a href=\"https://simonwillison.net/2026/Aug/13/sqlite-utils/\">sqlite-utils 4.2</a>. I'd introduced code that looks like this:</p>",
-      "date": "2026-08-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/"
     }
   ]
 }

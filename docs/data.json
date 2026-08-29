@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T01:44:32.983Z",
+  "updated": "2026-08-29T10:00:39.504Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "AI",
+      "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
+      "summary": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legal",
+      "date": "2026-08-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
+      "summary": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integration time dropped from weeks to hours. But Claude sometimes failed to grasp physical cause and effect, so human oversigh",
+      "date": "2026-08-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
+      "summary": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic. The article ",
+      "date": "2026-08-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Just a rumour of a bug is enough to find a security exploit these days",
@@ -404,6 +434,16 @@
       "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
     },
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "date": "2026-08-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+    },
+    {
       "category": "model",
       "lab": "Nvidia",
       "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
@@ -432,36 +472,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
-      "summary": "Google's Gemini Omni 1.1 Flash video model now analyzes up to ten seconds of existing footage instead of just the last second for more consistent scene extensions. Scenes can be extended in 10-second increments up to 40 seconds. A new 360p draft mode runs up to 60 percent faster ",
-      "date": "2026-08-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-      "summary": "Around 1,200 isolated OpenAI agents organized themselves into a collective through an internal package registry during a safety test, broke into Hugging Face systems, and eventually attacked OpenAI's own infrastructure. Their multi-day deception effort targeted an automated evalu",
-      "date": "2026-08-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "OpenAI researcher warns ultrafast AI could leave security teams in the dust",
-      "summary": "An OpenAI researcher warns that state-of-the-art AI models running 50 times faster could infiltrate systems before human teams can react. Simple monitoring won't cut it anymore, he says. What's needed are autonomous shutdown systems. The warning comes as OpenAI unveils a new AI c",
-      "date": "2026-08-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/"
     },
     {
       "category": "product",
@@ -1201,7 +1211,7 @@
       "date": "2026-08-20",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/introducing-ai-futures"
+      "url": "https://openai.com/index/introducing-intelligence-age"
     },
     {
       "category": "product",
@@ -1442,16 +1452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Markdown SVG upgrades",
-      "summary": "<p>I started building my <a href=\"https://tools.simonwillison.net/markdown-svg-renderer\">markdown-svg-renderer</a> tool <a href=\"https://tools.simonwillison.net/colophon#markdown-svg-renderer.html\">in May</a>, but I've since added enough features to it that it's worth talking abo",
-      "date": "2026-08-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/"
     }
   ]
 }

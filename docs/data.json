@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T16:41:50.257Z",
+  "updated": "2026-08-29T20:53:37.999Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thi",
+      "date": "2026-08-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
+    },
+    {
       "category": "product",
       "lab": "OpenAI",
       "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
@@ -302,6 +312,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "date": "2026-08-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
     },
     {
       "category": "hardware",
@@ -762,26 +782,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/"
     },
     {
       "category": "industry",

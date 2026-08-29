@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-29T10:00:39.504Z",
+  "updated": "2026-08-29T16:41:50.257Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 170
+    "fresh": 168
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
+      "summary": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic. The article ",
+      "date": "2026-08-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry",
+      "summary": "In China, 95 percent of the 128,000 short dramas released in Q1 2026 were AI-generated. Some actors are being forced to hand over their voice and likeness to AI tools before getting fired, the Financial Times reports. AI-related labor disputes are rising fast. The article AI-gene",
+      "date": "2026-08-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/"
+    },
+    {
+      "category": "research",
+      "lab": "Google DeepMind",
+      "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
+      "summary": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use that knowledge to get better over time. Lar",
+      "date": "2026-08-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/"
+    },
+    {
       "category": "benchmark",
       "lab": "AI",
       "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
@@ -274,14 +304,14 @@
       "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
-      "summary": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic. The article ",
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
       "date": "2026-08-29",
-      "importance": 3,
+      "importance": 2,
       "tags": [],
-      "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/"
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
     },
     {
       "category": "model",
@@ -452,26 +482,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "AI shopping agents aren't ready to buy on your behalf, study finds",
-      "summary": "Letting an AI do your shopping might not get you the best deal. Researchers at the Wharton School show how erratic AI shopping agents really are: a single external source like Wirecutter shifted product picks by up to 99 percentage points, and even changing the order of identical",
-      "date": "2026-08-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent",
-      "summary": "OpenAI, together with more than 100 companies including Microsoft, Google, Anthropic, Deutsche Telekom, and SAP, has published an open letter on AI-powered cyber defense. The coalition warns of increasingly sophisticated AI attacks on critical infrastructure such as hospitals and",
-      "date": "2026-08-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/"
     },
     {
       "category": "product",
@@ -782,16 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
     },
     {
       "category": "industry",

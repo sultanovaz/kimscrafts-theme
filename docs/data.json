@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-28T15:18:49.008Z",
+  "updated": "2026-08-29T01:44:32.983Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 172
+    "fresh": 170
   },
   "ranking": [
     {
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "summary": "<p><strong><a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\">Just a rumour of a bug is enough to find a security exploit these days</a></strong></p> Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this ",
+      "date": "2026-08-28",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
+      "summary": "Google Deepmind has expanded Co-Scientist from a hypothesis generator into a research system that's integrated into the lab. Across three disciplines, from materials synthesis to the autonomous development of a medical AI architecture, the Gemini-based multi-agent system delivere",
+      "date": "2026-08-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "AI benchmarks have a trust problem and Google wants to fix it",
       "summary": "Google Deepmind is testing a double-blind evaluation of a frontier AI model for the first time. Cryptographic protection through Confidential Space is meant to keep Google from seeing the test questions and keep evaluators from seeing the model weights. The pilot project with the",
@@ -266,8 +286,8 @@
     {
       "category": "industry",
       "lab": "Anthropic",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
       "date": "2026-08-28",
       "importance": 3,
       "tags": [],
@@ -314,6 +334,66 @@
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
     },
     {
+      "category": "benchmark",
+      "lab": "Hugging Face",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "summary": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "date": "2026-08-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "date": "2026-08-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "date": "2026-08-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "date": "2026-08-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+      "date": "2026-08-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+      "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+      "date": "2026-08-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
@@ -322,16 +402,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO",
-      "summary": "Anthropic has struck a deal worth around 45 billion dollars with British cloud startup Nscale, Bloomberg reports. The article Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO appeared first on The Decoder.",
-      "date": "2026-08-27",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/"
     },
     {
       "category": "model",
@@ -715,46 +785,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "summary": "Was Greg Brockman the right executive all along?",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
       "summary": "The focus is on agentic capability and predictable enterprise deployment.",
@@ -766,22 +796,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Learning never stops: How AI makes learning continuous",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "date": "2026-08-26",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/learning-never-stops"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     },
     {
       "category": "industry",
@@ -1244,16 +1274,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/"
     },
     {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta ran ads for an app promising to nudify female politicians",
-      "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "Mojo🔥 is now open source",
@@ -1312,16 +1332,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
-    },
-    {
-      "category": "product",
-      "lab": "Microsoft",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Quoting Dario Amodei",
-      "summary": "<blockquote cite=\"https://twitter.com/darioamodei/status/2088758819304443967\"><p>I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks. I think it is fu",
-      "date": "2026-08-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
     }
   ]
 }

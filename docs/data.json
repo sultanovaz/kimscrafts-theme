@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-30T05:21:29.549Z",
+  "updated": "2026-08-30T11:52:00.950Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 167
+    "fresh": 166
   },
   "ranking": [
     {
@@ -255,6 +255,56 @@
   "items": [
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+      "summary": "Sony Music, Warner Music, and other publishers are suing Anthropic and CEO Dario Amodei personally for allegedly using tens of thousands of copyrighted musical compositions to train Claude without permission. The plaintiffs call it \"one of the largest and most blatant ongoing the",
+      "date": "2026-08-30",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "AI agents have no sense of time and are not aware of it",
+      "summary": "AI coding assistants like Claude Code and Codex have no sense of time, according to a new study. Both systematically overestimate how long tasks will take. Codex is off by as much as ten times the actual duration. They also rate their own work about 20 percentage points too high.",
+      "date": "2026-08-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "The skills that earn top grades are the ones AI can fake best",
+      "summary": "GPT-4o boosted grades on a marketing assignment by nearly a full point on a five-point scale in an experiment with 1,053 Bocconi University students. Whether they actually learned anything wasn't tested. Other studies suggest that AI-assisted performance without independent think",
+      "date": "2026-08-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
+      "summary": "Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase. Anthropic promises more control and transparency over usage in return. The article Anthr",
+      "date": "2026-08-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "summary": "The company is testing robots on tasks that can performed by technicians.",
+      "date": "2026-08-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "Introducing Hy4 Preview",
       "summary": "<p><strong><a href=\"https://hy.tencent.ai/research/hy4-preview\">Introducing Hy4 Preview</a></strong></p> New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, <a href=\"https://huggingf",
@@ -364,16 +414,6 @@
       "url": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "AI benchmarks have a trust problem and Google wants to fix it",
-      "summary": "Google Deepmind is testing a double-blind evaluation of a frontier AI model for the first time. Cryptographic protection through Confidential Space is meant to keep Google from seeing the test questions and keep evaluators from seeing the model weights. The pilot project with the",
-      "date": "2026-08-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/"
-    },
-    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
@@ -382,36 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "U.S. court rules Pentagon's blacklisting of Anthropic was unlawful",
-      "summary": "A federal court in San Francisco has ruled that the Pentagon unlawfully classified Anthropic as a supply chain risk. The Department of Defense blacklisted the company in retaliation for its public criticism of government AI policy. The designation formally remains in place becaus",
-      "date": "2026-08-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Beatport blocks fully AI-generated music from its DJ marketplace",
-      "summary": "Effective immediately, the DJ marketplace Beatport is banning music that is entirely or largely generated by AI. The article Beatport blocks fully AI-generated music from its DJ marketplace appeared first on The Decoder.",
-      "date": "2026-08-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/beatport-blocks-fully-ai-generated-music-from-its-dj-marketplace/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Always-on and self-starting AI agents might be OpenAI's next big play",
-      "summary": "OpenAI is building a \"Persistent Mode\" for its AI agent Codex that stays active indefinitely and generates its own follow-up tasks. WIRED found the relevant code, and OpenAI confirmed the tests. The feature comes with risks, though. With GPT-5.6 Sol, persistent behavior already l",
-      "date": "2026-08-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/"
     },
     {
       "category": "model",
@@ -1282,16 +1292,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-      "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/"
     },
     {
       "category": "model",

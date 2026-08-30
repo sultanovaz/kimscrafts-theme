@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-29T23:17:11.823Z",
+  "updated": "2026-08-30T05:21:29.549Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 168
+    "fresh": 167
   },
   "ranking": [
     {
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Introducing Hy4 Preview",
+      "summary": "<p><strong><a href=\"https://hy.tencent.ai/research/hy4-preview\">Introducing Hy4 Preview</a></strong></p> New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, <a href=\"https://huggingf",
+      "date": "2026-08-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/"
+    },
     {
       "category": "industry",
       "lab": "AI",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-      "summary": "<p>Friday's big release was <a href=\"https://huggingface.co/Qwen/Qwen3.8-27B\">Qwen 3.8 27B</a>, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasona",
-      "date": "2026-08-16",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
     }
   ]
 }

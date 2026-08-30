@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-30T11:52:00.950Z",
+  "updated": "2026-08-30T16:38:47.123Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 166
+    "fresh": 164
   },
   "ranking": [
     {
@@ -264,6 +264,16 @@
       "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce",
+      "summary": "An analysis of Glassdoor reviews shows that positive AI comments have dropped from 81 to 43 percent since 2019. Executives rate AI mostly positive, while insurance claims workers rate it almost entirely negative. Fear of job loss is just one complaint among many. Forced adoption,",
+      "date": "2026-08-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "AI agents have no sense of time and are not aware of it",
@@ -292,6 +302,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "date": "2026-08-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
     },
     {
       "category": "industry",
@@ -402,16 +422,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
-      "summary": "Google Deepmind has expanded Co-Scientist from a hypothesis generator into a research system that's integrated into the lab. Across three disciplines, from materials synthesis to the autonomous development of a medical AI architecture, the Gemini-based multi-agent system delivere",
-      "date": "2026-08-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/"
     },
     {
       "category": "industry",
@@ -752,16 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/expanding-our-presence-in-brazil"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/"
     },
     {
       "category": "model",

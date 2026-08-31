@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T05:29:48.775Z",
+  "updated": "2026-08-31T13:44:17.630Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "OpenClaw 2.0 brings simplified setup, a rebuilt browser app, and multiplayer sessions",
+      "summary": "The OpenClaw Foundation has released version 2.0 of its open-source AI platform, its largest release to date with over 16,000 pull requests. New features include cloud sessions on rented machines, real-time collaboration, and a browser app rebuilt from scratch. The software now a",
+      "date": "2026-08-31",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openclaw-2-0-brings-simplified-setup-a-rebuilt-browser-app-and-multiplayer-sessions/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents",
+      "summary": "According to The Information, OpenAI has purchased tens of thousands of Mac minis and Mac Studios to train computer agents. Anthropic also relies on Apple hardware. Demand is so high that the most powerful models have been sold out for months. Apple’s Mac revenue rose by nearly 2",
+      "date": "2026-08-31",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
+      "date": "2026-08-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+      "date": "2026-08-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -404,26 +444,6 @@
       "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/"
     },
     {
-      "category": "benchmark",
-      "lab": "AI",
-      "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
-      "summary": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legal",
-      "date": "2026-08-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
-      "summary": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integration time dropped from weeks to hours. But Claude sometimes failed to grasp physical cause and effect, so human oversigh",
-      "date": "2026-08-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/"
-    },
-    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -572,16 +592,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
-      "date": "2026-08-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/"
     },
     {
       "category": "industry",
@@ -1222,16 +1232,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "date": "2026-08-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
     },
     {
       "category": "industry",

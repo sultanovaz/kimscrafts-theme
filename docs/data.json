@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T13:44:17.630Z",
+  "updated": "2026-08-31T20:49:09.484Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
+      "summary": "OpenAI's advertising business has reached an annualized revenue run rate of $1 billion, according to the company. The article OpenAI says its ChatGPT ad business hits a $1 billion annual run rate appeared first on The Decoder.",
+      "date": "2026-08-31",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "OpenClaw 2.0 brings simplified setup, a rebuilt browser app, and multiplayer sessions",
@@ -276,8 +286,138 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
-      "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
+      "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis",
+      "summary": "Andrew Bailey warns G20 finance ministers about inflated AI valuations, growing leverage across markets, and cyber risks from frontier AI models. Cross-investments between AI companies and hyperscalers could trigger a chain reaction if one major player stumbles. Many countries st",
+      "date": "2026-08-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Instagram admits users often can't tell AI profiles from real people",
+      "summary": "Instagram is replacing its \"AI creator\" tag with a new \"AI-generated profile\" label because users can't tell AI profiles from real people. Singularity, defined by Instagram user competence. Profiles without the label get their reach and recommendations throttled. As recently as l",
+      "date": "2026-08-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "China's CXMT makes its first HBM3E chips, closing the AI memory gap",
+      "summary": "China's top memory maker ChangXin Memory Technologies (CXMT) is producing HBM3E for the first time in small quantities, a fast memory found in many current AI processors. The article China's CXMT makes its first HBM3E chips, closing the AI memory gap appeared first on The Decoder",
+      "date": "2026-08-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "date": "2026-08-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
+      "summary": "The EU Commission is classifying ChatGPT as a very large search engine under the Digital Services Act for the first time, with at least 45 million monthly EU users. By the end of 2026, OpenAI has to deliver risk assessments, transparency reports, and an ad archive, among other th",
+      "date": "2026-08-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI starts charging some customers only when its AI actually works",
+      "summary": "OpenAI is offering some large customers outcome-based pricing, where they pay only once the AI actually finishes a task. Salesforce, Adobe, and several startups are also moving away from fixed subscription fees. The central dispute stays the same. Who gets credit for the success,",
+      "date": "2026-08-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "A milestone in expanding access to AI",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "date": "2026-08-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "date": "2026-08-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "date": "2026-08-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "date": "2026-08-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
+      "date": "2026-08-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "date": "2026-08-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "summary": "Explosive growth comes with a new regulatory burden in the European Union.",
+      "date": "2026-08-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
       "date": "2026-08-31",
       "importance": 2,
       "tags": [],
@@ -296,7 +436,7 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
       "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
       "date": "2026-08-31",
       "importance": 2,
@@ -312,16 +452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
-      "summary": "Sony Music, Warner Music, and other publishers are suing Anthropic and CEO Dario Amodei personally for allegedly using tens of thousands of copyrighted musical compositions to train Claude without permission. The plaintiffs call it \"one of the largest and most blatant ongoing the",
-      "date": "2026-08-30",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/"
     },
     {
       "category": "industry",
@@ -342,26 +472,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "The skills that earn top grades are the ones AI can fake best",
-      "summary": "GPT-4o boosted grades on a marketing assignment by nearly a full point on a five-point scale in an experiment with 1,053 Bocconi University students. Whether they actually learned anything wasn't tested. Other studies suggest that AI-assisted performance without independent think",
-      "date": "2026-08-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
-      "summary": "Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase. Anthropic promises more control and transparency over usage in return. The article Anthr",
-      "date": "2026-08-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/"
     },
     {
       "category": "industry",
@@ -406,7 +516,7 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
       "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thi",
       "date": "2026-08-29",
       "importance": 3,
@@ -414,44 +524,24 @@
       "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
-      "summary": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic. The article ",
-      "date": "2026-08-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry",
-      "summary": "In China, 95 percent of the 128,000 short dramas released in Q1 2026 were AI-generated. Some actors are being forced to hand over their voice and likeness to AI tools before getting fired, the Financial Times reports. AI-related labor disputes are rising fast. The article AI-gene",
-      "date": "2026-08-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/"
-    },
-    {
-      "category": "research",
-      "lab": "Google DeepMind",
-      "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
-      "summary": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use that knowledge to get better over time. Lar",
-      "date": "2026-08-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/"
-    },
-    {
       "category": "industry",
       "lab": "Anthropic",
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
       "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "date": "2026-08-29",
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "date": "2026-08-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
     },
     {
       "category": "hardware",
@@ -655,16 +745,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
       "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
@@ -672,16 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
     },
     {
       "category": "model",
@@ -692,46 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
-    },
-    {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "AI’s memory crunch is coming for Android apps",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/"
     },
     {
       "category": "model",
@@ -846,22 +876,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/learning-never-stops"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "date": "2026-08-26",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/learning-never-stops"
     },
     {
       "category": "industry",
@@ -1034,16 +1064,6 @@
       "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
-      "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
-      "date": "2026-08-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
@@ -1162,16 +1182,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/21/matt-webb/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-      "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
-      "date": "2026-08-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/the-defenders-window"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI joins PORTS-Pike project",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "date": "2026-08-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/openai-joins-ports-pike-project"
     }
   ]
 }

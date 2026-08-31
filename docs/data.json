@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-30T23:28:05.827Z",
+  "updated": "2026-08-31T05:29:48.775Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 164
+    "fresh": 163
   },
   "ranking": [
     {
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "date": "2026-08-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Understanding ChatGPT Work",
+      "summary": "<p>OpenAI <a href=\"https://openai.com/index/chatgpt-for-your-most-ambitious-work/\">announced ChatGPT Work</a> on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so fa",
+      "date": "2026-08-30",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -732,16 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/openai-joins-ports-pike-project"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "New policy ideas for the Intelligence Age",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "date": "2026-08-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
     }
   ]
 }

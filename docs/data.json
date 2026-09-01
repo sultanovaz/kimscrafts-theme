@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-01T14:07:46.797Z",
+  "updated": "2026-09-01T18:28:14.193Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 165
+    "fresh": 170
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
+      "summary": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though. The article Google Deepmind's new chief s",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Python 3.15.0 candidate 2 is here!",
+      "summary": "<p><strong><a href=\"https://discuss.python.org/t/python-3-15-0-candidate-2-is-here/108841\">Python 3.15.0 candidate 2 is here!</a></strong></p> Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/"
+    },
+    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Google's election AI Overviews are opaque, rely on few sources, and sometimes take sides",
@@ -284,6 +314,96 @@
       "url": "https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "Introducing agentic video understanding with Gemini",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Tarn Adams",
+      "summary": "<blockquote cite=\"https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/\"><p>They took the letters from me! I have to talk about <em>dwarf behavior</em>",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/ai-native-company-workflows"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
@@ -295,6 +415,16 @@
     },
     {
       "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/webgpu-kernels"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
       "summary": "OpenAI's advertising business has reached an annualized revenue run rate of $1 billion, according to the company. The article OpenAI says its ChatGPT ad business hits a $1 billion annual run rate appeared first on The Decoder.",
@@ -302,16 +432,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "OpenClaw 2.0 brings simplified setup, a rebuilt browser app, and multiplayer sessions",
-      "summary": "The OpenClaw Foundation has released version 2.0 of its open-source AI platform, its largest release to date with over 16,000 pull requests. New features include cloud sessions on rented machines, real-time collaboration, and a browser app rebuilt from scratch. The software now a",
-      "date": "2026-08-31",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openclaw-2-0-brings-simplified-setup-a-rebuilt-browser-app-and-multiplayer-sessions/"
     },
     {
       "category": "product",
@@ -614,16 +734,6 @@
       "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/"
     },
     {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "date": "2026-08-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Supporting Thailand’s next generation of AI startups",
@@ -644,36 +754,6 @@
       "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "date": "2026-08-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "date": "2026-08-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
-      "date": "2026-08-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
-    },
-    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
@@ -692,16 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "date": "2026-08-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
     },
     {
       "category": "product",
@@ -1382,76 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT Ads expands across Europe",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Strengthening democratic oversight in national security",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
-    },
-    {
-      "category": "product",
-      "lab": "Hugging Face",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "summary": "How Much Memory Does Your Agent Actually Need?",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/chatgpt-for-teens"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/asana"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/nvidia/chatgpt-work"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "summary": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "date": "2026-08-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/multi-vector-encoder"
     }
   ]
 }

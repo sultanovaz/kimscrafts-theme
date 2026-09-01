@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-31T20:49:09.484Z",
+  "updated": "2026-09-01T00:36:07.287Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 163
+    "fresh": 164
   },
   "ranking": [
     {
@@ -256,6 +256,16 @@
     {
       "category": "industry",
       "lab": "OpenAI",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
       "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
       "summary": "OpenAI's advertising business has reached an annualized revenue run rate of $1 billion, according to the company. The article OpenAI says its ChatGPT ad business hits a $1 billion annual run rate appeared first on The Decoder.",
       "date": "2026-08-31",
@@ -282,6 +292,26 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Introducing wrapture",
+      "summary": "<p><strong><a href=\"https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/\">Introducing wrapture</a></strong></p> New from Graham Dumpleton (of <a href=\"https://pypi.org/project/wrapt/\">wrapt</a>, mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as tak",
+      "date": "2026-08-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Quoting Andrew Digby",
+      "summary": "<blockquote cite=\"https://bsky.app/profile/digs.bsky.social/post/3mufrrsfhq22r\"><p>325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered",
+      "date": "2026-08-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/"
     },
     {
       "category": "industry",
@@ -432,6 +462,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "date": "2026-08-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/polimill"
     },
     {
       "category": "industry",
@@ -704,16 +744,6 @@
       "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
     },
     {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Breaking Claude Code Opus 5 Auto Mode",
@@ -876,22 +906,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Learning never stops: How AI makes learning continuous",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "date": "2026-08-26",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/learning-never-stops"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     },
     {
       "category": "industry",
@@ -1422,36 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "summary": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "date": "2026-08-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
-    },
-    {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "summary": "<p><strong><a href=\"https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/\">We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</a></strong></p> Excellent piece of reporting from 404 Media. For a while n",
-      "date": "2026-08-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "The Defender’s Window",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "date": "2026-08-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/the-defenders-window"
     }
   ]
 }

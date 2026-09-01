@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-01T18:28:14.193Z",
+  "updated": "2026-09-01T23:17:05.611Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 170
+    "fresh": 172
   },
   "ranking": [
     {
@@ -254,6 +254,76 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "date": "2026-09-01",
+      "importance": 4,
+      "tags": [],
+      "url": "https://openai.com/index/path-to-astra"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
+      "summary": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requires invisible watermarks in AI-generated text. Critics warn the technology could hurt text quality and create transpare",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+      "summary": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomous runs with many tool calls. T",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Codex bundles LibreOffice",
+      "summary": "<p>I was poking around in my <code>~/.cache/</code> folder using <a href=\"https://www.omnigroup.com/more\">OmniDiskSweeper</a> when I spotted something interesting. The OpenAI Codex desktop app (since <a href=\"https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
+    },
+    {
       "category": "product",
       "lab": "Google DeepMind",
       "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
@@ -312,6 +382,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "summary": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/benchmirt"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
     },
     {
       "category": "model",
@@ -496,26 +586,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
-      "summary": "The EU Commission is classifying ChatGPT as a very large search engine under the Digital Services Act for the first time, with at least 45 million monthly EU users. By the end of 2026, OpenAI has to deliver risk assessments, transparency reports, and an ad archive, among other th",
-      "date": "2026-08-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI starts charging some customers only when its AI actually works",
-      "summary": "OpenAI is offering some large customers outcome-based pricing, where they pay only once the AI actually finishes a task. Salesforce, Adobe, and several startups are also moving away from fixed subscription fees. The central dispute stays the same. Who gets credit for the success,",
-      "date": "2026-08-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "A milestone in expanding access to AI",
       "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
       "date": "2026-08-31",
@@ -682,46 +752,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/29/hy4/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thi",
-      "date": "2026-08-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "date": "2026-08-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-      "date": "2026-08-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "date": "2026-08-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
     },
     {
       "category": "model",
@@ -1422,36 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Mojo🔥 is now open source",
-      "summary": "<p><strong><a href=\"https://www.modular.com/blog/mojo-open-source\">Mojo🔥 is now open source</a></strong></p> The Mojo programming language has been promising an open source release <a href=\"https://simonwillison.net/2023/May/4/mojo/\">since May 2023</a>. Last week they <a href=\"h",
-      "date": "2026-08-18",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "date": "2026-08-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/partnering-with-codeai"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "date": "2026-08-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T08:36:10.484Z",
+  "updated": "2026-09-01T14:07:46.797Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,36 @@
   "items": [
     {
       "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google's election AI Overviews are opaque, rely on few sources, and sometimes take sides",
+      "summary": "Using access granted under the EU's Digital Services Act, the German advocacy group AlgorithmWatch ran 4,480 election-related search queries on Google and analyzed the AI Overviews that came back. Google showed the overviews inconsistently and leaned on a small pool of sources, c",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Runway's Solaris is an AI system that generates software interfaces in real time",
+      "summary": "AI company Runway has unveiled Solaris, the first model in a new category it calls \"Interface World Models.\" Instead of running code, the system generates the user interface frame by frame as you interact with it. The article Runway's Solaris is an AI system that generates softwa",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google's AI search dropped its emergency-call advice over nationalities but still flags people from Facebook",
+      "summary": "\"Please get to a safe place or call emergency services\": That's the advice Google's AI search gave users who typed that they were alone with an African, Indian, or Pakistani. The article Google's AI search dropped its emergency-call advice over nationalities but still flags peopl",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
       "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
@@ -282,16 +312,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/openclaw-2-0-brings-simplified-setup-a-rebuilt-browser-app-and-multiplayer-sessions/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents",
-      "summary": "According to The Information, OpenAI has purchased tens of thousands of Mac minis and Mac Studios to train computer agents. Anthropic also relies on Apple hardware. Demand is so high that the most powerful models have been sold out for months. Apple’s Mac revenue rose by nearly 2",
-      "date": "2026-08-31",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/"
     },
     {
       "category": "product",
@@ -502,26 +522,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce",
-      "summary": "An analysis of Glassdoor reviews shows that positive AI comments have dropped from 81 to 43 percent since 2019. Executives rate AI mostly positive, while insurance claims workers rate it almost entirely negative. Fear of job loss is just one complaint among many. Forced adoption,",
-      "date": "2026-08-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "AI agents have no sense of time and are not aware of it",
-      "summary": "AI coding assistants like Claude Code and Codex have no sense of time, according to a new study. Both systematically overestimate how long tasks will take. Codex is off by as much as ten times the actual duration. They also rate their own work about 20 percentage points too high.",
-      "date": "2026-08-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/"
     },
     {
       "category": "industry",

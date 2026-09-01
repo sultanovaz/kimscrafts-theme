@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-01T00:36:07.287Z",
+  "updated": "2026-09-01T08:36:10.484Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 164
+    "fresh": 165
   },
   "ranking": [
     {
@@ -464,6 +464,16 @@
       "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "date": "2026-08-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
@@ -906,22 +916,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/learning-never-stops"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "date": "2026-08-26",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/learning-never-stops"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/multi-vector-encoder"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-      "summary": "<p><strong><a href=\"https://artificialanalysis.ai/models/qwen3-8-27b\">Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</a></strong></p> That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that G",
-      "date": "2026-08-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
     }
   ]
 }

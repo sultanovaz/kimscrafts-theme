@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-02T04:29:31.001Z",
+  "updated": "2026-09-02T11:14:33.630Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 172
+    "fresh": 171
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent",
+      "summary": "Google is adding agent-based video analysis to Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite. Instead of scanning videos frame by frame at a fixed rate, the model decides on its own which segments to examine and at what resolution. Google says this cuts token usage by up to 88 ",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting Rick Brewster",
+      "summary": "<blockquote cite=\"https://forums.paint.net/topic/134563-🍷-extremely-experimental-winelinux-support-how-to-get-started/\"><p>Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't ju",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/"
+    },
+    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "Claude Fable 5.1 made me a really nice animated pelican",
@@ -262,6 +282,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-mcp 0.2",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.2\">datasette-mcp 0.2</a></p> <blockquote> <ul> <li><code>\"rows\"</code> from <code>execute_sql</code> is now an array of objects. Previously it was an array of arrays. This should help ",
+      "date": "2026-09-01",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/"
     },
     {
       "category": "model",
@@ -592,16 +622,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "China's CXMT makes its first HBM3E chips, closing the AI memory gap",
-      "summary": "China's top memory maker ChangXin Memory Technologies (CXMT) is producing HBM3E for the first time in small quantities, a fast memory found in many current AI processors. The article China's CXMT makes its first HBM3E chips, closing the AI memory gap appeared first on The Decoder",
-      "date": "2026-08-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/"
     },
     {
       "category": "hardware",
@@ -1432,26 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization",
-      "date": "2026-08-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "date": "2026-08-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/replit"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-02T11:14:33.630Z",
+  "updated": "2026-09-02T16:32:25.102Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 171
+    "fresh": 174
   },
   "ranking": [
     {
@@ -255,6 +255,66 @@
   "items": [
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "summary": "<p>Anthropic <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts/overview\">publish the system prompts</a> for their Claude consumer applications (<a href=\"https://claude.ai/\">Claude.ai</a> and the Claude mobile apps - sadly not for Claude Cowork or Claude Co",
+      "date": "2026-09-02",
+      "importance": 5,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "US military adds ChatGPT and Grok to AI platform GenAI.mil",
+      "summary": "The Pentagon is expanding its AI platform with two new models, OpenAI's ChatGPT Mil and xAI's Grok for Government. The article US military adds ChatGPT and Grok to AI platform GenAI.mil appeared first on The Decoder.",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Protests against AI data centers play into China's hands, Trump says",
+      "summary": "President Trump has pushed back hard against growing opposition to AI data centers across the US. The article Protests against AI data centers play into China's hands, Trump says appeared first on The Decoder.",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
+      "summary": "OpenAI is officially rating its upcoming Astra model as the first system with \"critical\" cyber capabilities. The company plans to keep it in check by monitoring the chain of thought. Problem is, that monitoring already counts as an unreliable mirror of a model's real decisions, a",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
+      "summary": "World Labs, co-founded by AI researcher Fei-Fei Li, has announced Atlas, a world model that generates, reconstructs, and simulates 3D scenes from just a few images. The company claims it beats specialized models by anchoring all inputs in 3D space rather than processing them as f",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent",
       "summary": "Google is adding agent-based video analysis to Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite. Instead of scanning videos frame by frame at a fixed rate, the model decides on its own which segments to examine and at what resolution. Google says this cuts token usage by up to 88 ",
@@ -262,6 +322,86 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "Proactive cyber defense for governments and enterprises",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "summary": "Wonderful's $550M Series C was led by Insight Partners, with Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards and Bessemer participating.",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "summary": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
     },
     {
       "category": "model",
@@ -425,16 +565,6 @@
     },
     {
       "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google's AI search dropped its emergency-call advice over nationalities but still flags people from Facebook",
-      "summary": "\"Please get to a safe place or call emergency services\": That's the advice Google's AI search gave users who typed that they were alone with an African, Indian, or Pakistani. The article Google's AI search dropped its emergency-call advice over nationalities but still flags peopl",
-      "date": "2026-09-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "summary": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -574,16 +704,6 @@
       "url": "https://huggingface.co/blog/webgpu-kernels"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
-      "summary": "OpenAI's advertising business has reached an annualized revenue run rate of $1 billion, according to the company. The article OpenAI says its ChatGPT ad business hits a $1 billion annual run rate appeared first on The Decoder.",
-      "date": "2026-08-31",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Introducing wrapture",
@@ -602,36 +722,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis",
-      "summary": "Andrew Bailey warns G20 finance ministers about inflated AI valuations, growing leverage across markets, and cyber risks from frontier AI models. Cross-investments between AI companies and hyperscalers could trigger a chain reaction if one major player stumbles. Many countries st",
-      "date": "2026-08-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Instagram admits users often can't tell AI profiles from real people",
-      "summary": "Instagram is replacing its \"AI creator\" tag with a new \"AI-generated profile\" label because users can't tell AI profiles from real people. Singularity, defined by Instagram user competence. Profiles without the label get their reach and recommendations throttled. As recently as l",
-      "date": "2026-08-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-      "date": "2026-08-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
     },
     {
       "category": "industry",
@@ -685,16 +775,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-      "date": "2026-08-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
       "summary": "Explosive growth comes with a new regulatory burden in the European Union.",
@@ -702,16 +782,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-      "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
-      "date": "2026-08-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
     },
     {
       "category": "industry",
@@ -744,16 +814,6 @@
       "url": "https://openai.com/index/polimill"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-      "date": "2026-08-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Understanding ChatGPT Work",
@@ -762,26 +822,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gon",
-      "date": "2026-08-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "date": "2026-08-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
     },
     {
       "category": "industry",
@@ -1412,46 +1452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "date": "2026-08-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/stampli"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "summary": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "date": "2026-08-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Introducing Intelligence Age",
-      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "date": "2026-08-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-intelligence-age"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "date": "2026-08-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
     }
   ]
 }

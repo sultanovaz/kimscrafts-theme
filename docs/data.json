@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T21:00:44.616Z",
+  "updated": "2026-09-02T23:17:59.178Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -374,6 +374,36 @@
       "url": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
@@ -492,6 +522,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/atv-big-air-tour"
     },
     {
       "category": "model",
@@ -702,36 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-      "date": "2026-09-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/"
-    },
-    {
-      "category": "research",
-      "lab": "AI",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-      "date": "2026-09-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Fambot introduces an ‘AI chief of staff’ for families",
-      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-      "date": "2026-09-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
     },
     {
       "category": "research",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/asr-benchmark-optimization"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "ChatGPT search now uses the site:operator at scale",
-      "summary": "<p><strong><a href=\"https://promptwatch.com/data/chatgpt-site-operator-fanouts\">ChatGPT search now uses the site:operator at scale</a></strong></p> Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies of",
-      "date": "2026-08-20",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/"
     }
   ]
 }

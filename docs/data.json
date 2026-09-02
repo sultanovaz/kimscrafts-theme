@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T16:32:25.102Z",
+  "updated": "2026-09-02T21:00:44.616Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,56 @@
       "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
+      "summary": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office. Its director was fired by the Trump administrati",
+      "date": "2026-09-02",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "llm-gemini 0.34",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.34\">llm-gemini 0.34</a></p> <blockquote> <ul> <li>New model <code>gemini-3.8-flash</code> for <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3",
+      "date": "2026-09-02",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
+      "summary": "Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost. But its \"working harder\" reasoning burns about 30 percent more output tokens per task, making it pricier in practice than its predecessor despite ",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -324,6 +374,46 @@
       "url": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to fig",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to fig",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "date": "2026-09-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
+    },
+    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Proactive cyber defense for governments and enterprises",
@@ -337,7 +427,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "summary": "Wonderful's $550M Series C was led by Insight Partners, with Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards and Bessemer participating.",
+      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
       "date": "2026-09-02",
       "importance": 2,
       "tags": [],
@@ -545,26 +635,6 @@
     },
     {
       "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google's election AI Overviews are opaque, rely on few sources, and sometimes take sides",
-      "summary": "Using access granted under the EU's Digital Services Act, the German advocacy group AlgorithmWatch ran 4,480 election-related search queries on Google and analyzed the AI Overviews that came back. Google showed the overviews inconsistently and leaned on a small pool of sources, c",
-      "date": "2026-09-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Runway's Solaris is an AI system that generates software interfaces in real time",
-      "summary": "AI company Runway has unveiled Solaris, the first model in a new category it calls \"Interface World Models.\" Instead of running code, the system generates the user interface frame by frame as you interact with it. The article Runway's Solaris is an AI system that generates softwa",
-      "date": "2026-09-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "summary": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -685,16 +755,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "date": "2026-09-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "summary": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
@@ -732,36 +792,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "date": "2026-08-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "date": "2026-08-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "date": "2026-08-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
     },
     {
       "category": "industry",
@@ -1214,16 +1244,6 @@
       "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Apple's new desktop computers are designed specifically for local AI development",
-      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
-      "date": "2026-08-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
-    },
-    {
       "category": "model",
       "lab": "Hugging Face",
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
@@ -1282,16 +1302,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
-      "date": "2026-08-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
-      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/bun-webview-json-api#readme\">A shot-scraper-style JSON API on Bun 1.4&#x27;s new Bun.WebView</a></p> <p>Today saw the long awaited <a href=\"https://bun.com/blog/bun-v1.4\">release of Bun 1.4</a>, t",
-      "date": "2026-08-20",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/"
     }
   ]
 }

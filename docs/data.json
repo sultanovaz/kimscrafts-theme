@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T23:17:05.611Z",
+  "updated": "2026-09-02T04:29:31.001Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "summary": "<p>Today is <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\">Claude Fable (and Mythos) 5.1 day</a>. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of ",
+      "date": "2026-09-01",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
@@ -276,7 +286,7 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
       "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
       "date": "2026-09-01",
       "importance": 3,
@@ -322,6 +332,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "GeoJSON Map Viewer",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/geojson\">GeoJSON Map Viewer</a></p> <p>I was helping Natalie gather some maps of local political boundaries (for the <a href=\"https://granada.ca.gov\">Granada Community Services District</a> and the <a href=\"https:",
+      "date": "2026-09-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/1/geojson/"
     },
     {
       "category": "product",
@@ -492,6 +512,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "date": "2026-09-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/gilbert-tobin"
     },
     {
       "category": "industry",
@@ -1016,22 +1046,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Learning never stops: How AI makes learning continuous",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "date": "2026-08-26",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/learning-never-stops"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     },
     {
       "category": "industry",
@@ -1422,36 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/replit"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
-      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/smolmachines-untrusted-sandbox#readme\">smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</a></p> <p>I tasked Claude Fable 5 running in Claude Code for web with the following",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Quoting Jeremy Morrell",
-      "summary": "<blockquote cite=\"https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/\"><p>My hypothesis is that <strong>there is a new opportunity for Extensible Software on the web</strong>. LLMs radically lower the cost of authoring extensions, and modern sandbox primitives ",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Conceptual integrity and counting lines of code",
-      "summary": "<p>Last week I recorded <a href=\"https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison\">an episode of the Talking Postgres podcast</a> with Claire Giordano on the subject of \"How AI is changing software development\". We had a really grea",
-      "date": "2026-08-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
     }
   ]
 }

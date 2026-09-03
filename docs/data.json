@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-03T04:20:16.805Z",
+  "updated": "2026-09-03T11:10:21.582Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 173
+    "fresh": 175
   },
   "ranking": [
     {
@@ -253,6 +253,36 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal",
+      "summary": "Anthropic has signed a $35 billion cloud computing deal with Lambda, an Nvidia-backed cloud provider. The article Anthropic ramps up Claude infrastructure with $35 billion Lambda deal appeared first on The Decoder.",
+      "date": "2026-09-03",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "Give Your Coding Agents a Memory You Own",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/funes"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "summary": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/train-to-paint-with-code"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -652,16 +682,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
-      "summary": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though. The article Google Deepmind's new chief s",
-      "date": "2026-09-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/"
     },
     {
       "category": "model",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/21/matt-webb/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "summary": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "date": "2026-08-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/pwc-search"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Hugging Face",
-      "title": "Measuring benchmark optimization in speech recognition",
-      "summary": "Measuring benchmark optimization in speech recognition",
-      "date": "2026-08-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization"
     }
   ]
 }

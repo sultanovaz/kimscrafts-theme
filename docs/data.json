@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-03T21:00:12.158Z",
+  "updated": "2026-09-03T23:15:54.792Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 175
+    "fresh": 176
   },
   "ranking": [
     {
@@ -482,6 +482,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
     },
     {
       "category": "model",
@@ -1216,22 +1226,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Learning never stops: How AI makes learning continuous",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "date": "2026-08-26",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/learning-never-stops"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/21/llm/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "llm-openrouter 0.7",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openrouter/releases/tag/0.7\">llm-openrouter 0.7</a></p> <p>Now that this plugin is compatible with <a href=\"https://simonwillison.net/2026/Aug/4/new-release-of-llm/\">LLM 0.32</a> it can display the reasoning trac",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/"
     }
   ]
 }

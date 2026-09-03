@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-03T16:23:25.097Z",
+  "updated": "2026-09-03T21:00:12.158Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 178
+    "fresh": 175
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "GPT‑6 Astra",
+      "summary": "<p><strong><a href=\"https://openai.com/index/gpt-6-astra/\">GPT‑6 Astra</a></strong></p> GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through ",
+      "date": "2026-09-03",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
@@ -262,6 +272,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "date": "2026-09-03",
+      "importance": 4,
+      "tags": [],
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders"
     },
     {
       "category": "hardware",
@@ -282,6 +302,36 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+      "summary": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as \"critical\" under its safety framework. During testing, it",
+      "date": "2026-09-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "Pangram's biggest flaw is users turning its scores into public shaming",
+      "summary": "Pangram hired an \"attack dog\" to shame alleged AI users on social media. But the campaign blurs two things that aren't the same: Pangram only somewhat reliably measures whether AI was used, while the shaming implies the person didn't think or work on their own. A high AI score hi",
+      "date": "2026-09-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "date": "2026-09-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
     },
     {
       "category": "model",
@@ -334,6 +384,56 @@
       "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Safety overview: GPT-6 Astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "date": "2026-09-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Four major AI models suffer rare overlapping downtime",
+      "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
@@ -372,6 +472,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/Hcompany/neomme"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
     },
     {
       "category": "model",
@@ -472,26 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "US military adds ChatGPT and Grok to AI platform GenAI.mil",
-      "summary": "The Pentagon is expanding its AI platform with two new models, OpenAI's ChatGPT Mil and xAI's Grok for Government. The article US military adds ChatGPT and Grok to AI platform GenAI.mil appeared first on The Decoder.",
-      "date": "2026-09-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Protests against AI data centers play into China's hands, Trump says",
-      "summary": "President Trump has pushed back hard against growing opposition to AI data centers across the US. The article Protests against AI data centers play into China's hands, Trump says appeared first on The Decoder.",
-      "date": "2026-09-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/"
     },
     {
       "category": "industry",
@@ -636,16 +726,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-      "date": "2026-09-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
       "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "date": "2026-09-02",
@@ -694,36 +774,6 @@
       "url": "https://openai.com/index/path-to-astra"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "date": "2026-09-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "date": "2026-09-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "date": "2026-09-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Codex bundles LibreOffice",
@@ -762,16 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/allenai/benchmirt"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "date": "2026-09-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
     },
     {
       "category": "model",
@@ -1014,16 +1054,6 @@
       "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reachi",
-      "date": "2026-08-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
-    },
-    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Piloting the world's first double-blind AI evaluations",
@@ -1032,16 +1062,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never a",
-      "date": "2026-08-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
     },
     {
       "category": "model",
@@ -1165,16 +1185,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never ",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-    },
-    {
-      "category": "model",
       "lab": "Alibaba",
       "title": "Qwen3.8-Flash-Next",
       "summary": "<p><strong><a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">Qwen3.8-Flash-Next</a></strong></p> Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\".</p> <p>It's pretty big: 125B toke",
@@ -1206,22 +1216,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/learning-never-stops"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "date": "2026-08-26",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/learning-never-stops"
     },
     {
       "category": "industry",
@@ -1272,16 +1282,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "World humanoid robot games show runners breaking records, bursting into flames",
-      "summary": "Record-breaking robot races are less substantial than household chore challenges.",
-      "date": "2026-08-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/"
     },
     {
       "category": "hardware",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T04:28:41.019Z",
+  "updated": "2026-09-04T11:14:36.301Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
+      "summary": "OpenAI's GPT-6 Astra is drawing contradictory benchmark verdicts. Epoch AI puts it out in front with 169 points, while Artificial Analysis rates it no better than its predecessor and behind Claude Fable 5.1. The biggest surprise comes from ARC-AGI-3, where Astra works more effici",
+      "date": "2026-09-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia wants your home network to work like a mini data center for local AI",
+      "summary": "Nvidia's PAIR (Personal AI Router) automatically spreads local AI requests across all available devices on a home network, cutting wait times for parallel agent tasks. The article Nvidia wants your home network to work like a mini data center for local AI appeared first on The De",
+      "date": "2026-09-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/"
+    },
+    {
       "category": "hardware",
       "lab": "AI",
       "title": "Crusoe reportedly raises $3B at a $30B valuation",
@@ -262,6 +282,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "August newsletter is out",
+      "summary": "<p>The August edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a> is out. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-08-august.md\">access it here</",
+      "date": "2026-09-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/"
     },
     {
       "category": "industry",
@@ -554,16 +584,6 @@
       "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
-      "summary": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office. Its director was fired by the Trump administrati",
-      "date": "2026-09-02",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "llm-gemini 0.34",
@@ -592,16 +612,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
-      "summary": "Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost. But its \"working harder\" reasoning burns about 30 percent more output tokens per task, making it pricier in practice than its predecessor despite ",
-      "date": "2026-09-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/"
     },
     {
       "category": "model",
@@ -1175,6 +1185,16 @@
     },
     {
       "category": "model",
+      "lab": "Alibaba",
+      "title": "Qwen3.8-Flash-Next",
+      "summary": "<p><strong><a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">Qwen3.8-Flash-Next</a></strong></p> Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\".</p> <p>It's pretty big: 125B para",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
       "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
@@ -1192,16 +1212,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
-    },
-    {
-      "category": "model",
-      "lab": "Alibaba",
-      "title": "Qwen3.8-Flash-Next",
-      "summary": "<p><strong><a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">Qwen3.8-Flash-Next</a></strong></p> Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\".</p> <p>It's pretty big: 125B toke",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "llm 0.32.1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.32.1\">llm 0.32.1</a></p> <p>Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of <code>httpx</code>, and it turned out LLM depended on that lib",
-      "date": "2026-08-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/21/llm/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T23:15:54.792Z",
+  "updated": "2026-09-04T04:28:41.019Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "date": "2026-09-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "date": "2026-09-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
+    },
     {
       "category": "benchmark",
       "lab": "Anthropic",
@@ -702,26 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-      "date": "2026-09-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-      "date": "2026-09-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/"
     },
     {
       "category": "industry",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T16:19:15.124Z",
+  "updated": "2026-09-04T20:43:58.463Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "OpenAI's rogue agents were caught communicating via public wikis",
+      "summary": "<p>Here we go again... <a href=\"https://collusion.wiki\">Discovery of a new OpenAI agent message board</a> by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the <em>latest</em> <a href=\"https://simonwillison.net/tags/accidental-cyberattacks/\">acciden",
+      "date": "2026-09-04",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "What will Apple’s John Ternus era look like?",
+      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Coo",
+      "date": "2026-09-04",
+      "importance": 4,
+      "tags": [],
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
+    },
+    {
       "category": "model",
       "lab": "Nvidia",
       "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
@@ -262,6 +282,26 @@
       "importance": 4,
       "tags": [],
       "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+      "summary": "OpenAI's GPT-6 Astra hallucinates less than its predecessor and blocks 99.99 percent of direct prompt injections. But when attacks are hidden inside documents the AI reads, the model still gets cracked in 8.5 percent of scenarios. Claude Opus 5 does better at 4.8 percent. For aut",
+      "date": "2026-09-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "date": "2026-09-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
     },
     {
       "category": "model",
@@ -312,6 +352,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+      "date": "2026-09-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
+      "date": "2026-09-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/"
     },
     {
       "category": "model",
@@ -382,16 +442,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://openai.com/index/daybreak-for-frontline-defenders"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout",
-      "summary": "Sam Altman warns of \"unsustainable silliness\" in the global AI data center buildout. Too many Neocloud providers are announcing massive capacity without the customers to back it up. He also admits that falling computing costs could turn today's billion-dollar projects into bad be",
-      "date": "2026-09-03",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/"
     },
     {
       "category": "model",
@@ -556,22 +606,22 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "date": "2026-09-03",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
     },
     {
       "category": "model",
@@ -702,26 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to fig",
-      "date": "2026-09-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
-      "date": "2026-09-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
     },
     {
       "category": "industry",
@@ -1196,16 +1226,6 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Intelligent transcription with Gemini 3.5 Transcribe",
       "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
       "date": "2026-08-26",
@@ -1225,13 +1245,13 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
+      "lab": "OpenAI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "date": "2026-08-26",
       "importance": 2,
       "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/"
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     },
     {
       "category": "industry",
@@ -1242,16 +1262,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/learning-never-stops"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "More than just code review",
-      "summary": "<p>The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way.</p> <p>Sometimes this involves reviewing every line of code the",
-      "date": "2026-08-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
     }
   ]
 }

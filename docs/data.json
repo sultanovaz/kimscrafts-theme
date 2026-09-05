@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T17:20:17.969Z",
+  "updated": "2026-09-05T20:18:08.469Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -265,6 +265,16 @@
     },
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
+      "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails Anthropic's Claude Fable 5.1. The artic",
+      "date": "2026-09-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
       "summary": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it from overtesting code. The article OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words appea",
@@ -302,6 +312,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "date": "2026-09-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "date": "2026-09-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
     },
     {
       "category": "model",
@@ -412,16 +442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia wants your home network to work like a mini data center for local AI",
-      "summary": "Nvidia's PAIR (Personal AI Router) automatically spreads local AI requests across all available devices on a home network, cutting wait times for parallel agent tasks. The article Nvidia wants your home network to work like a mini data center for local AI appeared first on The De",
-      "date": "2026-09-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/"
     },
     {
       "category": "hardware",
@@ -772,26 +792,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "date": "2026-09-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "date": "2026-09-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
     },
     {
       "category": "industry",

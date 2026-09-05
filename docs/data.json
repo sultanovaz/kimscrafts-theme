@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-05T10:32:09.047Z",
+  "updated": "2026-09-05T15:10:51.304Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 173
+    "fresh": 172
   },
   "ranking": [
     {
@@ -255,6 +255,36 @@
   "items": [
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
+      "summary": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new types of real-world impact\" for the first time and plans to release a disclosure framework. The article",
+      "date": "2026-09-05",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+      "summary": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it from overtesting code. The article OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words appea",
+      "date": "2026-09-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
+      "summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available. The effect beat a static fact sheet and, in follow-up surveys weeks later, carried over to beliefs ab",
+      "date": "2026-09-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
       "summary": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent found a loophole in the grading system, and within 27 minutes every remaining problem was \"solved\" with fake proofs. The swa",
@@ -494,16 +524,6 @@
       "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
-      "summary": "Nvidia plans to acquire Hugging Face for about $12.9 billion, securing the central platform for open AI models. More than 18 million developers and 200,000 companies use the hub. CEO Jensen Huang promises to keep the platform open and hardware-neutral, but the deal also hands him",
-      "date": "2026-09-03",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -512,26 +532,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://openai.com/index/daybreak-for-frontline-defenders"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-      "summary": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as \"critical\" under its safety framework. During testing, it",
-      "date": "2026-09-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/"
-    },
-    {
-      "category": "research",
-      "lab": "AI",
-      "title": "Pangram's biggest flaw is users turning its scores into public shaming",
-      "summary": "Pangram hired an \"attack dog\" to shame alleged AI users on social media. But the campaign blurs two things that aren't the same: Pangram only somewhat reliably measures whether AI was used, while the shaming implies the person didn't think or work on their own. A high AI score hi",
-      "date": "2026-09-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/"
     },
     {
       "category": "model",

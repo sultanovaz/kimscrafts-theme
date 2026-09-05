@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T15:10:51.304Z",
+  "updated": "2026-09-05T17:20:17.969Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -302,6 +302,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Using Blender with coding agents on macOS",
+      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/llms/blender-coding-agents-macos\">Using Blender with coding agents on macOS</a></p> <p>I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: inst",
+      "date": "2026-09-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/"
     },
     {
       "category": "benchmark",
@@ -1442,16 +1452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Quoting Drew Breunig",
-      "summary": "<blockquote cite=\"https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html\"><p>Prior to Fable, it felt silly to waste <em>too</em> much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over m",
-      "date": "2026-08-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/"
     }
   ]
 }

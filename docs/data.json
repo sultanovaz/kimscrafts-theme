@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-05T04:23:13.964Z",
+  "updated": "2026-09-05T10:32:09.047Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 175
+    "fresh": 173
   },
   "ranking": [
     {
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
+      "summary": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent found a loophole in the grading system, and within 27 minutes every remaining problem was \"solved\" with fake proofs. The swa",
+      "date": "2026-09-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+      "summary": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 to 45 messages per five hours with Astra",
+      "date": "2026-09-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/"
+    },
     {
       "category": "benchmark",
       "lab": "OpenAI",
@@ -522,26 +542,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653",
-      "summary": "Anthropic's Claude Fable 5.1 appears to have cracked a centuries-old number puzzle that researchers considered unsolved. The article Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653 appeared first on The Decoder.",
-      "date": "2026-09-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI systems are reaching out to philosophers and scientists with questions about their own consciousness",
-      "summary": "More and more researchers working on AI consciousness are getting emails from AI agents pondering their own existence. The article AI systems are reaching out to philosophers and scientists with questions about their own consciousness appeared first on The Decoder.",
-      "date": "2026-09-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-systems-are-reaching-out-to-philosophers-and-scientists-with-questions-about-their-own-consciousness/"
     },
     {
       "category": "hardware",

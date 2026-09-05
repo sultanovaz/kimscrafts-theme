@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T20:18:08.469Z",
+  "updated": "2026-09-05T22:53:14.748Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -314,6 +314,16 @@
       "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "date": "2026-09-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Hikers rescued after using Google Gemini for planning",
@@ -582,16 +592,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "date": "2026-09-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
     },
     {
       "category": "benchmark",

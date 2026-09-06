@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-06T04:35:05.068Z",
+  "updated": "2026-09-06T10:53:07.139Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 172
+    "fresh": 171
   },
   "ranking": [
     {
@@ -255,6 +255,66 @@
   "items": [
     {
       "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data",
+      "summary": "Google Research and DeepMind are releasing WeatherNext 3, a weather model that skips traditional physics simulations and learns directly from real-time satellite data. It produces hourly forecasts at up to five-kilometer resolution, five times more detailed than its predecessor. ",
+      "date": "2026-09-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
+      "summary": "OpenAI developer Thibault Sottiaux calls Astra the company's \"biggest competitive advantage\" while it wasn't publicly available. Internal use boosted productivity so much that some plans got pulled forward by six months. The article OpenAI developer claims Astra boosted productiv",
+      "date": "2026-09-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
+      "summary": "Google has released its Lyria 3.5 music model in the Gemini app and via API. The model promises more expressive vocals and richer arrangements and is also available through Flow Music, AI Studio, and Google Vids. Google says it was trained only on licensed content. The article Go",
+      "date": "2026-09-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
+      "summary": "Meta's Superintelligence Labs have released Muse Voice Transcribe, a real-time transcription model that processes speech in 80-millisecond chunks, tells speakers apart, and detects sentence boundaries. According to Artificial Analysis, it delivers the most accurate streaming tran",
+      "date": "2026-09-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
+      "summary": "Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3. The startup markets the service for offensive cybersecurity and red teaming, but journalists were able to generate malware instruction",
+      "date": "2026-09-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Zach Kehs",
+      "summary": "<blockquote cite=\"https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/#9-ref\"><p>If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can <em>always</em> get worse. There can <em>always</em> be ",
+      "date": "2026-09-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
       "summary": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new types of real-world impact\" for the first time and plans to release a disclosure framework. The article",
@@ -302,16 +362,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-      "summary": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 to 45 messages per five hours with Astra",
-      "date": "2026-09-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/"
     },
     {
       "category": "model",
@@ -414,16 +464,6 @@
       "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-      "summary": "OpenAI's GPT-6 Astra hallucinates less than its predecessor and blocks 99.99 percent of direct prompt injections. But when attacks are hidden inside documents the AI reads, the model still gets cracked in 8.5 percent of scenarios. Claude Opus 5 does better at 4.8 percent. For aut",
-      "date": "2026-09-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
@@ -432,36 +472,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia",
-      "summary": "Deepseek wants to put 160,000 Huawei Ascend-950DT chips into an Inner Mongolia data center for inference only, not training. It would be the largest known Huawei chip cluster. But production bottlenecks mean Huawei probably can't deliver for over a year. The article Deepseek plan",
-      "date": "2026-09-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits",
-      "summary": "According to an analysis by collusion.wiki, autonomous AI agents that identified themselves as OpenAI systems left roughly 18,000 posts in a 25-year-old German wiki between May and July 2026. The agents shared answers, raw data, and a trick that let them break out of their sandbo",
-      "date": "2026-09-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
-      "summary": "OpenAI's GPT-6 Astra is drawing contradictory benchmark verdicts. Epoch AI puts it out in front with 169 points, while Artificial Analysis rates it no better than its predecessor and behind Claude Fable 5.1. The biggest surprise comes from ARC-AGI-3, where Astra works more effici",
-      "date": "2026-09-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/"
     },
     {
       "category": "hardware",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/gpt-5-6-in-kiro"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Your executable is a SQLite database",
-      "summary": "<p><strong><a href=\"https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database\">Your executable is a SQLite database</a></strong></p> Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary.</p> ",
-      "date": "2026-08-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/"
     }
   ]
 }

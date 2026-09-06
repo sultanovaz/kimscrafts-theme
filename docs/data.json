@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-06T10:53:07.139Z",
+  "updated": "2026-09-06T15:26:10.057Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 171
+    "fresh": 170
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
+      "summary": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each week. Sycophantic chatbots can create a",
+      "date": "2026-09-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data",
@@ -306,6 +316,16 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "The purpose of DNS is to spread scams",
+      "summary": "<p><strong><a href=\"https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/\">The purpose of DNS is to spread scams</a></strong></p> Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for ",
+      "date": "2026-09-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "Quoting Zach Kehs",
       "summary": "<blockquote cite=\"https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/#9-ref\"><p>If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can <em>always</em> get worse. There can <em>always</em> be ",
       "date": "2026-09-06",
@@ -352,16 +372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
-      "summary": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent found a loophole in the grading system, and within 27 minutes every remaining problem was \"solved\" with fake proofs. The swa",
-      "date": "2026-09-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "date": "2026-08-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-5-6-in-kiro"
     }
   ]
 }

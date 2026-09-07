@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T22:53:02.712Z",
+  "updated": "2026-09-07T04:36:28.223Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -314,6 +314,16 @@
       "url": "https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "<p><strong><a href=\"https://openai.com/index/research-acceleration-view-inside-openai/\">Research acceleration: The view inside OpenAI</a></strong></p> Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new e",
+      "date": "2026-09-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -372,16 +382,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Research acceleration: The view inside OpenAI",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "date": "2026-09-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai"
     },
     {
       "category": "model",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-07T19:08:27.667Z",
+  "updated": "2026-09-07T23:28:55.312Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 173
+    "fresh": 174
   },
   "ranking": [
     {
@@ -265,6 +265,16 @@
     },
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Video compressor",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/video-compressor\">Video compressor</a></p> <p>I recorded a short demo video of <a href=\"https://simonwillison.net/2026/Sep/7/equal-earth/\">my Equal Earth</a> animation on my phone and wanted to publish an optimize",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
       "summary": "GPT-6 Astra beat the puzzle game Portal entirely on its own in about 24 hours, with zero human help after the initial goal was set. Developer cozyblaze published the code and docs on GitHub. His takeaway: Astra is \"the worst model we'll ever get.\" The article GPT-6 Astra beat Por",
@@ -362,6 +372,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Creepy crawlies",
+      "summary": "<p><strong><a href=\"https://people.kernel.org/monsieuricon/creepy-crawlies\">Creepy crawlies</a></strong></p> Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of <a href=\"https://git.kernel.org/\">git.kernel.org</",
+      "date": "2026-09-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Quoting Jakub Pachocki",
+      "summary": "<blockquote cite=\"https://openai.com/index/an-alien-mind/#scalable-defense\"><p>The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...]</p> <p>We will need powerful, aligne",
+      "date": "2026-09-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "date": "2026-09-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Mercator ↔ Equal Earth",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/equal-earth\">Mercator ↔ Equal Earth</a></p> <p>I got curious about the Equal Earth map projection that was recently <a href=\"https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-afr",
+      "date": "2026-09-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/"
     },
     {
       "category": "industry",
@@ -1364,16 +1414,6 @@
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Paul Dix",
-      "summary": "<blockquote cite=\"https://pauldix.com/the-end-of-programming\"><p>The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind b",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "The Hugging Face incident and the road ahead",
@@ -1404,16 +1444,6 @@
       "url": "https://huggingface.co/blog/train-multi-vector-encoder"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "EVE Online: The Move to Python 3 Begins!",
-      "summary": "<p><strong><a href=\"https://www.eveonline.com/news/view/the-move-to-python-3-begins\">EVE Online: The Move to Python 3 Begins!</a></strong></p> EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now.</p> <p>They've been running on",
-      "date": "2026-08-25",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"
-    },
-    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
@@ -1422,36 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/jalapeno-first-results"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Granite 4.2 LLMs: How They&apos;re Built",
-      "summary": "Granite 4.2 LLMs: How They&apos;re Built",
-      "date": "2026-08-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "summary": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "date": "2026-08-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "The full stack behind abundant intelligence",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "date": "2026-08-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
     }
   ]
 }

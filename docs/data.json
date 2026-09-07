@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T12:27:26.972Z",
+  "updated": "2026-09-07T19:08:27.667Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,86 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+      "summary": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast. Now Anthropic is racing to catch up, while Sam Altman warns about \"unsustainab",
+      "date": "2026-09-07",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
+      "summary": "GPT-6 Astra beat the puzzle game Portal entirely on its own in about 24 hours, with zero human help after the initial goal was set. Developer cozyblaze published the code and docs on GitHub. His takeaway: Astra is \"the worst model we'll ever get.\" The article GPT-6 Astra beat Por",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
+      "summary": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply from 73.3 percent as Gemini doubled its share and Claude grew nearly fivefold. Mobile apps and desktop clients aren't inclu",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI-designed drug appears to turn back the body's biological clock in early trial",
+      "summary": "A study in Nature Biotechnology suggests that rentosertib, a drug designed with AI by Insilico Medicine, may reverse markers of biological aging. Six independent aging clocks predicted that treated patients were biologically up to six years younger than the placebo group. The tri",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "How AI wiped out an entire industry in Nairobi",
+      "summary": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi appeared first on The Decoder.",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "At UBS, AI skills are now a condition for landing a job",
+      "summary": "Swiss banking giant UBS is making AI skills a required qualification from 2027 for graduates and interns in Global Banking and Markets, with applicants having to show in interviews how they use AI to improve outcomes and efficiency. Santander is already looking for advanced AI us",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+      "summary": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated research intern.\" But chief scientist Pachocki warns that no lab has a good enough grip on alignment and monitoring to keep ",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "New York City bans AI tools from public schools through eighth grade",
+      "summary": "New York City bans AI use in public schools through the end of middle school. The article New York City bans AI tools from public schools through eighth grade appeared first on The Decoder.",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/new-york-city-bans-ai-tools-from-public-schools-through-eighth-grade/"
+    },
+    {
       "category": "model",
       "lab": "Alibaba",
       "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
@@ -271,7 +351,7 @@
       "date": "2026-09-07",
       "importance": 3,
       "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
     },
     {
       "category": "model",
@@ -292,56 +372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data",
-      "summary": "Google Research and DeepMind are releasing WeatherNext 3, a weather model that skips traditional physics simulations and learns directly from real-time satellite data. It produces hourly forecasts at up to five-kilometer resolution, five times more detailed than its predecessor. ",
-      "date": "2026-09-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
-      "summary": "OpenAI developer Thibault Sottiaux calls Astra the company's \"biggest competitive advantage\" while it wasn't publicly available. Internal use boosted productivity so much that some plans got pulled forward by six months. The article OpenAI developer claims Astra boosted productiv",
-      "date": "2026-09-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
-      "summary": "Google has released its Lyria 3.5 music model in the Gemini app and via API. The model promises more expressive vocals and richer arrangements and is also available through Flow Music, AI Studio, and Google Vids. Google says it was trained only on licensed content. The article Go",
-      "date": "2026-09-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
-      "summary": "Meta's Superintelligence Labs have released Muse Voice Transcribe, a real-time transcription model that processes speech in 80-millisecond chunks, tells speakers apart, and detects sentence boundaries. According to Artificial Analysis, it delivers the most accurate streaming tran",
-      "date": "2026-09-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
-      "summary": "Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3. The startup markets the service for offensive cybersecurity and red teaming, but journalists were able to generate malware instruction",
-      "date": "2026-09-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/"
     },
     {
       "category": "model",
@@ -412,36 +442,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
-      "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails Anthropic's Claude Fable 5.1. The artic",
-      "date": "2026-09-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "summary": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it from overtesting code. The article OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words appea",
-      "date": "2026-09-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
-      "summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available. The effect beat a static fact sheet and, in follow-up surveys weeks later, carried over to beliefs ab",
-      "date": "2026-09-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/"
     },
     {
       "category": "model",
@@ -566,7 +566,7 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "summary": "The round is being raised just months after the robot data startup exited from stealth.",
       "date": "2026-09-04",
       "importance": 2,

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-07T04:36:28.223Z",
+  "updated": "2026-09-07T12:27:26.972Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 172
+    "fresh": 173
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Alibaba",
+      "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
+      "summary": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimensional space. Spatial awareness has to be tr",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
@@ -382,16 +412,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
-      "summary": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new types of real-world impact\" for the first time and plans to release a disclosure framework. The article",
-      "date": "2026-09-05",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/"
     },
     {
       "category": "model",
@@ -1286,16 +1306,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "date": "2026-08-27",
@@ -1336,22 +1346,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Learning never stops: How AI makes learning continuous",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "date": "2026-08-26",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/learning-never-stops"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "date": "2026-08-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-08T21:07:27.646Z",
+  "updated": "2026-09-08T23:22:36.839Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 183
+    "fresh": 182
   },
   "ranking": [
     {
@@ -265,6 +265,26 @@
     },
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "<p><strong><a href=\"https://openai.com/index/introducing-chatgpt-images-2-5/\">Introducing ChatGPT Images 2.5</a></strong></p> OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest r",
+      "date": "2026-09-08",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/"
+    },
+    {
+      "category": "model",
+      "lab": "Microsoft",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "date": "2026-09-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper",
       "summary": "Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company. The researcher tried to remove his co-author because he works at Anthropic and threatened Buckma",
@@ -354,6 +374,16 @@
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
@@ -422,16 +452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/the-work-now-within-reach"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Introducing ChatGPT Images 2.5",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "date": "2026-09-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
     },
     {
       "category": "industry",
@@ -835,26 +855,6 @@
     },
     {
       "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "date": "2026-09-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-      "date": "2026-09-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "August newsletter is out",
       "summary": "<p>The August edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a> is out. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-08-august.md\">access it here</",
@@ -946,22 +946,22 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "date": "2026-09-03",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
     },
     {
       "category": "model",
@@ -1324,16 +1324,6 @@
       "url": "https://openai.com/index/polimill"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Understanding ChatGPT Work",
-      "summary": "<p>OpenAI <a href=\"https://openai.com/index/chatgpt-for-your-most-ambitious-work/\">announced ChatGPT Work</a> on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so fa",
-      "date": "2026-08-30",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
-    },
-    {
       "category": "industry",
       "lab": "Meta",
       "title": "Inside Meta’s push to put robots to work in data centers",
@@ -1434,16 +1424,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
-      "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
@@ -1452,6 +1432,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "date": "2026-08-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil"
     }
   ]
 }

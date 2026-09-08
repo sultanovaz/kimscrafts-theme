@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-08T11:14:50.627Z",
+  "updated": "2026-09-08T16:35:58.076Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 178
   },
   "ranking": [
     {
@@ -264,6 +264,96 @@
       "url": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Patagonia has what AI data centers want, including no resistance so far",
+      "summary": "Argentina's Patagonia is drawing attention as a possible site for large AI data centers. The article Patagonia has what AI data centers want, including no resistance so far appeared first on The Decoder.",
+      "date": "2026-09-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/patagonia-has-what-ai-data-centers-want-including-no-resistance-so-far/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip",
+      "summary": "ASML has won over Samsung, TSMC, and Intel to switch to larger photomasks, which should boost the throughput of its newest EUV machines by 40 percent. Meanwhile, Huawei is orchestrating China's counter-strategy, aiming to break its dependence on the Dutch lithography technology t",
+      "date": "2026-09-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/asml-locks-in-tsmc-samsung-and-intel-while-huawei-races-to-break-its-grip/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires",
+      "summary": "Meta will no longer judge its engineers by how much they use AI tools. The article Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires appeared first on The Decoder.",
+      "date": "2026-09-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/"
+    },
+    {
+      "category": "industry",
+      "lab": "Mistral",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "date": "2026-09-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "date": "2026-09-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "summary": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "The Work Now Within Reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/the-work-now-within-reach"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+    },
+    {
       "category": "hardware",
       "lab": "Anthropic",
       "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
@@ -342,36 +432,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
-      "summary": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated research intern.\" But chief scientist Pachocki warns that no lab has a good enough grip on alignment and monitoring to keep ",
-      "date": "2026-09-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "New York City bans AI tools from public schools through eighth grade",
-      "summary": "New York City bans AI use in public schools through the end of middle school. The article New York City bans AI tools from public schools through eighth grade appeared first on The Decoder.",
-      "date": "2026-09-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/new-york-city-bans-ai-tools-from-public-schools-through-eighth-grade/"
-    },
-    {
-      "category": "model",
-      "lab": "Alibaba",
-      "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
-      "summary": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimensional space. Spatial awareness has to be tr",
-      "date": "2026-09-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/"
     },
     {
       "category": "hardware",
@@ -734,16 +794,6 @@
       "url": "https://openai.com/index/daybreak-for-frontline-defenders"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "date": "2026-09-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
@@ -795,16 +845,6 @@
     },
     {
       "category": "model",
-      "lab": "Meta",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "Four major AI models suffer rare overlapping downtime",
       "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
@@ -836,22 +876,22 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "date": "2026-09-03",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
     },
     {
       "category": "model",
@@ -1396,16 +1436,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/learning-never-stops"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "date": "2026-08-26",
@@ -1414,44 +1444,14 @@
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "The Hugging Face incident and the road ahead",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/loveholidays"
-    },
-    {
       "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "summary": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "lab": "OpenAI",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "date": "2026-08-26",
       "importance": 2,
       "tags": [],
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "date": "2026-08-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/jalapeno-first-results"
+      "url": "https://openai.com/index/learning-never-stops"
     }
   ]
 }

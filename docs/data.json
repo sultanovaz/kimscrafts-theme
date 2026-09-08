@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T04:31:30.890Z",
+  "updated": "2026-09-08T11:14:50.627Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Mistral",
+      "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals",
+      "summary": "Three years after launch, Mistral AI has closed a 3 billion euro Series D round, pushing its valuation past 21 billion euros. The article Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals appeared first on The Decoder.",
+      "date": "2026-09-08",
+      "importance": 5,
+      "tags": [],
+      "url": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/"
+    },
+    {
       "category": "hardware",
       "lab": "Anthropic",
       "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
@@ -422,16 +432,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/7/equal-earth/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
-      "summary": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each week. Sycophantic chatbots can create a",
-      "date": "2026-09-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/"
     },
     {
       "category": "model",

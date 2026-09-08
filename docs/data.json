@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T23:28:55.312Z",
+  "updated": "2026-09-08T04:31:30.890Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -262,6 +262,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "llm 0.35",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.35\">llm 0.35</a></p> <blockquote> <ul> <li>New OpenAI model: <code>gpt-6-astra</code> for <a href=\"https://openai.com/index/gpt-6-astra/\">GPT-6 Astra</a>.</li> </ul> </blockquote> <p>Tags: <a href=",
+      "date": "2026-09-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/7/llm/"
     },
     {
       "category": "model",
@@ -895,6 +905,26 @@
     },
     {
       "category": "model",
+      "lab": "AI",
+      "title": "llm-openrouter 0.7.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openrouter/releases/tag/0.7.1\">llm-openrouter 0.7.1</a></p> <blockquote> <ul> <li>Performance fix for loading OpenRouter models. Thanks, <a href=\"https://github.com/waveplate\">waveplate</a>. <a href=\"https://gith",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/2/llm-openrouter/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "llm 0.34",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.34\">llm 0.34</a></p> <p>One new feature:</p> <blockquote> <ul> <li><code>llm logs --usage</code> Markdown output now includes the response duration in milliseconds and as a human-readable duration.",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/2/llm/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
       "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
@@ -902,6 +932,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "llm-anthropic 0.28",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.28\">llm-anthropic 0.28</a></p> <p><a href=\"https://www.anthropic.com/claude/fable\">Claude Fable 5.1</a>, reasoning traces are now displayed by default for models that support them, plus a",
+      "date": "2026-09-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/2/llm-anthropic/"
     },
     {
       "category": "industry",
@@ -1195,26 +1235,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "Introducing Hy4 Preview",
-      "summary": "<p><strong><a href=\"https://hy.tencent.ai/research/hy4-preview\">Introducing Hy4 Preview</a></strong></p> New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, <a href=\"https://huggingf",
-      "date": "2026-08-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/29/hy4/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Just a rumour of a bug is enough to find a security exploit these days",
-      "summary": "<p><strong><a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\">Just a rumour of a bug is enough to find a security exploit these days</a></strong></p> Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this ",
-      "date": "2026-08-28",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "Supporting Thailand’s next generation of AI startups",
       "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
@@ -1282,16 +1302,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "summary": "<p><strong><a href=\"https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/\">Breaking Claude Code Opus 5 Auto Mode</a></strong></p> Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against p",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
     },
     {
       "category": "industry",
@@ -1372,16 +1382,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/expanding-our-presence-in-brazil"
-    },
-    {
-      "category": "model",
-      "lab": "Alibaba",
-      "title": "Qwen3.8-Flash-Next",
-      "summary": "<p><strong><a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">Qwen3.8-Flash-Next</a></strong></p> Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\".</p> <p>It's pretty big: 125B para",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"
     },
     {
       "category": "model",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-08T16:35:58.076Z",
+  "updated": "2026-09-08T21:07:27.646Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 178
+    "fresh": 183
   },
   "ranking": [
     {
@@ -264,6 +264,36 @@
       "url": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper",
+      "summary": "Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company. The researcher tried to remove his co-author because he works at Anthropic and threatened Buckma",
+      "date": "2026-09-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "date": "2026-09-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "date": "2026-09-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/codex-quantum-computing-experiments"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Patagonia has what AI data centers want, including no resistance so far",
@@ -284,6 +314,16 @@
       "url": "https://the-decoder.com/asml-locks-in-tsmc-samsung-and-intel-while-huawei-races-to-break-its-grip/"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "date": "2026-09-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
+    },
+    {
       "category": "industry",
       "lab": "Meta",
       "title": "Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires",
@@ -297,7 +337,7 @@
       "category": "industry",
       "lab": "Mistral",
       "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
       "date": "2026-09-08",
       "importance": 3,
       "tags": [],
@@ -312,6 +352,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Update to Google’s AI weather model improves forecast accuracy",
+      "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/"
     },
     {
       "category": "industry",
@@ -346,12 +426,52 @@
     {
       "category": "industry",
       "lab": "OpenAI",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/navier-stokes-solution"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/teen-development-research-grants"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
       "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
       "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "date": "2026-09-08",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/1password"
     },
     {
       "category": "hardware",
@@ -422,16 +542,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "At UBS, AI skills are now a condition for landing a job",
-      "summary": "Swiss banking giant UBS is making AI skills a required qualification from 2027 for graduates and interns in Global Banking and Markets, with applicants having to show in interviews how they use AI to improve outcomes and efficiency. Santander is already looking for advanced AI us",
-      "date": "2026-09-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/"
     },
     {
       "category": "hardware",
@@ -674,16 +784,6 @@
       "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "date": "2026-09-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -764,16 +864,6 @@
       "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "date": "2026-09-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
-    },
-    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "GPT‑6 Astra",
@@ -824,26 +914,6 @@
       "url": "https://openai.com/index/safety-overview-gpt-6-astra"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Four major AI models suffer rare overlapping downtime",
@@ -876,22 +946,22 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "date": "2026-09-03",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
     },
     {
       "category": "model",
@@ -1382,76 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "How much of a problem is AI’s water use?",
-      "summary": "AI’s water footprint is growing, but location and cooling technology make a difference.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/learning-never-stops"
     }
   ]
 }

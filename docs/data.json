@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-09T04:38:22.508Z",
+  "updated": "2026-09-09T11:18:59.871Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 178
+    "fresh": 175
   },
   "ranking": [
     {
@@ -253,6 +253,36 @@
     }
   ],
   "items": [
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat",
+      "summary": "Hugging Face launched \"ML Intern,\" an AI assistant built into its chatbot that lets users run machine learning experiments without any ML expertise. The article Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat appeared first on The D",
+      "date": "2026-09-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+      "summary": "The fight over an AI-generated proof of a millennium problem is heating up. Mathematician Tristan Buckmaster accuses OpenAI of academic fraud, CEO Sam Altman rejects the allegations. Terence Tao warns that cases like this could \"reverse centuries of tradition in open science.\" Th",
+      "date": "2026-09-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/"
+    },
     {
       "category": "research",
       "lab": "AI",
@@ -552,26 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI-designed drug appears to turn back the body's biological clock in early trial",
-      "summary": "A study in Nature Biotechnology suggests that rentosertib, a drug designed with AI by Insilico Medicine, may reverse markers of biological aging. Six independent aging clocks predicted that treated patients were biologically up to six years younger than the placebo group. The tri",
-      "date": "2026-09-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "How AI wiped out an entire industry in Nairobi",
-      "summary": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi appeared first on The Decoder.",
-      "date": "2026-09-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/"
     },
     {
       "category": "hardware",
@@ -1372,16 +1382,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
-    },
-    {
-      "category": "model",
-      "lab": "Nvidia",
-      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-      "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
-      "date": "2026-08-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
     },
     {
       "category": "industry",

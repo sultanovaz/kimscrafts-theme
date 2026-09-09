@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-09T11:18:59.871Z",
+  "updated": "2026-09-09T16:36:01.944Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 175
+    "fresh": 171
   },
   "ranking": [
     {
@@ -254,6 +254,66 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Deepmind's AlphaGenome Atlas maps every possible DNA change in the human genome",
+      "summary": "Google Deepmind has used the AlphaGenome Atlas to predict what each of the roughly nine billion possible single-letter changes in the human genome could do. The dataset spans one petabyte, more than 30 times the size of the AlphaFold database. In one epilepsy case, the atlas help",
+      "date": "2026-09-09",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Hugging Face",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "summary": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "date": "2026-09-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Suno launches v6 music models built with Warner, BMG, and Believe",
+      "summary": "Suno has unveiled a new AI music model generation, v6, in three versions, built together with Warner Music Group, BMG, and Believe. All older models are being shut down. Songs can now be partially changed through text commands or generated multimodally from text, audio, and image",
+      "date": "2026-09-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
+      "summary": "Jacob Coxon, a former pretraining researcher at OpenAI and Anthropic, has quit and accuses both companies of knowingly risking human extinction. Anthropic colleague Evan Hubinger puts the odds of a misaligned superintelligent AI wiping out humanity within the next decade at more ",
+      "date": "2026-09-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips",
+      "summary": "Qualcomm is designing custom chips for AWS across multiple product generations, with a focus on AI inference. The article AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips appeared first on The Decoder.",
+      "date": "2026-09-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "ChatGPT Images 2.5: Faster, more precise, but not the same for everyone",
+      "summary": "OpenAI is releasing two new image models with ChatGPT Images 2.5. Flare handles faster generation, Sunburst delivers more precise edits. It's still unclear which model ChatGPT users get and when. Our test offers the first hints on who actually benefits from the improvements. The ",
+      "date": "2026-09-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat",
@@ -272,6 +332,106 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Superintelligence is coming. Should we let it?",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably c",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably c",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "summary": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/"
     },
     {
       "category": "industry",
@@ -302,16 +462,6 @@
       "importance": 5,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/"
-    },
-    {
-      "category": "model",
-      "lab": "Mistral",
-      "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals",
-      "summary": "Three years after launch, Mistral AI has closed a 3 billion euro Series D round, pushing its valuation past 21 billion euros. The article Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals appeared first on The Decoder.",
-      "date": "2026-09-08",
-      "importance": 5,
-      "tags": [],
-      "url": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/"
     },
     {
       "category": "model",
@@ -392,16 +542,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires",
-      "summary": "Meta will no longer judge its engineers by how much they use AI tools. The article Meta drops AI usage from engineer performance reviews after \"tokenmaxxing\" backfires appeared first on The Decoder.",
-      "date": "2026-09-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/"
     },
     {
       "category": "industry",
@@ -534,16 +674,6 @@
       "url": "https://openai.com/index/1password"
     },
     {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-      "summary": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast. Now Anthropic is racing to catch up, while Sam Altman warns about \"unsustainab",
-      "date": "2026-09-07",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "llm 0.35",
@@ -562,26 +692,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/7/video-compressor/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
-      "summary": "GPT-6 Astra beat the puzzle game Portal entirely on its own in about 24 hours, with zero human help after the initial goal was set. Developer cozyblaze published the code and docs on GitHub. His takeaway: Astra is \"the worst model we'll ever get.\" The article GPT-6 Astra beat Por",
-      "date": "2026-09-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
-      "summary": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply from 73.3 percent as Gemini doubled its share and Claude grew nearly fivefold. Mobile apps and desktop clients aren't inclu",
-      "date": "2026-09-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/"
     },
     {
       "category": "hardware",
@@ -655,26 +765,6 @@
     },
     {
       "category": "industry",
-      "lab": "Anthropic",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "date": "2026-09-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "date": "2026-09-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "The purpose of DNS is to spread scams",
       "summary": "<p><strong><a href=\"https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/\">The purpose of DNS is to spread scams</a></strong></p> Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for ",
@@ -724,36 +814,6 @@
       "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "date": "2026-09-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "date": "2026-09-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "date": "2026-09-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Using Blender with coding agents on macOS",
@@ -775,26 +835,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "What will Apple’s John Ternus era look like?",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Coo",
-      "date": "2026-09-04",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
-    },
-    {
-      "category": "model",
-      "lab": "Nvidia",
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Coo",
-      "date": "2026-09-04",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "The Pelican comparison grid for Astra is pretty interesting",
       "summary": "<p>I got access to GPT-6 Astra this afternoon, so naturally I used it to generate <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle/\">SVGs of pelicans riding bicycles</a> - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none).",
@@ -802,46 +842,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "date": "2026-09-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "date": "2026-09-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "date": "2026-09-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "date": "2026-09-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
     },
     {
       "category": "industry",
@@ -1102,16 +1102,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "summary": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "date": "2026-09-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
     },
     {
       "category": "industry",
@@ -1452,6 +1442,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "date": "2026-08-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     }
   ]
 }

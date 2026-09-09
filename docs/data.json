@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T16:36:01.944Z",
+  "updated": "2026-09-09T20:54:47.617Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,36 @@
       "url": "https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+      "date": "2026-09-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "date": "2026-09-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario",
+      "summary": "Anthropic published an economic model with three scenarios for the US economy through 2030. In the extreme scenario, output doubles every 4.5 years and knowledge worker unemployment hits 17.9 percent. CEO Dario Amodei's own warnings from May land squarely in that most extreme buc",
+      "date": "2026-09-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/"
+    },
+    {
       "category": "benchmark",
       "lab": "Hugging Face",
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
@@ -335,6 +365,86 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The hinge for Apple’s new foldable phone was built with AI",
+      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+      "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "summary": "The company also argued that its on-device models offer consumers more privacy.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+      "summary": "\"We really do earnestly believe AI could kill all humans!\"",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google's AI genome system evaluates every possible one-base change",
+      "summary": "Most one-base changes to the human genome do nothing, but a few are significant.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "Superintelligence is coming. Should we let it?",
       "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably c",
@@ -387,7 +497,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
       "date": "2026-09-09",
       "importance": 2,
       "tags": [],
@@ -397,7 +507,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
       "date": "2026-09-09",
       "importance": 2,
       "tags": [],
@@ -415,9 +525,9 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
+      "lab": "OpenAI",
       "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "summary": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle",
+      "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
       "date": "2026-09-09",
       "importance": 2,
       "tags": [],
@@ -494,16 +604,6 @@
       "url": "https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "date": "2026-09-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
@@ -522,36 +622,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/patagonia-has-what-ai-data-centers-want-including-no-resistance-so-far/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip",
-      "summary": "ASML has won over Samsung, TSMC, and Intel to switch to larger photomasks, which should boost the throughput of its newest EUV machines by 40 percent. Meanwhile, Huawei is orchestrating China's counter-strategy, aiming to break its dependence on the Dutch lithography technology t",
-      "date": "2026-09-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/asml-locks-in-tsmc-samsung-and-intel-while-huawei-races-to-break-its-grip/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-      "date": "2026-09-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
-    },
-    {
-      "category": "industry",
-      "lab": "Mistral",
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-      "date": "2026-09-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
     },
     {
       "category": "industry",
@@ -584,16 +654,6 @@
       "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
     },
     {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-      "date": "2026-09-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
-    },
-    {
       "category": "industry",
       "lab": "Meta",
       "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
@@ -612,16 +672,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "date": "2026-09-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
     },
     {
       "category": "industry",
@@ -732,16 +782,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "date": "2026-09-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
     },
     {
       "category": "model",
@@ -1354,16 +1394,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
     },
     {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-      "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
-      "date": "2026-08-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -1382,26 +1412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-      "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "date": "2026-08-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     }
   ]
 }

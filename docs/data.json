@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-08T23:22:36.839Z",
+  "updated": "2026-09-09T04:38:22.508Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 182
+    "fresh": 178
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "research",
+      "lab": "AI",
+      "title": "Quoting Terence Tao",
+      "summary": "<blockquote cite=\"https://mathstodon.xyz/@tao/117237320796901560\"><p>I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...]</p> <p>We have ",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/9/terence-tao/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "<p><strong><a href=\"https://openai.com/index/navier-stokes-solution/\">On the Navier–Stokes Millennium Prize Problem</a></strong></p> Impressive result from OpenAI, who used an unreleased model to produce a resolution to <a href=\"https://en.wikipedia.org/wiki/Navier–Stokes_existen",
+      "date": "2026-09-08",
+      "importance": 5,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/"
+    },
+    {
       "category": "model",
       "lab": "Mistral",
       "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals",
@@ -452,16 +472,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/the-work-now-within-reach"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "date": "2026-09-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/navier-stokes-solution"
     },
     {
       "category": "industry",
@@ -1244,26 +1254,6 @@
       "url": "https://huggingface.co/blog/webgpu-kernels"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Introducing wrapture",
-      "summary": "<p><strong><a href=\"https://grahamdumpleton.me/posts/2026/08/introducing-wrapture/\">Introducing wrapture</a></strong></p> New from Graham Dumpleton (of <a href=\"https://pypi.org/project/wrapt/\">wrapt</a>, mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as tak",
-      "date": "2026-08-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Quoting Andrew Digby",
-      "summary": "<blockquote cite=\"https://bsky.app/profile/digs.bsky.social/post/3mufrrsfhq22r\"><p>325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered",
-      "date": "2026-08-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "A milestone in expanding access to AI",
@@ -1452,6 +1442,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/expanding-our-presence-in-brazil"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "date": "2026-08-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
     }
   ]
 }

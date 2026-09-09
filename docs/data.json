@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-09T20:54:47.617Z",
+  "updated": "2026-09-09T23:13:06.773Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 171
+    "fresh": 172
   },
   "ranking": [
     {
@@ -365,6 +365,26 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
       "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
@@ -396,7 +416,7 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
       "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
       "date": "2026-09-09",
       "importance": 2,
@@ -554,6 +574,16 @@
       "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "date": "2026-09-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work"
+    },
+    {
       "category": "research",
       "lab": "AI",
       "title": "Quoting Terence Tao",
@@ -632,26 +662,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "date": "2026-09-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "date": "2026-09-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/expanding-our-presence-in-brazil"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-      "date": "2026-08-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
     }
   ]
 }

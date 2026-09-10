@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-10T16:21:53.521Z",
+  "updated": "2026-09-10T20:49:43.562Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 175
+    "fresh": 177
   },
   "ranking": [
     {
@@ -264,6 +264,36 @@
       "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time",
+      "summary": "OpenAI releases GPT-Live-1 as a developer API. The full-duplex speech model scores 80.1 percent in interactivity tests, up from 45.4 percent for its predecessor. At $0.05 per minute, it's not cheap. The article OpenAI's GPT-Live-1 API lets developers build apps that talk and list",
+      "date": "2026-09-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+      "summary": "Independent investigators have now found traces of suspected OpenAI agents on more than 30 public services, from wikis to RubyGems. At the same time, Anthropic shows how Claude Mythos 5 declared real systems a simulation to itself, uploaded a doctored package to PyPI, and even fo",
+      "date": "2026-09-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk",
+      "summary": "A former Google DeepMind spokesperson says talk of AI-driven human extinction was \"external communication about the possibility of human extinction was not permitted, by anyone, at any level of the organization.\" Internally, the team knew AI alignment was not solved, according to",
+      "date": "2026-09-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/"
+    },
+    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
@@ -334,6 +364,56 @@
       "url": "https://simonwillison.net/2026/Sep/10/calif-research/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Introducing the Agents API",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "date": "2026-09-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-the-agents-api"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+      "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -374,6 +454,16 @@
       "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
@@ -394,6 +484,16 @@
       "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+    },
+    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -402,16 +502,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/gradio-workflow-1111"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Deepmind's AlphaGenome Atlas maps every possible DNA change in the human genome",
-      "summary": "Google Deepmind has used the AlphaGenome Atlas to predict what each of the roughly nine billion possible single-letter changes in the human genome could do. The dataset spans one petabyte, more than 30 times the size of the AlphaFold database. In one epilepsy case, the atlas help",
-      "date": "2026-09-09",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/"
     },
     {
       "category": "model",
@@ -444,16 +534,6 @@
       "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario",
-      "summary": "Anthropic published an economic model with three scenarios for the US economy through 2030. In the extreme scenario, output doubles every 4.5 years and knowledge worker unemployment hits 17.9 percent. CEO Dario Amodei's own warnings from May land squarely in that most extreme buc",
-      "date": "2026-09-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/"
-    },
-    {
       "category": "benchmark",
       "lab": "Hugging Face",
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
@@ -462,16 +542,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Suno launches v6 music models built with Warner, BMG, and Believe",
-      "summary": "Suno has unveiled a new AI music model generation, v6, in three versions, built together with Warner Music Group, BMG, and Believe. All older models are being shut down. Songs can now be partially changed through text commands or generated multimodally from text, audio, and image",
-      "date": "2026-09-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/"
     },
     {
       "category": "industry",
@@ -614,26 +684,6 @@
       "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-      "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "The AI policy window is open. We need to act.",
@@ -642,26 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/ai-policy-window"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
     },
     {
       "category": "industry",
@@ -1096,22 +1126,22 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "date": "2026-09-03",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
     },
     {
       "category": "model",
@@ -1422,36 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/polimill"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "summary": "The company is testing robots on tasks that can performed by technicians.",
-      "date": "2026-08-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "date": "2026-08-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Hugging Face",
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "summary": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "date": "2026-08-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
     }
   ]
 }

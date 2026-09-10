@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-10T11:15:37.280Z",
+  "updated": "2026-09-10T16:21:53.521Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 173
+    "fresh": 175
   },
   "ranking": [
     {
@@ -254,6 +254,56 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+      "summary": "Deepseek releases V4.1-Flash, a multimodal model with 552 billion parameters that cuts KV cache memory to a quarter of its predecessor. On the DeepSWE coding benchmark, it narrowly beats Opus 5 and GPT-5.6 Sol, even though only 16 billion parameters are active per token. The mode",
+      "date": "2026-09-10",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+      "summary": "Arena.ai analyzed how Claude's writing changed from Fable 5 to Fable 5.1 across tens of thousands of benchmark responses. Fable 5.1 writes more matter-of-fact but also more verbose. The article Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's appeared fir",
+      "date": "2026-09-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design",
+      "summary": "OpenAI's GPT-6 Astra tops the ErdosBench for open math problems, even though chief scientist Jakub Pachocki says math was deliberately not a priority. Instead, OpenAI is pouring resources into recursive self-improvement and alignment research. That supports the theory of an incre",
+      "date": "2026-09-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Muse can shop, write emails, and negotiate prices for users, all through WhatsApp",
+      "summary": "Meta unveils Muse, an AI agent that books travel, handles purchases, and sends emails through WhatsApp, complete with a payment feature that runs through Stripe's Link. That puts Meta ahead of OpenAI, which stopped its direct checkout feature in ChatGPT. A separate security agent",
+      "date": "2026-09-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/muse-can-shop-write-emails-and-negotiate-prices-for-users-all-through-whatsapp/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation",
+      "summary": "Nvidia and Palantir want to run supply chains with AI. The article Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation appeared first on The Decoder.",
+      "date": "2026-09-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-and-palantir-team-up-to-run-supply-chains-with-ai-starting-with-nvidias-own-million-part-operation/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News",
@@ -282,6 +332,56 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/10/calif-research/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Now everyone can put data to work",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/put-data-to-work"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI agents are flooding public services with new requests",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/expanding-ai-access-us-government"
     },
     {
       "category": "industry",
@@ -372,56 +472,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
-      "summary": "Jacob Coxon, a former pretraining researcher at OpenAI and Anthropic, has quit and accuses both companies of knowingly risking human extinction. Anthropic colleague Evan Hubinger puts the odds of a misaligned superintelligent AI wiping out humanity within the next decade at more ",
-      "date": "2026-09-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips",
-      "summary": "Qualcomm is designing custom chips for AWS across multiple product generations, with a focus on AI inference. The article AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips appeared first on The Decoder.",
-      "date": "2026-09-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "ChatGPT Images 2.5: Faster, more precise, but not the same for everyone",
-      "summary": "OpenAI is releasing two new image models with ChatGPT Images 2.5. Flare handles faster generation, Sunburst delivers more precise edits. It's still unclear which model ChatGPT users get and when. Our test offers the first hints on who actually benefits from the improvements. The ",
-      "date": "2026-09-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat",
-      "summary": "Hugging Face launched \"ML Intern,\" an AI assistant built into its chatbot that lets users run machine learning experiments without any ML expertise. The article Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat appeared first on The D",
-      "date": "2026-09-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
-      "summary": "The fight over an AI-generated proof of a millennium problem is heating up. Mathematician Tristan Buckmaster accuses OpenAI of academic fraud, CEO Sam Altman rejects the allegations. Terence Tao warns that cases like this could \"reverse centuries of tradition in open science.\" Th",
-      "date": "2026-09-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/"
     },
     {
       "category": "industry",
@@ -612,26 +662,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/"
     },
     {
       "category": "industry",
@@ -1066,22 +1096,22 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "date": "2026-09-03",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
     },
     {
       "category": "model",
@@ -1422,36 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-      "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-      "date": "2026-08-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "date": "2026-08-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "summary": "Piloting the world's first double-blind AI evaluations",
-      "date": "2026-08-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
     }
   ]
 }

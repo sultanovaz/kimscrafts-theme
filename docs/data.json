@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-10T04:38:32.819Z",
+  "updated": "2026-09-10T11:15:37.280Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 173
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News",
+      "summary": "Jacob Coxon, a departing Anthropic researcher, warned on CNN that self-improving AI poses an existential threat to humanity. Safety researchers at Anthropic and OpenAI share his views, and US politicians and Joe Rogan have picked up the topic. But cultural and financial interests",
+      "date": "2026-09-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Top AI spenders cut per-employee costs by nearly 10 percent in August",
+      "summary": "The Ramp AI Index for September 2026 shows AI spending per employee among the top 1 percent of US companies fell nearly 10 percent in August. The price per million tokens has dropped 41 percent since March 2026, and companies are actively shifting usage away from expensive fronti",
+      "date": "2026-09-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/"
+    },
+    {
       "category": "research",
       "lab": "AI",
       "title": "Quoting Calif Research",
@@ -272,6 +292,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "summary": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/gradio-workflow-1111"
     },
     {
       "category": "industry",
@@ -665,16 +695,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper",
-      "summary": "Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company. The researcher tried to remove his co-author because he works at Anthropic and threatened Buckma",
-      "date": "2026-09-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
@@ -682,16 +702,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/codex-quantum-computing-experiments"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Patagonia has what AI data centers want, including no resistance so far",
-      "summary": "Argentina's Patagonia is drawing attention as a possible site for large AI data centers. The article Patagonia has what AI data centers want, including no resistance so far appeared first on The Decoder.",
-      "date": "2026-09-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/patagonia-has-what-ai-data-centers-want-including-no-resistance-so-far/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "summary": "Gemini Omni 1.1 Flash lets you build with more control",
-      "date": "2026-08-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
     }
   ]
 }

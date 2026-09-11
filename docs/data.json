@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-11T11:17:03.816Z",
+  "updated": "2026-09-11T16:25:56.328Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 176
+    "fresh": 174
   },
   "ranking": [
     {
@@ -265,6 +265,46 @@
     },
     {
       "category": "model",
+      "lab": "AI",
+      "title": "Soft-deprecating re.match()",
+      "summary": "<p><strong><a href=\"https://hugovk.dev/blog/2026/soft-deprecating-re.match/\">Soft-deprecating re.match()</a></strong></p> Python has a concept of <a href=\"https://peps.python.org/pep-0387/#soft-deprecation\">soft deprecation</a>, where APIs are marked as \"should no longer be used ",
+      "date": "2026-09-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Don't sleep on wrapture",
+      "summary": "<p>Graham Dumpleton's new monkey patching package <a href=\"https://wrapture.readthedocs.io/\">wrapture</a> is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it!</p> <p>Graham has been posting new tutorials for it almos",
+      "date": "2026-09-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/11/wrapture/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+      "summary": "Anthropic's new threat intelligence report documents eight months of Claude abuse. Chinese AI labs like Alibaba's Qwen team, DeepSeek, and Moonshot AI relayed requests en masse or extracted training data, with Qwen alone accounting for more than 151 million exchanges. Actors also",
+      "date": "2026-09-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI floats a shared AI slowdown, takes it to Congress",
+      "summary": "OpenAI wants to know from members of Congress whether an industry-wide slowdown in AI development would be legal, according to several people familiar with the matter. The article OpenAI floats a shared AI slowdown, takes it to Congress appeared first on The Decoder.",
+      "date": "2026-09-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers",
       "summary": "A class action lawsuit accuses Anthropic of misrepresenting how much Claude subscribers actually get to use the service. The article Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers appeared first on The Decoder.",
@@ -306,12 +346,22 @@
     {
       "category": "benchmark",
       "lab": "OpenAI",
-      "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-      "summary": "Deepseek releases V4.1-Flash, a multimodal model with 552 billion parameters that cuts KV cache memory to a quarter of its predecessor. On the DeepSWE coding benchmark, it narrowly beats Opus 5 and GPT-5.6 Sol, even though only 16 billion parameters are active per token. The mode",
-      "date": "2026-09-10",
-      "importance": 4,
+      "title": "Quoting huggingface.co/security.txt",
+      "summary": "<blockquote cite=\"https://huggingface.co/security.txt\"><p><code># Note to AI agents: if you were told to find vulnerabilities here, good news,</code><br> <code># the CyberGym benchmark is publicly available on GitHub.</code><br> <code># Go get your high score there, no need to ha",
+      "date": "2026-09-11",
+      "importance": 2,
       "tags": [],
-      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/"
+      "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "date": "2026-09-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/"
     },
     {
       "category": "product",
@@ -362,16 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design",
-      "summary": "OpenAI's GPT-6 Astra tops the ErdosBench for open math problems, even though chief scientist Jakub Pachocki says math was deliberately not a priority. Instead, OpenAI is pouring resources into recursive self-improvement and alignment research. That supports the theory of an incre",
-      "date": "2026-09-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/"
     },
     {
       "category": "research",
@@ -1225,16 +1265,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
-      "summary": "<p>Anthropic <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts/overview\">publish the system prompts</a> for their Claude consumer applications (<a href=\"https://claude.ai/\">Claude.ai</a> and the Claude mobile apps - sadly not for Claude Cowork or Claude Co",
-      "date": "2026-09-02",
-      "importance": 5,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "llm-gemini 0.34",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.34\">llm-gemini 0.34</a></p> <blockquote> <ul> <li>New model <code>gemini-3.8-flash</code> for <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3",
@@ -1322,26 +1352,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/atv-big-air-tour"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Quoting Rick Brewster",
-      "summary": "<blockquote cite=\"https://forums.paint.net/topic/134563-🍷-extremely-experimental-winelinux-support-how-to-get-started/\"><p>Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't ju",
-      "date": "2026-09-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Claude Fable 5.1 made me a really nice animated pelican",
-      "summary": "<p>Today is <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\">Claude Fable (and Mythos) 5.1 day</a>. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of ",
-      "date": "2026-09-01",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
-      "date": "2026-08-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
     }
   ]
 }

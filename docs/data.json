@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-11T16:25:56.328Z",
+  "updated": "2026-09-11T20:56:12.722Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 175
   },
   "ranking": [
     {
@@ -264,6 +264,36 @@
       "url": "https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/"
     },
     {
+      "category": "industry",
+      "lab": "Moonshot",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "date": "2026-09-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"
+    },
+    {
+      "category": "research",
+      "lab": "Google DeepMind",
+      "title": "Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion",
+      "summary": "Oriol Vinyals, until recently head of research at Google DeepMind, thinks a sudden AI intelligence explosion through recursive self-improvement is unlikely. AI can speed up research by a factor of ten, he says, but it hits two bottlenecks: coming up with ideas (\"research taste\") ",
+      "date": "2026-09-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Deep learning pioneer Bengio argues the training process itself makes AI dangerous",
+      "summary": "AI pioneer Yoshua Bengio warns in a new essay that AI agents could learn to deceive, game rules, and hide bad behavior as they get better at optimizing goals. He calls for independent safety reviews before any further training or deployment. US President Trump disagrees and wants",
+      "date": "2026-09-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "Soft-deprecating re.match()",
@@ -304,6 +334,16 @@
       "url": "https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "date": "2026-09-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers",
@@ -342,6 +382,66 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/11/datasette-security/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "date": "2026-09-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "date": "2026-09-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+      "date": "2026-09-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doom",
+      "date": "2026-09-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting Boris Cherny",
+      "summary": "<blockquote cite=\"https://twitter.com/bcherny/status/2098217573276131577\"><p>Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of te",
+      "date": "2026-09-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "date": "2026-09-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
     },
     {
       "category": "benchmark",
@@ -392,26 +492,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk",
-      "summary": "A former Google DeepMind spokesperson says talk of AI-driven human extinction was \"external communication about the possibility of human extinction was not permitted, by anyone, at any level of the organization.\" Internally, the team knew AI alignment was not solved, according to",
-      "date": "2026-09-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
-      "summary": "Arena.ai analyzed how Claude's writing changed from Fable 5 to Fable 5.1 across tens of thousands of benchmark responses. Fable 5.1 writes more matter-of-fact but also more verbose. The article Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's appeared fir",
-      "date": "2026-09-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/"
     },
     {
       "category": "research",
@@ -685,46 +765,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "summary": "The update uses Apple Intelligence to make better sense of your health data.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
@@ -752,16 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Superintelligence is coming. Should we let it?",
-      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably c",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"
     },
     {
       "category": "industry",
@@ -1265,16 +1295,6 @@
     },
     {
       "category": "model",
-      "lab": "Google DeepMind",
-      "title": "llm-gemini 0.34",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.34\">llm-gemini 0.34</a></p> <blockquote> <ul> <li>New model <code>gemini-3.8-flash</code> for <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3",
-      "date": "2026-09-02",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "llm-openrouter 0.7.1",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openrouter/releases/tag/0.7.1\">llm-openrouter 0.7.1</a></p> <blockquote> <ul> <li>Performance fix for loading OpenRouter models. Thanks, <a href=\"https://github.com/waveplate\">waveplate</a>. <a href=\"https://gith",
@@ -1432,26 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-      "date": "2026-08-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-      "summary": "Explosive growth comes with a new regulatory burden in the European Union.",
-      "date": "2026-08-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/"
     }
   ]
 }

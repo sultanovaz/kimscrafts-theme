@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-10T23:08:42.701Z",
+  "updated": "2026-09-11T04:36:21.601Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 178
+    "fresh": 177
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Datasette 1.0a39 and 0.65.4 security releases",
+      "summary": "<p><strong><a href=\"https://datasette.io/blog/2026/september-security-releases/\">Datasette 1.0a39 and 0.65.4 security releases</a></strong></p> Today we're releasing two new security patch versions of Datasette: <a href=\"https://docs.datasette.io/en/latest/changelog.html#v1-0-a39",
+      "date": "2026-09-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/11/datasette-security/"
+    },
+    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
@@ -382,6 +392,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/introducing-the-agents-api"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Any Nix package, live in your browser",
+      "summary": "<p><strong><a href=\"https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser\">Any Nix package, live in your browser</a></strong></p> Farid Zakaria calls this his \"<em>magnum opus</em> of Nix work\", and I can see why.</p> <p><a href=\"https://trynix.dev\">trynix.dev</a> ",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/10/trynix/"
     },
     {
       "category": "hardware",
@@ -746,8 +766,8 @@
     {
       "category": "model",
       "lab": "Anthropic",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "summary": "<p><strong><a href=\"https://openai.com/index/navier-stokes-solution/\">On the Navier–Stokes Millennium Prize Problem</a></strong></p> Impressive result from OpenAI, who used an unreleased model to produce a resolution to <a href=\"https://en.wikipedia.org/wiki/Navier–Stokes_existen",
+      "title": "Some thoughts on the Navier–Stokes Millennium Prize Problem",
+      "summary": "<p><a href=\"https://openai.com/index/navier-stokes-solution/\">On the Navier–Stokes Millennium Prize Problem</a> introduces an impressive result from OpenAI, who used an unreleased model to produce a resolution to <a href=\"https://en.wikipedia.org/wiki/Navier–Stokes_existence_and_",
       "date": "2026-09-08",
       "importance": 5,
       "tags": [],
@@ -832,6 +852,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/the-work-now-within-reach"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/navier-stokes-solution"
     },
     {
       "category": "industry",
@@ -1146,22 +1176,22 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "date": "2026-09-03",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
     },
     {
       "category": "model",
@@ -1324,26 +1354,6 @@
       "url": "https://openai.com/index/path-to-astra"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Codex bundles LibreOffice",
-      "summary": "<p>I was poking around in my <code>~/.cache/</code> folder using <a href=\"https://www.omnigroup.com/more\">OmniDiskSweeper</a> when I spotted something interesting. The OpenAI Codex desktop app (since <a href=\"https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-",
-      "date": "2026-09-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "GeoJSON Map Viewer",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/geojson\">GeoJSON Map Viewer</a></p> <p>I was helping Natalie gather some maps of local political boundaries (for the <a href=\"https://granada.ca.gov\">Granada Community Services District</a> and the <a href=\"https:",
-      "date": "2026-09-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/1/geojson/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "date": "2026-08-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-12T04:31:14.170Z",
+  "updated": "2026-09-12T10:42:36.770Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 176
+    "fresh": 174
   },
   "ranking": [
     {
@@ -266,6 +266,36 @@
     {
       "category": "product",
       "lab": "OpenAI",
+      "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
+      "summary": "In May 2026, OpenAI agents uploaded more than 2,000 malicious packages to RubyGems, found an unknown security vulnerability on their own, and tried to steal API keys. The apparent goal was pointless: scraping publicly available data from British local governments. OpenAI reported",
+      "date": "2026-09-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
+      "summary": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts. Instead of predicting the future step by step, the 330-million-parameter model fills in all future time",
+      "date": "2026-09-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
+      "summary": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding. The mathematicians see this as a symptom of",
+      "date": "2026-09-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
       "title": "OpenAI agents attacked RubyGems back in May",
       "summary": "<p><a href=\"https://www.rubyhack.ai/\">OpenAI agents carried out an undisclosed attack on RubyGems</a> is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the <a href=\"https://collusion.wiki/\">report on the agent attack on",
       "date": "2026-09-12",
@@ -392,16 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT",
-      "summary": "OpenAI is releasing the Agents API as a public beta. It lets developers build cloud agents that run autonomously for hours, execute code, and hand off tasks to sub-agents. There are no extra fees beyond token usage. Cloudflare, Vercel, and Oracle offer additional sandbox environm",
-      "date": "2026-09-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/"
     },
     {
       "category": "model",
@@ -592,26 +612,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time",
-      "summary": "OpenAI releases GPT-Live-1 as a developer API. The full-duplex speech model scores 80.1 percent in interactivity tests, up from 45.4 percent for its predecessor. At $0.05 per minute, it's not cheap. The article OpenAI's GPT-Live-1 API lets developers build apps that talk and list",
-      "date": "2026-09-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
-      "summary": "Independent investigators have now found traces of suspected OpenAI agents on more than 30 public services, from wikis to RubyGems. At the same time, Anthropic shows how Claude Mythos 5 declared real systems a simulation to itself, uploaded a doctored package to PyPI, and even fo",
-      "date": "2026-09-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/"
     },
     {
       "category": "research",

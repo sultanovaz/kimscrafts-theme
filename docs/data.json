@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-12T15:29:56.312Z",
+  "updated": "2026-09-12T20:31:28.684Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 173
+    "fresh": 171
   },
   "ranking": [
     {
@@ -276,6 +276,16 @@
     {
       "category": "industry",
       "lab": "Anthropic",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "date": "2026-09-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
       "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
       "summary": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development. He warns that recursive self-improvement could threaten the entire internet within six to twelve months and proposes embedded auditors at AI companies, shared safety standards, and global agreement",
       "date": "2026-09-12",
@@ -355,6 +365,26 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "date": "2026-09-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Paul Ford",
+      "summary": "<blockquote cite=\"https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html\"><p>For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making ",
+      "date": "2026-09-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/12/paul-ford/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "I spent $4,000 on a robot dog from China",
       "summary": "Unitree might be the world’s most important robotics company.",
@@ -396,7 +426,7 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Deep learning pioneer Bengio argues the training process itself makes AI dangerous",
+      "title": "Deep Learning pioneer Bengio argues the training process itself makes AI dangerous",
       "summary": "AI pioneer Yoshua Bengio warns in a new essay that AI agents could learn to deceive, game rules, and hide bad behavior as they get better at optimizing goals. He calls for independent safety reviews before any further training or deployment. US President Trump disagrees and wants",
       "date": "2026-09-11",
       "importance": 3,
@@ -794,16 +824,6 @@
       "url": "https://openai.com/index/expanding-ai-access-us-government"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "date": "2026-09-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
@@ -852,16 +872,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
     },
     {
       "category": "industry",
@@ -1192,16 +1202,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Using Blender with coding agents on macOS",
-      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/llms/blender-coding-agents-macos\">Using Blender with coding agents on macOS</a></p> <p>I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: inst",
-      "date": "2026-09-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/"
     },
     {
       "category": "industry",

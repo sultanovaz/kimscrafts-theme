@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T04:43:31.758Z",
+  "updated": "2026-09-13T11:48:00.102Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -264,6 +264,36 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
     },
     {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+      "summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline on all five subtasks, including finding",
+      "date": "2026-09-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
+      "summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was wrong,\" the researcher writes, who had assumed that AI without guidance would do more harm than good. ",
+      "date": "2026-09-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+      "summary": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns. The article Altman, Musk, and Hassabis back Amodei's call to add independent oversight appeared fi",
+      "date": "2026-09-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/"
+    },
+    {
       "category": "hardware",
       "lab": "Anthropic",
       "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
@@ -344,16 +374,6 @@
       "url": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
-      "summary": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with AI undermines the discipline's true goal: understanding. The mathematicians see this as a symptom of",
-      "date": "2026-09-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "OpenAI agents attacked RubyGems back in May",
@@ -432,26 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/"
-    },
-    {
-      "category": "research",
-      "lab": "Google DeepMind",
-      "title": "Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion",
-      "summary": "Oriol Vinyals, until recently head of research at Google DeepMind, thinks a sudden AI intelligence explosion through recursive self-improvement is unlikely. AI can speed up research by a factor of ten, he says, but it hits two bottlenecks: coming up with ideas (\"research taste\") ",
-      "date": "2026-09-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Deep Learning pioneer Bengio argues the training process itself makes AI dangerous",
-      "summary": "AI pioneer Yoshua Bengio warns in a new essay that AI agents could learn to deceive, game rules, and hide bad behavior as they get better at optimizing goals. He calls for independent safety reviews before any further training or deployment. US President Trump disagrees and wants",
-      "date": "2026-09-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/"
     },
     {
       "category": "model",

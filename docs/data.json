@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-12T23:02:04.206Z",
+  "updated": "2026-09-13T04:43:31.758Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 171
+    "fresh": 170
   },
   "ranking": [
     {
@@ -362,6 +362,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "summary": "<p>Here's a neat thing I had <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">ChatGPT Work</a> with GPT-6 Astra (Max) do this morning:</p> <blockquote> <p><code>I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house",
+      "date": "2026-09-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "California Brown Pelican",
+      "summary": "<p><img src=\"https://static.inaturalist.org/photos/733368932/large.jpg\" alt=\"California Brown Pelican\"></p><p><img src=\"https://static.inaturalist.org/photos/733368989/large.jpg\" alt=\"California Brown Pelican\"></p><p>California Brown Pelican, in San Mateo County, CA, US</p><p>The",
+      "date": "2026-09-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/"
     },
     {
       "category": "industry",
@@ -1182,26 +1202,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/an-alien-mind"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Zach Kehs",
-      "summary": "<blockquote cite=\"https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/#9-ref\"><p>If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can <em>always</em> get worse. There can <em>always</em> be ",
-      "date": "2026-09-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Introducing GPT-6 Astra for developers",
-      "summary": "<p><strong><a href=\"https://www.youtube.com/watch?v=bOC3DisEOfg\">Introducing GPT-6 Astra for developers</a></strong></p> Blink and you'll miss it, but there's a familiar creature at <a href=\"https://www.youtube.com/watch?v=bOC3DisEOfg&amp;t=119\">1m59s</a>:</p> <blockquote> <p>Acr",
-      "date": "2026-09-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/"
     },
     {
       "category": "industry",

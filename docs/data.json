@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-14T04:51:51.677Z",
+  "updated": "2026-09-14T12:41:13.320Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 170
+    "fresh": 171
   },
   "ranking": [
     {
@@ -264,6 +264,26 @@
       "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/"
     },
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
+      "summary": "China has flatly rejected warnings about AI risks from Anthropic CEO Amodei and other U.S. AI leaders. Beijing's Foreign Ministry calls it \"fearmongering,\" while the state-run Global Times accuses Amodei of waging a \"silent AI Cold War.\" China's security minister isn't calling fo",
+      "date": "2026-09-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue",
+      "summary": "Sam Altman is doubling down on slowing AI development. OpenAI now runs safety checks before major training runs, and according to The Information, the company has been talking with Anthropic and Google for months about joint self-regulation. The article Sam Altman calls for pacin",
+      "date": "2026-09-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -392,26 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
-      "summary": "Reasoning steps like calculation, formula retrieval, and deduction are clearly separable in a model's internal states, especially in the middle layers. That matters for AI safety, because models process more than their visible chain of thought reveals. The article AI models' writ",
-      "date": "2026-09-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
-      "summary": "Overly long skill descriptions, blanket reading requirements, and rigid approval rules can get in GPT-6 Astra's way, warns OpenAI's Eric Provencher. More capable models need less hand-holding, so developers should tie instructions to specific tasks and spell out when the job is d",
-      "date": "2026-09-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends/"
     },
     {
       "category": "product",
@@ -872,6 +872,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "summary": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "date": "2026-09-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/ai-native-company-workflows"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "date": "2026-09-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T23:07:48.462Z",
+  "updated": "2026-09-14T04:51:51.677Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "AI",
+      "title": "commit-rewriter 0.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/commit-rewriter/releases/tag/0.1\">commit-rewriter 0.1</a></p> <p>I built this little web app the other day to help edit the commit messages for the <a href=\"https://datasette.io/blog/2026/september-security-releases/",
+      "date": "2026-09-14",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
@@ -262,6 +272,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "shot-scraper 1.12",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.12\">shot-scraper 1.12</a></p> <p>I've added WebP support to my <a href=\"https://shot-scraper.datasette.io/\">shot-scraper</a> screenshot automation tool. You can now take a WebP screenshot ",
+      "date": "2026-09-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/"
     },
     {
       "category": "model",
@@ -1172,26 +1192,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The purpose of DNS is to spread scams",
-      "summary": "<p><strong><a href=\"https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/\">The purpose of DNS is to spread scams</a></strong></p> Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for ",
-      "date": "2026-09-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "There's No Limit to How Bad Code Can Get",
-      "summary": "<p><a href=\"https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get#c_8kdtaw\">My comment</a> on <a href=\"https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get\">There&#x27;s No Limit to How Bad Code Can Get</a> &mdash; Lobste.rs.</p><p><em>[In reply to a commen",
-      "date": "2026-09-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/"
     },
     {
       "category": "industry",

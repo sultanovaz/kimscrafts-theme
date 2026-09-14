@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T19:50:09.823Z",
+  "updated": "2026-09-14T23:51:48.461Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -344,9 +344,59 @@
       "url": "https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/"
     },
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "date": "2026-09-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "The contagion of fear",
+      "summary": "<p><strong><a href=\"https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\">The contagion of fear</a></strong></p> Bryan Cantrill responds to the <a href=\"https://x.com/hilbertspaess/status/2097476203863224394\">tweet by former Anthropic employee Jacob Coxon</a> confirming",
+      "date": "2026-09-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "date": "2026-09-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Musk drops Apple from antitrust suit but keeps gunning for OpenAI",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "date": "2026-09-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "What blog posts influenced your thinking the most?",
+      "summary": "<p><a href=\"https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking#c_4fxnwn\">My comment</a> on <a href=\"https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking\">What blog posts influenced your thinking the most?</a> &mdash; Lobste.rs.</p><p>An early Joel ",
+      "date": "2026-09-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/14/influences/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
       "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
       "date": "2026-09-14",
       "importance": 2,
@@ -417,7 +467,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "summary": "Fathom said that it has over 400,000 monthly active users.",
+      "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
       "date": "2026-09-14",
       "importance": 2,
       "tags": [],
@@ -774,16 +824,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
     },
     {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doom",
-      "date": "2026-09-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Quoting Boris Cherny",
@@ -802,16 +842,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "date": "2026-09-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
     },
     {
       "category": "benchmark",
@@ -1204,16 +1234,6 @@
       "url": "https://simonwillison.net/2026/Sep/7/llm/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Video compressor",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/video-compressor\">Video compressor</a></p> <p>I recorded a short demo video of <a href=\"https://simonwillison.net/2026/Sep/7/equal-earth/\">my Equal Earth</a> animation on my phone and wanted to publish an optimize",
-      "date": "2026-09-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/"
-    },
-    {
       "category": "hardware",
       "lab": "AI",
       "title": "The complex corporate web behind a $3.2 billion AI data center",
@@ -1252,16 +1272,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Mercator ↔ Equal Earth",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/equal-earth\">Mercator ↔ Equal Earth</a></p> <p>I got curious about the Equal Earth map projection that was recently <a href=\"https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-afr",
-      "date": "2026-09-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/"
     },
     {
       "category": "industry",
@@ -1342,16 +1352,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/safety-overview-gpt-6-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Four major AI models suffer rare overlapping downtime",
-      "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/"
     },
     {
       "category": "model",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T11:41:03.942Z",
+  "updated": "2026-09-15T16:56:33.766Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,66 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
+      "summary": "The Gates Foundation is investing at least a billion dollars over two years to make AI tools more widely available in health, education, and agriculture. Bill Gates warns that more than 90 percent of the training data behind early language models came from English sources, and th",
+      "date": "2026-09-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "date": "2026-09-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+      "date": "2026-09-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "date": "2026-09-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Agility Robotics says its new Digit 5 robot can work next to people without safety fences",
+      "summary": "Agility Robotics has unveiled Digit 5, the next version of its humanoid robot for warehouses and factories. The article Agility Robotics says its new Digit 5 robot can work next to people without safety fences appeared first on The Decoder.",
+      "date": "2026-09-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/agility-robotics-says-its-new-digit-5-robot-can-work-next-to-people-without-safety-fences/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+      "date": "2026-09-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
@@ -274,10 +334,60 @@
       "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/"
     },
     {
+      "category": "product",
+      "lab": "Hugging Face",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "Your Agent Aced the Task. Will It Do It Again?",
+      "date": "2026-09-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "date": "2026-09-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "date": "2026-09-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "date": "2026-09-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "date": "2026-09-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
       "date": "2026-09-15",
       "importance": 2,
       "tags": [],
@@ -564,26 +674,6 @@
       "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
-      "summary": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor. The company says the model was trained only on licensed music. The article Elevenlabs makes Music v2.5 ava",
-      "date": "2026-09-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/"
-    },
-    {
-      "category": "model",
-      "lab": "Alibaba",
-      "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
-      "summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes. According to the paper, the training data and models also improved performance on tasks they were never t",
-      "date": "2026-09-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "What’s behind the AI industry’s latest warnings of doom?",
@@ -602,16 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "date": "2026-09-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
     },
     {
       "category": "product",
@@ -645,16 +725,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "date": "2026-09-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "Quoting Paul Ford",
       "summary": "<blockquote cite=\"https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html\"><p>For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making ",
@@ -672,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "date": "2026-09-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
     },
     {
       "category": "model",
@@ -764,16 +824,6 @@
       "url": "https://simonwillison.net/2026/Sep/11/datasette-2/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "date": "2026-09-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "So you want to use OpenRouter?",
@@ -782,36 +832,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "date": "2026-09-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "date": "2026-09-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-      "date": "2026-09-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
     },
     {
       "category": "industry",
@@ -1012,16 +1032,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Hugging Face",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "summary": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "date": "2026-09-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
     },
     {
       "category": "industry",
@@ -1312,16 +1322,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-      "date": "2026-09-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/"
     },
     {
       "category": "industry",

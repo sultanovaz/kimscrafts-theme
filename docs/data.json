@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T04:51:19.166Z",
+  "updated": "2026-09-15T11:41:03.942Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
+      "summary": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers praise multi-step requests and screen context, but report hallucinations and gaps with personal cont",
+      "date": "2026-09-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the Wh",
+      "date": "2026-09-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/"
+    },
     {
       "category": "industry",
       "lab": "AI",
@@ -562,26 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
-      "summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline on all five subtasks, including finding",
-      "date": "2026-09-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
-      "summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was wrong,\" the researcher writes, who had assumed that AI without guidance would do more harm than good. ",
-      "date": "2026-09-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/"
     },
     {
       "category": "industry",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-15T16:56:33.766Z",
+  "updated": "2026-09-15T21:18:12.187Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 173
+    "fresh": 174
   },
   "ranking": [
     {
@@ -264,6 +264,46 @@
       "url": "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "date": "2026-09-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+      "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At $1.38 per hour of voice conversation, Google significantly undercuts OpenAI's GPT-Live-1, which should st",
+      "date": "2026-09-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "AI labs have a data trust problem that their policies haven't solved",
+      "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work. From boardroom",
+      "date": "2026-09-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "date": "2026-09-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
@@ -326,12 +366,62 @@
     {
       "category": "industry",
       "lab": "Anthropic",
-      "title": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+      "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
       "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the Wh",
       "date": "2026-09-15",
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "date": "2026-09-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "summary": "Robots can start working outside physical cages and without safety barriers.",
+      "date": "2026-09-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "date": "2026-09-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI agents now have a place to snitch",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "date": "2026-09-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "date": "2026-09-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
     },
     {
       "category": "product",
@@ -446,42 +536,12 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
-      "date": "2026-09-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\"",
       "summary": "The Clay Mathematics Institute says the Navier-Stokes problem, one of seven Millennium Prize Problems worth $1 million each, has \"apparently been settled.\" A formal review is now underway. The article Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has ",
       "date": "2026-09-14",
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
-      "summary": "China has flatly rejected warnings about AI risks from Anthropic CEO Amodei and other U.S. AI leaders. Beijing's Foreign Ministry calls it \"fearmongering,\" while the state-run Global Times accuses Amodei of waging a \"silent AI Cold War.\" China's security minister isn't calling fo",
-      "date": "2026-09-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue",
-      "summary": "Sam Altman is doubling down on slowing AI development. OpenAI now runs safety checks before major training runs, and according to The Information, the company has been talking with Anthropic and Google for months about joint self-regulation. The article Sam Altman calls for pacin",
-      "date": "2026-09-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/"
     },
     {
       "category": "hardware",
@@ -624,26 +684,6 @@
       "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "How Fyxer built an AI executive assistant people trust",
@@ -672,26 +712,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "date": "2026-09-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-      "date": "2026-09-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
     },
     {
       "category": "product",
@@ -1315,16 +1335,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "date": "2026-09-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "date": "2026-09-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/atv-big-air-tour"
     }
   ]
 }

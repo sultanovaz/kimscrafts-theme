@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-16T04:46:15.175Z",
+  "updated": "2026-09-16T11:28:14.730Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 173
+    "fresh": 171
   },
   "ranking": [
     {
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
+      "summary": "Anthropic researcher Jacob Coxon sparked an intense debate about existential AI risks with a single tweet. OpenAI researcher Daniel Selsam warns of a \"ticking time bomb,\" and a former Deepmind researcher says AI could kill us all. In a survey of more than 1,500 leading AI researc",
+      "date": "2026-09-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/"
+    },
     {
       "category": "hardware",
       "lab": "Nvidia",
@@ -564,16 +584,6 @@
       "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\"",
-      "summary": "The Clay Mathematics Institute says the Navier-Stokes problem, one of seven Millennium Prize Problems worth $1 million each, has \"apparently been settled.\" A formal review is now underway. The article Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has ",
-      "date": "2026-09-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
@@ -672,16 +682,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
-    },
-    {
-      "category": "industry",
-      "lab": "Microsoft",
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
     },
     {
       "category": "product",

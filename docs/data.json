@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-15T21:18:12.187Z",
+  "updated": "2026-09-16T04:46:15.175Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 173
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Gemini Live audio",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/gemini-live\">Gemini Live audio</a></p> <p>Google released <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\">Gemini 3.8 Live and 3.",
+      "date": "2026-09-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
@@ -372,6 +392,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "date": "2026-09-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
     },
     {
       "category": "model",
@@ -652,26 +682,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
     },
     {
       "category": "product",
@@ -1292,16 +1302,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Quoting Jakub Pachocki",
-      "summary": "<blockquote cite=\"https://openai.com/index/an-alien-mind/#scalable-defense\"><p>The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...]</p> <p>We will need powerful, aligne",
-      "date": "2026-09-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/"
     },
     {
       "category": "industry",

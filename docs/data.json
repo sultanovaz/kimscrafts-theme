@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-16T21:15:42.246Z",
+  "updated": "2026-09-16T23:39:15.717Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 175
   },
   "ranking": [
     {
@@ -266,6 +266,16 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+      "date": "2026-09-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
       "summary": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving models as immediate risks. The article EU president warns AI agents \"escaping their environment\" are ju",
       "date": "2026-09-16",
@@ -392,6 +402,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Our framework for reporting model misalignment",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/model-misalignment-reporting-framework"
     },
     {
       "category": "model",
@@ -1366,16 +1386,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "date": "2026-09-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "date": "2026-09-03",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/playco-game-prototyping-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "summary": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
     }
   ]
 }

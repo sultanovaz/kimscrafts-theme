@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-16T11:28:14.730Z",
+  "updated": "2026-09-16T16:51:44.628Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 171
+    "fresh": 174
   },
   "ranking": [
     {
@@ -254,6 +254,66 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic merges Claude Chat, Cowork, and more into a single product",
+      "summary": "Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task needs a quick answer or a bigger workflow. The update also adds Claude Docs and Claude Slides for creating documents and pr",
+      "date": "2026-09-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
+      "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices. T",
+      "date": "2026-09-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/"
+    },
+    {
+      "category": "product",
+      "lab": "Mistral",
+      "title": "Mozilla's new Smart Window assistant runs on Mistral's models",
+      "summary": "Mistral and Mozilla are teaming up to offer AI-powered browsing that puts privacy first. The article Mozilla's new Smart Window assistant runs on Mistral's models appeared first on The Decoder.",
+      "date": "2026-09-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "date": "2026-09-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Political opposites unite in Washington to rein in AI",
+      "summary": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence. Sanders wants a construction freeze on data centers, while OpenAI is backing the FRONTIER Act and its mandatory outside safety audits for the first",
+      "date": "2026-09-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "date": "2026-09-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
@@ -264,14 +324,104 @@
       "url": "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "summary": "Anthropic is releasing these features to Pro and Max plan subscribers initally",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
+    },
+    {
+      "category": "model",
+      "lab": "Microsoft",
+      "title": "Quoting Mustafa Suleyman",
+      "summary": "<blockquote cite=\"https://mustafa-suleyman.ai/a-warning-about-model-welfare\"><p>We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Helping older adults use AI in everyday life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Threads’ new features let podcasters promote shows and reach listeners",
+      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+      "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Reimagining advertising with AI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/reimagining-advertising-with-ai"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Amazon launches Alexa+ in India with Hindi support",
-      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
+      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
       "date": "2026-09-16",
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "How workers are unlocking new ways of working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/unlocking-new-ways-of-working"
     },
     {
       "category": "hardware",
@@ -365,16 +515,6 @@
     },
     {
       "category": "industry",
-      "lab": "Anthropic",
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "date": "2026-09-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "Agility Robotics says its new Digit 5 robot can work next to people without safety fences",
       "summary": "Agility Robotics has unveiled Digit 5, the next version of its humanoid robot for warehouses and factories. The article Agility Robotics says its new Digit 5 robot can work next to people without safety fences appeared first on The Decoder.",
@@ -402,16 +542,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the Wh",
-      "date": "2026-09-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/"
     },
     {
       "category": "hardware",
@@ -515,26 +645,6 @@
     },
     {
       "category": "model",
-      "lab": "Nvidia",
-      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-      "date": "2026-09-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
-      "date": "2026-09-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "commit-rewriter 0.1",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/commit-rewriter/releases/tag/0.1\">commit-rewriter 0.1</a></p> <p>I built this little web app the other day to help edit the commit messages for the <a href=\"https://datasette.io/blog/2026/september-security-releases/",
@@ -542,56 +652,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
-      "summary": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts are anonymized but can still contain sensitive data. Users who don't want their",
-      "date": "2026-09-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-      "date": "2026-09-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
-      "summary": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman. Unlike Anthropic, Microsoft rejects any form of artificial inner life or claims to",
-      "date": "2026-09-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-      "summary": "Anthropic has told investors it will turn a profit for the second straight quarter, but the claim rests on an adjusted metric that leaves out costs like stock-based compensation. The article Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors a",
-      "date": "2026-09-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
     },
     {
       "category": "industry",
@@ -612,16 +672,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
     },
     {
       "category": "industry",
@@ -672,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "With iOS 27, I’m actually using Siri again",
-      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
     },
     {
       "category": "product",
@@ -1295,16 +1335,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Creepy crawlies",
-      "summary": "<p><strong><a href=\"https://people.kernel.org/monsieuricon/creepy-crawlies\">Creepy crawlies</a></strong></p> Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of <a href=\"https://git.kernel.org/\">git.kernel.org</",
-      "date": "2026-09-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "An Alien Mind",
       "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
@@ -1386,22 +1416,22 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "date": "2026-09-03",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "date": "2026-09-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
     },
     {
       "category": "model",
@@ -1422,36 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/funes"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "summary": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/train-to-paint-with-code"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summary": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "date": "2026-09-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "summary": "Proactive cyber defense for governments and enterprises",
-      "date": "2026-09-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
     }
   ]
 }

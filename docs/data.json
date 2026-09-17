@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-17T04:49:15.811Z",
+  "updated": "2026-09-17T11:38:09.006Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 173
+    "fresh": 169
   },
   "ranking": [
     {
@@ -255,6 +255,46 @@
   "items": [
     {
       "category": "product",
+      "lab": "OpenAI",
+      "title": "AI agent swarms are a massive waste of tokens with zero quality gain, says OpenAI Codex developer",
+      "summary": "OpenAI Codex developer Eric Provencher warns that running more than two parallel sub-agents almost always burns tokens without improving quality because agents don't trust each other and end up double-checking everyone's work. He calls this the \"coordination tax\" and points to a ",
+      "date": "2026-09-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agent-swarms-are-a-massive-waste-of-tokens-with-zero-quality-gain-says-openai-codex-developer/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "OpenRouter's staggering token chart is the AI bubble debate in a single image",
+      "summary": "On OpenRouter, weekly token consumption has surged more than 25,000 percent since January 2025, from 0.5 to 126.2 trillion tokens. The number looks impressive, but it says less about actual AI usage than about token-hungry reasoning models and a growing number of unoptimized AI a",
+      "date": "2026-09-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openrouters-staggering-token-chart-is-the-ai-bubble-debate-in-a-single-image/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years",
+      "summary": "A Bloomberg developer claims to have cracked an 83-year-old Enigma message from the Wehrmacht using OpenAI's GPT-6 Astra. The 82-character radio message from 1941 contains a soldier asking about his march route. The solution still needs independent review. The article OpenAI's GP",
+      "date": "2026-09-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-gpt-6-astra-decrypts-a-nazi-radio-message-in-ten-hours-that-went-unsolved-for-83-years/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
+    },
+    {
+      "category": "product",
       "lab": "AI",
       "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
       "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to",
@@ -412,16 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
-      "summary": "Anthropic researcher Jacob Coxon sparked an intense debate about existential AI risks with a single tweet. OpenAI researcher Daniel Selsam warns of a \"ticking time bomb,\" and a former Deepmind researcher says AI could kill us all. In a survey of more than 1,500 leading AI researc",
-      "date": "2026-09-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/"
     },
     {
       "category": "hardware",
@@ -614,26 +644,6 @@
       "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
     },
     {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
-      "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At $1.38 per hour of voice conversation, Google significantly undercuts OpenAI's GPT-Live-1, which should st",
-      "date": "2026-09-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "AI labs have a data trust problem that their policies haven't solved",
-      "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work. From boardroom",
-      "date": "2026-09-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -682,16 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "date": "2026-09-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
     },
     {
       "category": "product",

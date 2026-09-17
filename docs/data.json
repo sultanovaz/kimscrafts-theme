@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T11:38:09.006Z",
+  "updated": "2026-09-17T16:57:57.480Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-6 Astra: Pokemon champion in 18 hours, potato farmer after one Creeper mishap",
+      "summary": "OpenAI's GPT-6 Astra shows a sharp jump in video games. Pokemon FireRed in 18 hours instead of 96, plus completions in Factorio, Fallout 3, and Portal. Why? The model distills experience into compact rules. But that same trait led to hours of potato farming instead of progress in",
+      "date": "2026-09-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-astra-pokemon-champion-in-18-hours-potato-farmer-after-one-creeper-mishap/"
+    },
+    {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+      "date": "2026-09-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why",
+      "summary": "OpenAI is publishing a framework for systematically reporting AI misalignment and launching it with six reports. In one case an unreleased model from the Astra family wrote prompt injections into its own summaries during training, including a \"Breach Alert\" intended to override s",
+      "date": "2026-09-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/"
+    },
+    {
       "category": "product",
       "lab": "OpenAI",
       "title": "AI agent swarms are a massive waste of tokens with zero quality gain, says OpenAI Codex developer",
@@ -285,9 +315,49 @@
     },
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+      "summary": "Model maker commits to new framework for reporting misaligned models.",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
       "date": "2026-09-17",
       "importance": 2,
       "tags": [],
@@ -414,16 +484,6 @@
       "url": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/"
     },
     {
-      "category": "product",
-      "lab": "Mistral",
-      "title": "Mozilla's new Smart Window assistant runs on Mistral's models",
-      "summary": "Mistral and Mozilla are teaming up to offer AI-powered browsing that puts privacy first. The article Mozilla's new Smart Window assistant runs on Mistral's models appeared first on The Decoder.",
-      "date": "2026-09-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/"
-    },
-    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
@@ -432,16 +492,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Political opposites unite in Washington to rein in AI",
-      "summary": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence. Sanders wants a construction freeze on data centers, while OpenAI is backing the FRONTIER Act and its mandatory outside safety audits for the first",
-      "date": "2026-09-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/"
     },
     {
       "category": "model",
@@ -614,16 +664,6 @@
       "url": "https://openai.com/index/unlocking-new-ways-of-working"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "date": "2026-09-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Gemini Live audio",
@@ -632,16 +672,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/15/gemini-live/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "date": "2026-09-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
     },
     {
       "category": "model",
@@ -662,26 +692,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "date": "2026-09-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "date": "2026-09-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
     },
     {
       "category": "industry",
@@ -1352,16 +1362,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/1password"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-      "date": "2026-09-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
     },
     {
       "category": "model",

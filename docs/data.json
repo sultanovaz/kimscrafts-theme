@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-16T23:39:15.717Z",
+  "updated": "2026-09-17T04:49:15.811Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 175
+    "fresh": 173
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
@@ -262,6 +282,26 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette 1.0a40",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a40\">datasette 1.0a40</a></p> <p>Same security fix as <a href=\"https://simonwillison.net/2026/Sep/16/datasette-2/\">0.65.5</a>, plus some neat new features and bug fixes:</p> <ul> <li>Plugins",
+      "date": "2026-09-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/16/datasette/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette 0.65.5",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.5\">datasette 0.65.5</a></p> <p>Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by <a href=\"htt",
+      "date": "2026-09-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/16/datasette-2/"
     },
     {
       "category": "industry",
@@ -382,6 +422,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/"
     },
     {
       "category": "industry",
@@ -644,26 +694,6 @@
       "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI agents now have a place to snitch",
-      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-      "date": "2026-09-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-      "date": "2026-09-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
-    },
-    {
       "category": "product",
       "lab": "Hugging Face",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
@@ -672,16 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "date": "2026-09-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
     },
     {
       "category": "model",
@@ -1215,26 +1235,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Some thoughts on the Navier–Stokes Millennium Prize Problem",
-      "summary": "<p><a href=\"https://openai.com/index/navier-stokes-solution/\">On the Navier–Stokes Millennium Prize Problem</a> introduces an impressive result from OpenAI, who used an unreleased model to produce a resolution to <a href=\"https://en.wikipedia.org/wiki/Navier–Stokes_existence_and_",
-      "date": "2026-09-08",
-      "importance": 5,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Introducing ChatGPT Images 2.5",
-      "summary": "<p><strong><a href=\"https://openai.com/index/introducing-chatgpt-images-2-5/\">Introducing ChatGPT Images 2.5</a></strong></p> OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest r",
-      "date": "2026-09-08",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/"
-    },
-    {
-      "category": "model",
       "lab": "Microsoft",
       "title": "Why this month's Microsoft patch release is a doozy",
       "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
@@ -1302,6 +1302,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/the-work-now-within-reach"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "date": "2026-09-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-18T04:40:05.326Z",
+  "updated": "2026-09-18T11:10:25.379Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 168
+    "fresh": 167
   },
   "ranking": [
     {
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
+      "summary": "Experts from the US and China want to prevent AI systems from making autonomous decisions about deploying nuclear weapons. The article US and China experts push for shared rules banning AI control over nuclear weapons appeared first on The Decoder.",
+      "date": "2026-09-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/"
+    },
     {
       "category": "hardware",
       "lab": "AI",
@@ -662,16 +672,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/16/one-claude/"
-    },
-    {
-      "category": "research",
-      "lab": "Google DeepMind",
-      "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
-      "summary": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI. Led by Demis Hassabis, Shane Legg, and James Manyika, the institute tackles questions around safety, governance, and control risks, drawing on experts from the arts, h",
-      "date": "2026-09-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/"
     },
     {
       "category": "hardware",

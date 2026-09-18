@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T21:19:26.181Z",
+  "updated": "2026-09-18T04:40:05.326Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "date": "2026-09-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+    },
+    {
+      "category": "research",
+      "lab": "Google DeepMind",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "date": "2026-09-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
@@ -352,6 +372,56 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/astra-for-law"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "summary": "<p><strong><a href=\"https://blog.rust-lang.org/2026/09/17/targeted-attacks/\">Be alert: targeted attacks on prominent Rustaceans</a></strong></p> Important warning from Adam Harvey and the crates security team:</p> <blockquote> <p>We believe that there is an ongoing campaign targe",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "How To Write With An LLM",
+      "summary": "<p><strong><a href=\"https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\">How To Write With An LLM</a></strong></p> Thomas Ptacek on using LLMs as copyeditors, not as writing assistants:</p> <blockquote> <p><strong>Rule Number One: You may not use a single word an LLM",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/"
     },
     {
       "category": "model",
@@ -494,6 +564,16 @@
       "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/cooley-gopublic"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
@@ -574,16 +654,6 @@
       "url": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "date": "2026-09-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Claude Cowork and chat are now one Claude",
@@ -614,26 +684,6 @@
       "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/"
     },
     {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "date": "2026-09-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "date": "2026-09-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Our framework for reporting model misalignment",
@@ -642,16 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/model-misalignment-reporting-framework"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "date": "2026-09-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
     },
     {
       "category": "model",
@@ -1084,16 +1124,6 @@
       "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/"
     },
     {
-      "category": "research",
-      "lab": "AI",
-      "title": "Quoting Calif Research",
-      "summary": "<blockquote cite=\"https://calif.io/research/weworm\"><p>Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]</p> <p>The victim does not need to answer the call, or interact with their phone at all. Even if ",
-      "date": "2026-09-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/10/calif-research/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Introducing the Agents API",
@@ -1194,16 +1224,6 @@
       "url": "https://huggingface.co/blog/gradio-workflow-1111"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": ".blend URL Viewer",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/blender-viewer\">.blend URL Viewer</a></p> <p>I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see <a href=\"https://til.simonwillison.net/llms/blender-coding-agents-macos\">my TIL</a>).</p> <p>As a ",
-      "date": "2026-09-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
@@ -1252,16 +1272,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/ai-policy-window"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/Hcompany/neomme"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
     }
   ]
 }

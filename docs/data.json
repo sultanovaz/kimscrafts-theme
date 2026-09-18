@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-18T20:52:34.204Z",
+  "updated": "2026-09-18T23:16:44.816Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 166
+    "fresh": 167
   },
   "ranking": [
     {
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "date": "2026-09-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
       "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
@@ -362,6 +372,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "AI Hallucination Nearly Triggers US Military Operation",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
     },
     {
       "category": "industry",
@@ -544,16 +574,6 @@
       "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "date": "2026-09-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem",
@@ -665,16 +685,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Is the AI safety debate about safety or control?",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
       "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
@@ -682,16 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/"
     },
     {
       "category": "industry",
@@ -802,6 +802,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/reimagining-advertising-with-ai"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "date": "2026-09-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/hex-gpt-6-astra"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/safety-overview-gpt-6-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "summary": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
     }
   ]
 }

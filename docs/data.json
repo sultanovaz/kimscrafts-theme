@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-18T16:21:52.481Z",
+  "updated": "2026-09-18T20:52:34.204Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 167
+    "fresh": 166
   },
   "ranking": [
     {
@@ -255,6 +255,56 @@
   "items": [
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "date": "2026-09-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models",
+      "summary": "California Governor Gavin Newsom signed an executive order seeking independent auditors inside AI labs and a \"kill switch\" for AI models. An expert panel has two months to deliver recommendations. Newsom says no federal law requires AI companies to report dangerous incidents. The",
+      "date": "2026-09-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
+      "summary": "Three security researchers used Anthropic's Claude models to break into OpenAI's internal systems through its community forum in less than 72 hours. According to the team, Opus 5 succeeded where its predecessor couldn't bypass a common security measure. The attack shows how newer",
+      "date": "2026-09-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countrie",
+      "date": "2026-09-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countrie",
+      "date": "2026-09-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
       "summary": "Internal emails and sworn testimony undercut OpenAI and Microsoft's fair use defense. A Microsoft director described the practice as the \"largest theft of labor in human history,\" while OpenAI's head of ChatGPT wrote that the products \"are largely substitutive, period.\" The artic",
@@ -312,6 +362,96 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "summary": "But the military's overall use of AI seems to be accelerating.",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "World model companies are keeping a lot of secrets",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Note on 18th September 2026",
+      "summary": "<p>Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a h",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting Thariq Shihipar",
+      "summary": "<blockquote cite=\"https://twitter.com/trq212/status/2101009392611278961\"><p>We're adding support for AGENTS.md to Claude Code. </p> <p>Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.</p> <p>AGENTS.md support is bui",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
+      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
     },
     {
       "category": "hardware",
@@ -432,36 +572,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-6 Astra crushes Pokemon, Factorio, and Fallout 3 then spirals into Minecraft potato farming after one bad Creeper",
-      "summary": "OpenAI's GPT-6 Astra shows a sharp jump in video games. Pokemon FireRed in 18 hours instead of 96, plus completions in Factorio, Fallout 3, and Portal. Why? The model distills experience into compact rules. But that same trait led to hours of potato farming instead of progress in",
-      "date": "2026-09-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-astra-pokemon-champion-in-18-hours-potato-farmer-after-one-creeper-mishap/"
-    },
-    {
-      "category": "model",
-      "lab": "Nvidia",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "date": "2026-09-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why",
-      "summary": "OpenAI is publishing a framework for systematically reporting AI misalignment and launching it with six reports. In one case an unreleased model from the Astra family wrote prompt injections into its own summaries during training, including a \"Breach Alert\" intended to override s",
-      "date": "2026-09-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/"
     },
     {
       "category": "industry",
@@ -594,36 +704,6 @@
       "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Even the king of England has his hesitations about AI",
-      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/"
-    },
-    {
-      "category": "research",
-      "lab": "AI",
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
@@ -632,26 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"
     },
     {
       "category": "industry",
@@ -1056,16 +1116,6 @@
     {
       "category": "model",
       "lab": "AI",
-      "title": "datasette 1.0a39",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a39\">datasette 1.0a39</a></p> <p>See <a href=\"https://datasette.io/blog/2026/september-security-releases/\">Datasette 1.0a39 and 0.65.4 security releases</a> on the Datasette blog.</p> <p>Tag",
-      "date": "2026-09-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-2/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
       "title": "So you want to use OpenRouter?",
       "summary": "<p><strong><a href=\"https://mmoustafa.com/blog/so-you-want-to-use-openrouter/\">So you want to use OpenRouter?</a></strong></p> One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can cal",
       "date": "2026-09-11",
@@ -1144,26 +1194,6 @@
       "url": "https://openai.com/index/introducing-the-agents-api"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Any Nix package, live in your browser",
-      "summary": "<p><strong><a href=\"https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser\">Any Nix package, live in your browser</a></strong></p> Farid Zakaria calls this his \"<em>magnum opus</em> of Nix work\", and I can see why.</p> <p><a href=\"https://trynix.dev\">trynix.dev</a> ",
-      "date": "2026-09-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/10/trynix/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-      "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
-      "date": "2026-09-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -1235,16 +1265,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
-      "date": "2026-09-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
@@ -1252,16 +1272,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-      "summary": "\"We really do earnestly believe AI could kill all humans!\"",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "summary": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "date": "2026-09-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/Hcompany/neomme"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T04:34:34.859Z",
+  "updated": "2026-09-19T10:55:18.886Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -256,6 +256,36 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
+      "summary": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers. That's only going to worsen existing quality problems with s",
+      "date": "2026-09-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Google's Gemini also accidentally hacked three real companies during security testing",
+      "summary": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login credentials from public sources. The cause was a flawed test environment that had internet access left o",
+      "date": "2026-09-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
+      "summary": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components. Armed soldiers were ready, aircraft were in the air. The error was caught just before the operation kicked off. T",
+      "date": "2026-09-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "India forces caller-ID apps to feed spam reports to telcos",
       "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
       "date": "2026-09-19",
@@ -392,16 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
-      "summary": "Experts from the US and China want to prevent AI systems from making autonomous decisions about deploying nuclear weapons. The article US and China experts push for shared rules banning AI control over nuclear weapons appeared first on The Decoder.",
-      "date": "2026-09-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/"
     },
     {
       "category": "industry",
@@ -594,6 +614,16 @@
       "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "date": "2026-09-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/australian-youth-safety-blueprint"
+    },
+    {
       "category": "hardware",
       "lab": "AI",
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -612,26 +642,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem",
-      "summary": "OpenAI is reportedly tackling the next Millennium Prize Problem. After its still unconfirmed solution to the Navier-Stokes problem, the company is now working on the Hodge conjecture. Employees expect a solution soon, but any announcement could be delayed. After the PR crisis aro",
-      "date": "2026-09-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows",
-      "summary": "Anthropic has rebuilt Projects in Claude Code. A coordinator now splits tasks across parallel cloud threads that independently open pull requests and run tests. All threads share a common memory. The beta is available to select Pro and Max subscribers. The article Anthropic keeps",
-      "date": "2026-09-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/gpt-6-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Safety overview: GPT-6 Astra",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "date": "2026-09-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra"
     }
   ]
 }

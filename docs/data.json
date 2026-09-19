@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-19T15:51:21.310Z",
+  "updated": "2026-09-19T20:37:30.435Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 166
+    "fresh": 165
   },
   "ranking": [
     {
@@ -326,12 +326,32 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "AI safety conversations have gotten unbelievable",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
       "date": "2026-09-19",
       "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "date": "2026-09-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "California Sea Lion, Brandt's Cormorant",
+      "summary": "<p><img src=\"https://static.inaturalist.org/photos/737061413/large.jpg\" alt=\"California Sea Lion\"></p><p><img src=\"https://static.inaturalist.org/photos/737061040/large.jpg\" alt=\"Brandt&#x27;s Cormorant\"></p><p>California Sea Lion, Brandt&#x27;s Cormorant, in Pillar Point Harbor,",
+      "date": "2026-09-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/"
     },
     {
       "category": "industry",
@@ -342,6 +362,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI safety conversations have gotten unbelievable",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "date": "2026-09-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
     },
     {
       "category": "industry",
@@ -517,7 +547,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Note on 18th September 2026",
-      "summary": "<p>Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park.</p> <p>Tags: <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a h",
+      "summary": "<p>Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park.</p> <p>Skeptical geneticist: \"pfft, it's just frog DNA. And they delibera",
       "date": "2026-09-18",
       "importance": 2,
       "tags": [],
@@ -592,26 +622,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/"
     },
     {
       "category": "product",
@@ -1122,16 +1132,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "github-to-sqlite 2.9.1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/dogsheep/github-to-sqlite/releases/tag/2.9.1\">github-to-sqlite 2.9.1</a></p> <blockquote> <ul> <li>Fix for compatibility with <a href=\"https://sqlite-utils.datasette.io/en/stable/changelog.html#v4-2\">sqlite-utils 4.x</a>. <",
-      "date": "2026-09-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/"
     },
     {
       "category": "model",

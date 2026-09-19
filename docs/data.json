@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T20:37:30.435Z",
+  "updated": "2026-09-19T23:01:14.115Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "AI",
+      "title": "datasette-auth-github 1.0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-auth-github/releases/tag/1.0\">datasette-auth-github 1.0</a></p> <p>I run this GitHub login plugin on the <a href=\"https://agent.datasette.io/\">agent.datasette.io</a> demo site and I noticed that my authenti",
+      "date": "2026-09-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
       "summary": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or summarize movies. On audio-video benchmarks, it nearly matches Gemini 3.8 Flash at a fraction of the A",
@@ -326,7 +336,17 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "date": "2026-09-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
       "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
       "date": "2026-09-19",
       "importance": 2,
@@ -612,16 +632,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/"
     },
     {
       "category": "product",
@@ -1122,16 +1132,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/11/datasette-security/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-publish-fly 1.4",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-publish-fly/releases/tag/1.4\">datasette-publish-fly 1.4</a></p> <blockquote> <ul> <li>Sets <code>force_https=true</code> in <code>fly.toml</code>. <a href=\"https://github.com/simonw/datasette-publish-fly/is",
-      "date": "2026-09-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/"
     },
     {
       "category": "model",

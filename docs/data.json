@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T04:51:15.617Z",
+  "updated": "2026-09-20T11:19:08.539Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
+      "summary": "Anthropic is reportedly delaying its IPO from October to November 2026 to present strong Q3 results. Investors expect a roughly $2 trillion valuation, but rising infrastructure costs, including $1.25 billion a month for its SpaceX deal alone, and unresolved security risks complic",
+      "date": "2026-09-20",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Daily AI usage in the U.S. has more than doubled in just six months",
+      "summary": "Surveys by Epoch AI and Ipsos suggest AI is becoming part of everyday life for more Americans. The share of US adults using AI almost daily more than doubled between March and August 2026, rising from 8 percent to 19 percent. Meanwhile, the share using it just once a week fell fr",
+      "date": "2026-09-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Simulated students that make realistic mistakes help AI tutors learn faster",
+      "summary": "Microsoft and the University of Illinois built StudentSim to replicate individual students from limited data and give AI tutors fast, low-cost feedback. In tests covering 60 students across chess, English, and math, it outperformed GPT-5.4. A chess tutor trained with StudentSim a",
+      "date": "2026-09-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
+      "summary": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US economic output, rejects new regulation, and frames criticism of data centers as a left-wing attack. The article Trump announc",
+      "date": "2026-09-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "datasette-auth-github 1.0",
@@ -322,16 +362,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
-      "summary": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components. Armed soldiers were ready, aircraft were in the air. The error was caught just before the operation kicked off. T",
-      "date": "2026-09-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/"
     },
     {
       "category": "industry",
@@ -464,26 +494,6 @@
       "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models",
-      "summary": "California Governor Gavin Newsom signed an executive order seeking independent auditors inside AI labs and a \"kill switch\" for AI models. An expert panel has two months to deliver recommendations. Newsom says no federal law requires AI companies to report dangerous incidents. The",
-      "date": "2026-09-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
-      "summary": "Three security researchers used Anthropic's Claude models to break into OpenAI's internal systems through its community forum in less than 72 hours. According to the team, Opus 5 succeeded where its predecessor couldn't bypass a common security measure. The attack shows how newer",
-      "date": "2026-09-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/"
-    },
-    {
       "category": "hardware",
       "lab": "Anthropic",
       "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
@@ -502,16 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-      "summary": "Internal emails and sworn testimony undercut OpenAI and Microsoft's fair use defense. A Microsoft director described the practice as the \"largest theft of labor in human history,\" while OpenAI's head of ChatGPT wrote that the products \"are largely substitutive, period.\" The artic",
-      "date": "2026-09-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/"
     },
     {
       "category": "industry",

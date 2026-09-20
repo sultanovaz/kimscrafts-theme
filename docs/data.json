@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T16:02:48.808Z",
+  "updated": "2026-09-20T20:46:32.503Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Alibaba",
+      "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
+      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license.",
+      "date": "2026-09-20",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
@@ -314,6 +324,46 @@
       "url": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "World model companies are keeping a lot of secrets",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "date": "2026-09-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Is the AI industry really ready to slow down?",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "date": "2026-09-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "date": "2026-09-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "date": "2026-09-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
@@ -362,16 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
-      "summary": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43. Only the search strategy adapts, while the underlying",
-      "date": "2026-09-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/"
     },
     {
       "category": "industry",
@@ -504,26 +544,6 @@
       "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/"
     },
     {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countrie",
-      "date": "2026-09-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countrie",
-      "date": "2026-09-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
@@ -564,16 +584,6 @@
       "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "World model companies are keeping a lot of secrets",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Note on 18th September 2026",
@@ -612,16 +622,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
-    },
-    {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/"
     },
     {
       "category": "model",

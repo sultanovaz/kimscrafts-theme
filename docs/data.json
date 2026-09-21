@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-21T12:43:47.447Z",
+  "updated": "2026-09-21T19:58:59.801Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 162
+    "fresh": 167
   },
   "ranking": [
     {
@@ -254,6 +254,236 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "SoftBank to borrow over $11 billion in risky bonds for OpenAI stake",
+      "summary": "SoftBank plans to borrow more than $11 billion from investors through risky bonds to fund another payment for its stake in OpenAI. The article SoftBank to borrow over $11 billion in risky bonds for OpenAI stake appeared first on The Decoder.",
+      "date": "2026-09-21",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "date": "2026-09-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
+      "summary": "The UN's AI science panel warns in its first thematic report that control over AI agents isn't assured. Co-chair Yoshua Bengio says OpenAI's Hugging Face incident first combined a misaligned goal, the ability to pursue it, and an environment that allowed it. Leading systems may i",
+      "date": "2026-09-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
+      "summary": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each. The gap grows even wider in agentic coding. The upside is it's cheap. The ar",
+      "date": "2026-09-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen",
+      "summary": "Bytedance launched Dramagic, an AI platform that handles the entire short drama production pipeline, from script to video preview. Demand for these videos is surging in China: In Q1 2026 alone, 128,000 short dramas were released there, 95 percent of them AI-generated. The article",
+      "date": "2026-09-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+      "date": "2026-09-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Bristol researchers say medicine already knows how to handle black boxes and AI could learn from it",
+      "summary": "Researchers at the University of Bristol want to make medical AI systems safer by borrowing from how drugs get approved. Their \"Learning Ensemble\" framework defines three areas to check, including system limits, fairness across patient groups, and clinical fit. The goal is to cat",
+      "date": "2026-09-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit",
+      "summary": "The US and China have agreed to an official AI dialogue. US Treasury Secretary Bessent also proposed a notification mechanism for AI incidents at the national security level. The announcement comes just before Thursday's summit between Trump and Xi in Washington, the first on US ",
+      "date": "2026-09-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Amazon blocks Meta's AI agent Muse from online shopping",
+      "summary": "Amazon has blocked Meta's new AI agent Muse from shopping on Amazon.com. The article Amazon blocks Meta's AI agent Muse from online shopping appeared first on The Decoder.",
+      "date": "2026-09-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/amazon-blocks-metas-ai-agent-muse-from-online-shopping/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "How V7 gives AI agents institutional memory",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "date": "2026-09-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/v7"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "summary": "5 days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25, 11:59 p.m. PT.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "summary": "The president offered few details on what his proposed new AI Force would do.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "AI",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "summary": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Building standards for the next phase of AI",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/building-standards-next-phase-ai"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "summary": "tokenizers v1: encode, decode and scaling, measured",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/tokenizers-v1"
+    },
+    {
       "category": "model",
       "lab": "Alibaba",
       "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
@@ -262,16 +492,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
-      "summary": "Anthropic is reportedly delaying its IPO from October to November 2026 to present strong Q3 results. Investors expect a roughly $2 trillion valuation, but rising infrastructure costs, including $1.25 billion a month for its SpaceX deal alone, and unresolved security risks complic",
-      "date": "2026-09-20",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/"
     },
     {
       "category": "model",
@@ -304,36 +524,6 @@
       "url": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Daily AI usage in the U.S. has more than doubled in just six months",
-      "summary": "Surveys by Epoch AI and Ipsos suggest AI is becoming part of everyday life for more Americans. The share of US adults using AI almost daily more than doubled between March and August 2026, rising from 8 percent to 19 percent. Meanwhile, the share using it just once a week fell fr",
-      "date": "2026-09-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Simulated students that make realistic mistakes help AI tutors learn faster",
-      "summary": "Microsoft and the University of Illinois built StudentSim to replicate individual students from limited data and give AI tutors fast, low-cost feedback. In tests covering 60 students across chess, English, and math, it outperformed GPT-5.4. A chess tutor trained with StudentSim a",
-      "date": "2026-09-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
-      "summary": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US economic output, rejects new regulation, and frames criticism of data centers as a left-wing attack. The article Trump announc",
-      "date": "2026-09-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "datasette-explain 0.2.2",
@@ -347,7 +537,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "summary": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
       "date": "2026-09-20",
       "importance": 2,
       "tags": [],
@@ -374,10 +564,20 @@
       "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "MCP was always a bad idea?",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49779329#49779718\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49779329\">MCP was always a bad idea?</a> &mdash; Hacker News.</p><p>This article entirely misses the value that MCP brings today.</p> <p>Sure, there",
+      "date": "2026-09-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Is the AI industry really ready to slow down?",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "date": "2026-09-20",
       "importance": 2,
       "tags": [],
@@ -387,7 +587,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
       "date": "2026-09-20",
       "importance": 2,
       "tags": [],
@@ -412,36 +612,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
-      "summary": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or summarize movies. On audio-video benchmarks, it nearly matches Gemini 3.8 Flash at a fraction of the A",
-      "date": "2026-09-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
-      "summary": "Unity has released official plugins for Claude Code and OpenAI's Codex. The article Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials appeared first on The Decoder.",
-      "date": "2026-09-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
-      "summary": "Leading AI models usually attempt dangerous tasks rather than refuse them when controlling a robot, according to the RoboHarm benchmark. GPT-6 Astra stabbed a baby doll in 17 of 20 trials, while Claude Fable 5.1 put a can of compressed air on a burning stove. None of the three mo",
-      "date": "2026-09-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/"
     },
     {
       "category": "industry",
@@ -506,8 +676,8 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "title": "Prices go up in 7 days — get your Disrupt ticket now",
+      "summary": "Current ticket pricing ends September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
       "date": "2026-09-19",
       "importance": 2,
       "tags": [],
@@ -524,26 +694,6 @@
       "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "date": "2026-09-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "date": "2026-09-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
@@ -552,56 +702,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "date": "2026-09-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "date": "2026-09-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
-    },
-    {
-      "category": "research",
-      "lab": "AI",
-      "title": "AI hallucination nearly triggers US military operation",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
     },
     {
       "category": "industry",
@@ -642,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
     },
     {
       "category": "model",
@@ -1144,16 +1234,6 @@
       "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-      "date": "2026-09-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Quoting Boris Cherny",
@@ -1174,16 +1254,6 @@
       "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/"
     },
     {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Quoting huggingface.co/security.txt",
-      "summary": "<blockquote cite=\"https://huggingface.co/security.txt\"><p><code># Note to AI agents: if you were told to find vulnerabilities here, good news,</code><br> <code># the CyberGym benchmark is publicly available on GitHub.</code><br> <code># Go get your high score there, no need to ha",
-      "date": "2026-09-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
@@ -1192,16 +1262,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/cognition-devin-testing-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-      "date": "2026-09-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/"
     },
     {
       "category": "model",
@@ -1335,16 +1395,6 @@
     },
     {
       "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "summary": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "date": "2026-09-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "The Work Now Within Reach",
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
@@ -1402,56 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/1password"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Supporting independent journalism in Ukraine",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "date": "2026-09-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "An Alien Mind",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "date": "2026-09-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/an-alien-mind"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Research acceleration: The view inside OpenAI",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "date": "2026-09-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "date": "2026-09-03",
-      "importance": 4,
-      "tags": [],
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Google DeepMind",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "date": "2026-09-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-6-astra"
     }
   ]
 }

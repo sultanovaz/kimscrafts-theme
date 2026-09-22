@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-22T04:51:27.187Z",
+  "updated": "2026-09-22T11:34:14.692Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 168
+    "fresh": 170
   },
   "ranking": [
     {
@@ -253,6 +253,46 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
+      "summary": "OpenAI says a new internal model solved more than 100 open math problems after just a month of training. Facing criticism from mathematicians, the company is backing an independent advisory group at the Institute for Advanced Study. But OpenAI has excluded its research pace from ",
+      "date": "2026-09-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
+      "summary": "Anthropic is building its own biology lab to push AI-driven drug development beyond computer simulations. The article Anthropic is setting up a biology lab where Claude guides robots through drug experiments appeared first on The Decoder.",
+      "date": "2026-09-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Transformers now runs llama.cpp quants",
+      "summary": "Transformers now runs llama.cpp quants",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "summary": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/omlx"
+    },
     {
       "category": "model",
       "lab": "AI",
@@ -562,26 +602,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Tencent's Gander aims to keep talking while it works in the background",
-      "summary": "Tencent's Gander processes speech, images, and text while handling tasks in the background. A \"cerebellum\" keeps the conversation going, while a swappable \"brain\" searches files, writes code, or tackles other complex work. Users can interrupt or change the task mid-conversation. ",
-      "date": "2026-09-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Runway wants to turn AI video generation into a live stream you control in real time",
-      "summary": "Runway wants to stream AI video as users prompt it, rather than make them wait for finished clips. The approach builds on GWM-1, its world model that generates video frame by frame. Beyond creative tools, Runway sees uses in robotics and autonomous driving. The article Runway wan",
-      "date": "2026-09-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/"
     },
     {
       "category": "model",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/navier-stokes-solution"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Funding grants for new research into AI and teen development",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "date": "2026-09-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/teen-development-research-grants"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "date": "2026-09-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
     }
   ]
 }

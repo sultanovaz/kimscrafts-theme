@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-22T21:15:56.189Z",
+  "updated": "2026-09-22T23:36:23.827Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 175
   },
   "ranking": [
     {
@@ -265,6 +265,16 @@
     },
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "date": "2026-09-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "Introducing GPT-6 Sol and Luna",
       "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
@@ -352,6 +362,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/priorities-principles-third-party-assessments"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
     },
     {
       "category": "model",
@@ -524,6 +554,16 @@
       "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
+    },
+    {
       "category": "benchmark",
       "lab": "Hugging Face",
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
@@ -612,16 +652,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-      "date": "2026-09-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/"
     },
     {
       "category": "model",
@@ -724,16 +754,6 @@
       "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
@@ -744,16 +764,6 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
@@ -762,6 +772,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
     },
     {
       "category": "industry",
@@ -1224,16 +1244,6 @@
       "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "What blog posts influenced your thinking the most?",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/gpt-6-astra-next-generation-work"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "date": "2026-09-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/codex-quantum-computing-experiments"
     }
   ]
 }

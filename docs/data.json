@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T11:34:14.692Z",
+  "updated": "2026-09-22T16:55:19.432Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,56 @@
   "items": [
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+      "summary": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite ",
+      "date": "2026-09-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "llm-typesafe 0.1a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-typesafe/releases/tag/0.1a0\">llm-typesafe 0.1a0</a></p> <p>I built this new plugin for <a href=\"https://llm.datasette.io/\">LLM</a> to add support for <a href=\"https://simonwillison.net/2026/Sep/21/jev/\">TypeSafe ",
+      "date": "2026-09-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI calls for international standards on AI that could improve itself",
+      "summary": "OpenAI wants international standards for recursive self-improvement, where AI systems independently build the next generation of AI. Without safeguards, humans could lose control over this process. OpenAI says the US should take the lead on global measurement standards and oversi",
+      "date": "2026-09-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "A tiny software layer from lab-grown neurons promises faster, cheaper AI video",
+      "summary": "The Biological Computing Co. wants to team up with AWS to sell a text-to-video model that's supposed to run five times faster and 80 percent cheaper thanks to a software layer derived from real nerve cells. The tiny layer adds less than 0.1 percent to the base model, but the star",
+      "date": "2026-09-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
+      "summary": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million. But the success comes with a catch: Anthropic accuses the company ",
+      "date": "2026-09-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
       "summary": "OpenAI says a new internal model solved more than 100 open math problems after just a month of training. Facing criticism from mathematicians, the company is backing an independent advisory group at the Institute for Advanced Study. But OpenAI has excluded its research pace from ",
@@ -272,6 +322,96 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+      "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
+      "summary": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Everyone can find a reason to dislike data center construction",
+      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "date": "2026-09-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
     },
     {
       "category": "model",
@@ -372,36 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Bristol researchers say medicine already knows how to handle black boxes and AI could learn from it",
-      "summary": "Researchers at the University of Bristol want to make medical AI systems safer by borrowing from how drugs get approved. Their \"Learning Ensemble\" framework defines three areas to check, including system limits, fairness across patient groups, and clinical fit. The goal is to cat",
-      "date": "2026-09-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit",
-      "summary": "The US and China have agreed to an official AI dialogue. US Treasury Secretary Bessent also proposed a notification mechanism for AI incidents at the national security level. The announcement comes just before Thursday's summit between Trump and Xi in Washington, the first on US ",
-      "date": "2026-09-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Amazon blocks Meta's AI agent Muse from online shopping",
-      "summary": "Amazon has blocked Meta's new AI agent Muse from shopping on Amazon.com. The article Amazon blocks Meta's AI agent Muse from online shopping appeared first on The Decoder.",
-      "date": "2026-09-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/amazon-blocks-metas-ai-agent-muse-from-online-shopping/"
     },
     {
       "category": "model",
@@ -585,16 +695,6 @@
     },
     {
       "category": "model",
-      "lab": "Alibaba",
-      "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
-      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license.",
-      "date": "2026-09-20",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "llm-keys-ui 0.1",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-keys-ui/releases/tag/0.1\">llm-keys-ui 0.1</a></p> <p>This plugin solves a very specific problem.</p> <p>I've started using <a href=\"https://learn.chatgpt.com/docs/remote\">Codex Remote</a> to run coding agents on ",
@@ -654,36 +754,6 @@
       "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Is the AI industry really ready to slow down?",
-      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
-      "date": "2026-09-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
-      "date": "2026-09-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
-      "date": "2026-09-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "datasette-auth-github 1.0",
@@ -696,62 +766,12 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-      "date": "2026-09-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "date": "2026-09-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "date": "2026-09-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "California Sea Lion, Brandt's Cormorant",
       "summary": "<p><img src=\"https://static.inaturalist.org/photos/737061413/large.jpg\" alt=\"California Sea Lion\"></p><p><img src=\"https://static.inaturalist.org/photos/737061040/large.jpg\" alt=\"Brandt&#x27;s Cormorant\"></p><p>California Sea Lion, Brandt&#x27;s Cormorant, in Pillar Point Harbor,",
       "date": "2026-09-19",
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "date": "2026-09-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI safety conversations have gotten unbelievable",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "date": "2026-09-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
     },
     {
       "category": "model",
@@ -1174,16 +1194,6 @@
       "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI leaders want to hit the brakes after years of reckless speed",
-      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Quoting Laurie Voss",
@@ -1272,16 +1282,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "So you want to use OpenRouter?",
-      "summary": "<p><strong><a href=\"https://mmoustafa.com/blog/so-you-want-to-use-openrouter/\">So you want to use OpenRouter?</a></strong></p> One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can cal",
-      "date": "2026-09-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/"
     },
     {
       "category": "model",

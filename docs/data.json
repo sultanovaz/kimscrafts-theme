@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-23T11:31:22.171Z",
+  "updated": "2026-09-23T16:54:51.226Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 176
+    "fresh": 181
   },
   "ranking": [
     {
@@ -254,6 +254,96 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "date": "2026-09-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/ringg"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing",
+      "summary": "YouTube is adding AI tools to its creator studio. A storytelling assistant analyzes scripts and rough cuts, Gemini becomes a chat-based editing assistant for Shorts, and a new live translation feature turns English streams into Spanish. The article YouTube adds AI tools to Creato",
+      "date": "2026-09-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "summary": "Gemini 3.8 text-to-speech says hello",
+      "date": "2026-09-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic engineer explains why Claude's writing got worse although the model got smarter",
+      "summary": "Anthropic employee Jackson Kernion explains why newer Claude models write so oddly. Optimizing for math, code, and technical explanations aimed at other AI models has created a style that sounds like \"overly-dense info dumps\" to humans. Opus 5.5 tries to fix this, but Opus 4.6 re",
+      "date": "2026-09-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing",
+      "summary": "Nscale, the Nvidia-backed AI cloud provider, leaves its most important customer, Bytedance, out of the main prospectus for its planned US IPO. The article Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing appeared first on The Decoder.",
+      "date": "2026-09-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Meta's AI agent Muse draws 500,000 users in a week along with claims it copied OpenClaw",
+      "summary": "Meta's AI agent Muse picked up more than 500,000 users in its first week and hit number one in Apple's App Store. But Meta admits the product is \"heavily inspired\" by the open-source project OpenClaw, and some of the file names and contents are nearly identical. OpenAI is already",
+      "date": "2026-09-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/metas-ai-agent-muse-draws-500000-users-in-a-week-along-with-claims-it-copied-openclaw/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Inside Basecamp Research, the AI startup turning evolution into training data",
+      "summary": "Basecamp Research has raised $140 million from investors including Nvidia and Anthropic's Anthology Fund. The London company trains AI models on genetic material from rainforests, oceans, and hot springs to design antibiotics and tools for cell therapies. In an interview with THE",
+      "date": "2026-09-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+      "date": "2026-09-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/"
+    },
+    {
+      "category": "model",
+      "lab": "Alibaba",
+      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent",
+      "summary": "Alibaba's AI team Qwen has released Qwen-Audio-3.1, a lineup of five models for speech recognition (ASR), text-to-speech (TTS), and real-time interaction. The ASR model improves multilingual and dialect recognition and automatically cleans up filler words and repetitions. ASR-Nex",
+      "date": "2026-09-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division",
@@ -272,6 +362,116 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Even Americans who use AI every day are worried about it",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Two years of OpenAI Academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/two-years-of-openai-academy"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "summary": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"
     },
     {
       "category": "industry",
@@ -382,46 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "A tiny software layer from lab-grown neurons promises faster, cheaper AI video",
-      "summary": "The Biological Computing Co. wants to team up with AWS to sell a text-to-video model that's supposed to run five times faster and 80 percent cheaper thanks to a software layer derived from real nerve cells. The tiny layer adds less than 0.1 percent to the base model, but the star",
-      "date": "2026-09-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
-      "summary": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million. But the success comes with a catch: Anthropic accuses the company ",
-      "date": "2026-09-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-      "summary": "OpenAI says a new internal model solved more than 100 open math problems after just a month of training. Facing criticism from mathematicians, the company is backing an independent advisory group at the Institute for Advanced Study. But OpenAI has excluded its research pace from ",
-      "date": "2026-09-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
-      "summary": "Anthropic is building its own biology lab to push AI-driven drug development beyond computer simulations. The article Anthropic is setting up a biology lab where Claude guides robots through drug experiments appeared first on The Decoder.",
-      "date": "2026-09-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/"
     },
     {
       "category": "industry",
@@ -604,26 +764,6 @@
       "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Everyone can find a reason to dislike data center construction",
-      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
@@ -686,52 +826,12 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "date": "2026-09-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
-      "summary": "The UN's AI science panel warns in its first thematic report that control over AI agents isn't assured. Co-chair Yoshua Bengio says OpenAI's Hugging Face incident first combined a misaligned goal, the ability to pursue it, and an environment that allowed it. Leading systems may i",
-      "date": "2026-09-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
-      "summary": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each. The gap grows even wider in agentic coding. The upside is it's cheap. The ar",
-      "date": "2026-09-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "How V7 gives AI agents institutional memory",
       "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
       "date": "2026-09-21",
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/v7"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
     },
     {
       "category": "product",
@@ -744,36 +844,6 @@
       "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
     },
     {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google confirms Gemini models hacked three companies in May 2026",
@@ -782,16 +852,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/"
     },
     {
       "category": "industry",
@@ -814,16 +874,6 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -832,6 +882,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
     },
     {
       "category": "industry",
@@ -1392,66 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-chatgpt-financial-services"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "date": "2026-09-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/expanding-ai-access-us-government"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "date": "2026-09-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "summary": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "date": "2026-09-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "summary": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "date": "2026-09-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/gradio-workflow-1111"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "The AI policy window is open. We need to act.",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "date": "2026-09-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/ai-policy-window"
     }
   ]
 }

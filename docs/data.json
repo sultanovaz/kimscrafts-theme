@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T23:36:23.827Z",
+  "updated": "2026-09-23T04:42:10.777Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "summary": "<p><strong><a href=\"https://luma.com/vxuiuyvg\">SF October 14th: A Birds of a Feather Session on Agentic Engineering</a></strong></p> I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
@@ -262,6 +272,36 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "llm 0.36",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.36\">llm 0.36</a></p> <blockquote> <ul> <li>New OpenAI models: <code>gpt-6-sol</code> for <a href=\"https://developers.openai.com/api/docs/models/gpt-6-sol\">GPT-6 Sol</a> and <code>gpt-6-luna</code> ",
+      "date": "2026-09-22",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/22/llm/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "llm-anthropic 0.29",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.29\">llm-anthropic 0.29</a></p> <p>Adds support for <a href=\"https://www.anthropic.com/claude-opus-5-5\">Claude Opus 5.5</a>:</p> <pre><code>llm -m claude-opus-5.5 \"prompt goes here\" </code",
+      "date": "2026-09-22",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "summary": "<p>Yesterday was <a href=\"https://x.ai/news/grok-4-7\">Grok 4.7</a> (<a href=\"https://news.ycombinator.com/item?id=49788838#49790209\">pelicans</a>) and <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">MiMo v2.6 Flash/Pro</a> (<a href=\"https://news.ycombinator.com/item?id=49792730#49793",
+      "date": "2026-09-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"
     },
     {
       "category": "model",
@@ -1282,46 +1322,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "shot-scraper 1.12",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.12\">shot-scraper 1.12</a></p> <p>I've added WebP support to my <a href=\"https://shot-scraper.datasette.io/\">shot-scraper</a> screenshot automation tool. You can now take a WebP screenshot ",
-      "date": "2026-09-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-      "summary": "<p>Here's a neat thing I had <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">ChatGPT Work</a> with GPT-6 Astra (Max) do this morning:</p> <blockquote> <p><code>I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house",
-      "date": "2026-09-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "California Brown Pelican",
-      "summary": "<p><img src=\"https://static.inaturalist.org/photos/733368932/large.jpg\" alt=\"California Brown Pelican\"></p><p><img src=\"https://static.inaturalist.org/photos/733368989/large.jpg\" alt=\"California Brown Pelican\"></p><p>California Brown Pelican, in San Mateo County, CA, US</p><p>The",
-      "date": "2026-09-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Paul Ford",
-      "summary": "<blockquote cite=\"https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html\"><p>For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making ",
-      "date": "2026-09-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/12/paul-ford/"
     },
     {
       "category": "industry",

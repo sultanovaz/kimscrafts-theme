@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-23T21:28:07.202Z",
+  "updated": "2026-09-24T04:45:52.213Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 186
+    "fresh": 184
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "date": "2026-09-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "date": "2026-09-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
@@ -415,6 +435,26 @@
     },
     {
       "category": "industry",
+      "lab": "Meta",
+      "title": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic says its biology lab has already found something big",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
       "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
@@ -534,16 +574,6 @@
       "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
@@ -552,6 +582,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
     },
     {
       "category": "industry",
@@ -642,6 +682,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
     },
     {
       "category": "model",
@@ -822,46 +872,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "date": "2026-09-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
     }
   ]
 }

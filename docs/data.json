@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T17:07:38.561Z",
+  "updated": "2026-09-24T21:29:01.500Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy",
+      "summary": "Google's \"Suncatcher\" project aims to run AI infrastructure in orbit on solar power. A fridge-sized experimental satellite is set to launch on a SpaceX Falcon 9 on October 1. But the challenges are steep: you'd need around 10,000 satellites to match a single 1-gigawatt data cente",
+      "date": "2026-09-24",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/"
+    },
+    {
       "category": "benchmark",
       "lab": "AI",
       "title": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
@@ -272,6 +282,46 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "commit-rewriter 0.2",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/commit-rewriter/releases/tag/0.2\">commit-rewriter 0.2</a></p> <blockquote> <p>Support for branches other than the default branch. Use <code>uvx commit-rewriter --branch other</code> to run against another branch. <a ",
+      "date": "2026-09-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/"
+    },
+    {
+      "category": "research",
+      "lab": "Anthropic",
+      "title": "Top AI experts badly underestimated how fast the field is moving, study finds",
+      "summary": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International Mathematical Olympiad five years ahead of the median expert forecast, and Anthropic's annualized revenue",
+      "date": "2026-09-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette 1.0a41",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a41\">datasette 1.0a41</a></p> <p>Alec Garcia added <a href=\"https://docs.datasette.io/en/latest/internals.html#internals-telemetry\">support for OpenTelemetry</a> to Datasette in this release",
+      "date": "2026-09-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update",
+      "summary": "Tokyo-based Sakana AI has hired Jürgen Schmidhuber as Chief Scientific Advisor. Sakana calls him the \"father of modern AI.\" He'll help lead the company's new RSI Lab, which works on recursive self-improvement, meaning AI that keeps developing itself. His ideas from the 1990s have",
+      "date": "2026-09-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/"
     },
     {
       "category": "product",
@@ -386,6 +436,56 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "date": "2026-09-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "date": "2026-09-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
+      "date": "2026-09-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "date": "2026-09-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "date": "2026-09-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "TechCrunch Founder Summit 2026: Everything you need to know",
       "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
       "date": "2026-09-24",
@@ -396,7 +496,7 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
       "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
       "date": "2026-09-24",
       "importance": 2,
@@ -434,10 +534,10 @@
       "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/"
     },
     {
-      "category": "industry",
+      "category": "product",
       "lab": "AI",
       "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-      "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
       "date": "2026-09-24",
       "importance": 2,
       "tags": [],
@@ -515,26 +615,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "ChatGPT Voice gets closer to \"Her\" with email, calendar, and Slack access",
-      "summary": "ChatGPT Voice now runs on OpenAI's new GPT-6 Astra, Sol, and Luna models and can tap into plugins like email, calendar, and Slack. Users can manage appointments, send emails, or build websites just by talking. The update moves OpenAI closer to the everyday AI assistant Sam Altman",
-      "date": "2026-09-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chatgpt-voice-gets-closer-to-her-with-email-calendar-and-slack-access/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's new Flash TTS models let you design AI voices from scratch using text descriptions",
-      "summary": "Google is introducing two new text-to-speech models, Gemini 3.8 Flash TTS and Flash-Lite TTS, which support more than 100 languages. Flash TTS can create new voices from text descriptions, and both models let users add stage directions to individual lines and generate two-voice d",
-      "date": "2026-09-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "Gemini 3.8 TTS Playground",
       "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/gemini-tts-playground\">Gemini 3.8 TTS Playground</a></p> <p>Google <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\">released two new Gemini text-to-speec",
@@ -542,16 +622,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing",
-      "summary": "YouTube is adding AI tools to its creator studio. A storytelling assistant analyzes scripts and rough cuts, Gemini becomes a chat-based editing assistant for Shorts, and a new live translation feature turns English streams into Spanish. The article YouTube adds AI tools to Creato",
-      "date": "2026-09-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/"
     },
     {
       "category": "model",
@@ -665,26 +735,6 @@
     },
     {
       "category": "product",
-      "lab": "OpenAI",
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Even Americans who use AI every day are worried about it",
-      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/"
-    },
-    {
-      "category": "product",
       "lab": "Anthropic",
       "title": "Shadow roots, explained with live examples",
       "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/shadow-roots\">Shadow roots, explained with live examples</a></p> <p>Prompt to Fable 5.1 Medium:</p> <blockquote> <p><code>Build an artifact to explain shadow roots in CSS with interactive examples</code></p> </blo",
@@ -712,26 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/two-years-of-openai-academy"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "YouTube Music gets more conversational with new AI features",
-      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "YouTube will let you build your own algorithm with AI",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/"
     },
     {
       "category": "industry",
@@ -1274,16 +1304,6 @@
       "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Self-generated prompt injections in compaction summaries",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "The contagion of fear",
-      "summary": "<p><strong><a href=\"https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\">The contagion of fear</a></strong></p> Bryan Cantrill responds to the <a href=\"https://x.com/hilbertspaess/status/2097476203863224394\">tweet by former Anthropic employee Jacob Coxon</a> confirming",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "What blog posts influenced your thinking the most?",
-      "summary": "<p><a href=\"https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking#c_4fxnwn\">My comment</a> on <a href=\"https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking\">What blog posts influenced your thinking the most?</a> &mdash; Lobste.rs.</p><p>An early Joel ",
-      "date": "2026-09-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/14/influences/"
     }
   ]
 }

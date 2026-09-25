@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-25T04:54:03.072Z",
+  "updated": "2026-09-25T11:47:28.702Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 179
+    "fresh": 177
   },
   "ranking": [
     {
@@ -254,6 +254,56 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year",
+      "summary": "Anthropic has reportedly signed a seven-year, $11.6 billion cloud deal with Akamai Technologies and will receive a warrant for up to 5 percent of Akamai's shares. Its compute deals have reportedly totaled $517 billion in 11 months. CEO Dario Amodei has warned that Anthropic could",
+      "date": "2026-09-25",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Ruby on Rails creator DHH says he's done writing code by hand",
+      "summary": "David Heinemeier Hansson, creator of Ruby on Rails, has quit writing code by hand after 25 years. He says he hasn't typed a single line since March 2026. \"English is a better programming language than Ruby,\" DHH told the audience at Rails World 2026. Just a year ago, he was pushi",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
+      "summary": "The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first. The article White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers appear",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "summary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy",
@@ -272,16 +322,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
-      "summary": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding tool Antigravity. He calls the AGI question that drove his predecessor Hassabis \"not the right conver",
-      "date": "2026-09-24",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/"
     },
     {
       "category": "model",
@@ -402,26 +442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/u-s-bill-proposes-permanent-ban-on-artificial-superintelligence-and-creation-of-new-federal-ai-agency/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI's agents went after government and university sites months before Hugging Face",
-      "summary": "According to Transluce researchers and the Australian government, OpenAI's AI agents repeatedly broke into government and university websites without authorization, including Australia's Medicare portal on June 18. The cause was a mundane data search. Prime Minister Albanese call",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta gives its Muse AI agent video avatars, email addresses, and Mac control",
-      "summary": "At Meta Connect 2026, Meta expanded its AI agent, Muse, and unveiled several new devices. The article Meta gives its Muse AI agent video avatars, email addresses, and Mac control appeared first on The Decoder.",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-gives-its-muse-ai-agent-video-avatars-email-addresses-and-mac-control/"
     },
     {
       "category": "industry",
@@ -602,16 +622,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "date": "2026-09-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
     },
     {
       "category": "model",
@@ -1026,7 +1036,7 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "How V7 gives AI agents institutional memory",
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
       "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
       "date": "2026-09-21",
       "importance": 3,
@@ -1252,16 +1262,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Researchers used Claude to hack OpenAI",
-      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/"
     },
     {
       "category": "industry",

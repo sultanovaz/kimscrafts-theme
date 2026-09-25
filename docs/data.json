@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:47:28.702Z",
+  "updated": "2026-09-25T17:07:58.057Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Intelligence doesn't come cheap as AI drives up costs for the NSA, hospitals, and insurers",
+      "summary": "The NSA is already spending billions of dollars to test advanced AI models, mostly on computing power, according to The Washington Sun. Lawmakers expect full-scale AI oversight to cost tens of billions of dollars a year, while earlier estimates from the Congressional Budget Offic",
+      "date": "2026-09-25",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/"
+    },
+    {
       "category": "hardware",
       "lab": "Anthropic",
       "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year",
@@ -262,6 +272,46 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/"
+    },
+    {
+      "category": "model",
+      "lab": "Microsoft",
+      "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing",
+      "summary": "Microsoft is splitting its Copilot app into three sections: Home, Code, and a new agent called \"Autopilot.\" Built on OpenClaw, the agent runs continuously in the cloud, where it can monitor Teams channels and complete tasks on its own, according to Microsoft. For Autopilot and Co",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta's Muse agent gives every user a full cloud computer running Ubuntu Linux",
+      "summary": "Meta gives every Muse user a free cloud computer running Ubuntu Linux where they can install software, write code, and browse the web. A \"Sentinel\" process monitors sensitive actions outside the user's workspace, while users can inspect every file in the system. With over 500,000",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's \"Call for Me\" lets Gemini phone businesses for you",
+      "summary": "Google is testing \"Call for Me,\" a feature that lets Gemini call businesses on a user's behalf. The article Google's \"Call for Me\" lets Gemini phone businesses for you appeared first on The Decoder.",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/"
     },
     {
       "category": "industry",
@@ -294,6 +344,66 @@
       "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/proaction"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+      "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
@@ -304,6 +414,16 @@
       "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+      "summary": "<p><img src=\"https://static.inaturalist.org/photos/740453177/large.jpg\" alt=\"Northern Gannet\"></p><p><img src=\"https://static.inaturalist.org/photos/740453341/large.jpg\" alt=\"Great Blue Heron\"></p><p><img src=\"https://static.inaturalist.org/photos/740454506/large.jpg\" alt=\"Califo",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy",
@@ -312,16 +432,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "AI",
-      "title": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
-      "summary": "Black Forest Labs is entering robotics with FLUX 3 Action. The open-world-action model uses camera feeds to predict what action a robot should take next. With just seven billion parameters, it sets a record on the RoboLab-120 benchmark while running up to 3.95 times faster than t",
-      "date": "2026-09-24",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/"
     },
     {
       "category": "model",
@@ -395,26 +505,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
-      "summary": "Anthropic's AI model Claude found a previously unknown enzyme system in DNA databases, doing most of the analysis on its own. The article Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining appeared first on The Decoder.",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "AI",
-      "title": "AI performance costs are falling faster than those of any previous technology",
-      "summary": "AI is hitting a fixed benchmark performance level at a rapidly falling cost. Epoch AI measures a price decline of about 13x per year. After stripping out hardware gains and competition, MIT puts annual algorithmic progress at about 3x. That doesn't mean today's best models are ch",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google tests letting Gemini call businesses for you",
       "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
@@ -436,22 +526,12 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency",
-      "summary": "Senator Bernie Sanders and Representative Greg Casar introduced a bill on September 23 that would permanently ban the development and use of artificial superintelligence. The article U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI a",
+      "title": "Note on 24th September 2026",
+      "summary": "<p>The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.</p> <p>We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.</p> <p>Tags: <a href=\"https",
       "date": "2026-09-24",
-      "importance": 3,
+      "importance": 2,
       "tags": [],
-      "url": "https://the-decoder.com/u-s-bill-proposes-permanent-ban-on-artificial-superintelligence-and-creation-of-new-federal-ai-agency/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
+      "url": "https://simonwillison.net/2026/Sep/24/harder/"
     },
     {
       "category": "industry",
@@ -594,36 +674,6 @@
       "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-      "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Gemini 3.8 TTS Playground",
@@ -672,26 +722,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta introduces camera-free AI glasses",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic says its biology lab has already found something big",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
     },
     {
       "category": "industry",
@@ -1364,16 +1394,6 @@
       "url": "https://openai.com/index/model-misalignment-reporting-framework"
     },
     {
-      "category": "model",
-      "lab": "Microsoft",
-      "title": "Quoting Mustafa Suleyman",
-      "summary": "<blockquote cite=\"https://mustafa-suleyman.ai/a-warning-about-model-welfare\"><p>We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite",
-      "date": "2026-09-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Helping older adults use AI in everyday life",
@@ -1425,16 +1445,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "Gemini Live audio",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/gemini-live\">Gemini Live audio</a></p> <p>Google released <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\">Gemini 3.8 Live and 3.",
-      "date": "2026-09-15",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "summary": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
-    },
-    {
-      "category": "product",
-      "lab": "Hugging Face",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "Your Agent Aced the Task. Will It Do It Again?",
-      "date": "2026-09-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
     }
   ]
 }

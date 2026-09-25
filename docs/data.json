@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:07:58.057Z",
+  "updated": "2026-09-25T21:32:29.922Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -274,6 +274,66 @@
       "url": "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/"
     },
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says",
+      "summary": "A federal appeals court has upheld the Pentagon's decision to bar Anthropic from military contracts. Defense Secretary Hegseth argues the company's safety restrictions could jeopardize military operations. Anthropic says the designation has already cost it billions. The article P",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes late",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
+      "summary": "Google Deepmind researcher Robert O'Callahan has quit, saying AI's \"current rate of change is far too high.\" He worked on chip design tools that helped make AI cheaper and faster, a contribution he can no longer justify. Many colleagues share his concerns but rarely speak out, he",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Astra and Opus just passed Turing’s other test",
+      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Quoting John Gruber",
+      "summary": "<blockquote cite=\"https://daringfireball.net/linked/2026/09/25/aten-muse\"><p>Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) <em>and</em> because it’s ",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/"
+    },
+    {
       "category": "model",
       "lab": "Microsoft",
       "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing",
@@ -282,6 +342,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes late",
+      "date": "2026-09-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"
     },
     {
       "category": "industry",
@@ -344,6 +414,36 @@
       "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta opens early access program for new Muse features",
+      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -354,10 +454,50 @@
       "url": "https://openai.com/index/proaction"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+    },
+    {
+      "category": "product",
+      "lab": "Microsoft",
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
+    },
+    {
       "category": "product",
       "lab": "Meta",
       "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
       "date": "2026-09-25",
       "importance": 2,
       "tags": [],
@@ -425,16 +565,6 @@
     },
     {
       "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy",
-      "summary": "Google's \"Suncatcher\" project aims to run AI infrastructure in orbit on solar power. A fridge-sized experimental satellite is set to launch on a SpaceX Falcon 9 on October 1. But the challenges are steep: you'd need around 10,000 satellites to match a single 1-gigawatt data cente",
-      "date": "2026-09-24",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "commit-rewriter 0.2",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/commit-rewriter/releases/tag/0.2\">commit-rewriter 0.2</a></p> <blockquote> <p>Support for branches other than the default branch. Use <code>uvx commit-rewriter --branch other</code> to run against another branch. <a ",
@@ -462,16 +592,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/24/datasette/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update",
-      "summary": "Tokyo-based Sakana AI has hired Jürgen Schmidhuber as Chief Scientific Advisor. Sakana calls him the \"father of modern AI.\" He'll help lead the company's new RSI Lab, which works on recursive self-improvement, meaning AI that keeps developing itself. His ideas from the 1990s have",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/"
     },
     {
       "category": "product",
@@ -502,26 +622,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google tests letting Gemini call businesses for you",
-      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-      "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/"
     },
     {
       "category": "industry",
@@ -584,36 +684,6 @@
       "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
@@ -622,36 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-      "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-      "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/"
     },
     {
       "category": "industry",
@@ -1236,32 +1276,12 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-      "summary": "But the military's overall use of AI seems to be accelerating.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "Note on 18th September 2026",
       "summary": "<p>Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park.</p> <p>Skeptical geneticist: \"pfft, it's just frog DNA. And they delibera",
       "date": "2026-09-18",
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
     },
     {
       "category": "model",
@@ -1272,16 +1292,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "US government website used Chinese model the FBI called \"malicious\"",
-      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/"
     },
     {
       "category": "product",
@@ -1336,6 +1346,16 @@
     {
       "category": "model",
       "lab": "OpenAI",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49746618#49747390\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49746618\">Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint</a> &mdash; Hacker News.</p><p>If you want to try out out the GGUFs from",
+      "date": "2026-09-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/17/hn-49747390/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
       "title": "Self-generated prompt injections in compaction summaries",
       "summary": "<p><strong><a href=\"https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/\">Self-generated prompt injections in compaction summaries</a></strong></p> In <a href=\"https://openai.com/index/model-misalignment-reporting-framework/\"",
       "date": "2026-09-17",
@@ -1362,26 +1382,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/16/datasette/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette 0.65.5",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.5\">datasette 0.65.5</a></p> <p>Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by <a href=\"htt",
-      "date": "2026-09-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/16/datasette-2/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Cowork and chat are now one Claude",
-      "summary": "<p><strong><a href=\"https://claude.com/blog/cowork-is-now-claude\">Claude Cowork and chat are now one Claude</a></strong></p> In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code:</p> <blockquote> <p>Starting today, Claud",
-      "date": "2026-09-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/16/one-claude/"
     },
     {
       "category": "model",

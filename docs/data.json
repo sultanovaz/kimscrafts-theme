@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-26T11:21:06.962Z",
+  "updated": "2026-09-26T16:20:37.587Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 175
+    "fresh": 173
   },
   "ranking": [
     {
@@ -282,6 +282,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "date": "2026-09-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
     },
     {
       "category": "industry",
@@ -672,16 +682,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
     },
     {
       "category": "hardware",

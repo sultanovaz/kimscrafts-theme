@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-25T21:32:29.922Z",
+  "updated": "2026-09-26T04:54:26.872Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 177
+    "fresh": 176
   },
   "ranking": [
     {
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "industry",
+      "lab": "Meta",
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "date": "2026-09-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Intelligence doesn't come cheap as AI drives up costs for the NSA, hospitals, and insurers",
       "summary": "The NSA is already spending billions of dollars to test advanced AI models, mostly on computing power, according to The Washington Sun. Lawmakers expect full-scale AI oversight to cost tens of billions of dollars a year, while earlier estimates from the Congressional Budget Offic",
@@ -412,6 +422,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
     },
     {
       "category": "industry",
@@ -594,16 +634,6 @@
       "url": "https://simonwillison.net/2026/Sep/24/datasette/"
     },
     {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
@@ -662,26 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"
     },
     {
       "category": "product",
@@ -1132,16 +1142,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-      "summary": "The president offered few details on what his proposed new AI Force would do.",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/"
     },
     {
       "category": "industry",

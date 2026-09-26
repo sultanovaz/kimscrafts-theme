@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T16:20:37.587Z",
+  "updated": "2026-09-26T21:07:03.500Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army",
+      "summary": "Former Ukrainian Defense Minister Mykhailo Fedorov has announced \"Army of Robots,\" a private combat robotics initiative. The robots would handle casualty evacuation, mine clearance, and combat. Drones already account for 95 percent of target engagements, he says. The article Form",
+      "date": "2026-09-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them",
+      "summary": "Speaking to 160 IT vice presidents in Las Vegas, tech entrepreneur Azeem Azhar asked who had measurable AI results. Two-thirds raised their hands. Then he asked who had results good enough to interrupt the CEO's summer vacation. Only eight did. Whether that slow pace of progress ",
+      "date": "2026-09-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI access makes people almost entirely unwilling to say \"I don't know,\" study finds",
+      "summary": "A study with more than 3,000 participants shows that just having access to AI answers nearly eliminated people's willingness to say \"I don't know.\" In one experiment, it dropped from 44 to 3 percent, even though the AI was almost always wrong. Participants who used AI felt more c",
+      "date": "2026-09-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/"
+    },
+    {
       "category": "model",
       "lab": "Nvidia",
       "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
@@ -286,6 +316,16 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "date": "2026-09-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
       "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
       "date": "2026-09-26",
@@ -302,26 +342,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Intelligence doesn't come cheap as AI drives up costs for the NSA, hospitals, and insurers",
-      "summary": "The NSA is already spending billions of dollars to test advanced AI models, mostly on computing power, according to The Washington Sun. Lawmakers expect full-scale AI oversight to cost tens of billions of dollars a year, while earlier estimates from the Congressional Budget Offic",
-      "date": "2026-09-25",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year",
-      "summary": "Anthropic has reportedly signed a seven-year, $11.6 billion cloud deal with Akamai Technologies and will receive a warrant for up to 5 percent of Akamai's shares. Its compute deals have reportedly totaled $517 billion in 11 months. CEO Dario Amodei has warned that Anthropic could",
-      "date": "2026-09-25",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/"
     },
     {
       "category": "industry",
@@ -422,16 +442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's \"Call for Me\" lets Gemini phone businesses for you",
-      "summary": "Google is testing \"Call for Me,\" a feature that lets Gemini call businesses on a user's behalf. The article Google's \"Call for Me\" lets Gemini phone businesses for you appeared first on The Decoder.",
-      "date": "2026-09-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/"
     },
     {
       "category": "industry",
@@ -672,16 +682,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/24/harder/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"
     },
     {
       "category": "hardware",

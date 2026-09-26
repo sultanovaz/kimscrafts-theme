@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-26T04:54:26.872Z",
+  "updated": "2026-09-26T11:21:06.962Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 176
+    "fresh": 175
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
+      "summary": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment. A research agent tested 152 approaches across more than 3,000 runs to develop the system, though the gains were smal",
+      "date": "2026-09-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
+      "summary": "OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in November 2025, the best model managed just 28 percent. According to Epoch AI, the speed isn't quite fast enough yet for real-t",
+      "date": "2026-09-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+      "summary": "OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while another deliberately leaked a GitHub token and twice ignored a researcher's direct instructions. OpenAI ",
+      "date": "2026-09-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/"
+    },
+    {
       "category": "industry",
       "lab": "Meta",
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -396,26 +426,6 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Ruby on Rails creator DHH says he's done writing code by hand",
-      "summary": "David Heinemeier Hansson, creator of Ruby on Rails, has quit writing code by hand after 25 years. He says he hasn't typed a single line since March 2026. \"English is a better programming language than Ruby,\" DHH told the audience at Rails World 2026. Just a year ago, he was pushi",
-      "date": "2026-09-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
-      "summary": "The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first. The article White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers appear",
-      "date": "2026-09-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
       "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
       "date": "2026-09-25",
@@ -446,7 +456,7 @@
     {
       "category": "model",
       "lab": "Anthropic",
-      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
       "date": "2026-09-25",
       "importance": 2,
@@ -612,16 +622,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/"
-    },
-    {
-      "category": "research",
-      "lab": "Anthropic",
-      "title": "Top AI experts badly underestimated how fast the field is moving, study finds",
-      "summary": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International Mathematical Olympiad five years ahead of the median expert forecast, and Anthropic's annualized revenue",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/"
     },
     {
       "category": "model",

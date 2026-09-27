@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-26T23:35:55.243Z",
+  "updated": "2026-09-27T05:15:20.386Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 173
+    "fresh": 171
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "date": "2026-09-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Kākāpō Party",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/kakapo-party\">Kākāpō Party</a></p> <p>I presented a closing keynote for the <a href=\"https://www.wearedevelopers.com/world-congress-north-america\">WeAreDevelopers World Congress North America</a> yesterday. As <a ",
+      "date": "2026-09-26",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army",
@@ -442,16 +462,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "date": "2026-09-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
     },
     {
       "category": "industry",
@@ -1372,16 +1382,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/cooley-gopublic"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette 1.0a40",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a40\">datasette 1.0a40</a></p> <p>Same security fix as <a href=\"https://simonwillison.net/2026/Sep/16/datasette-2/\">0.65.5</a>, plus some neat new features and bug fixes:</p> <ul> <li>Plugins",
-      "date": "2026-09-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/16/datasette/"
     },
     {
       "category": "model",

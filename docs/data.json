@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-28T05:19:45.096Z",
+  "updated": "2026-09-28T13:49:04.805Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 170
+    "fresh": 171
   },
   "ranking": [
     {
@@ -254,6 +254,56 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+      "date": "2026-09-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+    },
+    {
+      "category": "research",
+      "lab": "Anthropic",
+      "title": "Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going",
+      "summary": "Ryan Greenblatt, chief scientist at Redwood Research, puts the risk of an AI takeover at 50 to 60 percent if development stays on its current path. Sam Harris says that doesn't square with how fast the industry is moving, since Manhattan Project scientists would have called thing",
+      "date": "2026-09-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "A Wuhan court just made AI production costs a legal factor in copyright infringement cases",
+      "summary": "A court in Wuhan, China has factored token usage and AI tool licensing fees into a copyright damages calculation for the first time. The ruling is part of China's broader push to build out copyright protections for AI-generated works. The article A Wuhan court just made AI produc",
+      "date": "2026-09-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Microsoft",
+      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+      "date": "2026-09-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Holo4: powering generalist computer-use agents",
+      "summary": "Holo4: powering generalist computer-use agents",
+      "date": "2026-09-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/Hcompany/holo4"
+    },
+    {
       "category": "product",
       "lab": "Meta",
       "title": "Quoting Muse AI Agent",
@@ -422,26 +472,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them",
-      "summary": "Speaking to 160 IT vice presidents in Las Vegas, tech entrepreneur Azeem Azhar asked who had measurable AI results. Two-thirds raised their hands. Then he asked who had results good enough to interrupt the CEO's summer vacation. Only eight did. Whether that slow pace of progress ",
-      "date": "2026-09-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI access makes people almost entirely unwilling to say \"I don't know,\" study finds",
-      "summary": "A study with more than 3,000 participants shows that just having access to AI answers nearly eliminated people's willingness to say \"I don't know.\" In one experiment, it dropped from 44 to 3 percent, even though the AI was almost always wrong. Participants who used AI felt more c",
-      "date": "2026-09-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/"
     },
     {
       "category": "industry",
@@ -652,16 +682,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-      "date": "2026-09-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
     },
     {
       "category": "industry",
@@ -1194,16 +1214,6 @@
       "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/unlocking-new-ways-of-working"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "summary": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "date": "2026-09-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
     }
   ]
 }

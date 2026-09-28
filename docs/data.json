@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T21:18:38.975Z",
+  "updated": "2026-09-28T05:19:45.096Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Quoting Muse AI Agent",
+      "summary": "<blockquote cite=\"https://www.threads.com/share/_oWfPufYJ/\"><p>Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating.</p> <p>Worse, my auto-re",
+      "date": "2026-09-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "2026 in LLMs (so far)",
+      "summary": "<p>On Friday I gave the closing keynote at the <a href=\"https://www.wearedevelopers.com/world-congress-north-america\">WeAreDevelopers World Congress North America</a> in San Jose. I tied together the key trends from the past year into a chronological exploration of everything tha",
+      "date": "2026-09-27",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -335,6 +355,16 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "S3 Is the Future, S3 Is the Past",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49851693#49871741\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49851693\">S3 Is the Future, S3 Is the Past</a> &mdash; Hacker News.</p><p>One thing I find notable about S3 today is that, while it used to drop in ",
+      "date": "2026-09-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/"
+    },
+    {
+      "category": "industry",
       "lab": "Anthropic",
       "title": "Can Muse overcome Meta’s trust issues?",
       "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
@@ -342,6 +372,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Bluesky reply bot checker",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/bluesky-bot-check\">Bluesky reply bot checker</a></p> <p>Automated reply bots on Twitter are a <em>scourge</em> - as someone with a decent number of followers I attract a swarm of these, such that anything I post t",
+      "date": "2026-09-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/"
     },
     {
       "category": "industry",
@@ -784,6 +824,16 @@
       "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49823195#49823961\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49823195\">We just shipped support for the ugliest part of HTTP: Vary</a> &mdash; Hacker News.</p><p>I've been wanting this from Cloudflare <em>for y",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/23/hn-49823961/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
@@ -935,6 +985,16 @@
     },
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "summary": "<p>Yesterday was <a href=\"https://x.ai/news/grok-4-7\">Grok 4.7</a> (<a href=\"https://news.ycombinator.com/item?id=49788838#49790209\">pelicans</a>) and <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">MiMo v2.6 Flash/Pro</a> (<a href=\"https://news.ycombinator.com/item?id=49792730#49793",
+      "date": "2026-09-22",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "llm 0.36",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.36\">llm 0.36</a></p> <blockquote> <ul> <li>New OpenAI models: <code>gpt-6-sol</code> for <a href=\"https://developers.openai.com/api/docs/models/gpt-6-sol\">GPT-6 Sol</a> and <code>gpt-6-luna</code> ",
@@ -952,16 +1012,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-      "summary": "<p>Yesterday was <a href=\"https://x.ai/news/grok-4-7\">Grok 4.7</a> (<a href=\"https://news.ycombinator.com/item?id=49788838#49790209\">pelicans</a>) and <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">MiMo v2.6 Flash/Pro</a> (<a href=\"https://news.ycombinator.com/item?id=49792730#49793",
-      "date": "2026-09-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"
     },
     {
       "category": "model",
@@ -1304,16 +1354,6 @@
       "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "The Creative Spirit of Who Framed Roger Rabbit",
-      "summary": "<p><strong><a href=\"https://blog.cypressf.com/post/828067789747208192/the-creative-spirit-of-who-framed-roger-rabbit\">The Creative Spirit of Who Framed Roger Rabbit</a></strong></p> I love <a href=\"https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit\">Who Framed Roger Rabbit</a>",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Introducing the Australian Youth Safety Blueprint",
@@ -1332,46 +1372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/astra-for-law"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Be alert: targeted attacks on prominent Rustaceans",
-      "summary": "<p><strong><a href=\"https://blog.rust-lang.org/2026/09/17/targeted-attacks/\">Be alert: targeted attacks on prominent Rustaceans</a></strong></p> Important warning from Adam Harvey and the crates security team:</p> <blockquote> <p>We believe that there is an ongoing campaign targe",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "How To Write With An LLM",
-      "summary": "<p><strong><a href=\"https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\">How To Write With An LLM</a></strong></p> Thomas Ptacek on using LLMs as copyeditors, not as writing assistants:</p> <blockquote> <p><strong>Rule Number One: You may not use a single word an LLM",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49746618#49747390\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49746618\">Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint</a> &mdash; Hacker News.</p><p>If you want to try out out the GGUFs from",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/17/hn-49747390/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Self-generated prompt injections in compaction summaries",
-      "summary": "<p><strong><a href=\"https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/\">Self-generated prompt injections in compaction summaries</a></strong></p> In <a href=\"https://openai.com/index/model-misalignment-reporting-framework/\"",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/"
     },
     {
       "category": "industry",

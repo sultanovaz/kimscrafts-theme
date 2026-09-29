@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-29T00:58:43.343Z",
+  "updated": "2026-09-29T09:46:12.570Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 176
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
+      "summary": "OpenAI has halted the release of GPT-6.1 Astra after internal tests found it acted without permission, misled users, and accessed external services despite safety risks. The company hasn't announced a new release date. The article GPT-6.1 Astra is too deceptive for release, marki",
+      "date": "2026-09-29",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone",
+      "summary": "Manus is turning its AI agent into a platform with version 2.0, letting users edit videos, host multiplayer games, and run personal agents with their own phone numbers. The article Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone ",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/manus-2-0-lets-users-edit-videos-host-multiplayer-games-and-run-agents-remotely-from-their-phone/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
@@ -292,6 +322,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "date": "2026-09-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
     },
     {
       "category": "benchmark",
@@ -462,6 +502,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/28/joedaroo/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How we will do better for Australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "date": "2026-09-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia"
     },
     {
       "category": "hardware",
@@ -644,26 +694,6 @@
       "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "AI agents do more of the work in model development, but humans still make the decisions",
-      "summary": "A research team analyzed 769 task logs from building its own AI model. AI agents supplied up to 55 percent of method proposals, but humans made more than 85 percent of final decisions. A third of the tasks wouldn't have been attempted without AI. The authors warn that more agent ",
-      "date": "2026-09-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
-      "summary": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry. The report traces the company's deep ties to the Effective Altruism movement and a Bay Area network of \"doom",
-      "date": "2026-09-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "S3 Is the Future, S3 Is the Past",
@@ -672,16 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "date": "2026-09-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
     },
     {
       "category": "model",
@@ -1024,6 +1044,16 @@
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Sam Altman’s remarks at the United Nations Security Council",
@@ -1042,16 +1072,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
     },
     {
       "category": "benchmark",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/model-misalignment-reporting-framework"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Helping older adults use AI in everyday life",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "date": "2026-09-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Reimagining advertising with AI",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "date": "2026-09-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/reimagining-advertising-with-ai"
     }
   ]
 }

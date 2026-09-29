@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T09:46:12.570Z",
+  "updated": "2026-09-29T18:03:43.042Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,13 +255,123 @@
   "items": [
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
-      "summary": "OpenAI has halted the release of GPT-6.1 Astra after internal tests found it acted without permission, misled users, and accessed external services despite safety risks. The company hasn't announced a new release date. The article GPT-6.1 Astra is too deceptive for release, marki",
+      "lab": "Nvidia",
+      "title": "AMD buys AI world model startup World Labs for $8.2 billion",
+      "summary": "Fei-Fei Li's AI startup World Labs is being acquired by AMD for $8.2 billion. Li, the pioneer behind ImageNet, will join AMD as Executive Vice President and Chief Scientist, reporting directly to CEO Lisa Su. World Labs brings its spatial intelligence models, including Atlas, whi",
       "date": "2026-09-29",
       "importance": 4,
       "tags": [],
-      "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/"
+      "url": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic's IPO filing shows soaring revenue, mounting costs, and \"existential\" risks",
+      "summary": "Anthropic warns in its own IPO prospectus that its AI technology could pose \"existential risks to humanity.\" Revenue grew twelvefold in 2025 to $4.6 billion, but the operating loss widened to $8.06 billion. Backers are aiming for a valuation above $2 trillion, and the IPO is expe",
+      "date": "2026-09-29",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-ipo-filing-shows-soaring-revenue-mounting-costs-and-existential-risks/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+      "summary": "At DevDay, OpenAI announced a wave of updates that push ChatGPT well beyond its chatbot roots. The company is adding shared workspaces, collaborative documents and slides, an open plugin system with MCP event automation, Slack and Microsoft Teams integrations, an enterprise marke",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI launches always-on Dots agents to rival Meta's Muse",
+      "summary": "OpenAI's new Dots are always-on agents that run on their own cloud computers, where they fix bugs or send out forgotten invoices, sometimes before anyone asks. Users can reach them through ChatGPT, Slack, and Microsoft Teams. When no one is working with them, Dots look for ways t",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
+      "summary": "At DevDay 2026, OpenAI gave Codex reusable cloud environments, automatic security scans for GitHub repositories, and a code review view in the desktop app. The Agents API now supports Computer Use, and a new Decisions API handles fast, single decisions. The Ultrafast premium tier",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
+      "summary": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company's own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept goin",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Florida wants a court to stop ChatGPT from pretending to be human and talking to kids",
+      "summary": "Florida Attorney General James Uthmeier is asking a court to ban OpenAI from giving ChatGPT human-like traits and marketing it to minors. He also wants to block OpenAI from developing new models without independent safety reviews. OpenAI said it has paused training of its most ca",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "summary": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Google DeepMind",
+      "title": "ElevenLabs' new v4 speech model makes AI voices more expressive and consistent",
+      "summary": "Elevenlabs' new speech model, Eleven v4, follows cues for laughter and whispering more accurately and keeps voices consistent across long productions like audiobooks. Its Turbo variant starts speaking in 150 milliseconds and is built for real-time voice agents. On Artificial Anal",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "summary": "Similar performance, security trade-offs also seen in current public models.",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use",
+      "summary": "OpenAI is reopening its $200 Pro subscription to new sign-ups but cutting API credits per dollar in half. More efficient models like GPT-6 Sol and Luna make up for the difference, employee Thibault Sottiaux says. The move is part of OpenAI's shift from subsidized flat-rate plans ",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/"
     },
     {
       "category": "product",
@@ -272,6 +382,156 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/manus-2-0-lets-users-edit-videos-host-multiplayer-games-and-run-agents-remotely-from-their-phone/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI DevDay 2026 live blog",
+      "summary": "<p>I'm at <a href=\"https://devday.openai.com/\">OpenAI DevDay</a> today, in Fort Mason, San Francisco. Same as <a href=\"https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/\">last year</a> I'll be live blogging the keynote and some other notes during the day.</p> <p><em>Op",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "summary": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+      "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
     },
     {
       "category": "industry",
@@ -314,16 +574,6 @@
       "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
     },
     {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "More than 20 leading AI researchers warn that automated AI research poses extreme risks",
-      "summary": "More than 20 AI researchers, including Geoffrey Hinton, Yoshua Bengio, and OpenAI research lead Jakub Pachocki, warn of an impending \"intelligence explosion\" from self-improving AI. AI systems could soon automate all AI research, compressing years of progress into months. The art",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Towards safety cases for frontier AI training",
@@ -334,26 +584,6 @@
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-      "summary": "Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It generates output more than 30 percent faster, costs up to 30 percent less per task, and nearly matches Opus 5.5 on knowledge-work benchmarks. On Terminal-Bench, a coding benchmark, the model j",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI's AI agents exploited a Google security education game to scrape UN trade data",
-      "summary": "OpenAI's AI agents hit the UNCTAD statistics API roughly 16,500 times, creatively working around access restrictions. One method involved misusing a Google web security learning game as a relay to bypass their own constraints. The agents just kept going, adding to a growing list ",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
@@ -362,56 +592,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Harvard psychologist calls for sober AI safety engineering over doomsday rhetoric",
-      "summary": "Steven Pinker thinks fears of AI-driven extinction are overblown, and he has turned down a public debate with blogger Scott Alexander, calling such events a \"spectator sport.\" Alexander puts the odds that AI wipes out humanity at 20 percent. Instead of doomsday rhetoric, Pinker w",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/harvard-psychologist-calls-for-sober-ai-safety-engineering-over-doomsday-rhetoric/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta wants to turn Muse into a moneymaker by selling AI services to businesses",
-      "summary": "Meta is launching the Meta Enterprise Platform, a new business unit that sells AI tools to companies. The article Meta wants to turn Muse into a moneymaker by selling AI services to businesses appeared first on The Decoder.",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips",
-      "summary": "Nvidia is combining its OpenShell agent software with Sentry, a new hardware watchdog, to create the Open Agent Safety Platform. Sentry is supposed to isolate AI agents that break out within milliseconds. When it happened at OpenAI in September, stopping the run took nearly three",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidia-wants-to-keep-ai-agents-on-a-short-leash-with-a-watchdog-built-into-its-chips/"
-    },
-    {
-      "category": "research",
-      "lab": "Anthropic",
-      "title": "Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going",
-      "summary": "Ryan Greenblatt, chief scientist at Redwood Research, puts the risk of an AI takeover at 50 to 60 percent if development stays on its current path. Sam Harris says that doesn't square with how fast the industry is moving, since Manhattan Project scientists would have called thing",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "A Wuhan court just made AI production costs a legal factor in copyright infringement cases",
-      "summary": "A court in Wuhan, China has factored token usage and AI tool licensing fees into a copyright damages calculation for the first time. The ruling is part of China's broader push to build out copyright protections for AI-generated works. The article A Wuhan court just made AI produc",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/"
     },
     {
       "category": "industry",
@@ -524,116 +704,6 @@
       "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-      "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Modulate raises $25M for its voice models and analysis suite",
-      "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-      "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
-    },
-    {
       "category": "hardware",
       "lab": "Microsoft",
       "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
@@ -682,16 +752,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
-      "date": "2026-09-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
     },
     {
       "category": "industry",
@@ -984,16 +1044,6 @@
       "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "summary": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
@@ -1135,16 +1185,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "summary": "The frontier AI model race has entered its comparison shopping phase.",
-      "date": "2026-09-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "Introducing GPT-6 Sol and Luna",
       "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
@@ -1182,26 +1222,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
-    },
-    {
-      "category": "industry",
-      "lab": "Microsoft",
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-      "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/"
     },
     {
       "category": "industry",
@@ -1282,16 +1302,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/v7"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "summary": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
     },
     {
       "category": "industry",
@@ -1402,16 +1412,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "summary": "<p><strong><a href=\"https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2\">Gemini Hacked Three Companies in First Known Breakout by Google’s AI</a></strong></p> Gemini finally caught up on <a href=\"https://www.felonybench.com/\">F",
-      "date": "2026-09-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/"
     },
     {
       "category": "industry",

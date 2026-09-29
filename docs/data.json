@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-29T18:03:43.042Z",
+  "updated": "2026-09-29T22:12:28.135Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 176
+    "fresh": 179
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
+      "summary": "OpenAI's annualized revenue rate is nearing $70 billion, up about 70 percent since the start of Q3. Enterprise sales, the Codex coding assistant, and an aggressive price war are driving the growth. Anthropic is right on its heels with a similar run rate. The article ChatGPT now r",
+      "date": "2026-09-29",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/"
+    },
+    {
       "category": "model",
       "lab": "Nvidia",
       "title": "AMD buys AI world model startup World Labs for $8.2 billion",
@@ -274,10 +284,30 @@
       "url": "https://the-decoder.com/anthropics-ipo-filing-shows-soaring-revenue-mounting-costs-and-existential-risks/"
     },
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+      "summary": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of simulations run by the British AI Security Institute with safety filters disabled. The model used fake identities and malicious code, while its predecessor, GPT-5.6 Sol, completed attacks in 6.3 percent ",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
       "date": "2026-09-29",
       "importance": 3,
       "tags": [],
@@ -364,24 +394,54 @@
       "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Protests against OpenAI get increasingly creative",
+      "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
-      "title": "OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use",
-      "summary": "OpenAI is reopening its $200 Pro subscription to new sign-ups but cutting API credits per dollar in half. More efficient models like GPT-6 Sol and Luna make up for the difference, employee Thibault Sottiaux says. The move is part of OpenAI's shift from subsidized flat-rate plans ",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
       "date": "2026-09-29",
-      "importance": 3,
+      "importance": 2,
       "tags": [],
-      "url": "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/"
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
     },
     {
       "category": "product",
-      "lab": "AI",
-      "title": "Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone",
-      "summary": "Manus is turning its AI agent into a platform with version 2.0, letting users edit videos, host multiplayer games, and run personal agents with their own phone numbers. The article Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone ",
+      "lab": "OpenAI",
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
       "date": "2026-09-29",
-      "importance": 3,
+      "importance": 2,
       "tags": [],
-      "url": "https://the-decoder.com/manus-2-0-lets-users-edit-videos-host-multiplayer-games-and-run-agents-remotely-from-their-phone/"
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
     },
     {
       "category": "product",
@@ -404,16 +464,6 @@
       "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
@@ -422,6 +472,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
     },
     {
       "category": "product",
@@ -437,7 +497,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
       "date": "2026-09-29",
       "importance": 2,
       "tags": [],
@@ -534,6 +594,26 @@
       "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/devday-2026-recap"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -554,6 +634,16 @@
       "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
     },
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Introducing dots",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-dots"
+    },
+    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "Claude Sonnet 5.5",
@@ -562,16 +652,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
     },
     {
       "category": "industry",
@@ -637,7 +717,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "summary": "The new financing is expected to more than triple the AI infrastructure startup's valuation from just four months ago.",
       "date": "2026-09-28",
       "importance": 2,
       "tags": [],
@@ -654,24 +734,14 @@
       "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2B",
+      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
       "date": "2026-09-28",
       "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/"
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
     },
     {
       "category": "product",
@@ -692,16 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-we-will-do-better-for-australia"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
     },
     {
       "category": "hardware",
@@ -1024,36 +1084,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-      "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "YouTube promises custom feeds and a lot more AI later this year",
-      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-      "summary": "\"So absurd and embarrassing ...\"",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/"
-    },
-    {
       "category": "product",
       "lab": "Anthropic",
       "title": "Shadow roots, explained with live examples",
@@ -1094,16 +1124,6 @@
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Sam Altman’s remarks at the United Nations Security Council",
@@ -1122,6 +1142,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
     },
     {
       "category": "benchmark",
@@ -1422,36 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/australian-youth-safety-blueprint"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Introducing Astra for Law",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "date": "2026-09-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/astra-for-law"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "date": "2026-09-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/cooley-gopublic"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Our framework for reporting model misalignment",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "date": "2026-09-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/model-misalignment-reporting-framework"
     }
   ]
 }

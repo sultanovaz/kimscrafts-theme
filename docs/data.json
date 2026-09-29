@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-28T21:13:19.963Z",
+  "updated": "2026-09-29T00:58:43.343Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 172
+    "fresh": 174
   },
   "ranking": [
     {
@@ -256,6 +256,26 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Claude Sonnet 5.5",
+      "summary": "<p><strong><a href=\"https://www.anthropic.com/claude-sonnet-5-5\">Claude Sonnet 5.5</a></strong></p> New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every ben",
+      "date": "2026-09-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
       "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
       "date": "2026-09-28",
@@ -364,6 +384,46 @@
       "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "date": "2026-09-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "date": "2026-09-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+      "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+      "date": "2026-09-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "date": "2026-09-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
@@ -384,6 +444,16 @@
       "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+      "date": "2026-09-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/"
+    },
+    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Quoting @joedaroo",
@@ -397,7 +467,7 @@
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add in",
+      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
       "date": "2026-09-28",
       "importance": 2,
       "tags": [],
@@ -417,7 +487,7 @@
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
       "date": "2026-09-28",
       "importance": 2,
       "tags": [],
@@ -544,6 +614,16 @@
       "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Are you a Codex Original?",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "date": "2026-09-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/form/codex-originals"
+    },
+    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "2026 in LLMs (so far)",
@@ -557,7 +637,7 @@
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
       "date": "2026-09-27",
       "importance": 3,
       "tags": [],
@@ -614,26 +694,6 @@
       "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/"
     },
     {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "summary": "\"AI is the devil and I its maker.\"",
-      "date": "2026-09-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "date": "2026-09-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Kākāpō Party",
@@ -642,26 +702,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "date": "2026-09-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "date": "2026-09-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
     },
     {
       "category": "product",
@@ -984,6 +1024,16 @@
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
@@ -1002,16 +1052,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
     },
     {
       "category": "benchmark",
@@ -1154,16 +1194,6 @@
       "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-      "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
@@ -1244,16 +1274,6 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -1262,6 +1282,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "date": "2026-09-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
     },
     {
       "category": "industry",
@@ -1365,16 +1395,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Note on 18th September 2026",
-      "summary": "<p>Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park.</p> <p>Skeptical geneticist: \"pfft, it's just frog DNA. And they delibera",
-      "date": "2026-09-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Introducing the Australian Youth Safety Blueprint",
       "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/reimagining-advertising-with-ai"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "date": "2026-09-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/hex-gpt-6-astra"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How to connect AI usage to business value",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "date": "2026-09-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-29T22:12:28.135Z",
+  "updated": "2026-09-30T05:29:06.338Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 179
+    "fresh": 178
   },
   "ranking": [
     {
@@ -284,6 +284,26 @@
       "url": "https://the-decoder.com/anthropics-ipo-filing-shows-soaring-revenue-mounting-costs-and-existential-risks/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Quoting Anthropic Frontier Red Team",
+      "summary": "<blockquote cite=\"https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities\"><p>We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks ",
+      "date": "2026-09-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
@@ -395,6 +415,16 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "Protests against OpenAI get increasingly creative",
       "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
@@ -416,12 +446,12 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
       "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
       "date": "2026-09-29",
       "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
     },
     {
       "category": "hardware",
@@ -432,6 +462,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49896586#49898129\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49896586\">GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a> &mdash; Hacker News.</p><p>I'm a bit late with the pelicans because I wa",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/"
     },
     {
       "category": "product",
@@ -447,7 +487,7 @@
       "category": "product",
       "lab": "AI",
       "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
       "date": "2026-09-29",
       "importance": 2,
       "tags": [],
@@ -464,34 +504,34 @@
       "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
     },
     {
-      "category": "model",
+      "category": "product",
       "lab": "OpenAI",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
       "date": "2026-09-29",
       "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
     },
     {
       "category": "product",
       "lab": "OpenAI",
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
       "date": "2026-09-29",
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
     },
     {
-      "category": "product",
+      "category": "model",
       "lab": "OpenAI",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
       "date": "2026-09-29",
       "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
     },
     {
       "category": "industry",
@@ -634,10 +674,10 @@
       "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
     },
     {
-      "category": "product",
+      "category": "industry",
       "lab": "OpenAI",
       "title": "Introducing dots",
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "date": "2026-09-29",
       "importance": 2,
       "tags": [],
@@ -715,16 +755,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "summary": "The new financing is expected to more than triple the AI infrastructure startup's valuation from just four months ago.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
       "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
@@ -732,16 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2B",
-      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
     },
     {
       "category": "product",
@@ -1422,26 +1442,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-auth-github 1.0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-auth-github/releases/tag/1.0\">datasette-auth-github 1.0</a></p> <p>I run this GitHub login plugin on the <a href=\"https://agent.datasette.io/\">agent.datasette.io</a> demo site and I noticed that my authenti",
-      "date": "2026-09-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "California Sea Lion, Brandt's Cormorant",
-      "summary": "<p><img src=\"https://static.inaturalist.org/photos/737061413/large.jpg\" alt=\"California Sea Lion\"></p><p><img src=\"https://static.inaturalist.org/photos/737061040/large.jpg\" alt=\"Brandt&#x27;s Cormorant\"></p><p>California Sea Lion, Brandt&#x27;s Cormorant, in Pillar Point Harbor,",
-      "date": "2026-09-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/"
     },
     {
       "category": "industry",

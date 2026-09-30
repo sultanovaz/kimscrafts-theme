@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-30T05:29:06.338Z",
+  "updated": "2026-09-30T12:30:27.153Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 178
+    "fresh": 176
   },
   "ranking": [
     {
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
+      "summary": "Zhipu's open-weight model GLM-5.3 writes cyber exploits nearly as well as Claude Mythos Preview, according to Anthropic. Its smaller Flash variant put together a reliable Chrome attack for just $20.40 at Zhipu's API prices. The model's safeguards are easy to strip out, and unlock",
+      "date": "2026-09-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google is paying almost no publishers almost nothing for content used in AI answers",
+      "summary": "Google pays about 100 digital publishers for content used in AI Overviews, AI Mode, and Gemini, according to The Information. Payments range from under $1,000 over several months to more than $1 million a year. Some participants don't know how Google calculates payments, while so",
+      "date": "2026-09-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
+      "summary": "President Trump and tech leaders including Mark Zuckerberg, Greg Brockman, Jensen Huang, and Elon Musk signed an AI code of conduct at the White House that is only \"morally binding.\" Outside auditors are supposed to check whether models work as intended. It's unclear what would h",
+      "date": "2026-09-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/trump-and-tech-ceos-sign-an-ai-code-of-conduct-thats-only-morally-binding/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Airbnb adds AI search, more social features",
+      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations",
+      "date": "2026-09-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
@@ -272,16 +312,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic's IPO filing shows soaring revenue, mounting costs, and \"existential\" risks",
-      "summary": "Anthropic warns in its own IPO prospectus that its AI technology could pose \"existential risks to humanity.\" Revenue grew twelvefold in 2025 to $4.6 billion, but the operating loss widened to $8.06 billion. Backers are aiming for a valuation above $2 trillion, and the IPO is expe",
-      "date": "2026-09-29",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-ipo-filing-shows-soaring-revenue-mounting-costs-and-existential-risks/"
     },
     {
       "category": "model",
@@ -374,16 +404,6 @@
       "url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Florida wants a court to stop ChatGPT from pretending to be human and talking to kids",
-      "summary": "Florida Attorney General James Uthmeier is asking a court to ban OpenAI from giving ChatGPT human-like traits and marketing it to minors. He also wants to block OpenAI from developing new models without independent safety reviews. OpenAI said it has paused training of its most ca",
-      "date": "2026-09-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
@@ -392,16 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/nvidia/kumo-tabular"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Google DeepMind",
-      "title": "ElevenLabs' new v4 speech model makes AI voices more expressive and consistent",
-      "summary": "Elevenlabs' new speech model, Eleven v4, follows cues for laughter and whispering more accurately and keeps voices consistent across long productions like audiobooks. Its Turbo variant starts speaking in 150 milliseconds and is built for real-time voice agents. On Artificial Anal",
-      "date": "2026-09-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent/"
     },
     {
       "category": "model",
@@ -732,16 +742,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/basis-tax-workbook-with-astra"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
     },
     {
       "category": "hardware",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-30T20:00:08.569Z",
+  "updated": "2026-10-01T00:32:11.090Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 180
+    "fresh": 179
   },
   "ranking": [
     {
@@ -265,6 +265,36 @@
     },
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
+      "summary": "Gemini 4 Argon is Google's first frontier model in over seven months. It matches GPT-6 Astra in independent testing but can't keep up with Anthropic's Claude Opus 5.5. The per-token price is low, but Argon burns through more than twice as many tokens per task as Astra. Select tes",
+      "date": "2026-09-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "summary": "So much for Gemini 3.5 Pro.",
+      "date": "2026-09-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "summary": "Gemini 4 Argon: our next era of frontier intelligence",
+      "date": "2026-09-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer",
       "summary": "OpenAI and Synopsys are building GPT-Synopsys, a specialized AI model for chip design. It's meant to operate Synopsys' EDA tools like a seasoned engineer and optimize designs on its own. Early tests with semiconductor customers are already underway. OpenAI is likely using the par",
@@ -362,6 +392,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/trump-and-tech-ceos-sign-an-ai-code-of-conduct-thats-only-morally-binding/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "date": "2026-09-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "He Built This City",
+      "summary": "<p>I visited the Museum of the City of New York today and got to see <a href=\"https://www.mcny.org/exhibition/he-built-city\">He Built This City: Joe Macken’s Model</a>, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard.</p> <p>It exceeded",
+      "date": "2026-09-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "date": "2026-09-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+      "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
+      "date": "2026-09-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/"
     },
     {
       "category": "industry",
@@ -544,16 +614,6 @@
       "url": "https://huggingface.co/blog/open-tts-leaderboard"
     },
     {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
-      "summary": "OpenAI's annualized revenue rate is nearing $70 billion, up about 70 percent since the start of Q3. Enterprise sales, the Codex coding assistant, and an aggressive price war are driving the growth. Anthropic is right on its heels with a similar run rate. The article ChatGPT now r",
-      "date": "2026-09-29",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
@@ -592,16 +652,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-      "date": "2026-09-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
     },
     {
       "category": "hardware",
@@ -692,26 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
     },
     {
       "category": "model",
@@ -1012,26 +1042,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/proaction"
-    },
-    {
-      "category": "product",
-      "lab": "Microsoft",
-      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-      "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-      "date": "2026-09-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-      "summary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
-      "date": "2026-09-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "summary": "tokenizers v1: encode, decode and scaling, measured",
-      "date": "2026-09-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/tokenizers-v1"
     }
   ]
 }

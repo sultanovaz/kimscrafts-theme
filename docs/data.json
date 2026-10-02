@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-02T00:45:36.138Z",
+  "updated": "2026-10-02T09:42:26.700Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 177
+    "fresh": 178
   },
   "ranking": [
     {
@@ -255,6 +255,46 @@
   "items": [
     {
       "category": "model",
+      "lab": "Microsoft",
+      "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
+      "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder.",
+      "date": "2026-10-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
+      "summary": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it, Ramp AI Index shows appeared first on The Decoder.",
+      "date": "2026-10-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
+      "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K. Open weights are com",
+      "date": "2026-10-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
       "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
@@ -494,16 +534,6 @@
       "url": "https://openai.com/index/the-den-family-social"
     },
     {
-      "category": "hardware",
-      "lab": "Meta",
-      "title": "Meta dodges billions in US taxes by calling its AI data centers experiments",
-      "summary": "Meta classifies its AI data centers as \"pilot models\" and Nvidia chips as experimental materials to save billions in federal taxes. In 2025 alone, that added up to $3.9 billion. The tax credit dates back to 1981, and even Meta's own accountants see the strategy as legally risky, ",
-      "date": "2026-09-30",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
@@ -534,16 +564,6 @@
       "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer",
-      "summary": "OpenAI and Synopsys are building GPT-Synopsys, a specialized AI model for chip design. It's meant to operate Synopsys' EDA tools like a seasoned engineer and optimize designs on its own. Early tests with semiconductor customers are already underway. OpenAI is likely using the par",
-      "date": "2026-09-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
@@ -552,16 +572,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats",
-      "summary": "Google is replacing Gems with \"Skills\" in Gemini chat. Skills are detailed, reusable prompts that users invoke by typing \"/\" or that Gemini runs automatically. The format is based on an open standard from Anthropic. Gems will be phased out starting in November, with existing ones",
-      "date": "2026-09-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-      "summary": "<p>Last week <a href=\"https://typesafe.ai/\">TypeSafe AI</a> unveiled <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">Jev</a>, their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"deci",
-      "date": "2026-09-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/21/jev/"
     }
   ]
 }

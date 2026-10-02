@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-02T09:42:26.700Z",
+  "updated": "2026-10-02T17:51:17.414Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 178
+    "fresh": 177
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Three firings and a fourth departure shake up OpenAI's safety team",
+      "summary": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article Three firings and a fourth departure shake up OpenAI's safety team appeared first on The Decoder.",
+      "date": "2026-10-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "AI",
+      "title": "AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision",
+      "summary": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far behind. On the more demanding APEX Benchmark, though, no model fully completes all the tasks. Without ",
+      "date": "2026-10-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/"
+    },
+    {
       "category": "model",
       "lab": "Microsoft",
       "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
@@ -282,6 +302,106 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "date": "2026-10-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/chatham-financial"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/practical-guide-building-gpt-6"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "summary": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/astabrief"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+      "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is:",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/"
     },
     {
       "category": "industry",
@@ -362,16 +482,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
-      "summary": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to copy the hidden reasoning of its models. The company ties part of the activity to people connected to Moonshot AI. But researchers found that the same attack kept working on Microsoft Azure ",
-      "date": "2026-10-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/"
     },
     {
       "category": "model",
@@ -475,16 +585,6 @@
     },
     {
       "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "summary": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "date": "2026-10-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/olmocore3"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
       "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
@@ -535,16 +635,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
-      "summary": "Gemini 4 Argon is Google's first frontier model in over seven months. It matches GPT-6 Astra in independent testing but can't keep up with Anthropic's Claude Opus 5.5. The per-token price is low, but Argon burns through more than twice as many tokens per task as Astra. Select tes",
-      "date": "2026-09-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
       "summary": "So much for Gemini 3.5 Pro.",
@@ -562,26 +652,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-      "date": "2026-09-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The ugly economics of consumer AI",
-      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
-      "date": "2026-09-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
     },
     {
       "category": "industry",
@@ -655,36 +725,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
-    },
-    {
-      "category": "industry",
       "lab": "Google DeepMind",
       "title": "Google's early attempt to pay websites for AI answers is struggling",
       "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
@@ -692,16 +732,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
     },
     {
       "category": "product",
@@ -875,16 +905,6 @@
     },
     {
       "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "DevDay 2026 Recap",
       "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
@@ -892,6 +912,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/devday-2026-recap"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
     },
     {
       "category": "industry",
@@ -1085,16 +1115,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-      "date": "2026-09-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
@@ -1264,16 +1284,6 @@
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Sam Altman’s remarks at the United Nations Security Council",
@@ -1292,6 +1302,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
     },
     {
       "category": "benchmark",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "summary": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/omlx"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Cloudflare Python Workers are now generally available",
-      "summary": "<p><strong><a href=\"https://blog.cloudflare.com/python-workers-ga/\">Cloudflare Python Workers are now generally available</a></strong></p> After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a ",
-      "date": "2026-09-21",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/"
     }
   ]
 }

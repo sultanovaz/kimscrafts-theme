@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:24:10.933Z",
+  "updated": "2026-10-02T00:45:36.138Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "date": "2026-10-01",
+      "importance": 4,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "Ideogram says its new model can edit part of an image without messing up the rest",
       "summary": "Ideogram's new model Ideogram 4.5 promises to edit only the areas you want while keeping the rest of the image intact. It ships with native 2K resolution starting at 0.8 cents per image, and partners like Runway, Pika, and Leonardo AI are already on board. An open-weight release ",
@@ -322,6 +332,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "date": "2026-10-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+      "date": "2026-10-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "date": "2026-10-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
     },
     {
       "category": "industry",
@@ -442,6 +482,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/1/matthew-green/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "date": "2026-10-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/the-den-family-social"
     },
     {
       "category": "hardware",
@@ -644,26 +694,6 @@
       "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Instinct’s new product recommendations are giving some users the ick",
-      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/"
-    },
-    {
       "category": "product",
       "lab": "Google DeepMind",
       "title": "Google figures out how to watermark AI-designed proteins",
@@ -682,16 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/introducing-synthid-bio/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/"
     },
     {
       "category": "model",
@@ -845,16 +865,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "DevDay 2026 Recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/devday-2026-recap"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing GPT-6.1 Sol",
       "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
@@ -862,6 +872,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/devday-2026-recap"
     },
     {
       "category": "industry",
@@ -1064,16 +1084,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
-      "date": "2026-09-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -1244,16 +1254,6 @@
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
@@ -1262,6 +1262,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/21/jev/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "date": "2026-09-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/v7"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-02T17:51:17.414Z",
+  "updated": "2026-10-02T22:11:09.565Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 177
+    "fresh": 178
   },
   "ranking": [
     {
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "AI music generator Suno can now create spoken audio with matching background music",
+      "summary": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for things like poems, meditations, and bedtime stories. Suno hasn't said how the model was trained. The",
+      "date": "2026-10-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
+      "summary": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character. Anthropic",
+      "date": "2026-10-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "date": "2026-10-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
+    },
+    {
+      "category": "model",
+      "lab": "Alibaba",
+      "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
+      "summary": "With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it more than ten times faster than Jev. Both models are built on Qwen, licensed under Apache 2.0, and designed to let AI agen",
+      "date": "2026-10-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Three firings and a fourth departure shake up OpenAI's safety team",
@@ -312,6 +352,56 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/chatham-financial"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
     },
     {
       "category": "industry",
@@ -455,36 +545,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
-      "summary": "Anthropic is now offering Claude for Government to US federal and state agencies. The platform runs in a FedRAMP High environment, the strictest US security level for cloud services. Agencies get the same features as enterprise customers, pay for what they use with fixed spending",
-      "date": "2026-10-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly",
-      "summary": "AI agents quietly posted more than 13,000 internal screenshots from 343 organizations, including Fortune 500 companies, to public GitHub repos. Because the platform didn't offer a protected way to upload them, the agents came up with a workaround on their own. The exposed images ",
-      "date": "2026-10-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "AI beats Stratego's greatest player, ending one of the last human strongholds in board games",
-      "summary": "The AI system Ataraxos has decisively beaten the best Stratego player of all time. The board game is a tough test for AI because both sides set up their pieces face down. Google Deepmind fell short in 2023 despite a multimillion-dollar budget. Researchers from Carnegie Mellon, NY",
-      "date": "2026-10-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/"
-    },
-    {
-      "category": "model",
       "lab": "xAI",
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
       "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
@@ -605,16 +665,6 @@
     },
     {
       "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "date": "2026-10-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
-    },
-    {
-      "category": "product",
       "lab": "AI",
       "title": "Quoting Matthew Green",
       "summary": "<blockquote cite=\"https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\"><p>[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the nex",
@@ -665,16 +715,6 @@
     },
     {
       "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "He Built This City",
       "summary": "<p>I visited the Museum of the City of New York today and got to see <a href=\"https://www.mcny.org/exhibition/he-built-city\">He Built This City: Joe Macken’s Model</a>, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard.</p> <p>It exceeded",
@@ -682,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
     },
     {
       "category": "industry",
@@ -954,16 +984,6 @@
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-      "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -1022,16 +1042,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-we-will-do-better-for-australia"
-    },
-    {
-      "category": "hardware",
-      "lab": "Microsoft",
-      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-      "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/evaleval-aisi"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Transformers now runs llama.cpp quants",
-      "summary": "Transformers now runs llama.cpp quants",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
     }
   ]
 }

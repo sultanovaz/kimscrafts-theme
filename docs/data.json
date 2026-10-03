@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T16:15:09.907Z",
+  "updated": "2026-10-03T21:11:47.242Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
+      "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently as 2024, Altman himself spoke of building",
+      "date": "2026-10-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/"
+    },
+    {
       "category": "product",
       "lab": "Meta",
       "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
@@ -324,6 +334,26 @@
       "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/"
     },
     {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "date": "2026-10-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "date": "2026-10-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "All the AI agents that can live in your text messages",
@@ -375,16 +405,6 @@
     },
     {
       "category": "model",
-      "lab": "Alibaba",
-      "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
-      "summary": "With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it more than ten times faster than Jev. Both models are built on Qwen, licensed under Apache 2.0, and designed to let AI agen",
-      "date": "2026-10-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "Chatham scales its capital markets expertise with OpenAI",
       "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
@@ -402,6 +422,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Rex's Dino Store",
+      "summary": "<p><strong>Museum:</strong> <a href=\"https://www.niche-museums.com/119\">Rex&#x27;s Dino Store</a></p> <p>Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dino",
+      "date": "2026-10-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/"
     },
     {
       "category": "industry",
@@ -634,16 +664,6 @@
       "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-      "date": "2026-10-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "With most information hidden, the game Stratego had stumped AI—until now",
@@ -662,16 +682,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/albertsons-reimagining-retail"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "date": "2026-10-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/"
     },
     {
       "category": "product",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Hugging Face",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "summary": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/evaleval-aisi"
     }
   ]
 }

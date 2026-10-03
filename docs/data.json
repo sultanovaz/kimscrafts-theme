@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-03T21:11:47.242Z",
+  "updated": "2026-10-03T23:47:02.573Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 168
+    "fresh": 169
   },
   "ranking": [
     {
@@ -332,6 +332,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "summary": "<p>Here's a product feature which the world is going to need a whole lot more of over the coming months and years: <strong>default hard budget caps</strong>. I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and ",
+      "date": "2026-10-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
+    },
+    {
+      "category": "product",
+      "lab": "Hugging Face",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "The Agent Said It Was Done. The Database Disagreed.",
+      "date": "2026-10-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "September sponsors-only newsletter",
+      "summary": "<p>I just sent the September edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-09-september.md\">access it he",
+      "date": "2026-10-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/3/newsletter/"
     },
     {
       "category": "hardware",
@@ -1422,36 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/priorities-principles-third-party-assessments"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Better prompt caching for GPT-6",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting @therealcornpop",
-      "summary": "<blockquote cite=\"https://www.tiktok.com/@therealcornpop/video/7687243097801051422\"><p>Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of thr",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "date": "2026-09-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
     }
   ]
 }

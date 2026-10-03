@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-03T05:14:55.584Z",
+  "updated": "2026-10-03T11:36:21.263Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 173
   },
   "ranking": [
     {
@@ -254,6 +254,56 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
+      "summary": "According to researchers at the Deepmind Institute, general AI won't emerge as a single supermodel but as a network of cooperating agents and humans. What will matter most, they argue, is not model size but the rules and institutions that govern how they all work together. The ar",
+      "date": "2026-10-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
+      "summary": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the results often only became scientifically valuable once human experts stepped in. \"Look at ev",
+      "date": "2026-10-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Google DeepMind",
+      "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
+      "summary": "A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. The biggest weakness across all tested agents is that they can't judge their own geometric",
+      "date": "2026-10-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
+      "summary": "An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes instead, and carried out the migration on its own. The article OpenAI's internal model co",
+      "date": "2026-10-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
+      "summary": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavior, adding custom panels, intercepting tool calls, or wiring up new commands. The article ",
+      "date": "2026-10-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/"
+    },
+    {
       "category": "industry",
       "lab": "Meta",
       "title": "Meta wants your next gadget to be Muse-infused",
@@ -322,36 +372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/"
-    },
-    {
-      "category": "model",
-      "lab": "Microsoft",
-      "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
-      "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder.",
-      "date": "2026-10-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
-      "summary": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it, Ramp AI Index shows appeared first on The Decoder.",
-      "date": "2026-10-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-      "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K. Open weights are com",
-      "date": "2026-10-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/"
     },
     {
       "category": "model",
@@ -532,26 +552,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Ideogram says its new model can edit part of an image without messing up the rest",
-      "summary": "Ideogram's new model Ideogram 4.5 promises to edit only the areas you want while keeping the rest of the image intact. It ships with native 2K resolution starting at 0.8 cents per image, and partners like Runway, Pika, and Leonardo AI are already on board. An open-weight release ",
-      "date": "2026-10-01",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
-      "summary": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures. In a Tavus study, 48 percent of participants believed Griffin was a real person after a one",
-      "date": "2026-10-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/"
     },
     {
       "category": "research",

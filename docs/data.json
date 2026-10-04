@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T05:48:40.730Z",
+  "updated": "2026-10-04T12:18:08.543Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
+      "summary": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of Lunar Reconnaissance Orbiter data, it cuts the error in predicting polar ice deposits by up to 22 per",
+      "date": "2026-10-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
+      "summary": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced. Aleph Alpha sells \"sovereign AI\" to governments, giving it a commercial interest in distinguishing its mode",
+      "date": "2026-10-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
+      "summary": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for paying customers. The move could also set the stage for the more resource-hungry Gemini ",
+      "date": "2026-10-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
@@ -324,16 +354,6 @@
       "url": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
-      "summary": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavior, adding custom panels, intercepting tool calls, or wiring up new commands. The article ",
-      "date": "2026-10-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/"
-    },
-    {
       "category": "hardware",
       "lab": "Google DeepMind",
       "title": "We're going to need default hard budget caps on pretty much everything",
@@ -402,26 +422,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "AI music generator Suno can now create spoken audio with matching background music",
-      "summary": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for things like poems, meditations, and bedtime stories. Suno hasn't said how the model was trained. The",
-      "date": "2026-10-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
-      "summary": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character. Anthropic",
-      "date": "2026-10-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/"
     },
     {
       "category": "industry",

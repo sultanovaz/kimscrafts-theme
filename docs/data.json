@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-05T14:31:46.007Z",
+  "updated": "2026-10-05T21:59:47.934Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 171
+    "fresh": 173
   },
   "ranking": [
     {
@@ -256,12 +256,62 @@
     {
       "category": "model",
       "lab": "AI",
+      "title": "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model",
+      "summary": "Reka AI's Rho-1 is a 19-billion-parameter omni-model that processes and generates text, images, video, and robot control actions in a single neural network. Trained on 320 H100 GPUs in about three months, it uses a fraction of the compute today's top models need. Instead of routi",
+      "date": "2026-10-05",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
       "title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
       "summary": "Aleph Alpha has released Kolibri, a German-English mixture-of-experts model with 78 billion parameters, about three billion of which are active per token. Over 21 percent of the training data is German. The model was trained on 768 B200 GPUs in Germany and Finland, and the weight",
       "date": "2026-10-05",
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
+      "summary": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $10,000, while Meta halved its Claude Code users to 30,000. Both companies are pu",
+      "date": "2026-10-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
+      "summary": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a quarter of the words are replaced. The article OpenAI will wate",
+      "date": "2026-10-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Most Americans want AI development to slow down or stop entirely, new poll finds",
+      "summary": "According to a Quinnipiac University poll, 77 percent of Americans want to slow down or stop AI development until its safety has been verified. 86 percent support independent safety standards, and 74 percent have little or no trust in AI company leaders. \"[…] the public wants saf",
+      "date": "2026-10-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
+      "summary": "Anthropic employees donated $540 million in 2025 alone, nearly five times as much as the next-largest Fortune 500 donors, thanks to a company program that tops up every stock donation with extra shares and triples contributions from early employees. The article Anthropic is quiet",
+      "date": "2026-10-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/"
     },
     {
       "category": "industry",
@@ -292,6 +342,116 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "summary": "The tool can free up over 12GB of storage.",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take ",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Our approach to EU text provenance rules",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/eu-text-provenance"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/"
     },
     {
       "category": "industry",
@@ -334,6 +494,16 @@
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Qwen3.8 27B addition in words",
+      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/qwen38-addition-in-words#readme\">Qwen3.8 27B addition in words</a></p> <p>Colin Frasier <a href=\"https://bsky.app/profile/colin-fraser.net/post/3mwopbyznhs2k\">posted on Bluesky</a> about an experi",
+      "date": "2026-10-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
@@ -352,36 +522,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
-      "summary": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of Lunar Reconnaissance Orbiter data, it cuts the error in predicting polar ice deposits. The article NA",
-      "date": "2026-10-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
-      "summary": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced. Aleph Alpha sells \"sovereign AI\" to governments, giving it a commercial interest in distinguishing its mode",
-      "date": "2026-10-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
-      "summary": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for paying customers. The move could also set the stage for the more resource-hungry Gemini ",
-      "date": "2026-10-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/"
     },
     {
       "category": "industry",
@@ -412,26 +552,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
-      "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently as 2024, Altman himself spoke of building",
-      "date": "2026-10-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
-      "summary": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. The team also produced 5,000 units of the \"Muse Home Link,\" a USB-C device for smart home control. The open-source approa",
-      "date": "2026-10-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/"
     },
     {
       "category": "hardware",
@@ -504,16 +624,6 @@
       "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "date": "2026-10-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Chatham scales its capital markets expertise with OpenAI",
@@ -574,56 +684,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "A model guide for the GPT-6 family",
@@ -632,16 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/practical-guide-building-gpt-6"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
     },
     {
       "category": "model",
@@ -665,26 +715,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is:",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "summary": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -692,6 +722,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "pwasm 0.2a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/pwasm/releases/tag/0.2a0\">pwasm 0.2a0</a></p> <p>pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of <a href=\"https://simonwilliso",
+      "date": "2026-10-01",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/1/pwasm/"
     },
     {
       "category": "research",
@@ -994,16 +1034,6 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-      "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "DevDay 2026 Recap",
@@ -1032,6 +1062,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-dots"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "llm-anthropic 0.30",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.30\">llm-anthropic 0.30</a></p> <p>In addition to Claude Sonnet 5.5, this release adds the ability to run <code>llm anthropic refresh</code> to refresh the list of Anthropic models directl",
+      "date": "2026-09-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Sep/28/llm-anthropic/"
     },
     {
       "category": "benchmark",
@@ -1204,6 +1244,16 @@
       "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/"
     },
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "date": "2026-09-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/wayfair"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "commit-rewriter 0.2",
@@ -1354,16 +1404,6 @@
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Sam Altman’s remarks at the United Nations Security Council",
@@ -1372,6 +1412,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "date": "2026-09-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
     },
     {
       "category": "model",
@@ -1402,56 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-      "summary": "<p>Yesterday was <a href=\"https://x.ai/news/grok-4-7\">Grok 4.7</a> (<a href=\"https://news.ycombinator.com/item?id=49788838#49790209\">pelicans</a>) and <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">MiMo v2.6 Flash/Pro</a> (<a href=\"https://news.ycombinator.com/item?id=49792730#49793",
-      "date": "2026-09-22",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "llm 0.36",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.36\">llm 0.36</a></p> <blockquote> <ul> <li>New OpenAI models: <code>gpt-6-sol</code> for <a href=\"https://developers.openai.com/api/docs/models/gpt-6-sol\">GPT-6 Sol</a> and <code>gpt-6-luna</code> ",
-      "date": "2026-09-22",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/22/llm/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "llm-anthropic 0.29",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.29\">llm-anthropic 0.29</a></p> <p>Adds support for <a href=\"https://www.anthropic.com/claude-opus-5-5\">Claude Opus 5.5</a>:</p> <pre><code>llm -m claude-opus-5.5 \"prompt goes here\" </code",
-      "date": "2026-09-22",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "date": "2026-09-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
     }
   ]
 }

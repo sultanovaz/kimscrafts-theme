@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T21:59:47.934Z",
+  "updated": "2026-10-06T06:16:23.223Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -342,6 +342,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting Felix Rieseberg",
+      "summary": "<blockquote cite=\"https://twitter.com/felixrieseberg/status/2107206431376334975\"><p>The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security re",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "date": "2026-10-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
     },
     {
       "category": "industry",
@@ -1014,16 +1034,6 @@
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-mentalhealthbench"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-      "summary": "<p><strong><a href=\"https://luma.com/vxuiuyvg\">SF October 14th: A Birds of a Feather Session on Agentic Engineering</a></strong></p> I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/"
     }
   ]
 }

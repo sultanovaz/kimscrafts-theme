@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T20:17:01.725Z",
+  "updated": "2026-10-07T00:39:57.743Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "summary": "<p><strong><a href=\"https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/\">OpenAI “rogue” agent activities found on Wikimedia projects</a></strong></p> Given how tempting a target wikis are for rogue agent swarms, it's not a hu",
+      "date": "2026-10-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Introducing Mistral Large 4: Le chonk",
+      "summary": "<p><strong><a href=\"https://mistral.ai/news/mistral-large-4/\">Introducing Mistral Large 4: Le chonk</a></strong></p> Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own ",
+      "date": "2026-10-06",
+      "importance": 5,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best",
@@ -282,6 +302,36 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "llm-openai-decisions 0.1a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0\">llm-openai-decisions 0.1a0</a></p> <p>OpenAI released their new Jev-style <a href=\"https://developers.openai.com/api/docs/guides/decisions\">Decisions API</a>, as previously an",
+      "date": "2026-10-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "date": "2026-10-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+    },
+    {
+      "category": "model",
+      "lab": "Mistral",
+      "title": "llm-mistral 0.16",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-mistral/releases/tag/0.16\">llm-mistral 0.16</a></p> <p>Adds support for reasoning models, such as the newly released <a href=\"https://simonwillison.net/2026/Oct/6/le-chonk/\">Mistral Large 4</a>.</p> <p>Tags: <a h",
+      "date": "2026-10-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/"
     },
     {
       "category": "hardware",
@@ -332,6 +382,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-atom 0.11a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-atom/releases/tag/0.11a0\">datasette-atom 0.11a0</a></p> <p>A minor fix for compatibility with the latest Datasette alphas. This meant we could upgrade the <a href=\"https://datasette.io/\">datasette.io</a> si",
+      "date": "2026-10-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/"
     },
     {
       "category": "industry",
@@ -395,6 +455,16 @@
     },
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "Sharing AI progress in mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "date": "2026-10-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
       "summary": "Researchers at PhAI Labs have expanded Yann LeCun's JEPA architecture to work across seven fields, from robotics to biomedicine. The effort also produced a liver cancer treatment candidate that showed promise in lab tests, though the study doesn't establish whether it could becom",
@@ -402,6 +472,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Quoting Victoria Kim",
+      "summary": "<blockquote cite=\"https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/94c8067e-4098-5c00-9673-c78cb58a9d8a\"><p>Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s ",
+      "date": "2026-10-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "date": "2026-10-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "EmbeddingGemma 2",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49980487#49983751\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49980487\">EmbeddingGemma 2</a> &mdash; Hacker News.</p><p>I really appreciate that <a href=\"https://blog.google/innovation-and-ai/technology/develop",
+      "date": "2026-10-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "How AI decision models could change content moderation",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "date": "2026-10-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
     },
     {
       "category": "model",
@@ -502,6 +612,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "date": "2026-10-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/jump-trading"
     },
     {
       "category": "industry",
@@ -642,26 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/eu-text-provenance"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-      "date": "2026-10-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "date": "2026-10-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/"
     },
     {
       "category": "industry",
@@ -1054,26 +1154,6 @@
       "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Photo Scrubber — local face blur & metadata removal",
@@ -1102,6 +1182,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
     },
     {
       "category": "model",
@@ -1274,16 +1364,6 @@
       "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/"
     },
     {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Quoting John Gruber",
-      "summary": "<blockquote cite=\"https://daringfireball.net/linked/2026/09/25/aten-muse\"><p>Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) <em>and</em> because it’s ",
-      "date": "2026-09-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -1292,16 +1372,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/proaction"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
-      "summary": "<p><img src=\"https://static.inaturalist.org/photos/740453177/large.jpg\" alt=\"Northern Gannet\"></p><p><img src=\"https://static.inaturalist.org/photos/740453341/large.jpg\" alt=\"Great Blue Heron\"></p><p><img src=\"https://static.inaturalist.org/photos/740454506/large.jpg\" alt=\"Califo",
-      "date": "2026-09-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/"
     },
     {
       "category": "product",
@@ -1315,26 +1385,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "commit-rewriter 0.2",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/commit-rewriter/releases/tag/0.2\">commit-rewriter 0.2</a></p> <blockquote> <p>Support for branches other than the default branch. Use <code>uvx commit-rewriter --branch other</code> to run against another branch. <a ",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette 1.0a41",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a41\">datasette 1.0a41</a></p> <p>Alec Garcia added <a href=\"https://docs.datasette.io/en/latest/internals.html#internals-telemetry\">support for OpenTelemetry</a> to Datasette in this release",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/24/datasette/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
       "summary": "Introducing Gemini 3.8 Live with Live Avatar",
@@ -1345,16 +1395,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Note on 24th September 2026",
-      "summary": "<p>The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.</p> <p>We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.</p> <p>Tags: <a href=\"https",
-      "date": "2026-09-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/24/harder/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
       "summary": "Accelerating vision-language models with LFM2.5-VL-DSpark",
@@ -1362,16 +1402,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Gemini 3.8 TTS Playground",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/gemini-tts-playground\">Gemini 3.8 TTS Playground</a></p> <p>Google <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\">released two new Gemini text-to-speec",
-      "date": "2026-09-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"
     },
     {
       "category": "model",
@@ -1414,16 +1444,6 @@
       "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "We just shipped support for the ugliest part of HTTP: Vary",
-      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49823195#49823961\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49823195\">We just shipped support for the ugliest part of HTTP: Vary</a> &mdash; Hacker News.</p><p>I've been wanting this from Cloudflare <em>for y",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/23/hn-49823961/"
-    },
-    {
       "category": "hardware",
       "lab": "Google DeepMind",
       "title": "Advancing Private AI Compute with secure, server-side memory",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Two years of OpenAI Academy",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/two-years-of-openai-academy"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "date": "2026-09-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T18:55:54.823Z",
+  "updated": "2026-10-08T00:58:00.886Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Microsoft",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Claude Haiku 5.5",
+      "summary": "<p>As previously <a href=\"https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/\">promised</a>, here's Anthropic's new fast, low cost model: <a href=\"https://www.anthropic.com/claude-haiku-5-5\">Introducing Claude Haiku 5.5</a>.</p> <p>The previous Haiku, 4.5, was very much show",
+      "date": "2026-10-07",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
+    },
+    {
       "category": "hardware",
       "lab": "Google DeepMind",
       "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
@@ -272,6 +292,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
+      "summary": "OpenAI is rolling out GPT-6 with \"Intelligent UI,\" a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still thinking, cutting wait times by 44 percent. Paying customers get GPT-6 Sol, free users get GPT-6 Luna",
+      "date": "2026-10-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/"
     },
     {
       "category": "model",
@@ -375,6 +405,46 @@
     },
     {
       "category": "product",
+      "lab": "AI",
+      "title": "Quoting Ben Affleck",
+      "summary": "<blockquote cite=\"https://www.youtube.com/watch?v=HzraLR2VkNM&amp;t=2259s\"><p>I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow ",
+      "date": "2026-10-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "date": "2026-10-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "date": "2026-10-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "date": "2026-10-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+    },
+    {
+      "category": "product",
       "lab": "Meta",
       "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
       "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
@@ -475,16 +545,6 @@
     },
     {
       "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
       "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your p",
@@ -492,6 +552,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "date": "2026-10-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
     },
     {
       "category": "model",
@@ -612,16 +682,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's new image model Nano Banana 2.1 generates better images for less money",
-      "summary": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice. The article Google's new image model Nano Banana ",
-      "date": "2026-10-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/"
     },
     {
       "category": "benchmark",
@@ -772,26 +832,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "LibreOffice says ‘no AI’ is now a software feature",
-      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/"
-    },
-    {
-      "category": "model",
-      "lab": "Mistral",
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
     },
     {
       "category": "industry",
@@ -1146,26 +1186,6 @@
     {
       "category": "industry",
       "lab": "Google DeepMind",
-      "title": "Google's early attempt to pay websites for AI answers is struggling",
-      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/"
-    },
-    {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Google figures out how to watermark AI-designed proteins",
-      "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
       "title": "Introducing SynthID Bio",
       "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
       "date": "2026-09-30",
@@ -1226,6 +1246,16 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
       "title": "Photo Scrubber — local face blur & metadata removal",
       "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/photo-scrubber\">Photo Scrubber — local face blur &amp; metadata removal</a></p> <p>I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable fac",
       "date": "2026-09-29",
@@ -1262,16 +1292,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/devday-2026-recap"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
     },
     {
       "category": "industry",
@@ -1392,26 +1412,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/rl-environments"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "2026 in LLMs (so far)",
-      "summary": "<p>On Friday I gave the closing keynote at the <a href=\"https://www.wearedevelopers.com/world-congress-north-america\">WeAreDevelopers World Congress North America</a> in San Jose. I tied together the key trends from the past year into a chronological exploration of everything tha",
-      "date": "2026-09-27",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "S3 Is the Future, S3 Is the Past",
-      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49851693#49871741\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49851693\">S3 Is the Future, S3 Is the Past</a> &mdash; Hacker News.</p><p>One thing I find notable about S3 today is that, while it used to drop in ",
-      "date": "2026-09-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/"
     },
     {
       "category": "model",

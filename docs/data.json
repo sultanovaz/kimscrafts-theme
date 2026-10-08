@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-08T00:58:00.886Z",
+  "updated": "2026-10-08T10:30:57.269Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 178
+    "fresh": 176
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense",
+      "summary": "A 16-year-old planned his hiking route on Crown Mountain near Vancouver using Anthropic's Claude and had to be airlifted off a steep rock face. The chatbot had sent him down a route that requires climbing gear. Bryce doesn't blame the AI but says he'll never use it for route plan",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+      "summary": "According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were stolen. The attacker used ARTEX, an open-source tool that uses AI models like DeepSeek and GLM-5.3 fo",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/"
+    },
+    {
       "category": "industry",
       "lab": "Microsoft",
       "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
@@ -392,16 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
-      "summary": "OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on average. But 25 Fields Medal winners warn that mass-producing mathematical truths could d",
-      "date": "2026-10-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/"
     },
     {
       "category": "product",
@@ -672,16 +682,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
-      "summary": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, according to Google. Paired with a",
-      "date": "2026-10-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/"
     },
     {
       "category": "benchmark",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-08T10:30:57.269Z",
+  "updated": "2026-10-08T18:49:40.043Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 176
+    "fresh": 174
   },
   "ranking": [
     {
@@ -254,6 +254,96 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+      "summary": "The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI had to retract three papers the next day over a sign error. Fields Medalist Terence Tao warns that AI's mass \"harvesting\" ",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse",
+      "summary": "Ethereum researcher Justin Drake is urging the crypto industry to prepare a \"bunker mode\" for a scenario where AI-powered math could break wallet signature schemes within months. Vitalik Buterin broadly agrees but warns against rushed migrations, saying he's personally lost more ",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google releases a new local-first Granola competitor",
+      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+      "summary": "Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region. The attack exploited an internal AWS interface for temporary cloud credentials that agents could reach",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/pollo-ai"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense",
@@ -274,6 +364,116 @@
       "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "AI",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/oracle"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+    },
+    {
       "category": "industry",
       "lab": "Microsoft",
       "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
@@ -282,6 +482,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
     },
     {
       "category": "benchmark",
@@ -325,16 +535,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
-      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article",
-      "date": "2026-10-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
       "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
@@ -362,56 +562,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google bets Gemini can turn casual players into game developers with new Playground feature",
-      "summary": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity announced Unity Spark, a more professional ",
-      "date": "2026-10-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-      "date": "2026-10-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-      "date": "2026-10-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations",
-      "summary": "OpenAI's teen safety features for ChatGPT failed an independent audit. After more than 4,000 test prompts, the Common Sense Media Youth AI Safety Institute rated the service an \"unacceptable risk\" for minors. Conversations about suicide and self-harm on test accounts never trigge",
-      "date": "2026-10-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
-      "summary": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research. Anthropic says partners in its predecessor program found at leas",
-      "date": "2026-10-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/"
     },
     {
       "category": "product",
@@ -514,26 +664,6 @@
       "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/"
     },
     {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Google experiments with an AI-powered gaming platform",
-      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/"
-    },
-    {
       "category": "industry",
       "lab": "Mistral",
       "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
@@ -555,23 +685,13 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your p",
+      "lab": "Hugging Face",
+      "title": "Introducing Falcon ASR",
+      "summary": "Introducing Falcon ASR",
       "date": "2026-10-07",
       "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr"
     },
     {
       "category": "model",
@@ -654,16 +774,6 @@
       "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "date": "2026-10-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
-    },
-    {
       "category": "model",
       "lab": "Mistral",
       "title": "llm-mistral 0.16",
@@ -672,16 +782,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "date": "2026-10-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
     },
     {
       "category": "benchmark",
@@ -702,16 +802,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "date": "2026-10-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/"
     },
     {
       "category": "industry",
@@ -775,16 +865,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "How AI decision models could change content moderation",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "summary": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -792,16 +872,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
     },
     {
       "category": "product",
@@ -812,26 +882,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
     },
     {
       "category": "industry",
@@ -1175,16 +1225,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/"
-    },
-    {
-      "category": "industry",
       "lab": "Google DeepMind",
       "title": "Introducing SynthID Bio",
       "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
@@ -1246,16 +1286,6 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Photo Scrubber — local face blur & metadata removal",
       "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/photo-scrubber\">Photo Scrubber — local face blur &amp; metadata removal</a></p> <p>I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable fac",
       "date": "2026-09-29",
@@ -1292,6 +1322,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/devday-2026-recap"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
     },
     {
       "category": "industry",
@@ -1412,46 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/rl-environments"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "date": "2026-09-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/proaction"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-      "date": "2026-09-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/wayfair"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "summary": "Introducing Gemini 3.8 Live with Live Avatar",
-      "date": "2026-09-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "summary": "Gemini 3.8 text-to-speech says hello",
-      "date": "2026-09-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
     }
   ]
 }

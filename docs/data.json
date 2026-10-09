@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-09T10:29:16.045Z",
+  "updated": "2026-10-09T18:20:06.168Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 177
+    "fresh": 174
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+      "summary": "OpenAI's annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method. The correction sent chip stocks sliding. Meanwhile, OpenAI is negotiating at least $30 billion in fresh capital at a $",
+      "date": "2026-10-09",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "ttok 1.0",
@@ -262,6 +272,26 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/9/ttok/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic launches a free AI scanner for open-source projects",
+      "summary": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-sour",
+      "date": "2026-10-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
+      "summary": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture. OpenAI claims they violated policies but won't say how. The article OpenAI's safety crisis kee",
+      "date": "2026-10-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/"
     },
     {
       "category": "model",
@@ -282,6 +312,96 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Microsoft",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted m",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Microsoft",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted m",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Hugging Face",
+      "title": "Impactful scheduling for GPU clusters",
+      "summary": "Impactful scheduling for GPU clusters",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "Quoting Matthew Green",
+      "summary": "<blockquote cite=\"https://twitter.com/matthew_d_green/status/2108552414978564418\"><p>Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we fun",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "A new feature for my blog, built using my voice",
+      "summary": "<p>I shipped a new feature for my blog today: the <a href=\"https://simonwillison.net/newsletters/\">Newsletters</a> page, which offers an index of all of the newsletters I've sent out, both my free <a href=\"https://simonw.substack.com/\">weekly Substack</a> and my <a href=\"https://",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
     },
     {
       "category": "research",
@@ -374,16 +494,6 @@
       "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
     },
     {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
@@ -402,36 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/pollo-ai"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
-      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense",
-      "summary": "A 16-year-old planned his hiking route on Crown Mountain near Vancouver using Anthropic's Claude and had to be airlifted off a steep rock face. The chatbot had sent him down a route that requires climbing gear. Bryce doesn't blame the AI but says he'll never use it for route plan",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-      "summary": "According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were stolen. The attacker used ARTEX, an open-source tool that uses AI models like DeepSeek and GLM-5.3 fo",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/"
     },
     {
       "category": "industry",
@@ -624,16 +704,6 @@
       "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-      "date": "2026-10-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Quoting Ben Affleck",
@@ -652,46 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
     },
     {
       "category": "industry",
@@ -1134,16 +1164,6 @@
       "url": "https://openai.com/index/practical-guide-building-gpt-6"
     },
     {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "summary": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/astabrief"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
@@ -1212,16 +1232,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/albertsons-reimagining-retail"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Quoting Matthew Green",
-      "summary": "<blockquote cite=\"https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\"><p>[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the nex",
-      "date": "2026-10-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/"
     },
     {
       "category": "industry",
@@ -1355,16 +1365,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI DevDay 2026 live blog",
-      "summary": "<p>I'm at <a href=\"https://devday.openai.com/\">OpenAI DevDay</a> today, in Fort Mason, San Francisco. Same as <a href=\"https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/\">last year</a> I'll be live blogging the keynote and some other notes during the day.</p> <p><em>Op",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "summary": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
@@ -1402,16 +1402,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-dots"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "llm-anthropic 0.30",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.30\">llm-anthropic 0.30</a></p> <p>In addition to Claude Sonnet 5.5, this release adds the ability to run <code>llm anthropic refresh</code> to refresh the list of Anthropic models directl",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/28/llm-anthropic/"
     },
     {
       "category": "industry",
@@ -1452,6 +1442,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-we-will-do-better-for-australia"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Holo4: powering generalist computer-use agents",
+      "summary": "Holo4: powering generalist computer-use agents",
+      "date": "2026-09-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/Hcompany/holo4"
     }
   ]
 }

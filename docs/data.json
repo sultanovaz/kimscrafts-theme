@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-09T01:12:11.211Z",
+  "updated": "2026-10-09T10:29:16.045Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 176
+    "fresh": 177
   },
   "ranking": [
     {
@@ -255,6 +255,56 @@
   "items": [
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "ttok 1.0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/ttok/releases/tag/1.0\">ttok 1.0</a></p> <p>I released <a href=\"https://simonwillison.net/2026/Oct/8/ttok/\">ttok 0.4</a>, ran <code>uv tool upgrade ttok</code>, piped a file into the new version... and realized that i",
+      "date": "2026-10-09",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/9/ttok/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
+      "summary": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting. Predictions averaged ",
+      "date": "2026-10-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
+      "summary": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Latin America and drew reactions from politicians, earning the first category 5 out of 6 rating in OpenAI's reporting histo",
+      "date": "2026-10-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/sophos"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "ttok 0.4",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/ttok/releases/tag/0.4\">ttok 0.4</a></p> <p><code>ttok</code> is my CLI tool for counting tokens, using OpenAI's open source <a href=\"https://github.com/openai/tiktoken\">tiktoken</a> library.</p> <p>It hasn't been in ",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/8/ttok/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
       "summary": "Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts. Motion generates animated explainer videos from text and images. Docs, Slides, and Design now work across all plans, including fr",
@@ -336,7 +386,7 @@
     {
       "category": "product",
       "lab": "AI",
-      "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+      "title": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
       "summary": "Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region. The attack exploited an internal AWS interface for temporary cloud credentials that agents could reach",
       "date": "2026-10-08",
       "importance": 3,
@@ -572,26 +622,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Google DeepMind",
-      "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
-      "summary": "Biohub, the research organization backed by Mark Zuckerberg and Priscilla Chan, is coordinating a $1.8 billion initiative to train AI models that predict cell behavior. Meta, Google DeepMind, Isomorphic Labs, and the US Department of Energy are funding data, lab equipment, and co",
-      "date": "2026-10-07",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
-      "summary": "OpenAI is rolling out GPT-6 with \"Intelligent UI,\" a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still thinking, cutting wait times by 44 percent. Paying customers get GPT-6 Sol, free users get GPT-6 Luna",
-      "date": "2026-10-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/"
     },
     {
       "category": "model",
@@ -1384,16 +1414,6 @@
       "url": "https://simonwillison.net/2026/Sep/28/llm-anthropic/"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Claude Sonnet 5.5",
-      "summary": "<p><strong><a href=\"https://www.anthropic.com/claude-sonnet-5-5\">Claude Sonnet 5.5</a></strong></p> New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every ben",
-      "date": "2026-09-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Towards safety cases for frontier AI training",
@@ -1424,16 +1444,6 @@
       "url": "https://openai.com/index/basis-tax-workbook-with-astra"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Quoting @joedaroo",
-      "summary": "<blockquote cite=\"https://twitter.com/joedaroo/status/2104335929293127851\"><p>To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an under",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/28/joedaroo/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "How we will do better for Australia",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-we-will-do-better-for-australia"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Holo4: powering generalist computer-use agents",
-      "summary": "Holo4: powering generalist computer-use agents",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/Hcompany/holo4"
     }
   ]
 }

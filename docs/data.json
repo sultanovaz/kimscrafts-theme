@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-08T18:49:40.043Z",
+  "updated": "2026-10-09T01:12:11.211Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 176
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
+      "summary": "Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts. Motion generates animated explainer videos from text and images. Docs, Slides, and Design now work across all plans, including fr",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
+      "summary": "Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance. The abuse rule builds on an approach that already lets models end some conversations and treats Claude as an entity that may deserve pro",
+      "date": "2026-10-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
@@ -364,6 +384,36 @@
       "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Carson Gross",
+      "summary": "<blockquote cite=\"https://htmx.org/essays/yes-and/\"><p>Computer programming is, fundamentally, about two things:</p> <ul> <li>Problem-solving using computers</li> <li>Learning to control complexity while solving these problems</li> </ul> <p>I have a hard time imagining a future w",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "Ben Affleck is an AI nerd, and the internet is impressed",
@@ -464,6 +514,16 @@
       "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
     },
     {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/legalon-halves-codex-costs"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
@@ -494,6 +554,16 @@
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
     },
     {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "The model that didn&apos;t exist, so you made it yourself",
+      "summary": "The model that didn&apos;t exist, so you made it yourself",
+      "date": "2026-10-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/building-with-ml-intern"
+    },
+    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "Claude Haiku 5.5",
@@ -514,16 +584,6 @@
       "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/"
     },
     {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
-      "summary": "Google's AI watermark detector SynthID is now public. Anyone can check whether images, videos, or audio were created by Google's AI or partners like OpenAI and Nvidia. More than 180 billion pieces of content already carry the watermark, but the tool only identifies SynthID-tagged",
-      "date": "2026-10-07",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
@@ -542,26 +602,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
-      "summary": "OpenAI's new Decisions API classifies text and images about ten times faster than the Responses API, returning yes/no probabilities, category picks, or scale ratings for $0.10 per million input tokens. The company also cut its paid API tiers from five to three. The article OpenAI",
-      "date": "2026-10-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-      "date": "2026-10-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
     },
     {
       "category": "product",
@@ -642,16 +682,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/LiquidAI/open-d1"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
     },
     {
       "category": "industry",
@@ -1315,16 +1345,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "DevDay 2026 Recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/devday-2026-recap"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Introducing GPT-6.1 Sol",
       "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
@@ -1332,6 +1352,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/devday-2026-recap"
     },
     {
       "category": "industry",
@@ -1422,36 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/Hcompany/holo4"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Quoting Muse AI Agent",
-      "summary": "<blockquote cite=\"https://www.threads.com/share/_oWfPufYJ/\"><p>Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating.</p> <p>Worse, my auto-re",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Are you a Codex Original?",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/form/codex-originals"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Welcome RL Environments to the hub",
-      "summary": "Welcome RL Environments to the hub",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/rl-environments"
     }
   ]
 }

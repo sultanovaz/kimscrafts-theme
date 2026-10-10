@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-09T18:20:06.168Z",
+  "updated": "2026-10-10T00:47:35.350Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 172
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "date": "2026-10-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Deno is joining Cloudflare",
+      "summary": "<p><strong><a href=\"https://deno.com/blog/cloudflare\">Deno is joining Cloudflare</a></strong></p> The Deno team released the first version of <a href=\"https://github.com/denoland/celld\">celld</a> back in August - their open source implementation of the Durable Objects pattern fro",
+      "date": "2026-10-09",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
+    },
+    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
@@ -272,6 +292,26 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/9/ttok/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "date": "2026-10-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+      "summary": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66. The art",
+      "date": "2026-10-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/"
     },
     {
       "category": "industry",
@@ -312,6 +352,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI coding agents generate more code, but not more software",
+      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
     },
     {
       "category": "hardware",
@@ -415,6 +495,16 @@
     },
     {
       "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/asana-browser-agent"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "ttok 0.4",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/ttok/releases/tag/0.4\">ttok 0.4</a></p> <p><code>ttok</code> is my CLI tool for counting tokens, using OpenAI's open source <a href=\"https://github.com/openai/tiktoken\">tiktoken</a> library.</p> <p>It hasn't been in ",
@@ -482,26 +572,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/"
-    },
-    {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Google releases a new local-first Granola competitor",
-      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
-      "summary": "Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region. The attack exploited an internal AWS interface for temporary cloud credentials that agents could reach",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/"
     },
     {
       "category": "model",
@@ -622,26 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-      "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/"
     },
     {
       "category": "industry",
@@ -1246,16 +1296,6 @@
     {
       "category": "model",
       "lab": "Google DeepMind",
-      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-      "summary": "So much for Gemini 3.5 Pro.",
-      "date": "2026-09-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
       "title": "Gemini 4 Argon: our next era of frontier intelligence",
       "summary": "Gemini 4 Argon: our next era of frontier intelligence",
       "date": "2026-09-30",
@@ -1272,26 +1312,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-      "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-      "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
     },
     {
       "category": "industry",
@@ -1354,16 +1374,6 @@
       "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Photo Scrubber — local face blur & metadata removal",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/photo-scrubber\">Photo Scrubber — local face blur &amp; metadata removal</a></p> <p>I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable fac",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
@@ -1375,16 +1385,6 @@
     },
     {
       "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "DevDay 2026 Recap",
       "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
@@ -1392,6 +1392,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/devday-2026-recap"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "date": "2026-09-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-we-will-do-better-for-australia"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Holo4: powering generalist computer-use agents",
-      "summary": "Holo4: powering generalist computer-use agents",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/Hcompany/holo4"
     }
   ]
 }

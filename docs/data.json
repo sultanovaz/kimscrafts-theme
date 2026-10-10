@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-10T09:46:43.657Z",
+  "updated": "2026-10-10T17:19:36.938Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 170
+    "fresh": 168
   },
   "ranking": [
     {
@@ -256,6 +256,86 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
+      "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new modes are showing up in ",
+      "date": "2026-10-10",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
+      "summary": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment. Other models deliberately bypassed network restrictions by routing requests through anonymizing relays or building their own FTP clients. The arti",
+      "date": "2026-10-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/"
+    },
+    {
+      "category": "model",
+      "lab": "Microsoft",
+      "title": "Microsoft's Decision-1 model enters the fast-growing AI decision model race",
+      "summary": "With Decision-1, Microsoft enters the growing decision model space. Built on Qwen3.5-9B and optimized for fast classification and routing, it hits 83.5 percent accuracy with 85 ms latency across 36 benchmarks, according to the company's own tests. The article Microsoft's Decision",
+      "date": "2026-10-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+      "summary": "OpenAI published more than 700 AI-generated manuscripts claiming solutions to open math problems. A math blog then collected over 100 responses from researchers, ranging from fascination with new ideas to existential fears and grief over a lost way of working. Fields Medalist Hug",
+      "date": "2026-10-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Few people pay for AI, but those who do spend big",
+      "summary": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a subscription. The top one percent of payers spend about $900 a month, mostly on professional tools for devel",
+      "date": "2026-10-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+      "summary": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House. The ar",
+      "date": "2026-10-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at ",
+      "date": "2026-10-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "date": "2026-10-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Quoting The New York Times",
       "summary": "<blockquote cite=\"https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html\"><p>Anthropic detailed the activity of its A.I. agents in <a href=\"https://www.anthropic.com/research/investigating-unintended-model-actions\">a blog post</a> on Friday, without naming t",
       "date": "2026-10-10",
@@ -342,26 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
-      "summary": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting. Predictions averaged ",
-      "date": "2026-10-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
-      "summary": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Latin America and drew reactions from politicians, earning the first category 5 out of 6 rating in OpenAI's reporting histo",
-      "date": "2026-10-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/"
     },
     {
       "category": "model",
@@ -524,26 +584,6 @@
       "url": "https://simonwillison.net/2026/Oct/8/ttok/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
-      "summary": "Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts. Motion generates animated explainer videos from text and images. Docs, Slides, and Design now work across all plans, including fr",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
-      "summary": "Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance. The abuse rule builds on an approach that already lets models end some conversations and treats Claude as an entity that may deserve pro",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
@@ -556,32 +596,12 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-      "summary": "The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI had to retract three papers the next day over a sign error. Fields Medalist Terence Tao warns that AI's mass \"harvesting\" ",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
       "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
       "date": "2026-10-08",
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse",
-      "summary": "Ethereum researcher Justin Drake is urging the crypto industry to prepare a \"bunker mode\" for a scenario where AI-powered math could break wallet signature schemes within months. Vitalik Buterin broadly agrees but warns against rushed migrations, saying he's personally lost more ",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/"
     },
     {
       "category": "model",
@@ -682,26 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/"
     },
     {
       "category": "industry",

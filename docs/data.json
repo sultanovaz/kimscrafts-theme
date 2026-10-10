@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-10T00:47:35.350Z",
+  "updated": "2026-10-10T09:46:43.657Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 172
+    "fresh": 170
   },
   "ranking": [
     {
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting The New York Times",
+      "summary": "<blockquote cite=\"https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html\"><p>Anthropic detailed the activity of its A.I. agents in <a href=\"https://www.anthropic.com/research/investigating-unintended-model-actions\">a blog post</a> on Friday, without naming t",
+      "date": "2026-10-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
+    },
     {
       "category": "industry",
       "lab": "Anthropic",
@@ -1362,16 +1372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49896586#49898129\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49896586\">GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a> &mdash; Hacker News.</p><p>I'm a bit late with the pelicans because I wa",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/"
     },
     {
       "category": "industry",

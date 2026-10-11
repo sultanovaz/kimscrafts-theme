@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-11T12:44:59.368Z",
+  "updated": "2026-10-11T19:32:23.537Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 167
+    "fresh": 166
   },
   "ranking": [
     {
@@ -264,6 +264,26 @@
       "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
+      "summary": "Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable gain. Anthropic's own data backs this up: beyond ten agents, quality plateaus while token costs keep ",
+      "date": "2026-10-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
+      "summary": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score, and even that came ",
+      "date": "2026-10-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/"
+    },
+    {
       "category": "hardware",
       "lab": "AI",
       "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
@@ -304,14 +324,34 @@
       "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
-      "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new modes are showing up in ",
-      "date": "2026-10-10",
-      "importance": 4,
+      "category": "industry",
+      "lab": "AI",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "date": "2026-10-11",
+      "importance": 2,
       "tags": [],
-      "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/"
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "date": "2026-10-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "date": "2026-10-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
     },
     {
       "category": "model",
@@ -362,16 +402,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
-      "summary": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House. The ar",
-      "date": "2026-10-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/"
     },
     {
       "category": "industry",
@@ -624,16 +654,6 @@
       "url": "https://simonwillison.net/2026/Oct/8/ttok/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
@@ -692,26 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
     },
     {
       "category": "industry",

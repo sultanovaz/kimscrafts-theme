@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-11T05:42:15.751Z",
+  "updated": "2026-10-11T12:44:59.368Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 168
+    "fresh": 167
   },
   "ranking": [
     {
@@ -256,6 +256,46 @@
     {
       "category": "model",
       "lab": "AI",
+      "title": "Odyssey-3 is a new generative world model that you can try for free",
+      "summary": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V. Odyssey claims top scores on physics ben",
+      "date": "2026-10-11",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
+      "summary": "Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs drop. If that demand flattens, the chain from chip makers to cloud providers takes a hit. The article Che",
+      "date": "2026-10-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
+      "summary": "Starting October 2026, arXiv will cap submissions at two per person per month. Monthly submissions have doubled in two years, and in the cs.AI category they've grown more than sixfold. According to arXiv, a small fraction of authors are flooding the platform with low-quality pape",
+      "date": "2026-10-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
+      "summary": "Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language. In his latest blog post, he frames AI models as insider security threats, taking yet another shot at OpenAI and ",
+      "date": "2026-10-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
       "title": "Dwarf Fortress uses version control now",
       "summary": "<p>I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control <em>more</em>. That's art.</p> <p>I went looki",
       "date": "2026-10-11",
@@ -404,16 +444,6 @@
       "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
     },
     {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-      "summary": "OpenAI's annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method. The correction sent chip stocks sliding. Meanwhile, OpenAI is negotiating at least $30 billion in fresh capital at a $",
-      "date": "2026-10-09",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "ttok 1.0",
@@ -432,36 +462,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
-      "summary": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66. The art",
-      "date": "2026-10-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic launches a free AI scanner for open-source projects",
-      "summary": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-sour",
-      "date": "2026-10-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
-      "summary": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture. OpenAI claims they violated policies but won't say how. The article OpenAI's safety crisis kee",
-      "date": "2026-10-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/"
     },
     {
       "category": "model",

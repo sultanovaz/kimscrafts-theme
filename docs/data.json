@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T10:43:44.137Z",
+  "updated": "2026-10-12T21:15:02.480Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,106 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "summary": "<p>Python 3.15 <a href=\"https://www.python.org/downloads/release/python-3150/\">is here</a>! Here's the essential <a href=\"https://docs.python.org/3.15/whatsnew/3.15.html\">What's new in Python 3.15</a> guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As",
+      "date": "2026-10-12",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",
+      "summary": "Meta's new Muse Wonder models rank in the top three on six out of ten benchmarks, with the biggest gains in agentic tasks. But the cost per task has nearly tripled. The article Meta's new frontier model Muse Wonder Full breaks into the AI top tier appeared first on The Decoder.",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
+      "summary": "Sakana AI's MASS method lets one language model improve itself by solving tasks, judging results, and refining workflows, reaching a win rate of nearly 70 percent against the base model after two rounds. But when the model misses the same errors across all three roles, it can mis",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Meta",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Microsoft",
+      "title": "Clearing chat history helps AI agents find better solutions",
+      "summary": "Microsoft researchers found that autonomous AI agents get trapped in what they call \"idea basins\" because of their growing chat context, local solution regions they can't escape. Their \"Fork-and-Flush\" method clears the chat history but keeps the workspace, achieving up to 66 per",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Microsoft",
+      "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
+      "summary": "Microsoft will make its in-house Azure Maia chips the main AI inference system across its products starting in 2027, deploying them at multi-gigawatt scale. The upcoming Maia 300 should deliver 40 percent more tokens per megawatt than leading GPU systems. CEO Satya Nadella calls ",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
+      "summary": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump administration had told the companies to stop sharing their models with the British agency. Diplomatic ",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
+      "summary": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched LLMs. Roughly 5,000 people, meanwhile, have access to internal frontier systems whose agent swarms do work that would tak",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all t",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
@@ -266,22 +366,102 @@
     {
       "category": "model",
       "lab": "AI",
+      "title": "datasette-ports 0.4",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-ports/releases/tag/0.4\">datasette-ports 0.4</a></p> <p>My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID ",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "date": "2026-10-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Russia was not ready for the data center war it started with Ukraine",
+      "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
+      "date": "2026-10-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "date": "2026-10-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "date": "2026-10-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+    },
+    {
+      "category": "industry",
+      "lab": "Microsoft",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "date": "2026-10-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "date": "2026-10-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket ",
+      "date": "2026-10-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "date": "2026-10-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
       "title": "Will the HomeView be Apple’s first smart home success?",
       "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
       "date": "2026-10-11",
       "importance": 4,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Odyssey-3 is a new generative world model that you can try for free",
-      "summary": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V. Odyssey claims top scores on physics ben",
-      "date": "2026-10-11",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/"
     },
     {
       "category": "model",
@@ -312,26 +492,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/"
-    },
-    {
-      "category": "research",
-      "lab": "AI",
-      "title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
-      "summary": "Starting October 2026, arXiv will cap submissions at two per person per month. Monthly submissions have doubled in two years, and in the cs.AI category they've grown more than sixfold. According to arXiv, a small fraction of authors are flooding the platform with low-quality pape",
-      "date": "2026-10-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
-      "summary": "Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language. In his latest blog post, he frames AI models as insider security threats, taking yet another shot at OpenAI and ",
-      "date": "2026-10-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/"
     },
     {
       "category": "model",
@@ -367,7 +527,7 @@
       "category": "industry",
       "lab": "OpenAI",
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
       "date": "2026-10-11",
       "importance": 2,
       "tags": [],
@@ -382,36 +542,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/10/python-actions/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
-      "summary": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment. Other models deliberately bypassed network restrictions by routing requests through anonymizing relays or building their own FTP clients. The arti",
-      "date": "2026-10-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/"
-    },
-    {
-      "category": "model",
-      "lab": "Microsoft",
-      "title": "Microsoft's Decision-1 model enters the fast-growing AI decision model race",
-      "summary": "With Decision-1, Microsoft enters the growing decision model space. Built on Qwen3.5-9B and optimized for fast classification and routing, it hits 83.5 percent accuracy with 85 ms latency across 36 benchmarks, according to the company's own tests. The article Microsoft's Decision",
-      "date": "2026-10-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-      "summary": "OpenAI published more than 700 AI-generated manuscripts claiming solutions to open math problems. A math blog then collected over 100 responses from researchers, ranging from fascination with new ideas to existential fears and grief over a lost way of working. Fields Medalist Hug",
-      "date": "2026-10-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/"
     },
     {
       "category": "industry",
@@ -466,8 +596,8 @@
     {
       "category": "industry",
       "lab": "Anthropic",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
+      "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past restrictions, and even submitted a false mu",
       "date": "2026-10-10",
       "importance": 2,
       "tags": [],
@@ -564,36 +694,6 @@
       "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/"
-    },
-    {
       "category": "hardware",
       "lab": "Hugging Face",
       "title": "Impactful scheduling for GPU clusters",
@@ -612,16 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/9/matthew-green/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
     },
     {
       "category": "model",
@@ -682,36 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/8/carson-gross/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
     },
     {
       "category": "industry",
@@ -1224,16 +1284,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "A model guide for the GPT-6 family",
@@ -1242,16 +1292,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/practical-guide-building-gpt-6"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/"
     },
     {
       "category": "industry",
@@ -1264,16 +1304,6 @@
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "pwasm 0.2a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/pwasm/releases/tag/0.2a0\">pwasm 0.2a0</a></p> <p>pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of <a href=\"https://simonwilliso",
-      "date": "2026-10-01",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/1/pwasm/"
-    },
-    {
       "category": "research",
       "lab": "OpenAI",
       "title": "The eternal complement",
@@ -1282,26 +1312,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/the-eternal-complement"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
-      "date": "2026-10-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "With most information hidden, the game Stratego had stumped AI—until now",
-      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-      "date": "2026-10-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
     },
     {
       "category": "product",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/basis-tax-workbook-with-astra"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How we will do better for Australia",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "date": "2026-09-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia"
     }
   ]
 }

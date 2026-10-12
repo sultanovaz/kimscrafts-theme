@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T00:30:52.429Z",
+  "updated": "2026-10-12T10:43:44.137Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+      "summary": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems, including nine Erdős problems two of which were unsolved for 56 years, per a study in Science. The publication comes as OpenAI faces a boycott for dumping AI proofs on GitHub without peer review. Deepmind had",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "Will the HomeView be Apple’s first smart home success?",
@@ -402,16 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Few people pay for AI, but those who do spend big",
-      "summary": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a subscription. The top one percent of payers spend about $900 a month, mostly on professional tools for devel",
-      "date": "2026-10-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/"
     },
     {
       "category": "industry",

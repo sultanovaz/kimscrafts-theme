@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T21:15:02.480Z",
+  "updated": "2026-10-13T02:34:42.528Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -312,6 +312,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "web-edit 0.1a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/web-edit/releases/tag/0.1a0\">web-edit 0.1a0</a></p> <p>I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials throu",
+      "date": "2026-10-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/"
     },
     {
       "category": "hardware",
@@ -1262,16 +1272,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Rex's Dino Store",
-      "summary": "<p><strong>Museum:</strong> <a href=\"https://www.niche-museums.com/119\">Rex&#x27;s Dino Store</a></p> <p>Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dino",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/"
     },
     {
       "category": "hardware",

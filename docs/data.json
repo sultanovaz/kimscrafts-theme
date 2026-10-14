@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-14T00:16:27.229Z",
+  "updated": "2026-10-14T04:57:18.902Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 169
+    "fresh": 170
   },
   "ranking": [
     {
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+    },
     {
       "category": "benchmark",
       "lab": "Anthropic",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/devday-2026-recap"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
     }
   ]
 }

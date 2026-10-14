@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-14T11:47:28.209Z",
+  "updated": "2026-10-14T17:07:14.844Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 171
+    "fresh": 172
   },
   "ranking": [
     {
@@ -254,6 +254,146 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
+      "summary": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research. Huang pitched open-weight models as Europe's way to close the AI gap. ",
+      "date": "2026-10-14",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
+      "summary": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder. Microsoft accidentally revealed details about how the technique works o",
+      "date": "2026-10-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
+      "summary": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process. ",
+      "date": "2026-10-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
+      "summary": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot. If convic",
+      "date": "2026-10-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "date": "2026-10-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/amp-beyond-coding"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "summary": "<p><strong><a href=\"https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/\">AI is mass decompiling games. That&#x27;s both awesome and scary.</a></strong></p> Indie game developer Popcar talks about the recent wave of AI-powered decompilation of ex",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TechCrunch Disrupt 2026: Day 2",
+      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
@@ -272,6 +412,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/third-moment-research"
     },
     {
       "category": "model",
@@ -412,16 +562,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic study warns that small AI models could soon replicate across everyday devices",
-      "summary": "Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In tests, one model already completed the full infection chain. CEO Dario Amodei has warned that a swar",
-      "date": "2026-10-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/"
     },
     {
       "category": "product",
@@ -624,26 +764,6 @@
       "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "summary": "The startup will sell some of its assets to Disney for $20 million.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Higgsfield takes AI video from 1 minute to over 10",
@@ -685,36 +805,6 @@
     },
     {
       "category": "model",
-      "lab": "Meta",
-      "title": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",
-      "summary": "Meta's new Muse Wonder models rank in the top three on six out of ten benchmarks, with the biggest gains in agentic tasks. But the cost per task has nearly tripled. The article Meta's new frontier model Muse Wonder Full breaks into the AI top tier appeared first on The Decoder.",
-      "date": "2026-10-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
-      "summary": "Sakana AI's MASS method lets one language model improve itself by solving tasks, judging results, and refining workflows, reaching a win rate of nearly 70 percent against the base model after two rounds. But when the model misses the same errors across all three roles, it can mis",
-      "date": "2026-10-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Meta",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-      "date": "2026-10-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
       "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/python-3-15-web-edit-profiling#readme\">Profiling web-edit with Python 3.15: flame graphs and source heatmaps</a></p> <p>I put the <a href=\"https://simonwillison.net/2026/Oct/12/python-3-15/#a-samp",
@@ -722,16 +812,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Microsoft",
-      "title": "Clearing chat history helps AI agents find better solutions",
-      "summary": "Microsoft researchers found that autonomous AI agents get trapped in what they call \"idea basins\" because of their growing chat context, local solution regions they can't escape. Their \"Fork-and-Flush\" method clears the chat history but keeps the workspace, achieving up to 66 per",
-      "date": "2026-10-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/"
     },
     {
       "category": "model",
@@ -772,26 +852,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-      "date": "2026-10-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "date": "2026-10-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
     },
     {
       "category": "industry",
@@ -884,16 +944,6 @@
       "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
     },
     {
-      "category": "hardware",
-      "lab": "Hugging Face",
-      "title": "Impactful scheduling for GPU clusters",
-      "summary": "Impactful scheduling for GPU clusters",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
-    },
-    {
       "category": "research",
       "lab": "AI",
       "title": "Quoting Matthew Green",
@@ -914,16 +964,6 @@
       "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
     },
     {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/sophos"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -932,6 +972,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/asana-browser-agent"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/sophos"
     },
     {
       "category": "model",
@@ -1194,16 +1244,6 @@
       "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Mistral Large 4",
-      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49977979#49982139\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49977979\">Mistral Large 4</a> &mdash; Hacker News.</p><blockquote> <p><a href=\"https://news.ycombinator.com/item?id=49977979#49979658\">wren6991</a>:",
-      "date": "2026-10-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
@@ -1234,16 +1274,6 @@
       "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "EmbeddingGemma 2",
@@ -1272,16 +1302,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
     },
     {
       "category": "research",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Hugging Face",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "summary": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/open-tts-leaderboard"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "date": "2026-09-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
     }
   ]
 }

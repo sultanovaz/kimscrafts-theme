@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-14T21:38:17.565Z",
+  "updated": "2026-10-15T04:33:53.820Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 173
+    "fresh": 174
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tr",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
@@ -262,6 +292,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Tree Appreciator",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/tree-appreciator\">Tree Appreciator</a></p> <p>Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with:</p> <bloc",
+      "date": "2026-10-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/"
     },
     {
       "category": "research",
@@ -504,6 +544,16 @@
       "url": "https://openai.com/index/third-moment-research"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "date": "2026-10-14",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/block-ai-powered-security"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -695,16 +745,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "summary": "Run fast, private agents on-device with LFM2.5-24B-A2B",
@@ -722,26 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
     },
     {
       "category": "model",
@@ -1304,16 +1324,6 @@
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Using Parseable with Datasette for OpenTelemetry traces",
-      "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/datasette/datasette-parseable-opentelemetry\">Using Parseable with Datasette for OpenTelemetry traces</a></p> <p>I <a href=\"https://news.ycombinator.com/item?id=49978171\">saw Parseable in a Show HN</a> today - it's a ",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/"
-    },
-    {
       "category": "research",
       "lab": "OpenAI",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/introducing-synthid-bio/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
     }
   ]
 }

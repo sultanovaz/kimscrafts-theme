@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-15T16:57:23.729Z",
+  "updated": "2026-10-15T21:19:52.692Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 177
+    "fresh": 178
   },
   "ranking": [
     {
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "model",
+      "lab": "Meta",
+      "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
+      "summary": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to r",
+      "date": "2026-10-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
+      "summary": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with up to ten reference images. With 38 percent fewer parameters than its predecessor, it still outperfor",
+      "date": "2026-10-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/"
+    },
+    {
+      "category": "model",
       "lab": "Nvidia",
       "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
       "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buyin",
@@ -272,6 +292,36 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Chirp Pong",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/chirp-pong\">Chirp Pong</a></p> <p>Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
     },
     {
       "category": "benchmark",
@@ -332,6 +382,56 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://huggingface.co/blog/meta-muse-spark-open"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "summary": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your bus",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"
     },
     {
       "category": "industry",
@@ -444,16 +544,6 @@
       "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
-      "summary": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research. Huang pitched open-weight models as Europe's way to close the AI gap. ",
-      "date": "2026-10-14",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Tree Appreciator",
@@ -492,16 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
-      "summary": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process. ",
-      "date": "2026-10-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/"
     },
     {
       "category": "model",
@@ -674,16 +754,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
@@ -744,16 +814,6 @@
       "url": "https://simonwillison.net/2026/Oct/13/web-edit/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "date": "2026-10-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Redesigning source control at Anthropic",
@@ -772,36 +832,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
     },
     {
       "category": "model",
@@ -1345,16 +1375,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "EmbeddingGemma 2",
-      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49980487#49983751\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49980487\">EmbeddingGemma 2</a> &mdash; Hacker News.</p><p>I really appreciate that <a href=\"https://blog.google/innovation-and-ai/technology/develop",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "summary": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/practical-guide-building-gpt-6"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "date": "2026-10-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "The eternal complement",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "date": "2026-10-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/the-eternal-complement"
     }
   ]
 }

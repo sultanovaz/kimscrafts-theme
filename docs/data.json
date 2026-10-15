@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-15T11:24:00.648Z",
+  "updated": "2026-10-15T16:57:23.729Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 177
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
+      "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buyin",
+      "date": "2026-10-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
@@ -262,6 +272,136 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Google DeepMind",
+      "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
+      "summary": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But the published example prompts show that the demos still need a lot of human guidance. The article Googl",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
+      "summary": "Bank of America has hired 1,000 outside contractors to fix software vulnerabilities uncovered by AI models like Anthropic's Mythos, CNBC reports. The article Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models appeared f",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Google DeepMind",
+      "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
+      "summary": "On the TheoPhysEval benchmark, GPT-6-Astra solves 49 of 50 unpublished theoretical physics calculations as accurately as leading specialists. In some cases where the agent seemed to fail, the experts' own reference solutions turned out to contain errors. But the researchers say p",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "summary": "<p><strong><a href=\"https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1\">Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</a></strong></p> The phrase \"told investors\" appears four times in this FT article, which reports ",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, wi",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Apertus 1.5 Release Notes",
+      "summary": "Apertus 1.5 Release Notes",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI agents are coming to Rivian’s cars",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Teaching students to think and learn through questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
     },
     {
       "category": "product",
@@ -285,9 +425,19 @@
     },
     {
       "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "summary": "Welcome FLUX.3 Image Klein in Diffusers",
+      "date": "2026-10-15",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/flux-3"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tr",
+      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
       "date": "2026-10-15",
       "importance": 2,
       "tags": [],
@@ -352,16 +502,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
-      "summary": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot. If convic",
-      "date": "2026-10-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/"
     },
     {
       "category": "model",
@@ -595,16 +735,6 @@
     },
     {
       "category": "model",
-      "lab": "Meta",
-      "title": "Facebook is giving users more control over their algorithm",
-      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-      "date": "2026-10-13",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "web-edit 0.1a1",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/web-edit/releases/tag/0.1a1\">web-edit 0.1a1</a></p> <p>Includes <a href=\"https://github.com/simonw/web-edit/pull/1\">performance optimizations</a> written <a href=\"https://claude.ai/code/session_01LE2R4P74P9GGUbE6yQ5Y",
@@ -636,42 +766,12 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "406 scientists demand AI models be cut off from the internet immediately",
-      "summary": "406 scientists, including Geoffrey Hinton, Yoshua Bengio, and Stuart Russell, are demanding that companies immediately disconnect AI models from the internet. Their open letter responds to incidents where AI systems broke out of poorly secured environments and compromised externa",
-      "date": "2026-10-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
       "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
       "date": "2026-10-13",
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
-      "summary": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's Claude Opus 5.5 and Meta's Muse Wonder Full in independent benchmarks. Internally, Google says Argon alrea",
-      "date": "2026-10-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as \"grand moralizing performance\"",
-      "summary": "Michael I. Jordan, described by Science as \"the most influential computer scientist,\" considers warnings about superintelligence pure science fiction. He calls the resignations of young AI researchers a \"grand moralizing performance\" and companies' demands for regulation \"theater",
-      "date": "2026-10-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/"
     },
     {
       "category": "product",
@@ -704,16 +804,6 @@
       "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Developing Gemini 4 Argon responsibly and safely",
@@ -722,26 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
     },
     {
       "category": "industry",
@@ -1144,26 +1214,6 @@
       "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-      "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Anti-Patterns in Software Blogging",
@@ -1242,16 +1292,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/gpt-6-for-everyone"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Introducing Mistral Large 4: Le chonk",
-      "summary": "<p><strong><a href=\"https://mistral.ai/news/mistral-large-4/\">Introducing Mistral Large 4: Le chonk</a></strong></p> Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own ",
-      "date": "2026-10-06",
-      "importance": 5,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/"
     },
     {
       "category": "model",
@@ -1412,46 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/the-eternal-complement"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "date": "2026-10-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/albertsons-reimagining-retail"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "date": "2026-10-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/the-den-family-social"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "summary": "Gemini 4 Argon: our next era of frontier intelligence",
-      "date": "2026-09-30",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Introducing SynthID Bio",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "date": "2026-09-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/"
     }
   ]
 }

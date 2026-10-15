@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T04:33:53.820Z",
+  "updated": "2026-10-15T11:24:00.648Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+      "summary": "Anthropic hit $16.8 billion in third-quarter revenue, a 45 percent gain that still falls far short of Q2's 140 percent surge. With a November IPO approaching, some investors now expect the company's valuation to drop below $1.5 trillion. Slowing growth and a tough market are cool",
+      "date": "2026-10-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Figma announces new features to define how agents work on its platform",
@@ -297,7 +307,7 @@
       "category": "model",
       "lab": "Anthropic",
       "title": "Tree Appreciator",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/tree-appreciator\">Tree Appreciator</a></p> <p>Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with:</p> <bloc",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/tree-appreciator\">Tree Appreciator</a></p> <p>Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with:</p> <blo",
       "date": "2026-10-14",
       "importance": 3,
       "tags": [],
@@ -592,16 +602,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy",
-      "summary": "Character.ai has filed for bankruptcy and is looking for a buyer. If none steps up, the platform shuts down. Founded by ex-Google researchers, the company once had over 20 million users but is now battling lawsuits over harm to minors and operational problems. The sale should clo",
-      "date": "2026-10-13",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/character-ai-will-shut-down-if-no-buyer-emerges-capping-a-fall-from-2-7-billion-google-deal-to-bankruptcy/"
     },
     {
       "category": "model",

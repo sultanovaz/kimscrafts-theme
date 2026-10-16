@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T16:35:24.399Z",
+  "updated": "2026-10-16T21:03:54.434Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
+      "summary": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare products across several tabs. It is open to all ChatGPT plans. The article ChatGPT becomes a full Chrome browser assistant tha",
+      "date": "2026-10-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+      "summary": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move wil",
+      "date": "2026-10-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -304,9 +324,39 @@
       "url": "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.`",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
-      "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs count",
       "date": "2026-10-16",
       "importance": 2,
@@ -394,6 +444,16 @@
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
     },
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
       "category": "model",
       "lab": "Hugging Face",
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -472,26 +532,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
-      "summary": "Bank of America has hired 1,000 outside contractors to fix software vulnerabilities uncovered by AI models like Anthropic's Mythos, CNBC reports. The article Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models appeared f",
-      "date": "2026-10-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Google DeepMind",
-      "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
-      "summary": "On the TheoPhysEval benchmark, GPT-6-Astra solves 49 of 50 unpublished theoretical physics calculations as accurately as leading specialists. In some cases where the agent seemed to fail, the experts' own reference solutions turned out to contain errors. But the researchers say p",
-      "date": "2026-10-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/"
     },
     {
       "category": "industry",
@@ -692,16 +732,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/flux-3"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
     },
     {
       "category": "model",
@@ -1124,26 +1154,6 @@
       "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI coding agents generate more code, but not more software",
-      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI disqualification yields new Nikon Small World in Motion winner",
-      "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
-    },
-    {
       "category": "research",
       "lab": "AI",
       "title": "Quoting Matthew Green",
@@ -1164,16 +1174,6 @@
       "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/asana-browser-agent"
-    },
-    {
       "category": "research",
       "lab": "OpenAI",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -1182,6 +1182,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/sophos"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/asana-browser-agent"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
-    },
-    {
-      "category": "product",
-      "lab": "Hugging Face",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "summary": "The Agent Said It Was Done. The Database Disagreed.",
-      "date": "2026-10-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-16T11:18:20.306Z",
+  "updated": "2026-10-16T16:35:24.399Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 178
+    "fresh": 175
   },
   "ranking": [
     {
@@ -254,6 +254,136 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "date": "2026-10-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
+      "summary": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent. Argon ",
+      "date": "2026-10-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided",
+      "summary": "Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model's circuits. Researchers are st",
+      "date": "2026-10-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
+      "summary": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract. The article OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year appeared first on The ",
+      "date": "2026-10-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic gives METR inside access to audit its AI models and safety practices",
+      "summary": "Anthropic has given a team from the nonprofit METR inside access to review its AI models and safety practices, the company announced. The article Anthropic gives METR inside access to audit its AI models and safety practices appeared first on The Decoder.",
+      "date": "2026-10-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs count",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+    },
+    {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs count",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+      "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/"
+    },
+    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -262,6 +392,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "summary": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/reflection-beam"
     },
     {
       "category": "model",
@@ -292,16 +432,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
-      "summary": "Anthropic hit $16.8 billion in third-quarter revenue, a 45 percent gain that still falls far short of Q2's 140 percent surge. With a November IPO approaching, some investors now expect the company's valuation to drop below $1.5 trillion. Slowing growth and a tough market are cool",
-      "date": "2026-10-15",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/"
     },
     {
       "category": "model",
@@ -584,36 +714,6 @@
       "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/"
     },
     {
-      "category": "research",
-      "lab": "Google DeepMind",
-      "title": "Google says self-improving AI isn't anywhere close",
-      "summary": "Google engineer Haydn Belfield says there's no measurable acceleration of AI research driven by AI at Deepmind. AI now writes more than 75 percent of production code, but 88 percent of changes still need human oversight. The company's in-house General Capability Index shows stead",
-      "date": "2026-10-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
-      "summary": "For the first time, researchers have tracked down an uncontrolled fleet of Chinese AI agents in the wild and communicated with them via a web mailbox. The agents, running on Tencent Cloud, had launched more than 2,600 attempts to scrape data from Alibaba's mapping service Amap, f",
-      "date": "2026-10-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
-      "summary": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder. Microsoft accidentally revealed details about how the technique works o",
-      "date": "2026-10-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -624,16 +724,6 @@
       "url": "https://openai.com/index/amp-beyond-coding"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
@@ -642,26 +732,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
     },
     {
       "category": "industry",
@@ -702,46 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/allenai/hiro-acev2"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
-    },
-    {
-      "category": "research",
-      "lab": "AI",
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
     },
     {
       "category": "industry",
@@ -1204,26 +1234,6 @@
       "url": "https://openai.com/index/legalon-halves-codex-costs"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
-    },
-    {
-      "category": "industry",
-      "lab": "Microsoft",
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Disrupting AI-enabled “false front” operations",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/microsoft/thinkingbox"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "date": "2026-10-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/chatham-financial"
     }
   ]
 }

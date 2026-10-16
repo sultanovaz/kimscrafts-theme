@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-16T21:03:54.434Z",
+  "updated": "2026-10-16T23:33:34.554Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 175
+    "fresh": 176
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "date": "2026-10-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/itau-generative-ai"
+    },
+    {
       "category": "product",
       "lab": "OpenAI",
       "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
@@ -324,10 +334,30 @@
       "url": "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "summary": "<blockquote cite=\"https://claude.dev/blog/solving-code-review-at-anthropic/\"><p>We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\"</p> <p>Asking that question als",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.`",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
       "date": "2026-10-16",
       "importance": 2,
       "tags": [],
@@ -555,6 +585,16 @@
     },
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "LaTeX renderer",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/latex\">LaTeX renderer</a></p> <p>Inspired by Paul Ford and Aboard Foundary's new web app <a href=\"https://tinylittleoffice.com/\">Tiny Little Office</a>, which provides a suite of web app content editors (a Word Pr",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/15/latex/"
+    },
+    {
+      "category": "model",
       "lab": "Meta",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
@@ -702,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
     },
     {
       "category": "product",
@@ -1354,26 +1384,6 @@
       "url": "https://openai.com/index/gpt-6-for-everyone"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "llm-openai-decisions 0.1a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-openai-decisions/releases/tag/0.1a0\">llm-openai-decisions 0.1a0</a></p> <p>OpenAI released their new Jev-style <a href=\"https://developers.openai.com/api/docs/guides/decisions\">Decisions API</a>, as previously an",
-      "date": "2026-10-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
-    },
-    {
-      "category": "model",
-      "lab": "Mistral",
-      "title": "llm-mistral 0.16",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-mistral/releases/tag/0.16\">llm-mistral 0.16</a></p> <p>Adds support for reasoning models, such as the newly released <a href=\"https://simonwillison.net/2026/Oct/6/le-chonk/\">Mistral Large 4</a>.</p> <p>Tags: <a h",
-      "date": "2026-10-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/eu-text-provenance"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Building advertising for the way people use AI",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "date": "2026-10-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
     }
   ]
 }

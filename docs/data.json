@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-17T10:39:08.519Z",
+  "updated": "2026-10-17T15:30:28.878Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 176
+    "fresh": 175
   },
   "ranking": [
     {
@@ -256,6 +256,16 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
+      "summary": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA without explanation, raising long-standing suspicion about built-in backdoors. Claude figured out in under ",
+      "date": "2026-10-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
       "summary": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Search and Fetch APIs at $0.75 per 1,000 cal",
       "date": "2026-10-17",
@@ -504,16 +514,6 @@
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Benefit Street Partners answers questions faster with Codex",
@@ -524,6 +524,16 @@
       "url": "https://openai.com/index/benefit-street-partners"
     },
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
       "category": "model",
       "lab": "Hugging Face",
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -532,16 +542,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/reflection-beam"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
-      "summary": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to r",
-      "date": "2026-10-15",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/"
     },
     {
       "category": "model",
@@ -1214,16 +1214,6 @@
       "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
     },
     {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/sophos"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -1232,6 +1222,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/asana-browser-agent"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/sophos"
     },
     {
       "category": "model",

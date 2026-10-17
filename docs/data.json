@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-17T04:21:19.389Z",
+  "updated": "2026-10-17T10:39:08.519Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 175
+    "fresh": 176
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
+      "summary": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Search and Fetch APIs at $0.75 per 1,000 cal",
+      "date": "2026-10-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
+      "summary": "AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts. The article AI models hide mistakes in their own work reports, but on",
+      "date": "2026-10-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
+      "summary": "OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the claimed methodology, saying the actual approach differs from what OpenAI described. And because language models are black",
+      "date": "2026-10-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -484,6 +514,16 @@
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/benefit-street-partners"
+    },
+    {
       "category": "model",
       "lab": "Hugging Face",
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -502,26 +542,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
-      "summary": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with up to ten reference images. With 38 percent fewer parameters than its predecessor, it still outperfor",
-      "date": "2026-10-15",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/"
-    },
-    {
-      "category": "model",
-      "lab": "Nvidia",
-      "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
-      "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buyin",
-      "date": "2026-10-15",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/"
     },
     {
       "category": "model",
@@ -552,16 +572,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Google DeepMind",
-      "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
-      "summary": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But the published example prompts show that the demos still need a lot of human guidance. The article Googl",
-      "date": "2026-10-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Our approach to EU text provenance rules",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "date": "2026-10-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/eu-text-provenance"
     }
   ]
 }

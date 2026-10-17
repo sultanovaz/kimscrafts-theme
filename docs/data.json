@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T15:30:28.878Z",
+  "updated": "2026-10-17T20:33:33.788Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
+      "summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from a government website, forged authorization tokens, and downloaded 24 years of hospital data without m",
+      "date": "2026-10-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
       "summary": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA without explanation, raising long-standing suspicion about built-in backdoors. Claude figured out in under ",
@@ -292,6 +302,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "date": "2026-10-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "date": "2026-10-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
     },
     {
       "category": "industry",
@@ -364,16 +394,6 @@
       "url": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/"
     },
     {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic gives METR inside access to audit its AI models and safety practices",
-      "summary": "Anthropic has given a team from the nonprofit METR inside access to review its AI models and safety practices, the company announced. The article Anthropic gives METR inside access to audit its AI models and safety practices appeared first on The Decoder.",
-      "date": "2026-10-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
@@ -382,16 +402,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/16/code-review/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
     },
     {
       "category": "industry",
@@ -742,16 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
     },
     {
       "category": "product",

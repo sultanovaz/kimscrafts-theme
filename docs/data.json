@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T15:49:13.107Z",
+  "updated": "2026-10-18T20:38:08.755Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -312,6 +312,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "date": "2026-10-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "date": "2026-10-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "date": "2026-10-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
     },
     {
       "category": "model",
@@ -742,26 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
     },
     {
       "category": "industry",
@@ -1202,16 +1212,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/9/ttok/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
     },
     {
       "category": "research",

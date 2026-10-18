@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T23:06:27.195Z",
+  "updated": "2026-10-18T04:27:15.303Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -275,6 +275,16 @@
     },
     {
       "category": "model",
+      "lab": "DeepSeek",
+      "title": "web-edit 0.1a2",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/web-edit/releases/tag/0.1a2\">web-edit 0.1a2</a></p> <p>web-edit (<a href=\"https://simonwillison.net/2026/Oct/12/web-edit/\">previously</a>) is my tiny web app for browsing and editing files in a folder. I mainly built",
+      "date": "2026-10-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
       "summary": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Search and Fetch APIs at $0.75 per 1,000 cal",
@@ -312,6 +322,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Inline rendering with document​.currentScript",
+      "summary": "<p><strong><a href=\"https://leanrada.com/notes/inline-rendering-currentscript/\">Inline rendering with document​.currentScript</a></strong></p> Lean Rada describes a neat trick that takes advantage of the <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Document/currentSc",
+      "date": "2026-10-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/"
     },
     {
       "category": "industry",
@@ -1374,16 +1394,6 @@
       "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-      "summary": "<p><strong><a href=\"https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/\">OpenAI “rogue” agent activities found on Wikimedia projects</a></strong></p> Given how tempting a target wikis are for rogue agent swarms, it's not a hu",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "GPT-6 and Intelligent UI for everyone",
@@ -1412,16 +1422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Quoting Victoria Kim",
-      "summary": "<blockquote cite=\"https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/94c8067e-4098-5c00-9673-c78cb58a9d8a\"><p>Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s ",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/"
     },
     {
       "category": "model",

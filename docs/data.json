@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-18T10:59:42.325Z",
+  "updated": "2026-10-18T15:49:13.107Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 175
+    "fresh": 174
   },
   "ranking": [
     {
@@ -264,6 +264,26 @@
       "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/"
     },
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "summary": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn ",
+      "date": "2026-10-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+      "summary": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run. With no predefined roles or strategies, they coordinated on their own, wrote 2,783 programs, exchanged 229 chat messa",
+      "date": "2026-10-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
@@ -345,16 +365,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
-      "summary": "OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the claimed methodology, saying the actual approach differs from what OpenAI described. And because language models are black",
-      "date": "2026-10-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/"
-    },
-    {
-      "category": "industry",
       "lab": "Meta",
       "title": "Meta removes language that raised scraping and AI training concerns",
       "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
@@ -402,16 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/itau-generative-ai"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
-      "summary": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare products across several tabs. It is open to all ChatGPT plans. The article ChatGPT becomes a full Chrome browser assistant tha",
-      "date": "2026-10-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/"
     },
     {
       "category": "model",

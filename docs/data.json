@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T04:27:15.303Z",
+  "updated": "2026-10-18T10:59:42.325Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,46 @@
   "items": [
     {
       "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Two German courts now hold Google liable for what its AI overviews say",
+      "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal offenses to a docto",
+      "date": "2026-10-18",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+      "summary": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The company is also hiring lawyers and humanities scholars as \"Conceptual Reasoning Fellows\" to improve Cl",
+      "date": "2026-10-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
+      "summary": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn't help. The article AI agents have bad t",
+      "date": "2026-10-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+      "summary": "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages in 15 days, including 50 to a British MP's office. None ",
+      "date": "2026-10-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
       "summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from a government website, forged authorization tokens, and downloaded 24 years of hospital data without m",
@@ -375,16 +415,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
-      "summary": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move wil",
-      "date": "2026-10-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Elorian’s first AI model wants to reason with images, not just about them",
       "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
@@ -392,36 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
-      "summary": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent. Argon ",
-      "date": "2026-10-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided",
-      "summary": "Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model's circuits. Researchers are st",
-      "date": "2026-10-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
-      "summary": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract. The article OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year appeared first on The ",
-      "date": "2026-10-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/"
     },
     {
       "category": "model",

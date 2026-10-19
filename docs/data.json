@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T23:08:43.585Z",
+  "updated": "2026-10-19T04:35:52.336Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "AI",
+      "title": "llm-echo 0.5",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.5\">llm-echo 0.5</a></p> <p>I'm working towards a new <a href=\"https://llm.datasette.io/\">LLM</a> release, and testing PRs caused me to revisit the <code>llm-echo</code> debug plugin. This plug",
+      "date": "2026-10-18",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Two German courts now hold Google liable for what its AI overviews say",
       "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal offenses to a docto",
@@ -262,6 +272,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "llm-tools-datasette 0.1.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1\">llm-tools-datasette 0.1.1</a></p> <p>When I switched LLM over to <a href=\"https://github.com/pydantic/httpx2\">httpx2</a> in <a href=\"https://llm.datasette.io/en/stable/changelo",
+      "date": "2026-10-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
     },
     {
       "category": "industry",
@@ -1345,16 +1365,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Anti-Patterns in Software Blogging",
-      "summary": "<p><strong><a href=\"https://refactoringenglish.com/blog/anti-patterns-software-blogging/#summary\">Anti-Patterns in Software Blogging</a></strong></p> Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing kno",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "Introducing Falcon ASR",
       "summary": "Introducing Falcon ASR",
@@ -1382,16 +1392,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/radisson"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Quoting Jake Boggan",
-      "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=49984923#49987367\"><p>I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over th",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/"
     },
     {
       "category": "model",

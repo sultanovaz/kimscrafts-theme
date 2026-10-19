@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-19T04:35:52.336Z",
+  "updated": "2026-10-19T13:07:06.055Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 174
+    "fresh": 175
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
+      "summary": "AI agents are increasingly using Stripe's payment service Link to shop for their users, Upstarts Media reports. The article Stripe says AI agent purchases are adding up, but it won't share the numbers appeared first on The Decoder.",
+      "date": "2026-10-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "The neocloud shakeout is coming, and Nvidia has the most to lose",
+      "summary": "After stock crashes and Firmus's scrapped IPO, industry executives expect only seven to ten of the hundreds of AI cloud providers to survive. CoreWeave lost a quarter of its market value, and Microsoft pulled out of a deal with Nscale for 23,000 Nvidia chips. Nvidia has a lot rid",
+      "date": "2026-10-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
+      "summary": "Anthropic wants to put five percent of its shares into a new public benefit fund that will also look into direct payments to workers at risk of losing their jobs. The fund is a company-owned LLC, so Anthropic keeps control of it as a possible IPO approaches. By offering the optio",
+      "date": "2026-10-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "llm-echo 0.5",
@@ -375,16 +405,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
-      "summary": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA without explanation, raising long-standing suspicion about built-in backdoors. Claude figured out in under ",
-      "date": "2026-10-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/"
-    },
-    {
-      "category": "model",
       "lab": "DeepSeek",
       "title": "web-edit 0.1a2",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/web-edit/releases/tag/0.1a2\">web-edit 0.1a2</a></p> <p>web-edit (<a href=\"https://simonwillison.net/2026/Oct/12/web-edit/\">previously</a>) is my tiny web app for browsing and editing files in a folder. I mainly built",
@@ -392,26 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/17/web-edit/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
-      "summary": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Search and Fetch APIs at $0.75 per 1,000 cal",
-      "date": "2026-10-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
-      "summary": "AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts. The article AI models hide mistakes in their own work reports, but on",
-      "date": "2026-10-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/"
     },
     {
       "category": "industry",
@@ -672,6 +672,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Apertus 1.5 Release Notes",
+      "summary": "Apertus 1.5 Release Notes",
+      "date": "2026-10-15",
+      "importance": 3,
+      "tags": [],
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/jump-trading"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Advancing computer use with Ironclad",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
     }
   ]
 }

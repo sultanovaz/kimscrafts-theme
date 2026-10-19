@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-19T13:07:06.055Z",
+  "updated": "2026-10-19T20:34:10.684Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 175
+    "fresh": 176
   },
   "ranking": [
     {
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Two German courts now hold Google liable for what its AI overviews say",
+      "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal offenses to a docto",
+      "date": "2026-10-19",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "date": "2026-10-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "DeepSeek",
+      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
+      "summary": "MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost. It also hits 73.7 percent on the DeepSWE v1.1 coding benchmark for under $0.30 per task, matching Deepseek V4.1 Flash 1017 on both performance and pric",
+      "date": "2026-10-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
+      "summary": "Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens. In comparisons with Wan 3.0 and Seedance 2.5, Kling 4.0 holds its own but doesn't pull ahead, which c",
+      "date": "2026-10-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
@@ -284,6 +324,116 @@
       "url": "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI game clones are making indie developers afraid to show their work",
+      "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "summary": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/hf-torchneuron"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "llm-echo 0.5",
@@ -292,16 +442,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/18/llm-echo/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Two German courts now hold Google liable for what its AI overviews say",
-      "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal offenses to a docto",
-      "date": "2026-10-18",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/"
     },
     {
       "category": "model",
@@ -355,19 +495,9 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
-      "summary": "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages in 15 days, including 50 to a British MP's office. None ",
-      "date": "2026-10-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/"
-    },
-    {
-      "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
       "date": "2026-10-18",
       "importance": 2,
       "tags": [],
@@ -376,7 +506,7 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "title": "Disney agrees to hire the majority of Character AI’s workforce",
       "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
       "date": "2026-10-18",
       "importance": 2,
@@ -392,16 +522,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
-      "summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from a government website, forged authorization tokens, and downloaded 24 years of hospital data without m",
-      "date": "2026-10-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/"
     },
     {
       "category": "model",
@@ -444,10 +564,10 @@
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
     },
     {
-      "category": "model",
+      "category": "industry",
       "lab": "Anthropic",
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
       "date": "2026-10-17",
       "importance": 2,
       "tags": [],
@@ -585,16 +705,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "summary": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -635,16 +745,6 @@
     },
     {
       "category": "model",
-      "lab": "Meta",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "date": "2026-10-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "Chirp Pong",
       "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/chirp-pong\">Chirp Pong</a></p> <p>Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via",
@@ -652,16 +752,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "date": "2026-10-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
     },
     {
       "category": "industry",
@@ -705,16 +795,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "summary": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
@@ -722,16 +802,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
     },
     {
       "category": "model",
@@ -742,26 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your bus",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"
     },
     {
       "category": "industry",
@@ -792,16 +842,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI agents are coming to Rivian’s cars",
-      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
     },
     {
       "category": "industry",
@@ -1165,36 +1205,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
-      "date": "2026-10-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Russia was not ready for the data center war it started with Ukraine",
-      "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-      "date": "2026-10-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-      "date": "2026-10-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "Dwarf Fortress uses version control now",
       "summary": "<p>I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control <em>more</em>. That's art.</p> <p>I went looki",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/jump-trading"
     }
   ]
 }

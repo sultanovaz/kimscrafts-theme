@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-19T20:34:10.684Z",
+  "updated": "2026-10-20T00:18:20.841Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 176
+    "fresh": 177
   },
   "ranking": [
     {
@@ -265,6 +265,26 @@
     },
     {
       "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "date": "2026-10-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "date": "2026-10-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+    },
+    {
+      "category": "hardware",
       "lab": "Nvidia",
       "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
@@ -325,6 +345,26 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "My obituary for programming",
+      "summary": "<p><strong><a href=\"https://dumbmatter.com/2026/10/programming-obituary/\">My obituary for programming</a></strong></p> Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the <em>puzzle</em> of developing code:</p> <blockquote",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, sa",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
       "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
@@ -347,7 +387,7 @@
       "category": "model",
       "lab": "Anthropic",
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
       "date": "2026-10-19",
       "importance": 2,
       "tags": [],
@@ -422,6 +462,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Advancing coding in low‑resource programming languages",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "date": "2026-10-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/low-resource-programming-languages"
     },
     {
       "category": "industry",
@@ -664,26 +714,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
@@ -692,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"
     },
     {
       "category": "industry",
@@ -714,16 +734,6 @@
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/benefit-street-partners"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -732,6 +742,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/benefit-street-partners"
     },
     {
       "category": "model",
@@ -1364,16 +1384,6 @@
       "url": "https://huggingface.co/blog/building-with-ml-intern"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Claude Haiku 5.5",
-      "summary": "<p>As previously <a href=\"https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/\">promised</a>, here's Anthropic's new fast, low cost model: <a href=\"https://www.anthropic.com/claude-haiku-5-5\">Introducing Claude Haiku 5.5</a>.</p> <p>The previous Haiku, 4.5, was very much show",
-      "date": "2026-10-07",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Quoting Ben Affleck",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "summary": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "date": "2026-10-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
     }
   ]
 }

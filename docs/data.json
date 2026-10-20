@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-20T14:16:58.401Z",
+  "updated": "2026-10-20T19:13:19.106Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 179
+    "fresh": 183
   },
   "ranking": [
     {
@@ -255,6 +255,76 @@
   "items": [
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+      "summary": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic. The article Deepse",
+      "date": "2026-10-20",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "AI",
+      "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
+      "summary": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second response time. Elevenlabs says no model on the Artificial Analysis leaderboard is both faster and more ac",
+      "date": "2026-10-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/"
+    },
+    {
+      "category": "product",
+      "lab": "Mistral",
+      "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
+      "summary": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations. It can r",
+      "date": "2026-10-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "date": "2026-10-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
+      "summary": "OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute. He called the last option \"",
+      "date": "2026-10-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
+      "summary": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specific",
+      "date": "2026-10-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Hugging Face",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "date": "2026-10-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
@@ -294,10 +364,90 @@
       "url": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/"
     },
     {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "ChatGPT now lets you lock your chats",
+      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+      "summary": "Meta argues nobody “decided” to pirate books to train AI.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "summary": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/fairstress"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
+      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
       "date": "2026-10-20",
       "importance": 2,
       "tags": [],
@@ -314,24 +464,14 @@
       "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
     },
     {
-      "category": "industry",
+      "category": "product",
       "lab": "Meta",
       "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "summary": "A single query is all that's required to find thousands of conversations listed by title.",
+      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
       "date": "2026-10-20",
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
     },
     {
       "category": "product",
@@ -344,6 +484,26 @@
       "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/ted-taylor-restaurant"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
@@ -352,6 +512,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI acquires Orchestra Bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "summary": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/hf-torchtpu"
     },
     {
       "category": "industry",
@@ -372,16 +552,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/mps-pytorch-2-15"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Two German courts now hold Google liable for what its AI overviews say",
-      "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal offenses to a docto",
-      "date": "2026-10-19",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/"
     },
     {
       "category": "industry",
@@ -422,36 +592,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
-      "summary": "AI agents are increasingly using Stripe's payment service Link to shop for their users, Upstarts Media reports. The article Stripe says AI agent purchases are adding up, but it won't share the numbers appeared first on The Decoder.",
-      "date": "2026-10-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "The neocloud shakeout is coming, and Nvidia has the most to lose",
-      "summary": "After stock crashes and Firmus's scrapped IPO, industry executives expect only seven to ten of the hundreds of AI cloud providers to survive. CoreWeave lost a quarter of its market value, and Microsoft pulled out of a deal with Nscale for 23,000 Nvidia chips. Nvidia has a lot rid",
-      "date": "2026-10-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
-      "summary": "Anthropic wants to put five percent of its shares into a new public benefit fund that will also look into direct payments to workers at risk of losing their jobs. The fund is a company-owned LLC, so Anthropic keeps control of it as a possible IPO approaches. By offering the optio",
-      "date": "2026-10-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/"
     },
     {
       "category": "industry",
@@ -554,16 +694,6 @@
       "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "date": "2026-10-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Disney found a way to buy Character.AI without buying its lawsuits",
@@ -572,16 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-      "date": "2026-10-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
     },
     {
       "category": "industry",
@@ -626,36 +746,6 @@
     {
       "category": "industry",
       "lab": "Anthropic",
-      "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-      "summary": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn ",
-      "date": "2026-10-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
-      "date": "2026-10-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Disney agrees to hire the majority of Character AI’s workforce",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "date": "2026-10-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
       "title": "Anthropic gives outside AI watchdog “employee-like” access",
       "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
       "date": "2026-10-18",
@@ -672,16 +762,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/17/web-edit/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "date": "2026-10-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
     },
     {
       "category": "product",
@@ -752,16 +832,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "summary": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
     },
     {
       "category": "industry",
@@ -985,16 +1055,6 @@
     },
     {
       "category": "industry",
-      "lab": "Hugging Face",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2"
-    },
-    {
-      "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic warns small AI models could self-replicate through IoT devices",
       "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
@@ -1154,26 +1214,6 @@
       "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "summary": "Developers will get 50 percent discounted API rates through November.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "They war-gamed dimming the Sun. It went even worse than you think.",
-      "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Quoting Geoffrey Huntley",
@@ -1314,16 +1354,6 @@
       "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
     },
     {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/sophos"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -1332,6 +1362,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/asana-browser-agent"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "date": "2026-10-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/sophos"
     },
     {
       "category": "model",
@@ -1412,46 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Introducing Falcon ASR",
-      "summary": "Introducing Falcon ASR",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/teens-learn-and-plan"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/radisson"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "date": "2026-10-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-6-for-everyone"
     }
   ]
 }

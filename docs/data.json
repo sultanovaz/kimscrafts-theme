@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T11:44:05.475Z",
+  "updated": "2026-10-21T17:08:57.891Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 180
+    "fresh": 184
   },
   "ranking": [
     {
@@ -254,6 +254,76 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
+      "summary": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet. The article Inception's ",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Mistral",
+      "title": "Mistral and Nvidia want to speed up industrial design with physics AI",
+      "summary": "Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder.",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days",
+      "summary": "Nvidia wants AI data centers to ship fully preassembled in containers. The article Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder.",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
+      "summary": "The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China's outrage isn't very credible, but it should be taken seriously as a poli",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
+      "summary": "Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring. OpenAI calls this a recurring pattern and doesn't yet have a satisfying exp",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/openai-models-google-cloud"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
@@ -275,13 +345,93 @@
     },
     {
       "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-      "summary": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "lab": "AI",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "summary": "<p><strong><a href=\"https://github.com/menufactory43/panache/\">Panache — RTS Belle Époque pour mobile</a></strong></p> Well this is delightful: I <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">released Battle Drones</a> yesterday under an Apache 2.0 License and the",
       "date": "2026-10-21",
       "importance": 2,
       "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories"
+      "url": "https://simonwillison.net/2026/Oct/21/panache/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "summary": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/building-chatgpt-ad-stack"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
     },
     {
       "category": "model",
@@ -344,26 +494,6 @@
       "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/"
     },
     {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
-      "summary": "OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute. He called the last option \"",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
-      "summary": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specific",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/"
-    },
-    {
       "category": "benchmark",
       "lab": "Hugging Face",
       "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
@@ -382,36 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
-      "summary": "The Army Cyber Command is developing AI agents that move through other networks like a computer worm and \"neutralize\" targets, according to internal documents. The program, codenamed ECHOTRIBBLE, is designed to reach even air-gapped systems with no network connection and run with",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs",
-      "summary": "Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models. The article Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs appeared first on The Decoder.",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "US bans Deepseek technology across federal civilian agencies",
-      "summary": "The US Department of Homeland Security has banned federal civilian agencies from using AI technology from Chinese lab Deepseek. The article US bans Deepseek technology across federal civilian agencies appeared first on The Decoder.",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/"
     },
     {
       "category": "industry",
@@ -685,16 +785,6 @@
     },
     {
       "category": "industry",
-      "lab": "Anthropic",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "date": "2026-10-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "My obituary for programming",
       "summary": "<p><strong><a href=\"https://dumbmatter.com/2026/10/programming-obituary/\">My obituary for programming</a></strong></p> Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the <em>puzzle</em> of developing code:</p> <blockquote",
@@ -884,14 +974,14 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
+      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-sparql-rust#readme\">sparqlite: SPARQL 1.1 inside SQLite, written in Rust</a></p> <p>This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as describ",
       "date": "2026-10-16",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+      "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
     },
     {
       "category": "industry",
@@ -902,6 +992,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/benefit-street-partners"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     },
     {
       "category": "model",
@@ -962,16 +1062,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/meta-muse-spark-open"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "summary": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
     },
     {
       "category": "model",
@@ -1122,16 +1212,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/sentinelone"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
     },
     {
       "category": "model",
@@ -1354,16 +1434,6 @@
       "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "ttok 1.0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/ttok/releases/tag/1.0\">ttok 1.0</a></p> <p>I released <a href=\"https://simonwillison.net/2026/Oct/8/ttok/\">ttok 0.4</a>, ran <code>uv tool upgrade ttok</code>, piped a file into the new version... and realized that i",
-      "date": "2026-10-09",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/9/ttok/"
-    },
-    {
       "category": "research",
       "lab": "AI",
       "title": "Quoting Matthew Green",
@@ -1382,76 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/asana-browser-agent"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/sophos"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "ttok 0.4",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/ttok/releases/tag/0.4\">ttok 0.4</a></p> <p><code>ttok</code> is my CLI tool for counting tokens, using OpenAI's open source <a href=\"https://github.com/openai/tiktoken\">tiktoken</a> library.</p> <p>It hasn't been in ",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/8/ttok/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "date": "2026-10-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/pollo-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/oracle"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/legalon-halves-codex-costs"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-20T23:50:50.744Z",
+  "updated": "2026-10-21T04:41:39.330Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 183
+    "fresh": 182
   },
   "ranking": [
     {
@@ -287,7 +287,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "SpaceX’s AI business is beating expectations",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "date": "2026-10-20",
       "importance": 3,
       "tags": [],
@@ -312,16 +312,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
     },
     {
       "category": "hardware",
@@ -357,7 +347,7 @@
       "category": "model",
       "lab": "AI",
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
       "date": "2026-10-20",
       "importance": 3,
       "tags": [],
@@ -392,6 +382,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/"
+    },
+    {
+      "category": "industry",
+      "lab": "Microsoft",
+      "title": "eMudhra Intermediate CA Compromise",
+      "summary": "<p><strong><a href=\"https://emudhra.we-have-a-problem.com\">eMudhra Intermediate CA Compromise</a></strong></p> This is very, very bad news:</p> <blockquote> <p>The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
     },
     {
       "category": "industry",
@@ -487,7 +487,7 @@
       "category": "industry",
       "lab": "Anthropic",
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "summary": "Eric Schmidt’s fortune is about to get even bigger.",
       "date": "2026-10-20",
       "importance": 2,
       "tags": [],
@@ -502,6 +502,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/"
     },
     {
       "category": "industry",
@@ -566,8 +586,8 @@
     {
       "category": "product",
       "lab": "AI",
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use ",
+      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+      "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
       "date": "2026-10-20",
       "importance": 2,
       "tags": [],
@@ -582,6 +602,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/ted-taylor-restaurant"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "date": "2026-10-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/terminal-x"
     },
     {
       "category": "industry",
@@ -702,16 +732,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "date": "2026-10-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
     },
     {
       "category": "industry",
@@ -864,16 +884,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/benefit-street-partners"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -882,6 +892,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/benefit-street-partners"
     },
     {
       "category": "model",
@@ -1405,16 +1425,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Carson Gross",
-      "summary": "<blockquote cite=\"https://htmx.org/essays/yes-and/\"><p>Computer programming is, fundamentally, about two things:</p> <ul> <li>Problem-solving using computers</li> <li>Learning to control complexity while solving these problems</li> </ul> <p>I have a hard time imagining a future w",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "The model that didn&apos;t exist, so you made it yourself",
-      "summary": "The model that didn&apos;t exist, so you made it yourself",
-      "date": "2026-10-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/building-with-ml-intern"
     }
   ]
 }

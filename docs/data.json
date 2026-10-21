@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T04:41:39.330Z",
+  "updated": "2026-10-21T11:44:05.475Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 182
+    "fresh": 180
   },
   "ranking": [
     {
@@ -256,6 +256,36 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+      "summary": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and the two strongest bind extremely tightly to Cn2, a toxin from a Mexican scorpion. Whether",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+      "summary": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to ",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "summary": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
       "summary": "<p>My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called <a href=\"https://github.com/simonw/battledrones#readme\">Battle Drones</a> (<a href=\"https://simonw.github.io/battledrones/\">play it here</a>). Unlike <a href=\"https://sim",
       "date": "2026-10-20",
@@ -277,7 +307,7 @@
       "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "date": "2026-10-20",
       "importance": 3,
       "tags": [],
@@ -397,7 +427,7 @@
       "category": "industry",
       "lab": "OpenAI",
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "date": "2026-10-20",
       "importance": 2,
       "tags": [],
@@ -472,16 +502,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
     },
     {
       "category": "industry",
@@ -672,26 +692,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "DeepSeek",
-      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
-      "summary": "MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost. It also hits 73.7 percent on the DeepSWE v1.1 coding benchmark for under $0.30 per task, matching Deepseek V4.1 Flash 1017 on both performance and pric",
-      "date": "2026-10-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
-      "summary": "Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens. In comparisons with Wan 3.0 and Seedance 2.5, Kling 4.0 holds its own but doesn't pull ahead, which c",
-      "date": "2026-10-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/"
     },
     {
       "category": "industry",

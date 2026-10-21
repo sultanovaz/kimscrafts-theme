@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T17:08:57.891Z",
+  "updated": "2026-10-21T21:39:41.883Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 184
+    "fresh": 187
   },
   "ranking": [
     {
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "summary": "<p><strong><a href=\"https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\">Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security</a></strong></p> If you're running anything on PHP it's vital you u",
+      "date": "2026-10-21",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
+      "summary": "Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI's GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers. The article Google Cloud now offers OpenAI models along",
+      "date": "2026-10-21",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
+      "summary": "OpenAI's GPT-5.6 Sol discovered a critical PHP vulnerability as part of the Patch the Planet initiative that could affect millions of websites. Security firm Wiz independently found the same flaw using Google's Gemini 4 Argon. OpenAI warns that the same AI capabilities that find ",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
+      "summary": "Demis Hassabis keeps moving up his AGI timeline. The Nobel laureate and former Google Deepmind CEO now expects artificial general intelligence within two to three years, down from three to five years earlier this year. The article Deepmind founder Hassabis shortens AGI timeline f",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "The $15 billion ad-powered AI startup your doctor may already be using",
@@ -345,6 +385,116 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/empowering-cyber-defenders"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "summary": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "summary": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/att-legal"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "Panache — RTS Belle Époque pour mobile",
       "summary": "<p><strong><a href=\"https://github.com/menufactory43/panache/\">Panache — RTS Belle Époque pour mobile</a></strong></p> Well this is delightful: I <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">released Battle Drones</a> yesterday under an Apache 2.0 License and the",
@@ -394,16 +544,6 @@
       "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "summary": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
@@ -446,16 +586,6 @@
     {
       "category": "model",
       "lab": "Anthropic",
-      "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
-      "summary": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic. The article Deepse",
-      "date": "2026-10-20",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "date": "2026-10-20",
@@ -472,26 +602,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "AI",
-      "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
-      "summary": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second response time. Elevenlabs says no model on the Artificial Analysis leaderboard is both faster and more ac",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/"
-    },
-    {
-      "category": "product",
-      "lab": "Mistral",
-      "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
-      "summary": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations. It can r",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/"
     },
     {
       "category": "benchmark",
@@ -704,16 +814,6 @@
       "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-      "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -732,16 +832,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/terminal-x"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
     },
     {
       "category": "industry",
@@ -792,26 +882,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "date": "2026-10-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of ",
-      "date": "2026-10-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
     },
     {
       "category": "industry",
@@ -984,16 +1054,6 @@
       "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/benefit-street-partners"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -1002,6 +1062,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/benefit-street-partners"
     },
     {
       "category": "model",
@@ -1164,26 +1234,6 @@
       "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Researchers use AI to design proteins that cut up other proteins",
-      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "AI is mass decompiling games. That's both awesome and scary.",
@@ -1192,16 +1242,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
     },
     {
       "category": "industry",
@@ -1412,46 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/10/python-actions/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Quoting The New York Times",
-      "summary": "<blockquote cite=\"https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html\"><p>Anthropic detailed the activity of its A.I. agents in <a href=\"https://www.anthropic.com/research/investigating-unintended-model-actions\">a blog post</a> on Friday, without naming t",
-      "date": "2026-10-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Deno is joining Cloudflare",
-      "summary": "<p><strong><a href=\"https://deno.com/blog/cloudflare\">Deno is joining Cloudflare</a></strong></p> The Deno team released the first version of <a href=\"https://github.com/denoland/celld\">celld</a> back in August - their open source implementation of the Durable Objects pattern fro",
-      "date": "2026-10-09",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
-    },
-    {
-      "category": "research",
-      "lab": "AI",
-      "title": "Quoting Matthew Green",
-      "summary": "<blockquote cite=\"https://twitter.com/matthew_d_green/status/2108552414978564418\"><p>Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we fun",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "A new feature for my blog, built using my voice",
-      "summary": "<p>I shipped a new feature for my blog today: the <a href=\"https://simonwillison.net/newsletters/\">Newsletters</a> page, which offers an index of all of the newsletters I've sent out, both my free <a href=\"https://simonw.substack.com/\">weekly Substack</a> and my <a href=\"https://",
-      "date": "2026-10-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/"
     }
   ]
 }

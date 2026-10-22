@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T21:39:41.883Z",
+  "updated": "2026-10-22T04:39:19.259Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 187
+    "fresh": 185
   },
   "ranking": [
     {
@@ -285,6 +285,16 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "date": "2026-10-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
+    },
+    {
+      "category": "industry",
       "lab": "Google DeepMind",
       "title": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
       "summary": "Demis Hassabis keeps moving up his AGI timeline. The Nobel laureate and former Google Deepmind CEO now expects artificial general intelligence within two to three years, down from three to five years earlier this year. The article Deepmind founder Hassabis shortens AGI timeline f",
@@ -396,6 +406,16 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "TechCrunch Founder Summit 2026: Everything you need to know",
       "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
       "date": "2026-10-21",
@@ -412,6 +432,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Broad access through consistent standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/broad-access-through-consistent-standards"
     },
     {
       "category": "model",
@@ -472,6 +502,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
     },
     {
       "category": "industry",
@@ -574,6 +614,16 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/cloudflare-cyber"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
@@ -612,16 +662,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
     },
     {
       "category": "industry",
@@ -784,16 +824,6 @@
       "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/"
     },
     {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
-    },
-    {
       "category": "product",
       "lab": "Meta",
       "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
@@ -802,16 +832,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
     },
     {
       "category": "industry",
@@ -1432,26 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Dwarf Fortress uses version control now",
-      "summary": "<p>I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control <em>more</em>. That's art.</p> <p>I went looki",
-      "date": "2026-10-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "summary": "<p><strong><a href=\"https://github.com/actions/python-versions/commit/49858b91c92d27403416ee43117032e91d00ce24\">Python 3.15.0 added to actions/python-versions</a></strong></p> Bit of a niche link, but I've been waiting for this for a couple of days - I even <a href=\"https://chatg",
-      "date": "2026-10-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions/"
     }
   ]
 }

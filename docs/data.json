@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-22T17:07:29.870Z",
+  "updated": "2026-10-22T21:32:32.101Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 187
+    "fresh": 186
   },
   "ranking": [
     {
@@ -276,6 +276,56 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "summary": "<p><strong><a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow\">DE STAAT - FREEDOM (Official Music Video)</a></strong></p> OK well this is a first for me... at <a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow&amp;t=44s\">00:44</a> in this new music video by Dutch alternative ",
+      "date": "2026-10-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Canva releases its first image generation model",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "date": "2026-10-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Major US banks are locking out AI agents that log in with customer credentials",
+      "summary": "Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other banks are restricting access. Most plan to limit agents to read-",
+      "date": "2026-10-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "summary": "<p><strong><a href=\"https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation\">Donating Agent Skills to the Agentic AI Foundation</a></strong></p> News today from Anthropic:</p> <blockquote> <p>We’re committed to keeping Agent Skills open, community-driven",
+      "date": "2026-10-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
+      "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Google's Agent Compute E",
+      "date": "2026-10-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "Only 13 percent of companies see real returns from AI, Gartner survey finds",
       "summary": "Only 13 percent of companies are getting real business value from their AI investments, according to a Gartner survey of 2,002 CIOs. At the same time, 51 percent expect AI to actually increase their operating costs. Yet 75 percent of CEOs plan to keep raising their technology bud",
       "date": "2026-10-22",
@@ -322,6 +372,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/decisions-api"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+    },
+    {
+      "category": "industry",
+      "lab": "Microsoft",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
     },
     {
       "category": "industry",
@@ -492,26 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
-      "summary": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet. The article Inception's ",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Mistral",
-      "title": "Mistral and Nvidia want to speed up industrial design with physics AI",
-      "summary": "Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder.",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/"
     },
     {
       "category": "model",
@@ -785,16 +855,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "SpaceX’s AI business is beating expectations",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
-    },
-    {
-      "category": "industry",
       "lab": "Microsoft",
       "title": "eMudhra Intermediate CA Compromise",
       "summary": "<p><strong><a href=\"https://emudhra.we-have-a-problem.com\">eMudhra Intermediate CA Compromise</a></strong></p> This is very, very bad news:</p> <blockquote> <p>The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the",
@@ -802,36 +862,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
     },
     {
       "category": "industry",
@@ -1422,36 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Quoting Geoffrey Huntley",
-      "summary": "<blockquote cite=\"https://ghuntley.com/agency/\"><p>If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability m",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "llm-meta-ai 0.2",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-meta-ai/releases/tag/0.2\">llm-meta-ai 0.2</a></p> <p>Meta AI release <a href=\"https://research.meta.ai/blog/muse-wonder\">Muse Wonder</a> (and Muse Wonder Full), their new \"most capable models\". These look like th",
-      "date": "2026-10-12",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/"
     }
   ]
 }

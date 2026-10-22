@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T04:39:19.259Z",
+  "updated": "2026-10-22T11:46:57.008Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,46 @@
   "items": [
     {
       "category": "model",
+      "lab": "AI",
+      "title": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+      "summary": "Security researchers at Symantec have found an offensive AI agent that hijacks unprotected language models on the web and uses them to attack servers, steal databases, and install cryptominers on its own. It runs up to 100,000 steps without human input. The owner of the hijacked ",
+      "date": "2026-10-22",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months",
+      "summary": "OpenAI teamed up with PerturbAI and Scripps Research to deploy thousands of AI agents that analyzed biological data from millions of mouse cells. The article OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months appeared first on The Decoder.",
+      "date": "2026-10-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+      "summary": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensit",
+      "date": "2026-10-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "summary": "Ensemble forecasting with IBM Granite time-series models",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
       "summary": "<p><strong><a href=\"https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\">Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security</a></strong></p> If you're running anything on PHP it's vital you u",
@@ -356,42 +396,12 @@
     {
       "category": "model",
       "lab": "OpenAI",
-      "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
-      "summary": "Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring. OpenAI calls this a recurring pattern and doesn't yet have a satisfying exp",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
       "title": "OpenAI models are coming to Google Cloud",
       "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
       "date": "2026-10-21",
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/openai-models-google-cloud"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
-      "summary": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and the two strongest bind extremely tightly to Cn2, a toxin from a Mexican scorpion. Whether",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
-      "summary": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to ",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/"
     },
     {
       "category": "industry",
@@ -427,7 +437,7 @@
       "category": "product",
       "lab": "Meta",
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "date": "2026-10-21",
       "importance": 2,
       "tags": [],
@@ -652,16 +662,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Hugging Face",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "summary": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
     },
     {
       "category": "industry",

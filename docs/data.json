@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-22T11:46:57.008Z",
+  "updated": "2026-10-22T17:07:29.870Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 185
+    "fresh": 187
   },
   "ranking": [
     {
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Recursive shows first result of its AI-driven research process with Flint",
+      "summary": "The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers. It was created in four months using the company's in-house AI system, \"Eureka Machine,\" which independently tests and optim",
+      "date": "2026-10-22",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/"
+    },
+    {
+      "category": "model",
       "lab": "AI",
       "title": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
       "summary": "Security researchers at Symantec have found an offensive AI agent that hijacks unprotected language models on the web and uses them to attack servers, steal databases, and install cryptominers on its own. It runs up to 100,000 steps without human input. The owner of the hijacked ",
@@ -262,6 +272,36 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Only 13 percent of companies see real returns from AI, Gartner survey finds",
+      "summary": "Only 13 percent of companies are getting real business value from their AI investments, according to a Gartner survey of 2,002 CIOs. At the same time, 51 percent expect AI to actually increase their operating costs. Yet 75 percent of CEOs plan to keep raising their technology bud",
+      "date": "2026-10-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Hugging Face",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "summary": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "date": "2026-10-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "date": "2026-10-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
     },
     {
       "category": "research",
@@ -285,6 +325,86 @@
     },
     {
       "category": "industry",
+      "lab": "Microsoft",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "Quoting Armin Ronacher",
+      "summary": "<blockquote cite=\"https://twitter.com/mitsuhiko/status/2113207589978636646\"><p>As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://twitter.com/mitsuhiko",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "summary": "Hackers were already probing the bug before defenders were told it existed.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"
+    },
+    {
+      "category": "industry",
       "lab": "Hugging Face",
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "summary": "Ensemble forecasting with IBM Granite time-series models",
@@ -292,6 +412,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "What FDE means at OpenAI",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/forward-deployed-engineering-means"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
     },
     {
       "category": "model",
@@ -374,26 +514,6 @@
       "url": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days",
-      "summary": "Nvidia wants AI data centers to ship fully preassembled in containers. The article Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder.",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
-      "summary": "The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China's outrage isn't very credible, but it should be taken seriously as a poli",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI models are coming to Google Cloud",
@@ -422,6 +542,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "date": "2026-10-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
     },
     {
       "category": "industry",
@@ -724,26 +854,6 @@
       "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/"
     },
     {
-      "category": "hardware",
-      "lab": "Google DeepMind",
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "ChatGPT now lets you lock your chats",
-      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
@@ -755,16 +865,6 @@
     },
     {
       "category": "industry",
-      "lab": "Anthropic",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "summary": "Eric Schmidt’s fortune is about to get even bigger.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
-    },
-    {
-      "category": "industry",
       "lab": "Meta",
       "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
       "summary": "Meta argues nobody “decided” to pirate books to train AI.",
@@ -772,56 +872,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "summary": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/fairstress"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/"
     },
     {
       "category": "product",
@@ -1246,16 +1296,6 @@
     {
       "category": "product",
       "lab": "AI",
-      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-      "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
       "title": "AI is mass decompiling games. That's both awesome and scary.",
       "summary": "<p><strong><a href=\"https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/\">AI is mass decompiling games. That&#x27;s both awesome and scary.</a></strong></p> Indie game developer Popcar talks about the recent wave of AI-powered decompilation of ex",
       "date": "2026-10-14",
@@ -1412,46 +1452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-      "summary": "<p>Python 3.15 <a href=\"https://www.python.org/downloads/release/python-3150/\">is here</a>! Here's the essential <a href=\"https://docs.python.org/3.15/whatsnew/3.15.html\">What's new in Python 3.15</a> guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As",
-      "date": "2026-10-12",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/python-3-15-web-edit-profiling#readme\">Profiling web-edit with Python 3.15: flame graphs and source heatmaps</a></p> <p>I put the <a href=\"https://simonwillison.net/2026/Oct/12/python-3-15/#a-samp",
-      "date": "2026-10-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "web-edit 0.1a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/web-edit/releases/tag/0.1a0\">web-edit 0.1a0</a></p> <p>I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials throu",
-      "date": "2026-10-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/12/web-edit/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-ports 0.4",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-ports/releases/tag/0.4\">datasette-ports 0.4</a></p> <p>My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID ",
-      "date": "2026-10-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T04:44:50.435Z",
+  "updated": "2026-10-23T11:34:00.748Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI lowers valuation target, raises up to $30 billion",
+      "summary": "OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder.",
+      "date": "2026-10-23",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's Claude now writes code and proves it safe automatically",
+      "summary": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic's goal: making formal verification wi",
+      "date": "2026-10-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
@@ -272,6 +292,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "date": "2026-10-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
     },
     {
       "category": "model",
@@ -575,16 +605,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
-      "summary": "Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI's GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers. The article Google Cloud now offers OpenAI models along",
-      "date": "2026-10-21",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/"
-    },
-    {
-      "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
       "summary": "OpenAI's GPT-5.6 Sol discovered a critical PHP vulnerability as part of the Patch the Planet initiative that could affect millions of websites. Security firm Wiz independently found the same flaw using Google's Gemini 4 Argon. OpenAI warns that the same AI capabilities that find ",
@@ -592,16 +612,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Deepmind founder Hassabis shortens AGI timeline from five to two to three years",
-      "summary": "Demis Hassabis keeps moving up his AGI timeline. The Nobel laureate and former Google Deepmind CEO now expects artificial general intelligence within two to three years, down from three to five years earlier this year. The article Deepmind founder Hassabis shortens AGI timeline f",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/"
     },
     {
       "category": "industry",
@@ -1164,16 +1174,6 @@
       "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/benefit-street-partners"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -1182,6 +1182,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/benefit-street-partners"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini 4 Argon for Robotics",
-      "summary": "Gemini 4 Argon for Robotics",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
     }
   ]
 }

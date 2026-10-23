@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-23T11:34:00.748Z",
+  "updated": "2026-10-23T17:03:28.786Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 184
+    "fresh": 178
   },
   "ranking": [
     {
@@ -264,6 +264,36 @@
       "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "date": "2026-10-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us",
+      "summary": "Sam Altman believes advanced AI can't be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that's still an unsolved problem. He also warns that AI models are already finding hardware security flaws no h",
+      "date": "2026-10-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Canva launches Craft, its first in-house image model",
+      "summary": "Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appeared first on The Decoder.",
+      "date": "2026-10-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic's Claude now writes code and proves it safe automatically",
@@ -276,12 +306,22 @@
     {
       "category": "hardware",
       "lab": "Nvidia",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
       "date": "2026-10-23",
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+    },
+    {
+      "category": "research",
+      "lab": "Hugging Face",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "date": "2026-10-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/litpivot"
     },
     {
       "category": "industry",
@@ -302,6 +342,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "summary": "Does Your Model Run on AWS Trainium? Look It Up",
+      "date": "2026-10-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support"
     },
     {
       "category": "model",
@@ -384,16 +434,6 @@
       "url": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/"
     },
     {
-      "category": "benchmark",
-      "lab": "Hugging Face",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "summary": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "date": "2026-10-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
-    },
-    {
       "category": "model",
       "lab": "DeepSeek",
       "title": "DeepSeek reportedly raises $15B days after US restrictions",
@@ -412,16 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
-      "summary": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensit",
-      "date": "2026-10-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/"
     },
     {
       "category": "industry",
@@ -602,16 +632,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/21/php-security-release/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
-      "summary": "OpenAI's GPT-5.6 Sol discovered a critical PHP vulnerability as part of the Patch the Planet initiative that could affect millions of websites. Security firm Wiz independently found the same flaw using Google's Gemini 4 Argon. OpenAI warns that the same AI capabilities that find ",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/"
     },
     {
       "category": "industry",
@@ -1174,16 +1194,6 @@
       "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Benefit Street Partners answers questions faster with Codex",
@@ -1192,6 +1202,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/benefit-street-partners"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     },
     {
       "category": "model",
@@ -1432,26 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "summary": "Developing Gemini 4 Argon responsibly and safely",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
     }
   ]
 }

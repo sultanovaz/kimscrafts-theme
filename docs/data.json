@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-22T21:32:32.101Z",
+  "updated": "2026-10-23T04:44:50.435Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 186
+    "fresh": 184
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "date": "2026-10-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "date": "2026-10-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Recursive shows first result of its AI-driven research process with Flint",
@@ -372,6 +392,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "date": "2026-10-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
     },
     {
       "category": "product",
@@ -552,16 +592,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
     },
     {
       "category": "industry",
@@ -775,16 +805,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
@@ -842,16 +862,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "date": "2026-10-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
     },
     {
       "category": "industry",
@@ -1154,16 +1164,6 @@
       "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Benefit Street Partners answers questions faster with Codex",
@@ -1172,6 +1172,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/benefit-street-partners"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "Gemini 4 Argon: Built to solve your hardest problems",
-      "date": "2026-10-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
     }
   ]
 }

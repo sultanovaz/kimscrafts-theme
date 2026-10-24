@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T10:54:29.892Z",
+  "updated": "2026-10-24T15:54:08.763Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -256,12 +256,82 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/battledrones/releases/tag/v14\">battledrones v14: Compass Rose, a four player map</a></p> <p>I added four player online mode to <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">Battledrones</a> - previous",
+      "date": "2026-10-24",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+      "summary": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer. They deny sharing confidential information and see a connection to their advocacy for AI systems that are ",
+      "date": "2026-10-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth",
+      "summary": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most. But when the AI is taken away, only senior attorneys retain the benefits, suggesting that baseline expertise is a prerequisite for turning AI",
+      "date": "2026-10-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+      "summary": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to recognize emotions, sarcasm, and pauses in real time. The model runs locally on a MacBook Pro M4 Max but ",
+      "date": "2026-10-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+      "summary": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The inc",
+      "date": "2026-10-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
       "summary": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning the same setup. Cost per task, however, can triple, driven mainly by the system prompt that gets resent with every step",
       "date": "2026-10-24",
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "date": "2026-10-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "date": "2026-10-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
     },
     {
       "category": "model",
@@ -272,16 +342,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI lowers valuation target, raises up to $30 billion",
-      "summary": "OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder.",
-      "date": "2026-10-23",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/"
     },
     {
       "category": "industry",
@@ -362,16 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Claude now writes code and proves it safe automatically",
-      "summary": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic's goal: making formal verification wi",
-      "date": "2026-10-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/"
     },
     {
       "category": "model",
@@ -494,16 +544,6 @@
       "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Major US banks are locking out AI agents that log in with customer credentials",
-      "summary": "Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other banks are restricting access. Most plan to limit agents to read-",
-      "date": "2026-10-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Donating Agent Skills to the Agentic AI Foundation",
@@ -512,16 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
-      "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Google's Agent Compute E",
-      "date": "2026-10-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/"
     },
     {
       "category": "model",
@@ -762,26 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "The EU’s next chapter in AI is agentic",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
     }
   ]
 }

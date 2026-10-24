@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T04:32:05.664Z",
+  "updated": "2026-10-24T10:54:29.892Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,16 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
+      "summary": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning the same setup. Cost per task, however, can triple, driven mainly by the system prompt that gets resent with every step",
+      "date": "2026-10-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -512,16 +522,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Only 13 percent of companies see real returns from AI, Gartner survey finds",
-      "summary": "Only 13 percent of companies are getting real business value from their AI investments, according to a Gartner survey of 2,002 CIOs. At the same time, 51 percent expect AI to actually increase their operating costs. Yet 75 percent of CEOs plan to keep raising their technology bud",
-      "date": "2026-10-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/"
     },
     {
       "category": "model",

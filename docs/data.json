@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T21:21:43.467Z",
+  "updated": "2026-10-24T04:32:05.664Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -274,6 +274,26 @@
       "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "date": "2026-10-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quick Study",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/quick-study-painter\">Quick Study</a></p> <p>Prompt <a href=\"https://claude.ai/share/71adda96-193f-4f2a-97c0-454e08066afb\">to Claude Opus 5.5 High</a>:</p> <blockquote> <p><code>Build an artifact where you open a p",
+      "date": "2026-10-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
@@ -362,6 +382,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "date": "2026-10-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
     },
     {
       "category": "industry",
@@ -764,16 +794,6 @@
       "url": "https://openai.com/index/broad-access-through-consistent-standards"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "The new human-crafted Apple Music brand matters in an AI world",
@@ -782,16 +802,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "llm-gemini 0.35",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.35\">llm-gemini 0.35</a></p> <p>I added support to <a href=\"https://github.com/simonw/llm-gemini\">llm-gemini</a> for the <a href=\"https://blog.google/innovation-and-ai/models-and-research/gem",
-      "date": "2026-10-13",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T20:47:44.333Z",
+  "updated": "2026-10-25T23:14:15.222Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -262,6 +262,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "date": "2026-10-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
     },
     {
       "category": "model",
@@ -712,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
     },
     {
       "category": "industry",

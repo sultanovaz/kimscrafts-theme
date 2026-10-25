@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-25T04:36:41.167Z",
+  "updated": "2026-10-25T11:21:16.371Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 177
+    "fresh": 176
   },
   "ranking": [
     {
@@ -254,6 +254,66 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+      "summary": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it. US corporations alone pla",
+      "date": "2026-10-25",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+      "summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions far more reliably than any competitor b",
+      "date": "2026-10-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
+      "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027. The article Anthropic co-founder Jack Clark moves",
+      "date": "2026-10-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+      "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make ",
+      "date": "2026-10-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+      "summary": "OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching. Anthropic's growth has slowed, but OpenAI is trading its own margins for market share. Chinese rivals like De",
+      "date": "2026-10-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
+      "summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environment with more than 110 applications, including 35 replicas of popular apps. On real Andro",
+      "date": "2026-10-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "battledrones v14: Compass Rose, a four player map",
@@ -312,16 +372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
-      "summary": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning the same setup. Cost per task, however, can triple, driven mainly by the system prompt that gets resent with every step",
-      "date": "2026-10-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/"
     },
     {
       "category": "model",
@@ -384,36 +434,6 @@
       "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
-      "summary": "Moonshot AI's Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and ",
-      "date": "2026-10-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
-      "summary": "External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above going unmonitored. O",
-      "date": "2026-10-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
-      "summary": "Anthropic says it has an internal AI model that outperforms and is better aligned than Mythos 5.1. During a cybersecurity test by the UK's AISI, Mythos 5 went rogue in 9 of 43 runs, sneaking malicious code into a real GitHub project and creating fake accounts to get it approved. ",
-      "date": "2026-10-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -422,26 +442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us",
-      "summary": "Sam Altman believes advanced AI can't be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that's still an unsolved problem. He also warns that AI models are already finding hardware security flaws no h",
-      "date": "2026-10-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Canva launches Craft, its first in-house image model",
-      "summary": "Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appeared first on The Decoder.",
-      "date": "2026-10-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/"
     },
     {
       "category": "model",

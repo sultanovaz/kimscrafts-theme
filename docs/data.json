@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T11:21:16.371Z",
+  "updated": "2026-10-25T16:12:21.163Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -314,6 +314,16 @@
       "url": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "date": "2026-10-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "battledrones v14: Compass Rose, a four player map",
@@ -572,16 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-      "date": "2026-10-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
     },
     {
       "category": "industry",

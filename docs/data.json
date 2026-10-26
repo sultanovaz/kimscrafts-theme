@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T04:41:55.198Z",
+  "updated": "2026-10-26T12:55:45.158Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
+      "summary": "Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there. The article Toyota is betting $6.4 billion a year on humanoid robots and factory automation appeared first on The Decoder.",
+      "date": "2026-10-26",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
+      "summary": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power. The article Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI appeared first on The Decoder.",
+      "date": "2026-10-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/"
+    },
+    {
       "category": "hardware",
       "lab": "Anthropic",
       "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
@@ -392,26 +412,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
-      "summary": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to recognize emotions, sarcasm, and pauses in real time. The model runs locally on a MacBook Pro M4 Max but ",
-      "date": "2026-10-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "summary": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The inc",
-      "date": "2026-10-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
     },
     {
       "category": "model",

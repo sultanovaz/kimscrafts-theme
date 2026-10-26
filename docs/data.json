@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-26T12:55:45.158Z",
+  "updated": "2026-10-26T20:27:55.561Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 175
+    "fresh": 179
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
+      "summary": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year. ",
+      "date": "2026-10-26",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
+      "summary": "Meta plans to sell new stock to raise money for its AI infrastructure buildout. The article Meta plans up to $95 billion in stock sales to fund its AI buildout appeared first on The Decoder.",
+      "date": "2026-10-26",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
@@ -264,6 +284,46 @@
       "url": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Researchers find six patterns that make AI text so exhausting to read",
+      "summary": "A study from New York University and the University of Texas at Austin shows that frontier language models systematically overuse linguistic patterns that are hard for humans to parse. The researchers trace the problem to training on code and math, where correctness gets rewarded",
+      "date": "2026-10-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit",
+      "summary": "The Reddit forum r/opensource has banned all posts about AI projects, whether built with AI, AI-powered, or designed for AI. Projects must also be at least a year old and have multiple contributors, and non-English posts are excluded as well. In response, the rival forum r/TrueOp",
+      "date": "2026-10-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "date": "2026-10-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+      "date": "2026-10-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+    },
+    {
       "category": "hardware",
       "lab": "AI",
       "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
@@ -272,6 +332,106 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "summary": "Included is the ability to limit which applications Siri can directly access.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Quoting Jason Koebler",
+      "summary": "<blockquote cite=\"https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/\"><p>Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic officially files for its public debut",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/openai-cut-incident-investigation"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "Bringing fast and capable computer use to everyone",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra"
     },
     {
       "category": "hardware",
@@ -322,26 +482,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
-      "summary": "OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching. Anthropic's growth has slowed, but OpenAI is trading its own margins for market share. Chinese rivals like De",
-      "date": "2026-10-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
-      "summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environment with more than 110 applications, including 35 replicas of popular apps. On real Andro",
-      "date": "2026-10-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/"
     },
     {
       "category": "industry",
@@ -395,29 +535,19 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
-      "summary": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer. They deny sharing confidential information and see a connection to their advocacy for AI systems that are ",
-      "date": "2026-10-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
-      "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth",
-      "summary": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most. But when the AI is taken away, only senior attorneys retain the benefits, suggesting that baseline expertise is a prerequisite for turning AI",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
       "date": "2026-10-24",
-      "importance": 3,
+      "importance": 2,
       "tags": [],
-      "url": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/"
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
     },
     {
       "category": "model",
       "lab": "AI",
       "title": "Block’s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
       "date": "2026-10-24",
       "importance": 2,
       "tags": [],
@@ -456,7 +586,7 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
       "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
       "date": "2026-10-23",
       "importance": 3,
@@ -664,36 +794,6 @@
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
     },
     {
-      "category": "industry",
-      "lab": "Microsoft",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
-    },
-    {
-      "category": "industry",
-      "lab": "Microsoft",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
-    },
-    {
       "category": "research",
       "lab": "AI",
       "title": "Quoting Armin Ronacher",
@@ -712,16 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
     },
     {
       "category": "industry",
@@ -1214,46 +1304,6 @@
       "url": "https://simonwillison.net/2026/Oct/16/code-review/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-      "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
@@ -1402,56 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "date": "2026-10-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/amp-beyond-coding"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "AI is mass decompiling games. That's both awesome and scary.",
-      "summary": "<p><strong><a href=\"https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/\">AI is mass decompiling games. That&#x27;s both awesome and scary.</a></strong></p> Indie game developer Popcar talks about the recent wave of AI-powered decompilation of ex",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/sentinelone"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/third-moment-research"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "date": "2026-10-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/block-ai-powered-security"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T00:24:06.614Z",
+  "updated": "2026-10-27T08:55:38.621Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,26 @@
     }
   ],
   "items": [
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+    },
+    {
+      "category": "model",
+      "lab": "Alibaba",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -775,16 +795,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "Canva releases its first image generation model",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "date": "2026-10-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "Donating Agent Skills to the Agentic AI Foundation",
       "summary": "<p><strong><a href=\"https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation\">Donating Agent Skills to the Agentic AI Foundation</a></strong></p> News today from Anthropic:</p> <blockquote> <p>We’re committed to keeping Agent Skills open, community-driven",
@@ -832,16 +842,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/decisions-api"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
     },
     {
       "category": "research",

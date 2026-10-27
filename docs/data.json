@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T08:55:38.621Z",
+  "updated": "2026-10-27T15:19:41.731Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,116 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Meta",
+      "title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
+      "summary": "ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware. The article Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips appeared first on The Decoder.",
+      "date": "2026-10-27",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+      "summary": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, tho",
+      "date": "2026-10-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+      "summary": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel laureate, are now checking whe",
+      "date": "2026-10-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
+      "summary": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web. The article OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps appeared first on T",
+      "date": "2026-10-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
+      "summary": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful answers. The article Anthropic uses its IPO letter to renew its pledge that Claude will never show ads a",
+      "date": "2026-10-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
+      "summary": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas. Sanders says model size, reasoning effort, and multi-agent systems a",
+      "date": "2026-10-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+    },
+    {
       "category": "product",
       "lab": "OpenAI",
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -292,26 +402,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
-      "summary": "Meta plans to sell new stock to raise money for its AI infrastructure buildout. The article Meta plans up to $95 billion in stock sales to fund its AI buildout appeared first on The Decoder.",
-      "date": "2026-10-26",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
-      "summary": "Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there. The article Toyota is betting $6.4 billion a year on humanoid robots and factory automation appeared first on The Decoder.",
-      "date": "2026-10-26",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/"
     },
     {
       "category": "model",
@@ -362,16 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
-      "summary": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power. The article Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI appeared first on The Decoder.",
-      "date": "2026-10-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/"
     },
     {
       "category": "model",
@@ -524,36 +604,6 @@
       "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
-      "summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions far more reliably than any competitor b",
-      "date": "2026-10-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
-      "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027. The article Anthropic co-founder Jack Clark moves",
-      "date": "2026-10-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/"
-    },
-    {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-      "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make ",
-      "date": "2026-10-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
@@ -696,16 +746,6 @@
     {
       "category": "hardware",
       "lab": "Nvidia",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "date": "2026-10-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
       "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
       "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
       "date": "2026-10-23",
@@ -722,16 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside trad",
-      "date": "2026-10-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
     },
     {
       "category": "hardware",
@@ -752,16 +782,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/allenai/litpivot"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "date": "2026-10-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
     },
     {
       "category": "industry",
@@ -812,26 +832,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
     },
     {
       "category": "product",
@@ -1364,16 +1364,6 @@
       "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/benefit-street-partners"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -1382,6 +1372,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/benefit-street-partners"
     },
     {
       "category": "model",

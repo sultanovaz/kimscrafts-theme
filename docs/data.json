@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-26T20:27:55.561Z",
+  "updated": "2026-10-27T00:24:06.614Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 179
+    "fresh": 182
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "GPT-6.1 Terra",
+      "summary": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-6-1-terra/\">GPT-6.1 Terra</a></strong></p> It's always interesting to note which aspects of a new model are emphasized in the release announcement.</p> <p>In the case of GPT-6.1 Terra, OpenAI went with visual reasoning ",
+      "date": "2026-10-26",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
+    },
+    {
       "category": "hardware",
       "lab": "Anthropic",
       "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
@@ -282,6 +292,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+      "summary": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control. The article GPT-6.1 Terra halves",
+      "date": "2026-10-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/"
     },
     {
       "category": "industry",
@@ -314,14 +334,14 @@
       "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/webframe-evaluation#readme\">webframe: evaluated as a scraper and a sandbox</a></p> <p><a href=\"https://github.com/tractordev/webframe\">webframe</a> is a neat little project from Jeff Lindsay which",
       "date": "2026-10-26",
       "importance": 3,
       "tags": [],
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/"
     },
     {
       "category": "hardware",
@@ -332,6 +352,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/greptile-code-review-codex-astra"
     },
     {
       "category": "industry",
@@ -374,6 +404,16 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/"
     },
     {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic officially files for its public debut",
@@ -392,6 +432,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "date": "2026-10-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
     },
     {
       "category": "industry",
@@ -432,16 +492,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-gpt-6-1-terra"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
-      "summary": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it. US corporations alone pla",
-      "date": "2026-10-25",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/"
     },
     {
       "category": "model",
@@ -1314,16 +1364,6 @@
       "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Benefit Street Partners answers questions faster with Codex",
@@ -1332,6 +1372,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/benefit-street-partners"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     },
     {
       "category": "model",
@@ -1402,56 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Teaching students to think and learn through questions",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/sullivan-cromwell"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "summary": "Welcome FLUX.3 Image Klein in Diffusers",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/flux-3"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Tree Appreciator",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/tree-appreciator\">Tree Appreciator</a></p> <p>Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with:</p> <blo",
-      "date": "2026-10-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/"
     }
   ]
 }

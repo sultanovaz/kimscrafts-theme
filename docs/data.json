@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-27T15:19:41.731Z",
+  "updated": "2026-10-27T22:10:14.245Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 182
+    "fresh": 187
   },
   "ranking": [
     {
@@ -265,6 +265,36 @@
     },
     {
       "category": "model",
+      "lab": "Alibaba",
+      "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
+      "summary": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.8 generation, while older models aren't affected. The likely cause: Alibaba's training infrastructure got baked into the",
+      "date": "2026-10-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+      "summary": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research model, and longer sessions lead ",
+      "date": "2026-10-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "date": "2026-10-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+    },
+    {
+      "category": "model",
       "lab": "Google DeepMind",
       "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
       "summary": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, tho",
@@ -315,6 +345,126 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Game Boy Color on My Conference Badge",
+      "summary": "<p><strong><a href=\"https://spf13.com/p/game-boy-color-on-my-conference-badge/\">Game Boy Color on My Conference Badge</a></strong></p> I'm at GitHub Universe this week and, <a href=\"https://simonwillison.net/2025/Oct/28/github-universe-badge/\">similar to last year</a>, the confer",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Build specialized multimodal models with LFM3",
+      "summary": "Build specialized multimodal models with LFM3",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+    },
+    {
+      "category": "research",
+      "lab": "Hugging Face",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "summary": "Can we trust LLMs to judge whether a research idea is novel?",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/novelty-bench"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Genie 4: A new generation of world simulation",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
+    },
+    {
+      "category": "industry",
       "lab": "Google DeepMind",
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
       "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
@@ -357,11 +507,21 @@
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
       "date": "2026-10-27",
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt"
     },
     {
       "category": "product",
@@ -382,6 +542,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/check-point-daybreak"
     },
     {
       "category": "model",
@@ -412,26 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Researchers find six patterns that make AI text so exhausting to read",
-      "summary": "A study from New York University and the University of Texas at Austin shows that frontier language models systematically overuse linguistic patterns that are hard for humans to parse. The researchers trace the problem to training on code and math, where correctness gets rewarded",
-      "date": "2026-10-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit",
-      "summary": "The Reddit forum r/opensource has banned all posts about AI projects, whether built with AI, AI-powered, or designed for AI. Projects must also be at least a year old and have multiple contributors, and non-English posts are excluded as well. In response, the rival forum r/TrueOp",
-      "date": "2026-10-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/"
     },
     {
       "category": "model",
@@ -665,36 +815,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "Block’s new voice model sounds eerily human",
-      "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
-      "date": "2026-10-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "date": "2026-10-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "date": "2026-10-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
-    },
-    {
-      "category": "model",
       "lab": "Anthropic",
       "title": "Introducing Kimi K3.1 Pro",
       "summary": "<p><strong><a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">Introducing Kimi K3.1 Pro</a></strong></p> Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\".</p> <p>They're also offering a",
@@ -702,16 +822,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "date": "2026-10-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
     },
     {
       "category": "model",
@@ -744,16 +854,6 @@
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "date": "2026-10-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
-    },
-    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Updated Google privacy policy says your Gmail might be used for advertising",
@@ -774,14 +874,14 @@
       "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
     },
     {
-      "category": "research",
-      "lab": "Hugging Face",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "summary": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
       "date": "2026-10-23",
       "importance": 2,
       "tags": [],
-      "url": "https://huggingface.co/blog/allenai/litpivot"
+      "url": "https://openai.com/index/anima"
     },
     {
       "category": "industry",
@@ -1236,36 +1336,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "date": "2026-10-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI game clones are making indie developers afraid to show their work",
-      "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
-      "date": "2026-10-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
-      "date": "2026-10-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Advancing coding in low‑resource programming languages",
       "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
       "date": "2026-10-19",
@@ -1302,16 +1372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
-      "date": "2026-10-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
     },
     {
       "category": "model",
@@ -1364,16 +1424,6 @@
       "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
     },
     {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Benefit Street Partners answers questions faster with Codex",
@@ -1384,6 +1434,16 @@
       "url": "https://openai.com/index/benefit-street-partners"
     },
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "date": "2026-10-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
       "category": "model",
       "lab": "Hugging Face",
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -1392,66 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/reflection-beam"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Chirp Pong",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/chirp-pong\">Chirp Pong</a></p> <p>Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via",
-      "date": "2026-10-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "summary": "<p><strong><a href=\"https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1\">Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</a></strong></p> The phrase \"told investors\" appears four times in this FT article, which reports ",
-      "date": "2026-10-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "Apertus 1.5 Release Notes",
-      "summary": "Apertus 1.5 Release Notes",
-      "date": "2026-10-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "LaTeX renderer",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/latex\">LaTeX renderer</a></p> <p>Inspired by Paul Ford and Aboard Foundary's new web app <a href=\"https://tinylittleoffice.com/\">Tiny Little Office</a>, which provides a suite of web app content editors (a Word Pr",
-      "date": "2026-10-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/15/latex/"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "date": "2026-10-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://huggingface.co/blog/meta-muse-spark-open"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "date": "2026-10-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
     }
   ]
 }

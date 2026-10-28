@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-28T05:36:38.681Z",
+  "updated": "2026-10-28T12:47:54.859Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 187
+    "fresh": 186
   },
   "ranking": [
     {
@@ -253,6 +253,46 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+      "summary": "Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do. He'd rather see prototypes that show taste, empathy, and principled thinking, since in his words, \"hunger beats tenure.\" Th",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+      "summary": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went. The incident shows how vulnerable ev",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Terk Terkowitz",
+      "summary": "<blockquote cite=\"https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai\"><p>If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, a",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+    },
     {
       "category": "industry",
       "lab": "Anthropic",
@@ -602,26 +642,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
-      "summary": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year. ",
-      "date": "2026-10-26",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
-      "summary": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control. The article GPT-6.1 Terra halves",
-      "date": "2026-10-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/"
     },
     {
       "category": "model",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "How Localiza reorganized work around generative AI",
-      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/localiza-generative-ai"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "How Grupo Boticário uses AI to strengthen human connections",
-      "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/grupo-boticario"
     }
   ]
 }

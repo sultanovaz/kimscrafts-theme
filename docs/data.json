@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T12:47:54.859Z",
+  "updated": "2026-10-28T20:14:28.798Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,116 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+      "summary": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users in Germany have grown twentyfold since January. A clear sub",
+      "date": "2026-10-28",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+      "summary": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points. Google says the model is built for extended agent workflows and the full cyber defense lifecycle. Because of those advanced ",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "Gemini 4 Carbon: Our next frontier model",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+      "summary": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents finish UI tasks 77 p",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "GitHub Octoverse 2026",
+      "summary": "<p><strong><a href=\"https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/\">GitHub Octoverse 2026</a></strong></p> I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" progra",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+      "summary": "Anthropic is adding pre-built templates to Claude for Legal. These interactive overviews and tables simplify setup for legal teams and speed up routine work like contract reviews, while more than 60 integrations let firms connect their own databases directly. The article Claude f",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/"
+    },
+    {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+      "summary": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts. It leads several benchmarks and uses only a sixth of the active parameters of its strongest o",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/"
+    },
+    {
+      "category": "industry",
+      "lab": "Moonshot",
+      "title": "New Artificial Analysis index widens the gap between open and closed models",
+      "summary": "Artificial Analysis overhauled its Intelligence Index, causing Kimi K3.1 Pro to drop five spots in the rankings. The article New Artificial Analysis index widens the gap between open and closed models appeared first on The Decoder.",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/new-artificial-analysis-index-widens-the-gap-between-open-and-closed-models/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "The October inflection point for vibe game development",
+      "summary": "<p>I've written before about how November 2025 was <a href=\"https://simonwillison.net/tags/november-2025-inflection/\">an inflection point for coding agents</a> - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
@@ -276,6 +386,106 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities coul",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities coul",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "summary": "But the AI responses get more forthright when asked outside the US.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
+    },
+    {
+      "category": "model",
+      "lab": "Nvidia",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "summary": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "Quoting Terk Terkowitz",
       "summary": "<blockquote cite=\"https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai\"><p>If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, a",
       "date": "2026-10-28",
@@ -286,12 +496,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
+      "title": "The future of the firm",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/the-future-of-the-firm"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
       "title": "Legora is building the agentic operating system for legal work",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "date": "2026-10-28",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+      "url": "https://openai.com/index/legora"
     },
     {
       "category": "industry",
@@ -302,16 +522,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Meta",
-      "title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
-      "summary": "ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware. The article Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips appeared first on The Decoder.",
-      "date": "2026-10-27",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/"
     },
     {
       "category": "model",
@@ -342,56 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
-      "summary": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, tho",
-      "date": "2026-10-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-      "summary": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel laureate, are now checking whe",
-      "date": "2026-10-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
-      "summary": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web. The article OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps appeared first on T",
-      "date": "2026-10-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
-      "summary": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful answers. The article Anthropic uses its IPO letter to renew its pledge that Claude will never show ads a",
-      "date": "2026-10-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
-      "summary": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas. Sanders says model size, reasoning effort, and multi-agent systems a",
-      "date": "2026-10-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/"
     },
     {
       "category": "model",
@@ -574,26 +734,6 @@
       "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
@@ -602,26 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/oracle-apps-in-chatgpt"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
-    },
-    {
-      "category": "model",
-      "lab": "Alibaba",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
     },
     {
       "category": "research",
@@ -642,16 +762,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-      "date": "2026-10-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
     },
     {
       "category": "model",
@@ -712,26 +822,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "date": "2026-10-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic officially files for its public debut",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-      "date": "2026-10-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
     },
     {
       "category": "industry",
@@ -802,26 +892,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-gpt-6-1-terra"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "date": "2026-10-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "date": "2026-10-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
     },
     {
       "category": "product",
@@ -1105,16 +1175,6 @@
     },
     {
       "category": "hardware",
-      "lab": "Nvidia",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "summary": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational"
-    },
-    {
-      "category": "hardware",
       "lab": "AI",
       "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
       "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
@@ -1275,26 +1335,6 @@
     },
     {
       "category": "industry",
-      "lab": "Meta",
-      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-      "summary": "Meta argues nobody “decided” to pirate books to train AI.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
@@ -1412,46 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/17/web-edit/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Inline rendering with document​.currentScript",
-      "summary": "<p><strong><a href=\"https://leanrada.com/notes/inline-rendering-currentscript/\">Inline rendering with document​.currentScript</a></strong></p> Lean Rada describes a neat trick that takes advantage of the <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Document/currentSc",
-      "date": "2026-10-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "date": "2026-10-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/itau-generative-ai"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "summary": "<blockquote cite=\"https://claude.dev/blog/solving-code-review-at-anthropic/\"><p>We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\"</p> <p>Asking that question als",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/16/code-review/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
-      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-sparql-rust#readme\">sparqlite: SPARQL 1.1 inside SQLite, written in Rust</a></p> <p>This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as describ",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
     }
   ]
 }

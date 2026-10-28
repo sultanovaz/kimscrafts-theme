@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:10:14.245Z",
+  "updated": "2026-10-28T05:36:38.681Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+    },
+    {
       "category": "hardware",
       "lab": "Meta",
       "title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
@@ -342,6 +352,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
     },
     {
       "category": "industry",
@@ -462,6 +492,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "date": "2026-10-27",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/retell-ai"
     },
     {
       "category": "industry",
@@ -774,16 +814,6 @@
       "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "date": "2026-10-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "battledrones v14: Compass Rose, a four player map",
@@ -792,26 +822,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "date": "2026-10-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "date": "2026-10-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
     },
     {
       "category": "model",
@@ -1424,34 +1434,24 @@
       "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/"
     },
     {
-      "category": "industry",
+      "category": "product",
       "lab": "OpenAI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "title": "How Localiza reorganized work around generative AI",
+      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
       "date": "2026-10-16",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/benefit-street-partners"
+      "url": "https://openai.com/index/localiza-generative-ai"
     },
     {
       "category": "product",
       "lab": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "title": "How Grupo Boticário uses AI to strengthen human connections",
+      "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
       "date": "2026-10-16",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "summary": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "date": "2026-10-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/reflection-beam"
+      "url": "https://openai.com/index/grupo-boticario"
     }
   ]
 }

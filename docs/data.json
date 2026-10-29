@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:14:28.798Z",
+  "updated": "2026-10-29T00:52:43.375Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "industry",
+      "lab": "Microsoft",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "date": "2026-10-28",
+      "importance": 4,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+    },
+    {
+      "category": "industry",
+      "lab": "Microsoft",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "date": "2026-10-28",
+      "importance": 4,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
+    },
+    {
+      "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
       "summary": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users in Germany have grown twentyfold since January. A clear sub",
@@ -262,6 +282,36 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Quoting Ted Sanders",
+      "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=50248124#50249160\"><p>In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, ",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "date": "2026-10-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
     },
     {
       "category": "industry",
@@ -475,6 +525,16 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
       "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
       "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
@@ -654,16 +714,6 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm3"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
-    },
-    {
       "category": "research",
       "lab": "Hugging Face",
       "title": "Can we trust LLMs to judge whether a research idea is novel?",
@@ -702,36 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/retell-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
     },
     {
       "category": "industry",
@@ -1432,26 +1452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/18/llm-echo/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "llm-tools-datasette 0.1.1",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1\">llm-tools-datasette 0.1.1</a></p> <p>When I switched LLM over to <a href=\"https://github.com/pydantic/httpx2\">httpx2</a> in <a href=\"https://llm.datasette.io/en/stable/changelo",
-      "date": "2026-10-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "web-edit 0.1a2",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/web-edit/releases/tag/0.1a2\">web-edit 0.1a2</a></p> <p>web-edit (<a href=\"https://simonwillison.net/2026/Oct/12/web-edit/\">previously</a>) is my tiny web app for browsing and editing files in a folder. I mainly built",
-      "date": "2026-10-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/17/web-edit/"
     }
   ]
 }

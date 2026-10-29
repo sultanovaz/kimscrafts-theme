@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-29T09:53:57.548Z",
+  "updated": "2026-10-29T18:26:21.701Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 186
+    "fresh": 189
   },
   "ranking": [
     {
@@ -255,6 +255,226 @@
   "items": [
     {
       "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+      "summary": "Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected. Google acknowledged that its fast-growing AI mode brings in less revenue than traditional s",
+      "date": "2026-10-29",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "summary": "<p><strong><a href=\"https://twitter.com/jsnnsa/status/2115623382721126826\">How I Built the Most AI-Pilled Company in the World</a></strong></p> Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building <a href=\"https://spawn.co\">Spa",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
+      "summary": "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it's fast and fairly cheap. It still can't match China's top models, scoring 26 poin",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
+      "summary": "The US Justice Department is looking into Nvidia's planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices appeared first on The Decoder.",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+      "summary": "US intelligence agencies believe an executive in Nvidia CEO Jensen Huang's circle is an informant for China. The article Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times appeared first on The Decoder.",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses",
+      "summary": "Chinese AI labs are now mainly tapping OpenAI's most powerful model, GPT-6 Astra, instead of Anthropic's Claude. The article OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses appeared first on The Decoder.",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-astra-becomes-the-main-target-for-chinese-ai-labs-after-anthropic-tightens-its-defenses/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/updated-model-spec"
+    },
+    {
+      "category": "model",
+      "lab": "Mistral",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Quoting Ben Hylak",
+      "summary": "<blockquote cite=\"https://twitter.com/benhylak/status/2115172657910120740\"><p>every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath.</p> <p>except for our product, of course. </p> <p>in our product, cust",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "summary": "Granite Switch 4.1.1 — Update models like you update software",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/ropes-gray-ai-diligence"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "summary": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/announcing-project-protostar"
+    },
+    {
+      "category": "industry",
+      "lab": "Mistral",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "summary": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/mistral-large4"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "summary": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/anydecisionmodel"
+    },
+    {
+      "category": "industry",
       "lab": "Microsoft",
       "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
       "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
@@ -394,16 +614,6 @@
       "url": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/"
     },
     {
-      "category": "industry",
-      "lab": "Moonshot",
-      "title": "New Artificial Analysis index widens the gap between open and closed models",
-      "summary": "Artificial Analysis overhauled its Intelligence Index, causing Kimi K3.1 Pro to drop five spots in the rankings. The article New Artificial Analysis index widens the gap between open and closed models appeared first on The Decoder.",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/new-artificial-analysis-index-widens-the-gap-between-open-and-closed-models/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "The October inflection point for vibe game development",
@@ -412,26 +622,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
-      "summary": "Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do. He'd rather see prototypes that show taste, empathy, and principled thinking, since in his words, \"hunger beats tenure.\" Th",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-      "summary": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went. The incident shows how vulnerable ev",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/"
     },
     {
       "category": "industry",
@@ -575,66 +765,6 @@
     },
     {
       "category": "industry",
-      "lab": "Anthropic",
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
-    },
-    {
-      "category": "model",
-      "lab": "Alibaba",
-      "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
-      "summary": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.8 generation, while older models aren't affected. The likely cause: Alibaba's training infrastructure got baked into the",
-      "date": "2026-10-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
-      "summary": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research model, and longer sessions lead ",
-      "date": "2026-10-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "date": "2026-10-27",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
       "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
@@ -642,26 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
     },
     {
       "category": "industry",
@@ -682,16 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"
     },
     {
       "category": "industry",
@@ -1245,16 +1345,6 @@
     },
     {
       "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "summary": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
@@ -1345,16 +1435,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
@@ -1372,86 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/terminal-x"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI acquires Orchestra Bio",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "summary": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/hf-torchtpu"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "summary": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "MPS in PyTorch 2.15",
-      "summary": "MPS in PyTorch 2.15",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "My obituary for programming",
-      "summary": "<p><strong><a href=\"https://dumbmatter.com/2026/10/programming-obituary/\">My obituary for programming</a></strong></p> Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the <em>puzzle</em> of developing code:</p> <blockquote",
-      "date": "2026-10-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Advancing coding in low‑resource programming languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "date": "2026-10-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/low-resource-programming-languages"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "summary": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "date": "2026-10-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/hf-torchneuron"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "llm-echo 0.5",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.5\">llm-echo 0.5</a></p> <p>I'm working towards a new <a href=\"https://llm.datasette.io/\">LLM</a> release, and testing PRs caused me to revisit the <code>llm-echo</code> debug plugin. This plug",
-      "date": "2026-10-18",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/"
     }
   ]
 }

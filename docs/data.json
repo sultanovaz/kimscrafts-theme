@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T00:56:44.844Z",
+  "updated": "2026-10-30T09:56:46.101Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -255,6 +255,16 @@
   "items": [
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+    },
+    {
+      "category": "industry",
       "lab": "Google DeepMind",
       "title": "Google's AI search problem finally shows up in the earnings report, some investors believe",
       "summary": "Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected. Google acknowledged that its fast-growing AI mode brings in less revenue than traditional s",
@@ -266,7 +276,7 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
       "date": "2026-10-29",
       "importance": 3,
@@ -722,16 +732,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
     },
     {
       "category": "hardware",

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-30T17:59:03.825Z",
+  "updated": "2026-10-30T22:15:44.629Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 187
+    "fresh": 188
   },
   "ranking": [
     {
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
+      "summary": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own. According to lead researcher Ocana-Santero, it's the first time an AI agent has autonomously chosen a treatment and delivered it to a living ma",
+      "date": "2026-10-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
+      "summary": "A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remote access. Cursor took the entire marketplace offline and reinstated it after confirming there was no further risk. The ",
+      "date": "2026-10-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
       "summary": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure out what users actually want and disclose their own assumpt",
@@ -277,7 +297,7 @@
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google’s first data center satellite is online and writing poetry",
-      "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
       "date": "2026-10-30",
       "importance": 3,
       "tags": [],
@@ -292,6 +312,96 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/"
+    },
+    {
+      "category": "model",
+      "lab": "Alibaba",
+      "title": "dbreunig/nesformer",
+      "summary": "<p><strong><a href=\"https://github.com/dbreunig/nesformer\">dbreunig/nesformer</a></strong></p> Inspired by <a href=\"https://divagr.com/blog/qwenputer\">qwenputer</a> by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the we",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+      "summary": "The new report says the AI lab will likely qualify for a high junk rating.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Cracks are emerging in the AI spending boom",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "summary": "People who love AI don't always love telling others they used it.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "summary": "But it's still early days for the relatively new e-commerce use case.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
     },
     {
       "category": "industry",
@@ -386,6 +496,16 @@
     {
       "category": "industry",
       "lab": "OpenAI",
+      "title": "Making it easier for websites to express AI training preferences",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
       "title": "Community safety report and new protections for teens",
       "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
       "date": "2026-10-30",
@@ -405,13 +525,13 @@
     },
     {
       "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google's AI search problem finally shows up in the earnings report, some investors believe",
-      "summary": "Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected. Google acknowledged that its fast-growing AI mode brings in less revenue than traditional s",
-      "date": "2026-10-29",
-      "importance": 4,
+      "lab": "OpenAI",
+      "title": "Fair use benefits everyone",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "date": "2026-10-30",
+      "importance": 2,
       "tags": [],
-      "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/"
+      "url": "https://openai.com/index/fair-use-benefits-everyone"
     },
     {
       "category": "industry",
@@ -485,16 +605,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-      "date": "2026-10-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
-    },
-    {
-      "category": "model",
       "lab": "DeepSeek",
       "title": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
       "summary": "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it's fast and fairly cheap. It still can't match China's top models, scoring 26 poin",
@@ -502,16 +612,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-      "date": "2026-10-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
     },
     {
       "category": "hardware",
@@ -532,16 +632,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses",
-      "summary": "Chinese AI labs are now mainly tapping OpenAI's most powerful model, GPT-6 Astra, instead of Anthropic's Claude. The article OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses appeared first on The Decoder.",
-      "date": "2026-10-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-astra-becomes-the-main-target-for-chinese-ai-labs-after-anthropic-tightens-its-defenses/"
     },
     {
       "category": "model",
@@ -652,26 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/"
     },
     {
       "category": "industry",
@@ -1235,16 +1305,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-      "summary": "Hackers were already probing the bug before defenders were told it existed.",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
-    },
-    {
-      "category": "industry",
       "lab": "Google DeepMind",
       "title": "Beyond tree cover: mapping the world’s forest types",
       "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
@@ -1325,36 +1385,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "The new human-crafted Apple Music brand matters in an AI world",
-      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
       "summary": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
@@ -1422,36 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/building-chatgpt-ad-stack"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/cloudflare-cyber"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-      "summary": "<p>My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called <a href=\"https://github.com/simonw/battledrones#readme\">Battle Drones</a> (<a href=\"https://simonw.github.io/battledrones/\">play it here</a>). Unlike <a href=\"https://sim",
-      "date": "2026-10-20",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-29T18:26:21.701Z",
+  "updated": "2026-10-30T00:56:44.844Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 189
+    "fresh": 188
   },
   "ranking": [
     {
@@ -264,6 +264,56 @@
       "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+      "summary": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More efficient models like Terra and Sol should push usable capacity even higher. The move comes just ahead of Anthropic's IPO, as ",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
+      "summary": "Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment calls, and most believed the conclusions were their own. The article Experts adopt AI agent's random opinions and think th",
+      "date": "2026-10-29",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Building a multiplayer game world with autonomous Fable-class models",
@@ -352,6 +402,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "summary": "<p><strong><a href=\"https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions\">API credits benefit for eligible ChatGPT subscriptions</a></strong></p> Earlier this month Anthropic <a href=\"https://simonwillison.net/2026/Oct/7/claude-haiku",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Trump declares robot imports a national security threat",
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
     },
     {
       "category": "product",
@@ -596,26 +686,6 @@
     {
       "category": "model",
       "lab": "Anthropic",
-      "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
-      "summary": "Anthropic is adding pre-built templates to Claude for Legal. These interactive overviews and tables simplify setup for legal teams and speed up routine work like contract reviews, while more than 60 integrations let firms connect their own databases directly. The article Claude f",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/"
-    },
-    {
-      "category": "model",
-      "lab": "Nvidia",
-      "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
-      "summary": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts. It leads several benchmarks and uses only a sixth of the active parameters of its strongest o",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
       "title": "The October inflection point for vibe game development",
       "summary": "<p>I've written before about how November 2025 was <a href=\"https://simonwillison.net/tags/november-2025-inflection/\">an inflection point for coding agents</a> - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable",
       "date": "2026-10-28",
@@ -664,46 +734,6 @@
       "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"
-    },
-    {
-      "category": "model",
-      "lab": "Nvidia",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
@@ -722,16 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-      "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/"
     },
     {
       "category": "industry",
@@ -1424,16 +1444,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini's Personal Intelligence is coming to cars",
-      "summary": "It's probably time to audit your Gemini settings.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/ted-taylor-restaurant"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/terminal-x"
     }
   ]
 }

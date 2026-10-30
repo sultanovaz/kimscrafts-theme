@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-30T09:56:46.101Z",
+  "updated": "2026-10-30T17:59:03.825Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 188
+    "fresh": 187
   },
   "ranking": [
     {
@@ -253,6 +253,146 @@
     }
   ],
   "items": [
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
+      "summary": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure out what users actually want and disclose their own assumpt",
+      "date": "2026-10-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+      "summary": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings. Huffman blames Google's AI Overviews and AI Mode for driving zero traffic to external sites. Reddit now tests login ba",
+      "date": "2026-10-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "date": "2026-10-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
+      "summary": "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users. It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safeguards from any provid",
+      "date": "2026-10-30",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "nemotron-halloween",
+      "summary": "nemotron-halloween",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "summary": "Low costs and offline security mean magnetic tape still has a job.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Community safety report and new protections for teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+    },
     {
       "category": "industry",
       "lab": "AI",
@@ -545,6 +685,16 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "date": "2026-10-29",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/credit-saison"
+    },
+    {
+      "category": "industry",
       "lab": "Hugging Face",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "summary": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
@@ -574,36 +724,6 @@
       "url": "https://huggingface.co/blog/anydecisionmodel"
     },
     {
-      "category": "industry",
-      "lab": "Microsoft",
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-      "date": "2026-10-28",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
-    },
-    {
-      "category": "industry",
-      "lab": "Microsoft",
-      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-      "date": "2026-10-28",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
-      "summary": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users in Germany have grown twentyfold since January. A clear sub",
-      "date": "2026-10-28",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Quoting Ted Sanders",
@@ -612,46 +732,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
-      "summary": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points. Google says the model is built for extended agent workflows and the full cyber defense lifecycle. Because of those advanced ",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/"
     },
     {
       "category": "model",
@@ -675,16 +755,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
-      "summary": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents finish UI tasks 77 p",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "GitHub Octoverse 2026",
       "summary": "<p><strong><a href=\"https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/\">GitHub Octoverse 2026</a></strong></p> I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" progra",
@@ -705,26 +775,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities coul",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities coul",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"
-    },
-    {
-      "category": "industry",
       "lab": "Google DeepMind",
       "title": "Google AI gets cagey when asked who won the 2020 elections",
       "summary": "But the AI responses get more forthright when asked outside the US.",
@@ -732,16 +782,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "summary": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
     },
     {
       "category": "industry",
@@ -1254,16 +1294,6 @@
       "url": "https://simonwillison.net/2026/Oct/21/php-security-release/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "OpenAI models are coming to Google Cloud",
@@ -1422,36 +1452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/20/battledrones/"
-    },
-    {
-      "category": "industry",
-      "lab": "Microsoft",
-      "title": "eMudhra Intermediate CA Compromise",
-      "summary": "<p><strong><a href=\"https://emudhra.we-have-a-problem.com\">eMudhra Intermediate CA Compromise</a></strong></p> This is very, very bad news:</p> <blockquote> <p>The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "date": "2026-10-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/ted-taylor-restaurant"
     }
   ]
 }

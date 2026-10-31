@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-30T22:15:44.629Z",
+  "updated": "2026-10-31T05:35:34.915Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 188
+    "fresh": 187
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "date": "2026-10-31",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
@@ -314,6 +324,16 @@
       "url": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+    },
+    {
       "category": "model",
       "lab": "Alibaba",
       "title": "dbreunig/nesformer",
@@ -336,8 +356,8 @@
     {
       "category": "industry",
       "lab": "Anthropic",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-      "summary": "The new report says the AI lab will likely qualify for a high junk rating.",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
       "date": "2026-10-30",
       "importance": 2,
       "tags": [],
@@ -702,26 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/updated-model-spec"
-    },
-    {
-      "category": "model",
-      "lab": "Mistral",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
     },
     {
       "category": "model",

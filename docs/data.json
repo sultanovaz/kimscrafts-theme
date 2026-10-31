@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T05:35:34.915Z",
+  "updated": "2026-10-31T12:21:19.089Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -253,6 +253,36 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "Microsoft",
+      "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+      "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastruc",
+      "date": "2026-10-31",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+      "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off. Meanwhile, rival Anthro",
+      "date": "2026-10-31",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google Deepmind creates a global map of forests with satellite data and AI",
+      "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation under EU rules, but it identifies only abo",
+      "date": "2026-10-31",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/"
+    },
     {
       "category": "hardware",
       "lab": "Nvidia",
@@ -622,36 +652,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
-    },
-    {
-      "category": "model",
-      "lab": "DeepSeek",
-      "title": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
-      "summary": "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it's fast and fairly cheap. It still can't match China's top models, scoring 26 poin",
-      "date": "2026-10-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
-      "summary": "The US Justice Department is looking into Nvidia's planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices appeared first on The Decoder.",
-      "date": "2026-10-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-      "summary": "US intelligence agencies believe an executive in Nvidia CEO Jensen Huang's circle is an informant for China. The article Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times appeared first on The Decoder.",
-      "date": "2026-10-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/"
     },
     {
       "category": "model",

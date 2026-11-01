@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-01T13:16:19.036Z",
+  "updated": "2026-11-01T19:37:58.920Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 183
+    "fresh": 182
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task and lets a standard language model choose the bes",
+      "date": "2026-11-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe ran",
+      "date": "2026-11-01",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
@@ -295,6 +315,16 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Kyle Kingsbury",
+      "summary": "<blockquote cite=\"https://jepsen.io/analyses/particledb-1.1.4#llm-tradeoffs\"><p>More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the",
+      "date": "2026-11-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
+    },
+    {
+      "category": "industry",
       "lab": "Microsoft",
       "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
       "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastruc",
@@ -302,16 +332,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
-      "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off. Meanwhile, rival Anthro",
-      "date": "2026-10-31",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/"
     },
     {
       "category": "model",
@@ -352,16 +372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google Deepmind creates a global map of forests with satellite data and AI",
-      "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation under EU rules, but it identifies only abo",
-      "date": "2026-10-31",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
     }
   ]
 }

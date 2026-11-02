@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T19:37:58.920Z",
+  "updated": "2026-11-02T00:40:25.547Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -312,6 +312,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "If in doubt, delete the uv.lock file",
+      "summary": "<p>I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is:</p> <p><strong>If in doubt, delete the uv.lock file</strong></p> <p>Most of my projects are libraries which don't include a <code>uv.l",
+      "date": "2026-11-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "date": "2026-11-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "date": "2026-11-01",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
     },
     {
       "category": "industry",
@@ -674,16 +704,6 @@
       "url": "https://openai.com/index/fair-use-benefits-everyone"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "date": "2026-10-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Building a multiplayer game world with autonomous Fable-class models",
@@ -722,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/29/api-credits/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/21/panache/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "summary": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T00:40:25.547Z",
+  "updated": "2026-11-02T10:57:44.582Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 182
+    "fresh": 183
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
+      "summary": "OpenAI is gearing up for a political lobbying and PR push after the US midterms. The article OpenAI prepares lobbying blitz for a post-midterm Washington appeared first on The Decoder.",
+      "date": "2026-11-02",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
@@ -352,16 +362,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
-    },
-    {
-      "category": "industry",
-      "lab": "Microsoft",
-      "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
-      "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastruc",
-      "date": "2026-10-31",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/"
     },
     {
       "category": "model",
@@ -622,6 +622,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Speeding up planning decisions with AI",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "date": "2026-10-30",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/att-legal"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Panache — RTS Belle Époque pour mobile",
-      "summary": "<p><strong><a href=\"https://github.com/menufactory43/panache/\">Panache — RTS Belle Époque pour mobile</a></strong></p> Well this is delightful: I <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">released Battle Drones</a> yesterday under an Apache 2.0 License and the",
-      "date": "2026-10-21",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/21/panache/"
     }
   ]
 }

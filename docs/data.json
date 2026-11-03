@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T16:59:56.256Z",
+  "updated": "2026-11-03T23:18:11.473Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 191
+    "fresh": 197
   },
   "ranking": [
     {
@@ -254,6 +254,56 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+      "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before production because the model didn't always account for ma",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+      "summary": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly. The average lifespan is just 15.7 months. Claims about what models can't do expire fastes",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+    },
+    {
       "category": "research",
       "lab": "AI",
       "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
@@ -267,7 +317,7 @@
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "summary": "<p>Yesterday's hot paper was <a href=\"https://rikiyat.github.io/blog/weight-space-programming/\">Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights</a> by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper found that fron",
+      "summary": "<p>Yesterday's hot paper was <a href=\"https://rikiyat.github.io/blog/weight-space-programming/\">Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights</a> by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the author",
       "date": "2026-11-03",
       "importance": 3,
       "tags": [],
@@ -335,6 +385,86 @@
     },
     {
       "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "summary": "StateBench: Testing how language models track state changes over long documents",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/statebench"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+    },
+    {
+      "category": "model",
       "lab": "Hugging Face",
       "title": "Palette: teaching a small model to build decks in your design language",
       "summary": "Palette: teaching a small model to build decks in your design language",
@@ -382,6 +512,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Accelerating engineering for the physical world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/cisco-cyber"
     },
     {
       "category": "research",
@@ -454,6 +604,26 @@
       "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "summary": "CWE-bench v2: More coverage, quality, and transparency",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/cwe-bench"
+    },
+    {
       "category": "model",
       "lab": "Hugging Face",
       "title": "Transformers Model Integration Contracts",
@@ -492,26 +662,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI elites might hoard intelligence like mercantilists hoarded gold",
-      "summary": "Engineer Venkatesh Rao compares the fear of AI job losses to mercantilism: intelligence is treated as a scarce resource that elites want to control. But AI could boost demand for human thinking, much like early capitalism made people voluntarily work more. The article AI elites m",
-      "date": "2026-11-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
-      "summary": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product. The operating costs were \"unsustainably high relative to revenue,\" Musk wrote on X. OpenAI and Anthropic are also tightening their flat-rat",
-      "date": "2026-11-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/"
     },
     {
       "category": "model",
@@ -604,16 +754,6 @@
       "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
     },
     {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Scaling Git at OpenAI",
@@ -632,36 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/grid-protectors-program"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
     },
     {
       "category": "benchmark",
@@ -704,26 +814,6 @@
       "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/"
     },
     {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "date": "2026-11-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "date": "2026-11-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Quoting Kyle Kingsbury",
@@ -732,16 +822,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "date": "2026-11-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
     },
     {
       "category": "model",
@@ -1064,6 +1144,16 @@
       "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
     },
     {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+      "date": "2026-10-28",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/ads/customers/evernote"
+    },
+    {
       "category": "industry",
       "lab": "Google DeepMind",
       "title": "Google AI gets cagey when asked who won the 2020 elections",
@@ -1162,16 +1252,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/LiquidAI/lfm3"
-    },
-    {
-      "category": "research",
-      "lab": "Hugging Face",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "summary": "Can we trust LLMs to judge whether a research idea is novel?",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/novelty-bench"
     },
     {
       "category": "model",
@@ -1284,24 +1364,14 @@
       "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-      "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "Delivering fast and capable computer use at scale",
       "date": "2026-10-26",
       "importance": 2,
       "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
-      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
-      "date": "2026-10-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/"
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra"
     },
     {
       "category": "model",
@@ -1354,16 +1424,6 @@
       "url": "https://openai.com/index/openai-cut-incident-investigation"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Introducing GPT-6.1 Terra",
-      "summary": "Bringing fast and capable computer use to everyone",
-      "date": "2026-10-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Seam Cutter",
@@ -1392,66 +1452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Quick Study",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/quick-study-painter\">Quick Study</a></p> <p>Prompt <a href=\"https://claude.ai/share/71adda96-193f-4f2a-97c0-454e08066afb\">to Claude Opus 5.5 High</a>:</p> <blockquote> <p><code>Build an artifact where you open a p",
-      "date": "2026-10-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "date": "2026-10-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Securing our frontier model training environment",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "date": "2026-10-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-      "date": "2026-10-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/anima"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "date": "2026-10-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "summary": "Does Your Model Run on AWS Trainium? Look It Up",
-      "date": "2026-10-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support"
     }
   ]
 }

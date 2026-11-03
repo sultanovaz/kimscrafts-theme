@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-02T21:41:08.485Z",
+  "updated": "2026-11-03T06:42:57.246Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 186
+    "fresh": 189
   },
   "ranking": [
     {
@@ -254,6 +254,66 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "summary": "<p><strong><a href=\"https://www.youtube.com/watch?v=UytYrhYLOKI\">I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube</a></strong></p> Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of p",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "October sponsors-only newsletter",
+      "summary": "<p>I sent out the October edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-10-october.md\">access it here</a",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "llm 0.37",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37\">llm 0.37</a></p> <p>There's a <em>lot</em> of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.</p> <p>I added <",
+      "date": "2026-11-02",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/2/llm/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic grows revenue twelvefold but posts $23 billion loss",
@@ -334,6 +394,26 @@
       "url": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Web host Squarespace lays off 19% of its employees",
@@ -374,6 +454,26 @@
       "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
@@ -392,6 +492,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Scaling Git at OpenAI",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/scaling-git-at-openai"
     },
     {
       "category": "hardware",
@@ -452,6 +562,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/qodo-codex-plugin"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/dan-driscoll-joins-openai"
     },
     {
       "category": "model",
@@ -604,16 +724,6 @@
       "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
-    },
-    {
       "category": "model",
       "lab": "Alibaba",
       "title": "dbreunig/nesformer",
@@ -624,26 +734,6 @@
       "url": "https://simonwillison.net/2026/Oct/30/nesformer/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
-    },
-    {
       "category": "hardware",
       "lab": "AI",
       "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
@@ -652,26 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Cracks are emerging in the AI spending boom",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
     },
     {
       "category": "product",
@@ -1382,76 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/decisions-api"
-    },
-    {
-      "category": "research",
-      "lab": "AI",
-      "title": "Quoting Armin Ronacher",
-      "summary": "<blockquote cite=\"https://twitter.com/mitsuhiko/status/2113207589978636646\"><p>As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://twitter.com/mitsuhiko",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "summary": "Ensemble forecasting with IBM Granite time-series models",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "What FDE means at OpenAI",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/forward-deployed-engineering-means"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "summary": "<p><strong><a href=\"https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\">Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security</a></strong></p> If you're running anything on PHP it's vital you u",
-      "date": "2026-10-21",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI models are coming to Google Cloud",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "date": "2026-10-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/openai-models-google-cloud"
     }
   ]
 }

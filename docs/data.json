@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-03T06:42:57.246Z",
+  "updated": "2026-11-03T16:59:56.256Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 189
+    "fresh": 191
   },
   "ranking": [
     {
@@ -254,6 +254,156 @@
   ],
   "items": [
     {
+      "category": "research",
+      "lab": "AI",
+      "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
+      "summary": "The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals. Tasks that used to take weeks can now wrap up in hours, and the team says the system detected a pulsar in the Crab Nebula i",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "summary": "<p>Yesterday's hot paper was <a href=\"https://rikiyat.github.io/blog/weight-space-programming/\">Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights</a> by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper found that fron",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
+      "summary": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the military and intelligence agencies. Driscoll drove AI projects inside the Army, is a c",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+      "summary": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent. The article Anthropi",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia pushes cloud customers to cut back on China business",
+      "summary": "Nvidia has told some cloud customers to take on less business from Chinese companies. The article Nvidia pushes cloud customers to cut back on China business appeared first on The Decoder.",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market",
+      "summary": "Huawei is telling customers to source the high-performance memory for its AI chips on their own, pushing them onto the black market. Smugglers are exploiting a loophole in U.S. export rules by bundling HBM with low-end processors, shipping them through Hong Kong, and separating t",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
+      "summary": "OpenAI quadruples bug bounty payouts and launches new internal security sprint. The article Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security appeared first on The Decoder.",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
+      "summary": "Anthropic is blocking its coding assistant Claude Code from recreating existing video games. The article Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs appeared first on The Decoder.",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "summary": "Palette: teaching a small model to build decks in your design language",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/heimstaden"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
@@ -305,6 +455,16 @@
     },
     {
       "category": "model",
+      "lab": "Hugging Face",
+      "title": "Transformers Model Integration Contracts",
+      "summary": "Transformers Model Integration Contracts",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/transformers-mic"
+    },
+    {
+      "category": "model",
       "lab": "OpenAI",
       "title": "llm 0.37",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37\">llm 0.37</a></p> <p>There's a <em>lot</em> of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes.</p> <p>I added <",
@@ -312,16 +472,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/2/llm/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic grows revenue twelvefold but posts $23 billion loss",
-      "summary": "Anthropic swings back to an operating loss ahead of its blockbuster IPO. The article Anthropic grows revenue twelvefold but posts $23 billion loss appeared first on The Decoder.",
-      "date": "2026-11-02",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/"
     },
     {
       "category": "model",
@@ -332,16 +482,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
-      "summary": "Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub. The article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appeared first on The Decoder.",
-      "date": "2026-11-02",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/"
     },
     {
       "category": "model",
@@ -372,26 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
-      "summary": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy. In direct competition against Claude Opus 5.5, they ind",
-      "date": "2026-11-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
-      "summary": "OpenAI is gearing up for a political lobbying and PR push after the US midterms. The article OpenAI prepares lobbying blitz for a post-midterm Washington appeared first on The Decoder.",
-      "date": "2026-11-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/"
     },
     {
       "category": "model",
@@ -456,22 +576,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Preparing our next security sprint to harden OpenAI",
       "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
     },
     {
       "category": "model",
@@ -556,16 +676,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/qodo-codex-plugin"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
       "date": "2026-11-02",
@@ -574,34 +684,14 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
-      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task and lets a standard language model choose the bes",
-      "date": "2026-11-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
-      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe ran",
-      "date": "2026-11-01",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/"
-    },
-    {
       "category": "industry",
-      "lab": "AI",
-      "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
-      "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt official Beijing positions too. The language of t",
-      "date": "2026-11-01",
-      "importance": 3,
+      "lab": "OpenAI",
+      "title": "Qodo builds context into AI code review with Codex",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "date": "2026-11-02",
+      "importance": 2,
       "tags": [],
-      "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/"
+      "url": "https://openai.com/index/qodo-codex-plugin"
     },
     {
       "category": "industry",
@@ -672,56 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "date": "2026-10-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "date": "2026-10-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
-    },
-    {
-      "category": "hardware",
-      "lab": "xAI",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "date": "2026-10-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "date": "2026-10-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "date": "2026-10-31",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
     },
     {
       "category": "model",
@@ -1412,46 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/torch-neuronx-model-support"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "DE STAAT - FREEDOM (Official Music Video)",
-      "summary": "<p><strong><a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow\">DE STAAT - FREEDOM (Official Music Video)</a></strong></p> OK well this is a first for me... at <a href=\"https://www.youtube.com/watch?v=hKO4pQtIXow&amp;t=44s\">00:44</a> in this new music video by Dutch alternative ",
-      "date": "2026-10-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "summary": "<p><strong><a href=\"https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation\">Donating Agent Skills to the Agentic AI Foundation</a></strong></p> News today from Anthropic:</p> <blockquote> <p>We’re committed to keeping Agent Skills open, community-driven",
-      "date": "2026-10-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "date": "2026-10-22",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/decisions-api"
     }
   ]
 }

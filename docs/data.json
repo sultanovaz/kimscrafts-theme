@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T06:12:21.501Z",
+  "updated": "2026-11-04T14:27:50.918Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 197
+    "fresh": 196
   },
   "ranking": [
     {
@@ -256,6 +256,36 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms",
+      "summary": "In the 2026 U.S. midterm elections, AI ranked last among campaign issues: only 56 percent of respondents cited AI and data centers as an important factor. According to NBC exit polls, corruption (90 percent) and the cost of living (89 percent) clearly dominated, despite growing p",
+      "date": "2026-11-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Schools that turn off Google's AI will lose search too starting in 2027",
+      "summary": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable. The catch: schools that block AI entirely on their devices will also lose access to Google Search, since the two systems are now too deeply intertwined",
+      "date": "2026-11-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
       "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
       "date": "2026-11-03",
@@ -372,16 +402,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
-      "summary": "Anthropic is blocking its coding assistant Claude Code from recreating existing video games. The article Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs appeared first on The Decoder.",
-      "date": "2026-11-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/"
     },
     {
       "category": "model",
@@ -655,16 +675,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
-      "summary": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff. Now the bank cites \"productivity and risk manage",
-      "date": "2026-11-02",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "summary": "The one-year-old startup is now valued at $300 million.",
@@ -742,16 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
     },
     {
       "category": "industry",

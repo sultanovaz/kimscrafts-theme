@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T14:27:50.918Z",
+  "updated": "2026-11-04T21:17:04.462Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 196
+    "fresh": 198
   },
   "ranking": [
     {
@@ -254,6 +254,86 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
+      "summary": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames. The model's image consistency is strong enough to keep characters recognizable across frames, making f",
+      "date": "2026-11-04",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-apps 0.3a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.3a0\">datasette-apps 0.3a0</a></p> <p>Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette.</p> <p>These can be created by hand, but it's ea",
+      "date": "2026-11-04",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
+      "summary": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single sampling parameter. Anthropic's response to the loopho",
+      "date": "2026-11-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
+      "summary": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex. Combined with OpenAI's recently launched Git backend Pando, the deal shows the company is building out its infrastructure for developers and AI agents working side by side.",
+      "date": "2026-11-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "AI",
+      "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
+      "summary": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights, rolling out updates, and decommissioning projects. The article New open-source benchma",
+      "date": "2026-11-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
+      "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent by changing just 0.016 percent of its weights. The ",
+      "date": "2026-11-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-llm 0.1a10",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a10\">datasette-llm 0.1a10</a></p> <p>Fixes a <a href=\"https://github.com/datasette/datasette-llm/pull/11\">bug</a> that affected my <a href=\"https://agent.datasette.io/\">agent.datasett",
+      "date": "2026-11-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
+      "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic's new prototype proves which model wrote an AI response withou",
+      "date": "2026-11-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms",
@@ -274,6 +354,106 @@
       "url": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "date": "2026-11-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta acquires AI coding startup Conductor",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/openai-to-acquire-pierre"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
@@ -282,6 +462,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-agent 0.5a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.5a0\">datasette-agent 0.5a0</a></p> <p>This is a significant release of <a href=\"https://agent.datasette.io/\">Datasette Agent</a>. The most notable new feature is called the <strong>p",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "llm 0.37.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.1\">llm 0.37.1</a></p> <p>A bugfix release for <a href=\"https://llm.datasette.io/\">LLM</a>, with contributions from <a href=\"https://github.com/remote-controlled-man\">Steven Huang</a>, <a href=\"h",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/3/llm/"
     },
     {
       "category": "industry",
@@ -334,16 +534,6 @@
       "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
     },
     {
-      "category": "research",
-      "lab": "AI",
-      "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
-      "summary": "The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals. Tasks that used to take weeks can now wrap up in hours, and the team says the system detected a pulsar in the Crab Nebula i",
-      "date": "2026-11-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
@@ -352,56 +542,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
-      "summary": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the military and intelligence agencies. Driscoll drove AI projects inside the Army, is a c",
-      "date": "2026-11-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/"
-    },
-    {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
-      "summary": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent. The article Anthropi",
-      "date": "2026-11-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia pushes cloud customers to cut back on China business",
-      "summary": "Nvidia has told some cloud customers to take on less business from Chinese companies. The article Nvidia pushes cloud customers to cut back on China business appeared first on The Decoder.",
-      "date": "2026-11-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market",
-      "summary": "Huawei is telling customers to source the high-performance memory for its AI chips on their own, pushing them onto the black market. Smugglers are exploiting a loophole in U.S. export rules by bundling HBM with low-end processors, shipping them through Hong Kong, and separating t",
-      "date": "2026-11-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
-      "summary": "OpenAI quadruples bug bounty payouts and launches new internal security sprint. The article Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security appeared first on The Decoder.",
-      "date": "2026-11-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/"
     },
     {
       "category": "model",
@@ -605,26 +745,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-      "date": "2026-11-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-      "date": "2026-11-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
       "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
@@ -674,46 +794,6 @@
       "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"
-    },
-    {
-      "category": "product",
-      "lab": "Anthropic",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
@@ -736,22 +816,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Rewarding defenders with bigger bug bounties",
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
     },
     {
       "category": "industry",
@@ -786,22 +866,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/qodo-codex-plugin"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/dan-driscoll-joins-openai"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Qodo builds context into AI code review with Codex",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/qodo-codex-plugin"
     },
     {
       "category": "industry",
@@ -1354,16 +1434,6 @@
       "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-      "date": "2026-10-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Introducing GPT-6.1 Terra",
@@ -1382,76 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "date": "2026-10-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT’s expanding world of work",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "date": "2026-10-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "date": "2026-10-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "date": "2026-10-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/openai-cut-incident-investigation"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Seam Cutter",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/seam-cutter\">Seam Cutter</a></p> <p>I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectivel",
-      "date": "2026-10-25",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/battledrones/releases/tag/v14\">battledrones v14: Compass Rose, a four player map</a></p> <p>I added four player online mode to <a href=\"https://simonwillison.net/2026/Oct/20/battledrones/\">Battledrones</a> - previous",
-      "date": "2026-10-24",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/24/battledrones/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Introducing Kimi K3.1 Pro",
-      "summary": "<p><strong><a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">Introducing Kimi K3.1 Pro</a></strong></p> Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\".</p> <p>They're also offering a",
-      "date": "2026-10-23",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
     }
   ]
 }

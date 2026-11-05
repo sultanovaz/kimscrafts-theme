@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T01:28:48.047Z",
+  "updated": "2026-11-05T10:48:50.304Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 201
+    "fresh": 202
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "date": "2026-11-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -262,6 +272,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "date": "2026-11-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "summary": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "date": "2026-11-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/phonon-tts"
     },
     {
       "category": "model",
@@ -714,16 +744,6 @@
       "url": "https://huggingface.co/blog/ibm-research/palette-deck-building"
     },
     {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-      "date": "2026-11-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
-    },
-    {
       "category": "research",
       "lab": "OpenAI",
       "title": "Accelerating engineering for the physical world",
@@ -846,22 +866,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Rewarding defenders with bigger bug bounties",
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
     },
     {
       "category": "industry",
@@ -896,22 +916,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/dan-driscoll-joins-openai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Qodo builds context into AI code review with Codex",
       "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/qodo-codex-plugin"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/dan-driscoll-joins-openai"
     },
     {
       "category": "industry",
@@ -1432,26 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "date": "2026-10-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/greptile-code-review-codex-astra"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "summary": "Included is the ability to limit which applications Siri can directly access.",
-      "date": "2026-10-26",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
     }
   ]
 }

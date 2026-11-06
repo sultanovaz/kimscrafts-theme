@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T10:47:55.108Z",
+  "updated": "2026-11-06T19:20:53.585Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,196 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
+      "summary": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agentic performance comes at a price, though, with toke",
+      "date": "2026-11-06",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even ",
+      "date": "2026-11-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even ",
+      "date": "2026-11-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+    },
+    {
+      "category": "product",
+      "lab": "Anthropic",
+      "title": "Perplexity now has its own always-on AI agent",
+      "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. The market for always-on agents is getting crowded. ",
+      "date": "2026-11-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+      "summary": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the cu",
+      "date": "2026-11-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+      "summary": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Anthropic redacted the most informative evidence, though, which",
+      "date": "2026-11-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
+      "summary": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation appeared first on The Decoder.",
+      "date": "2026-11-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic adds bank account access to Claude so users can track their spending",
+      "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude so users can track their spending appeared first o",
+      "date": "2026-11-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "date": "2026-11-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "date": "2026-11-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "date": "2026-11-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "date": "2026-11-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Quoting Nilay Patel",
+      "summary": "<blockquote cite=\"https://www.youtube.com/watch?v=-U4thshDTL8&amp;t=422s\"><p>The products aren't good enough to sell people on the costs.</p> <p>You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hi",
+      "date": "2026-11-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "date": "2026-11-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "date": "2026-11-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "date": "2026-11-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "date": "2026-11-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/toyblocks"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "date": "2026-11-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "date": "2026-11-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -262,6 +452,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "date": "2026-11-06",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
     },
     {
       "category": "benchmark",
@@ -334,66 +534,6 @@
       "url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/"
     },
     {
-      "category": "model",
-      "lab": "Moonshot",
-      "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
-      "summary": "Tencent has unveiled Hy4, its first multimodal language model that understands images and can operate software on its own. On the Artificial Analysis Intelligence Index, it scores 35 points, solid but behind Kimi K3.1 Pro. On hard math and complex image analysis, Hy4 still trails",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
-      "summary": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May. The deals follow a pattern: AI models are becomi",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
-      "summary": "OpenAI is responding to the clear vote by US voters against new data centers with voluntary commitments for future sites. The pledges only apply to facilities OpenAI operates itself, though, and a large share of its infrastructure is built by partners like Oracle. Voters rejected",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic reverses course and pays for news content for the first time",
-      "summary": "Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections. The article Anthropic reverses course and pays for news content for the first time appeared first on The Decoder.",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
-      "summary": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks. Removing a flawed training dataset fixed the problem, but OpenAI can'",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Apple slashes internal AI budgets, with deeper cuts still planned",
-      "summary": "Tech companies are cutting internal AI spending, and Apple is the latest to follow suit. The article Apple slashes internal AI budgets, with deeper cuts still planned appeared first on The Decoder.",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
@@ -412,16 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
     },
     {
       "category": "model",
@@ -604,26 +734,6 @@
       "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
-    },
-    {
       "category": "product",
       "lab": "OpenAI",
       "title": "Flipsnack grows product signups with conversion optimization",
@@ -664,16 +774,6 @@
       "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "date": "2026-11-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "datasette-llm 0.1a10",
@@ -692,46 +792,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/daybreak-red-aws-govcloud"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "date": "2026-11-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "date": "2026-11-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "date": "2026-11-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta acquires AI coding startup Conductor",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "date": "2026-11-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
     },
     {
       "category": "industry",
@@ -842,16 +902,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "summary": "StateBench: Testing how language models track state changes over long documents",
-      "date": "2026-11-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/statebench"
     },
     {
       "category": "industry",
@@ -996,22 +1046,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Preparing our next security sprint to harden OpenAI",
       "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
     },
     {
       "category": "industry",
@@ -1046,22 +1096,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/qodo-codex-plugin"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/dan-driscoll-joins-openai"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Qodo builds context into AI code review with Codex",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/qodo-codex-plugin"
     },
     {
       "category": "industry",
@@ -1402,56 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/ads/customers/evernote"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "summary": "But the AI responses get more forthright when asked outside the US.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Terk Terkowitz",
-      "summary": "<blockquote cite=\"https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai\"><p>If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, a",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "The future of the firm",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/the-future-of-the-firm"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Legora is building the agentic operating system for legal work",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/legora"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T19:54:17.704Z",
+  "updated": "2026-11-06T01:30:54.902Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 201
+    "fresh": 203
   },
   "ranking": [
     {
@@ -264,6 +264,26 @@
       "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/"
     },
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "date": "2026-11-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
+      "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already found 81 previously unknown vulnerabilities in Firefox and developed 948 working exploits in the Linu",
+      "date": "2026-11-05",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/"
+    },
+    {
       "category": "model",
       "lab": "Meta",
       "title": "Meta says US users can now video chat with their Muse AI avatar",
@@ -374,16 +394,6 @@
       "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
-      "summary": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI, where she'll head up product management for \"Core Products\" and work directly with Codex lead Thibault Sottiaux. She's the third person to leave Anthropic's Claude Code team in just two week",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
@@ -402,6 +412,36 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/introducing-gpt-6-cyber"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "date": "2026-11-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "date": "2026-11-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "date": "2026-11-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/cultfit-builds-with-codex"
     },
     {
       "category": "hardware",
@@ -435,9 +475,9 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
+      "lab": "Anthropic",
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
       "date": "2026-11-05",
       "importance": 2,
       "tags": [],
@@ -514,6 +554,16 @@
       "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "date": "2026-11-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/merge-builds-with-openai"
+    },
+    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "Setting a new standard for responsible AI infrastructure",
@@ -542,6 +592,26 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "date": "2026-11-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/ads/customers/flipsnack"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "date": "2026-11-05",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/franklin-templeton"
     },
     {
       "category": "industry",
@@ -652,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "date": "2026-11-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
     },
     {
       "category": "industry",
@@ -916,22 +976,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Preparing our next security sprint to harden OpenAI",
       "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
     },
     {
       "category": "industry",
@@ -966,22 +1026,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/dan-driscoll-joins-openai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Qodo builds context into AI code review with Codex",
       "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/qodo-codex-plugin"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/dan-driscoll-joins-openai"
     },
     {
       "category": "industry",
@@ -1392,66 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Game Boy Color on My Conference Badge",
-      "summary": "<p><strong><a href=\"https://spf13.com/p/game-boy-color-on-my-conference-badge/\">Game Boy Color on My Conference Badge</a></strong></p> I'm at GitHub Universe this week and, <a href=\"https://simonwillison.net/2025/Oct/28/github-universe-badge/\">similar to last year</a>, the confer",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
-      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "Build specialized multimodal models with LFM3",
-      "summary": "Build specialized multimodal models with LFM3",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Genie 4: A new generation of world simulation",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "date": "2026-10-27",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/retell-ai"
     }
   ]
 }

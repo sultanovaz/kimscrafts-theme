@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T00:53:53.483Z",
+  "updated": "2026-11-07T10:01:00.450Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
+      "summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing inve",
+      "date": "2026-11-07",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+      "summary": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent detection rate beat the traditional in-office measurement. The method is already live in t",
+      "date": "2026-11-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "date": "2026-11-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+    },
+    {
       "category": "benchmark",
       "lab": "AI",
       "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
@@ -494,16 +524,6 @@
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
-      "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an op",
-      "date": "2026-11-05",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -532,26 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
-      "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in ",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
     },
     {
       "category": "model",

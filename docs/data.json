@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T17:43:52.470Z",
+  "updated": "2026-11-07T21:46:22.829Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -332,6 +332,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "date": "2026-11-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
     },
     {
       "category": "hardware",
@@ -692,16 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
     },
     {
       "category": "industry",

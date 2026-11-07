@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T10:01:00.450Z",
+  "updated": "2026-11-07T17:43:52.470Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 202
+    "fresh": 199
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+      "summary": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation.",
+      "date": "2026-11-07",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
@@ -262,6 +272,56 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+      "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That's not yet eno",
+      "date": "2026-11-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "AI",
+      "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+      "summary": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity typically shows up late in long runs that fail anyway. But it doesn't work as a warning signal: 96 percent o",
+      "date": "2026-11-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+      "summary": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because open models can no longer be restricted, analysts sa",
+      "date": "2026-11-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+      "summary": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of sup",
+      "date": "2026-11-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Google DeepMind",
+      "title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+      "summary": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that",
+      "date": "2026-11-07",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/"
     },
     {
       "category": "product",
@@ -292,16 +352,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
-      "summary": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agentic performance comes at a price, though, with toke",
-      "date": "2026-11-06",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/"
     },
     {
       "category": "industry",
@@ -342,46 +392,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
-      "summary": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the cu",
-      "date": "2026-11-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
-      "summary": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Anthropic redacted the most informative evidence, though, which",
-      "date": "2026-11-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
-      "summary": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation appeared first on The Decoder.",
-      "date": "2026-11-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic adds bank account access to Claude so users can track their spending",
-      "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude so users can track their spending appeared first o",
-      "date": "2026-11-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/"
     },
     {
       "category": "industry",
@@ -532,16 +542,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
-      "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already found 81 previously unknown vulnerabilities in Firefox and developed 948 working exploits in the Linu",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/"
     },
     {
       "category": "model",

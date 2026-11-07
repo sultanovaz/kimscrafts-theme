@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T19:20:53.585Z",
+  "updated": "2026-11-07T00:53:53.483Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 204
+    "fresh": 202
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "AI",
+      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+      "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million. On other benchmarks, ",
+      "date": "2026-11-06",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
@@ -262,6 +272,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "date": "2026-11-06",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
     },
     {
       "category": "hardware",
@@ -524,16 +544,6 @@
       "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
-      "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent. Claude Opus 5.5 leads narrowly over Gemini 4 Carbon. Critics point to the small number of tasks per dom",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
@@ -542,16 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
     },
     {
       "category": "model",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T13:18:24.161Z",
+  "updated": "2026-11-08T19:39:24.593Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+      "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years",
+      "date": "2026-11-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+      "summary": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware. They consider the assumption that consciousness depends on computation alone \"fatally flawed\" and warn ",
+      "date": "2026-11-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/"
+    },
+    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
@@ -282,16 +302,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
-      "summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing inve",
-      "date": "2026-11-07",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/"
     },
     {
       "category": "model",
@@ -342,16 +352,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/"
-    },
-    {
-      "category": "product",
-      "lab": "Google DeepMind",
-      "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
-      "summary": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent detection rate beat the traditional in-office measurement. The method is already live in t",
-      "date": "2026-11-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/"
     },
     {
       "category": "product",

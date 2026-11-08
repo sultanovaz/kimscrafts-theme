@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T21:46:22.829Z",
+  "updated": "2026-11-08T05:56:28.103Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -332,6 +332,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "summary": "<p><strong><a href=\"https://github.com/simonw/datasette/issues/3046\">datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages</a></strong></p> I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page we",
+      "date": "2026-11-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "date": "2026-11-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
     },
     {
       "category": "hardware",
@@ -692,16 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Evernote turns AI-driven discovery into paid subscriptions",
-      "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
-      "date": "2026-10-28",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/ads/customers/evernote"
     }
   ]
 }

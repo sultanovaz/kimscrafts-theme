@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T19:39:24.593Z",
+  "updated": "2026-11-09T00:50:32.220Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -256,6 +256,16 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-parse-number-c-vs-rust#readme\">parse_number() as a SQLite extension: C vs Rust</a></p> <p>I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite",
+      "date": "2026-11-08",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
       "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years",
       "date": "2026-11-08",
@@ -292,6 +302,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "date": "2026-11-08",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
     },
     {
       "category": "model",
@@ -702,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/australian-universities-ai-native-graduates"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "The October inflection point for vibe game development",
-      "summary": "<p>I've written before about how November 2025 was <a href=\"https://simonwillison.net/tags/november-2025-inflection/\">an inflection point for coding agents</a> - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T11:25:53.694Z",
+  "updated": "2026-11-09T22:17:34.209Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 197
+    "fresh": 202
   },
   "ranking": [
     {
@@ -256,6 +256,86 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+      "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operat",
+      "date": "2026-11-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+      "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short whe",
+      "date": "2026-11-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+      "summary": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows. It supports stable multi-pass editing over up to 100 iterations, generates native RGBA images with transparent backgrounds, and, according to Bytedance, outperforms GPT-Image-2",
+      "date": "2026-11-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/"
+    },
+    {
+      "category": "model",
+      "lab": "Meta",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "date": "2026-11-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
+      "summary": "Disney and Adobe are building custom AI tools together for the entertainment giant's productions. The article Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire appeared first on The Decoder.",
+      "date": "2026-11-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+      "summary": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic'",
+      "date": "2026-11-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Google DeepMind",
+      "title": "Google ships four TPU variants in one year as it ramps up competition with Nvidia",
+      "summary": "Google is expanding its TPU 8 family with two specialized variants: the TPU 8tx keeps sensitive data encrypted even during processing, while the TPU 8i Max doubles compute power and memory by placing two chips on a single package. With nearly 100 external customers now on board, ",
+      "date": "2026-11-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
+      "summary": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant. The board has launched an independent investigation. The affair weakens Huang's lobbying efforts against stricter AI chip export control",
+      "date": "2026-11-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "The Web Is More Than Enough, by Paul Ford",
       "summary": "<p><a href=\"https://news.ycombinator.com/item?id=50416456#50421091\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50416456\">The Web Is More Than Enough, by Paul Ford</a> &mdash; Hacker News.</p><p>OK, this comment convinced me to give that a shot.</p> <p>Here's ",
       "date": "2026-11-09",
@@ -275,8 +355,148 @@
     },
     {
       "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+    },
+    {
+      "category": "hardware",
       "lab": "Nvidia",
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+      "summary": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/control-room"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+      "summary": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/coderabbit-codex-daybreak"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/kuken"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
       "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
       "date": "2026-11-09",
       "importance": 2,
@@ -324,16 +544,6 @@
       "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/"
     },
     {
-      "category": "benchmark",
-      "lab": "Google DeepMind",
-      "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
-      "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent. The ar",
-      "date": "2026-11-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
@@ -342,66 +552,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
-      "summary": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation.",
-      "date": "2026-11-07",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
-      "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That's not yet eno",
-      "date": "2026-11-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "AI",
-      "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
-      "summary": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity typically shows up late in long runs that fail anyway. But it doesn't work as a warning signal: 96 percent o",
-      "date": "2026-11-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
-      "summary": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because open models can no longer be restricted, analysts sa",
-      "date": "2026-11-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/"
-    },
-    {
-      "category": "research",
-      "lab": "AI",
-      "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
-      "summary": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of sup",
-      "date": "2026-11-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Google DeepMind",
-      "title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
-      "summary": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that",
-      "date": "2026-11-07",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/"
     },
     {
       "category": "product",
@@ -442,6 +592,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/7/hn-50407316/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "date": "2026-11-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
     },
     {
       "category": "hardware",
@@ -574,36 +734,6 @@
       "url": "https://huggingface.co/blog/allenai/toyblocks"
     },
     {
-      "category": "model",
-      "lab": "AI",
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "date": "2026-11-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "date": "2026-11-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "date": "2026-11-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
-    },
-    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -622,26 +752,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "date": "2026-11-05",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
     },
     {
       "category": "model",
@@ -682,46 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/cultfit-builds-with-codex"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "summary": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
     },
     {
       "category": "product",
@@ -1106,22 +1176,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Rewarding defenders with bigger bug bounties",
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
     },
     {
       "category": "industry",
@@ -1382,76 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/updated-model-spec"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Quoting Ben Hylak",
-      "summary": "<blockquote cite=\"https://twitter.com/benhylak/status/2115172657910120740\"><p>every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath.</p> <p>except for our product, of course. </p> <p>in our product, cust",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "summary": "Granite Switch 4.1.1 — Update models like you update software",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/ropes-gray-ai-diligence"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/credit-saison"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "summary": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/announcing-project-protostar"
-    },
-    {
-      "category": "industry",
-      "lab": "Mistral",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "summary": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/mistral-large4"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "summary": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/anydecisionmodel"
     }
   ]
 }

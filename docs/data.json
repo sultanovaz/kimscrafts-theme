@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T00:50:32.220Z",
+  "updated": "2026-11-09T11:25:53.694Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -256,6 +256,36 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=50416456#50421091\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50416456\">The Web Is More Than Enough, by Paul Ford</a> &mdash; Hacker News.</p><p>OK, this comment convinced me to give that a shot.</p> <p>Here's ",
+      "date": "2026-11-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Hide your slop PR descriptions behind <details><summary>",
+      "summary": "<p>Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished ",
+      "date": "2026-11-09",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "parse_number() as a SQLite extension: C vs Rust",
       "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-parse-number-c-vs-rust#readme\">parse_number() as a SQLite extension: C vs Rust</a></p> <p>I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite",
       "date": "2026-11-08",
@@ -402,6 +432,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+    },
+    {
+      "category": "research",
+      "lab": "AI",
+      "title": "Terry Pratchett's Study",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=50405674#50407316\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50405674\">Terry Pratchett&#x27;s Study</a> &mdash; Hacker News.</p><p>Terry Pratchett once wrote about the concept of \"horizontal wealth\". Vertical ",
+      "date": "2026-11-07",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/7/hn-50407316/"
     },
     {
       "category": "hardware",
@@ -684,16 +724,6 @@
       "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "Quoting Paul Ford",
@@ -932,6 +962,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI is destroying my CS degree",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=50353300#50354278\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50353300\">AI is destroying my CS degree</a> &mdash; Hacker News.</p><p>I don't envy educators right now.</p> <p>AI clearly means you need to change ",
+      "date": "2026-11-03",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/3/hn-50354278/"
     },
     {
       "category": "model",
@@ -1412,46 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/anydecisionmodel"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Quoting Ted Sanders",
-      "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=50248124#50249160\"><p>In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, ",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "summary": "Gemini 4 Carbon: Our next frontier model",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "GitHub Octoverse 2026",
-      "summary": "<p><strong><a href=\"https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/\">GitHub Octoverse 2026</a></strong></p> I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" progra",
-      "date": "2026-10-28",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
     }
   ]
 }

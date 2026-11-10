@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T22:17:34.209Z",
+  "updated": "2026-11-10T07:12:07.603Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -256,6 +256,46 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "summary": "<blockquote cite=\"https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code\"><p>Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding ta",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Yonkers Rises",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/yonkers-rises\">Yonkers Rises</a></p> <p>I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed it's location and shape in my head (and to try out Claude Fable 5.2's 3D",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "llm-anthropic 0.31",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.31\">llm-anthropic 0.31</a></p> <p>Anthropic <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\">released Fable 5.2 and Mythos 5.2</a> today. Fable 5.2 is currently <a href=\"ht",
+      "date": "2026-11-09",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
       "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operat",
       "date": "2026-11-09",
@@ -352,6 +392,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/9/details-summary/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Locating the source of a mysterious beep with Claude",
+      "summary": "<p>Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started <em>intermittently beeping</em>. The beeps were far enough apart that standing in the room and trying to determine the source of the ",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "The race is on to sue Nvidia",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
     },
     {
       "category": "hardware",
@@ -624,26 +704,6 @@
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even ",
-      "date": "2026-11-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even ",
-      "date": "2026-11-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -702,26 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "date": "2026-11-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "date": "2026-11-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
     },
     {
       "category": "industry",
@@ -1412,46 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "How we detect frontier model misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "date": "2026-10-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "summary": "<p><strong><a href=\"https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions\">API credits benefit for eligible ChatGPT subscriptions</a></strong></p> Earlier this month Anthropic <a href=\"https://simonwillison.net/2026/Oct/7/claude-haiku",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Trump declares robot imports a national security threat",
-      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "date": "2026-10-29",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/updated-model-spec"
     }
   ]
 }

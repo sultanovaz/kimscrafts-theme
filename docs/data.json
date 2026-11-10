@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T07:12:07.603Z",
+  "updated": "2026-11-10T17:00:12.461Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 202
+    "fresh": 209
   },
   "ranking": [
     {
@@ -254,6 +254,196 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+      "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private placement with Google, Nvidia, Microsoft, and other major tech firms as anchor invest",
+      "date": "2026-11-10",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "summary": "<p><strong><a href=\"https://research.meta.ai/blog/muse-ember\">Introducing Our Smallest, Most Efficient Model: Muse Ember</a></strong></p> Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as:</p> <blockquote> <p>[...] our sma",
+      "date": "2026-11-10",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
+      "summary": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra. A year ago the top score was 2.5 percent. Areas like product design and animation remain a weak ",
+      "date": "2026-11-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "date": "2026-11-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+      "summary": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative. The companies commit to shutdown mechanisms, independent audits, and disclosing known risks, but t",
+      "date": "2026-11-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/"
+    },
+    {
+      "category": "research",
+      "lab": "Google DeepMind",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "date": "2026-11-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "date": "2026-11-10",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/ai-effect-on-freelance-work"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "Gemini 4 Carbon is now available",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+    },
+    {
+      "category": "product",
+      "lab": "Meta",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Google DeepMind",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Closing the AI guidance gap in education",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Quoting Prompting Claude Fable 5.2",
@@ -267,7 +457,7 @@
       "category": "model",
       "lab": "Anthropic",
       "title": "Yonkers Rises",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/yonkers-rises\">Yonkers Rises</a></p> <p>I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed it's location and shape in my head (and to try out Claude Fable 5.2's 3D",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/yonkers-rises\">Yonkers Rises</a></p> <p>I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D ",
       "date": "2026-11-10",
       "importance": 2,
       "tags": [],
@@ -282,6 +472,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Decision Models in Hugging Face",
+      "summary": "Decision Models in Hugging Face",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/decision"
     },
     {
       "category": "model",
@@ -445,6 +645,16 @@
     },
     {
       "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
       "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
@@ -594,46 +804,6 @@
       "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
     },
     {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
-      "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years",
-      "date": "2026-11-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
-      "summary": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware. They consider the assumption that consciousness depends on computation alone \"fatally flawed\" and warn ",
-      "date": "2026-11-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
-      "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacked brains of a whole generation of scient",
-      "date": "2026-11-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "date": "2026-11-08",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
-    },
-    {
       "category": "product",
       "lab": "AI",
       "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
@@ -642,26 +812,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "date": "2026-11-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "date": "2026-11-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
     },
     {
       "category": "research",
@@ -675,36 +825,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-      "date": "2026-11-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Google DeepMind",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
-      "date": "2026-11-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "date": "2026-11-06",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
@@ -712,26 +832,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/partnering-with-hacktron"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "date": "2026-11-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "date": "2026-11-06",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
     },
     {
       "category": "industry",
@@ -1266,22 +1366,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/dan-driscoll-joins-openai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Qodo builds context into AI code review with Codex",
       "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/qodo-codex-plugin"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/dan-driscoll-joins-openai"
     },
     {
       "category": "industry",
@@ -1352,106 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "summary": "People who love AI don't always love telling others they used it.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "summary": "But it's still early days for the relatively new e-commerce use case.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "summary": "Low costs and offline security mean magnetic tape still has a job.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-      "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Speeding up planning decisions with AI",
-      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Making it easier for websites to express AI training preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Community safety report and new protections for teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Fair use benefits everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "date": "2026-10-30",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/fair-use-benefits-everyone"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Building a multiplayer game world with autonomous Fable-class models",
-      "summary": "<p><strong><a href=\"https://twitter.com/jsnnsa/status/2115623382721126826\">How I Built the Most AI-Pilled Company in the World</a></strong></p> Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building <a href=\"https://spawn.co\">Spa",
-      "date": "2026-10-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
-      "date": "2026-10-29",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
     }
   ]
 }

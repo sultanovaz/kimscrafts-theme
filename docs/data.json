@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T23:15:57.248Z",
+  "updated": "2026-11-11T06:08:49.028Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 211
+    "fresh": 215
   },
   "ranking": [
     {
@@ -253,6 +253,36 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "date": "2026-11-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://huggingface.co/blog/qvac/botpsy"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "date": "2026-11-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+    },
     {
       "category": "model",
       "lab": "Anthropic",
@@ -662,6 +692,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/cogent-security"
     },
     {
       "category": "industry",
@@ -1376,22 +1416,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Preparing our next security sprint to harden OpenAI",
       "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "date": "2026-11-02",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
     },
     {
       "category": "industry",
@@ -1412,46 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/grid-protectors-program"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "LifeVal",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/lifeval"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/dan-driscoll-joins-openai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/qodo-codex-plugin"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "If in doubt, delete the uv.lock file",
-      "summary": "<p>I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is:</p> <p><strong>If in doubt, delete the uv.lock file</strong></p> <p>Most of my projects are libraries which don't include a <code>uv.l",
-      "date": "2026-11-01",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-11T06:08:49.028Z",
+  "updated": "2026-11-11T14:14:58.049Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 215
+    "fresh": 216
   },
   "ranking": [
     {
@@ -264,6 +264,56 @@
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
     },
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+      "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firm",
+      "date": "2026-11-11",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+      "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling",
+      "date": "2026-11-11",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
+      "summary": "DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language. The article DeepL wants real-time translation to finally ca",
+      "date": "2026-11-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+      "summary": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI took only its own 24 employee apps offli",
+      "date": "2026-11-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
+      "summary": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students are having ChatGPT write entire papers undetected, without being able to recall basic content afterward",
+      "date": "2026-11-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/"
+    },
+    {
       "category": "model",
       "lab": "Hugging Face",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -272,6 +322,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/qvac/botpsy"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Signal’s encryption just passed an AI-powered mathematical checkup",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "date": "2026-11-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
     },
     {
       "category": "industry",
@@ -284,6 +344,16 @@
       "url": "https://openai.com/index/chatgpt-plus-for-veterans"
     },
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "date": "2026-11-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "llm-gemini 0.36",
@@ -292,16 +362,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
-      "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private placement with Google, Nvidia, Microsoft, and other major tech firms as anchor invest",
-      "date": "2026-11-10",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/"
     },
     {
       "category": "benchmark",
@@ -375,16 +435,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
-      "summary": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra. A year ago the top score was 2.5 percent. Areas like product design and animation remain a weak ",
-      "date": "2026-11-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
       "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
@@ -392,16 +442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
-      "summary": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative. The companies commit to shutdown mechanisms, independent audits, and disclosing known risks, but t",
-      "date": "2026-11-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/"
     },
     {
       "category": "model",
@@ -655,6 +695,16 @@
     },
     {
       "category": "product",
+      "lab": "OpenAI",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "date": "2026-11-10",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/singapore-airlines-travel-work"
+    },
+    {
+      "category": "product",
       "lab": "AI",
       "title": "Otter AI can now follow conversations across 30+ languages",
       "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
@@ -736,26 +786,6 @@
     {
       "category": "model",
       "lab": "Anthropic",
-      "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
-      "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operat",
-      "date": "2026-11-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
-      "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short whe",
-      "date": "2026-11-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
       "title": "The Web Is More Than Enough, by Paul Ford",
       "summary": "<p><a href=\"https://news.ycombinator.com/item?id=50416456#50421091\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50416456\">The Web Is More Than Enough, by Paul Ford</a> &mdash; Hacker News.</p><p>OK, this comment convinced me to give that a shot.</p> <p>Here's ",
       "date": "2026-11-09",
@@ -792,16 +822,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "date": "2026-11-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
     },
     {
       "category": "model",
@@ -1416,16 +1436,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Rewarding defenders with bigger bug bounties",
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "date": "2026-11-02",
@@ -1436,22 +1446,12 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Scaling Git at OpenAI",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "date": "2026-11-02",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/scaling-git-at-openai"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Introducing the Grid Protectors Program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "date": "2026-11-02",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/grid-protectors-program"
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
     }
   ]
 }

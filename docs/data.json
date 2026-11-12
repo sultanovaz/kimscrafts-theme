@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T21:54:46.081Z",
+  "updated": "2026-11-12T07:05:32.269Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -292,6 +302,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Gemini Decisions API",
+      "summary": "<p><strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\">Gemini Decisions API</a></strong></p> Google join <a href=\"https://simonwillison.net/2026/Sep/21/jev/\">Jev</a> and <a href=\"https://simonwillison.net/2026/Oct/6/llm-openai",
+      "date": "2026-11-11",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
     },
     {
       "category": "product",
@@ -445,6 +465,36 @@
     },
     {
       "category": "industry",
+      "lab": "AI",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "date": "2026-11-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "date": "2026-11-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "date": "2026-11-11",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+    },
+    {
+      "category": "industry",
       "lab": "Meta",
       "title": "Meta is losing its longtime head of infrastructure",
       "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
@@ -457,7 +507,7 @@
       "category": "industry",
       "lab": "AI",
       "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
       "date": "2026-11-11",
       "importance": 2,
       "tags": [],
@@ -714,36 +764,6 @@
       "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Gemini 4 Carbon is now available",
@@ -752,16 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
     },
     {
       "category": "benchmark",
@@ -827,7 +837,7 @@
       "category": "model",
       "lab": "Anthropic",
       "title": "Quoting Prompting Claude Fable 5.2",
-      "summary": "<blockquote cite=\"https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code\"><p>Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding ta",
+      "summary": "<blockquote cite=\"https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code\"><p>Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended t",
       "date": "2026-11-10",
       "importance": 2,
       "tags": [],
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "October sponsors-only newsletter",
-      "summary": "<p>I sent out the October edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-10-october.md\">access it here</a",
-      "date": "2026-11-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/"
     }
   ]
 }

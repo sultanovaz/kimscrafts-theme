@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T07:05:32.269Z",
+  "updated": "2026-11-12T17:33:14.363Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 219
+    "fresh": 218
   },
   "ranking": [
     {
@@ -254,6 +254,176 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "date": "2026-11-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
+      "summary": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning. The analysis shows that the loss of",
+      "date": "2026-11-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+      "date": "2026-11-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
+      "summary": "Jensen Huang resigned as CEO, president, and board member of Nvidia effective immediately, according to a statement on November 12, 2026. The article Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value appeared first on The Decoder.",
+      "date": "2026-11-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+      "summary": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microso",
+      "date": "2026-11-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+      "summary": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor. Th",
+      "date": "2026-11-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
+      "summary": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep penalties for violations. With this move, Canberra",
+      "date": "2026-11-12",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "summary": "This is the investment firm's largest fund to date.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "summary": "This is Fireworks' second data breach in as many months.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
@@ -262,6 +432,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/children-first-declaration"
     },
     {
       "category": "industry",
@@ -275,33 +455,13 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-      "date": "2026-11-11",
-      "importance": 4,
+      "lab": "Hugging Face",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "date": "2026-11-12",
+      "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
-      "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firm",
-      "date": "2026-11-11",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
-      "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling",
-      "date": "2026-11-11",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/"
+      "url": "https://huggingface.co/blog/3d-lora-finetuning"
     },
     {
       "category": "model",
@@ -404,16 +564,6 @@
       "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-      "date": "2026-11-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
@@ -425,36 +575,6 @@
     },
     {
       "category": "model",
-      "lab": "AI",
-      "title": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
-      "summary": "DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language. The article DeepL wants real-time translation to finally ca",
-      "date": "2026-11-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
-      "summary": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI took only its own 24 employee apps offli",
-      "date": "2026-11-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
-      "summary": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students are having ChatGPT write entire papers undetected, without being able to recall basic content afterward",
-      "date": "2026-11-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/"
-    },
-    {
-      "category": "model",
       "lab": "Hugging Face",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "summary": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -462,16 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/qvac/botpsy"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "date": "2026-11-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
     },
     {
       "category": "hardware",
@@ -595,16 +705,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "date": "2026-11-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "ChatGPT Plus for veterans and servicemembers",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
@@ -612,16 +712,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/chatgpt-plus-for-veterans"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-      "date": "2026-11-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
     },
     {
       "category": "industry",
@@ -662,16 +752,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/10/muse-ember/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "date": "2026-11-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
     },
     {
       "category": "research",
@@ -715,26 +795,6 @@
     },
     {
       "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "What happens to mathematics when AI becomes an oracle?",
       "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
@@ -742,26 +802,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
     },
     {
       "category": "model",
@@ -1412,46 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/ibm-research/palette-deck-building"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Accelerating engineering for the physical world",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "date": "2026-11-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "date": "2026-11-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/cisco-cyber"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "date": "2026-11-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/heimstaden"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-      "summary": "<p><strong><a href=\"https://www.youtube.com/watch?v=UytYrhYLOKI\">I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube</a></strong></p> Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of p",
-      "date": "2026-11-03",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
     }
   ]
 }

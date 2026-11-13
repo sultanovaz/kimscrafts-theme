@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T23:34:51.920Z",
+  "updated": "2026-11-13T06:38:30.652Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 221
+    "fresh": 219
   },
   "ranking": [
     {
@@ -256,6 +256,16 @@
     {
       "category": "model",
       "lab": "Anthropic",
+      "title": "llm-gemini 0.37",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.37\">llm-gemini 0.37</a></p> <p>Google launched <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\">Gemini 4 Hydrogen</a> today - ",
+      "date": "2026-11-12",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
       "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
       "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than ",
       "date": "2026-11-12",
@@ -396,8 +406,8 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Muse can now place calls to U.S. businesses — if you pay",
-      "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
       "date": "2026-11-12",
       "importance": 2,
       "tags": [],
@@ -431,7 +441,7 @@
       "date": "2026-11-12",
       "importance": 2,
       "tags": [],
-      "url": "https://openai.com/index/amplitude"
+      "url": "https://openai.com/business/customer-stories/amplitude"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/devrev-enterprise-self-service"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-agent 0.5a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.5a0\">datasette-agent 0.5a0</a></p> <p>This is a significant release of <a href=\"https://agent.datasette.io/\">Datasette Agent</a>. The most notable new feature is called the <strong>p",
-      "date": "2026-11-03",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/"
     }
   ]
 }

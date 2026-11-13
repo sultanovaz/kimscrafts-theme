@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T17:10:31.909Z",
+  "updated": "2026-11-13T23:30:22.899Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+      "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions in financial guarantees for chip purcha",
+      "date": "2026-11-13",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/"
+    },
+    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
@@ -262,6 +272,26 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+      "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens. Riva",
+      "date": "2026-11-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+      "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in e",
+      "date": "2026-11-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/"
     },
     {
       "category": "model",
@@ -312,6 +342,66 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "date": "2026-11-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "date": "2026-11-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "date": "2026-11-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "date": "2026-11-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "date": "2026-11-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "date": "2026-11-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
     },
     {
       "category": "industry",
@@ -405,16 +495,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
-      "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than ",
-      "date": "2026-11-12",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/"
-    },
-    {
-      "category": "model",
       "lab": "Nvidia",
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
       "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
@@ -475,16 +555,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
-      "summary": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning. The analysis shows that the loss of",
-      "date": "2026-11-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/"
-    },
-    {
-      "category": "model",
       "lab": "Google DeepMind",
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
       "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
@@ -492,26 +562,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
-      "summary": "Jensen Huang resigned as CEO, president, and board member of Nvidia effective immediately, according to a statement on November 12, 2026. The article Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value appeared first on The Decoder.",
-      "date": "2026-11-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
     },
     {
       "category": "industry",
@@ -642,36 +692,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
     },
     {
       "category": "industry",
@@ -1134,16 +1154,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
     },
     {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
-      "summary": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
-      "date": "2026-11-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -1342,16 +1352,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/australian-universities-ai-native-graduates"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
     },
     {
       "category": "model",

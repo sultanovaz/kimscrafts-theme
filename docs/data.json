@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T23:30:22.899Z",
+  "updated": "2026-11-14T06:15:28.541Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 218
+    "fresh": 216
   },
   "ranking": [
     {
@@ -274,6 +274,26 @@
       "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-cluster-map 0.19",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-cluster-map/releases/tag/0.19\">datasette-cluster-map 0.19</a></p> <p>One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on <a href=\"https://s",
+      "date": "2026-11-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-leaflet 0.3",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-leaflet/releases/tag/0.3\">datasette-leaflet 0.3</a></p> <p>OpenStreetMap have a very reasonable policy that hits to their hosted tile server <a href=\"https://wiki.openstreetmap.org/wiki/Referer\">should send",
+      "date": "2026-11-13",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
@@ -482,6 +502,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "date": "2026-11-13",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/customer-stories/shield"
     },
     {
       "category": "model",
@@ -1422,36 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "date": "2026-11-04",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "summary": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "date": "2026-11-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "date": "2026-11-04",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/openai-to-acquire-pierre"
     }
   ]
 }

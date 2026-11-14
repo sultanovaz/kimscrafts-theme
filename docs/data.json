@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T06:15:28.541Z",
+  "updated": "2026-11-14T13:32:50.804Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 216
+    "fresh": 214
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in",
+      "date": "2026-11-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+      "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model devel",
+      "date": "2026-11-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Nvidia",
+      "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+      "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action",
+      "date": "2026-11-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/"
+    },
+    {
       "category": "hardware",
       "lab": "OpenAI",
       "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
@@ -342,26 +372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
-      "summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang. Google Gemini, Instinct, and xAI's Grok Bot offer the",
-      "date": "2026-11-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI enters the cybersecurity market with two Daybreak products",
-      "summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder.",
-      "date": "2026-11-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/"
     },
     {
       "category": "hardware",
@@ -542,16 +552,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Meetings lets Anthropic's AI join your video calls",
-      "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meet",
-      "date": "2026-11-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/"
     },
     {
       "category": "model",

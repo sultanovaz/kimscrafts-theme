@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T19:55:02.227Z",
+  "updated": "2026-11-15T01:00:33.940Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 212
+    "fresh": 197
   },
   "ranking": [
     {
@@ -255,13 +255,23 @@
   "items": [
     {
       "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
-      "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those ",
-      "date": "2026-11-14",
-      "importance": 4,
+      "lab": "Nvidia",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday c",
+      "date": "2026-11-15",
+      "importance": 2,
       "tags": [],
-      "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/"
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "datasette-llm 0.1a11",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a11\">datasette-llm 0.1a11</a></p> <p><code>datasette-llm</code> is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.</p> <p>Th",
+      "date": "2026-11-14",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
     },
     {
       "category": "model",
@@ -274,54 +284,24 @@
       "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
-      "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up o",
-      "date": "2026-11-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/"
-    },
-    {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
-      "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claud",
+      "lab": "AI",
+      "title": "datasette-vega 0.7",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-vega/releases/tag/0.7\">datasette-vega 0.7</a></p> <p>A new release of Datasette's longest untouched plugin, for rendering charts (using <a href=\"https://vega.github.io/vega-lite/\">Vega-Lite</a>) against dat",
       "date": "2026-11-14",
       "importance": 3,
       "tags": [],
-      "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/"
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
-      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in",
-      "date": "2026-11-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
-      "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model devel",
-      "date": "2026-11-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/"
-    },
-    {
-      "category": "benchmark",
+      "category": "hardware",
       "lab": "Nvidia",
-      "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
-      "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
       "date": "2026-11-14",
-      "importance": 3,
+      "importance": 2,
       "tags": [],
-      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/"
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
     },
     {
       "category": "hardware",
@@ -332,16 +312,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
-      "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions in financial guarantees for chip purcha",
-      "date": "2026-11-13",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/"
     },
     {
       "category": "model",
@@ -362,36 +332,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
-      "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens. Riva",
-      "date": "2026-11-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
-      "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in e",
-      "date": "2026-11-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-      "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin",
-      "date": "2026-11-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/"
     },
     {
       "category": "hardware",
@@ -594,16 +534,6 @@
       "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "date": "2026-11-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
-    },
-    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
@@ -712,16 +642,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
     },
     {
       "category": "industry",
@@ -1452,6 +1372,86 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "date": "2026-11-04",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/openai-to-acquire-pierre"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "A thousand fewer paths to root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "Introducing Images 2.6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-images-2-6"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "date": "2026-11-04",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/devrev-enterprise-self-service"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-agent 0.5a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.5a0\">datasette-agent 0.5a0</a></p> <p>This is a significant release of <a href=\"https://agent.datasette.io/\">Datasette Agent</a>. The most notable new feature is called the <strong>p",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "llm 0.37.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.1\">llm 0.37.1</a></p> <p>A bugfix release for <a href=\"https://llm.datasette.io/\">LLM</a>, with contributions from <a href=\"https://github.com/remote-controlled-man\">Steven Huang</a>, <a href=\"h",
+      "date": "2026-11-03",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/3/llm/"
     }
   ]
 }

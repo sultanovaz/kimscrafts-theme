@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T00:59:09.479Z",
+  "updated": "2026-11-16T11:08:27.065Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 208
+    "fresh": 209
   },
   "ranking": [
     {
@@ -253,6 +253,36 @@
     }
   ],
   "items": [
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "date": "2026-11-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "date": "2026-11-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "datasette-maplibre 0.1a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0\">datasette-maplibre 0.1a0</a></p> <p>The first new Datasette geospatial plugin in quite a while! This one combines the excellent <a href=\"https://maplibre.org/maplibre-gl-js/d",
+      "date": "2026-11-15",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
+    },
     {
       "category": "hardware",
       "lab": "Nvidia",
@@ -762,16 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
     },
     {
       "category": "industry",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/cultfit-builds-with-codex"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Quoting Paul Ford",
-      "summary": "<blockquote cite=\"https://ftrain.com/aboard-the-web-is-more-than-enough\"><p>The web browser is very, very, very powerful software for applications, <em>and the cost of accessing that power is going down seemingly every day</em>.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"h",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "date": "2026-11-05",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
     }
   ]
 }

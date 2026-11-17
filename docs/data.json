@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16T21:58:13.286Z",
+  "updated": "2026-11-17T07:50:37.782Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 218
+    "fresh": 220
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Go Proverbs",
+      "summary": "<blockquote cite=\"https://go-proverbs.github.io\"><p>A little copying is better than a little dependency.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://go-proverbs.github.io\">Go Proverbs</a>, <a href=\"https://news.ycombinator.com/item?id=50516689#50526408\">via</a></p> ",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+    },
+    {
       "category": "model",
       "lab": "Moonshot",
       "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
@@ -264,10 +284,30 @@
       "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/"
     },
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "llm 0.37.3",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.3\">llm 0.37.3</a></p> <p>A bug fix release for <a href=\"https://llm.datasette.io\">LLM</a>, mainly to cover a problem with the most recent Homebrew package of the software.</p> <p>Homebrew now sh",
+      "date": "2026-11-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/16/llm/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "date": "2026-11-16",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
       "date": "2026-11-16",
       "importance": 3,
       "tags": [],
@@ -374,6 +414,26 @@
       "url": "https://openai.com/business/customer-stories/holiday-extras-dots"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "date": "2026-11-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "date": "2026-11-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
@@ -396,7 +456,7 @@
     {
       "category": "hardware",
       "lab": "OpenAI",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
       "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
       "date": "2026-11-16",
       "importance": 2,
@@ -504,6 +564,16 @@
       "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
     },
     {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "date": "2026-11-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/customer-stories/revolut"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
@@ -516,22 +586,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "summary": "Advancing computer-use agents for healthcare teams",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "More ways to move care forward with ChatGPT for Healthcare",
       "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
       "date": "2026-11-16",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "Advancing computer-use agents for healthcare teams",
+      "date": "2026-11-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
     },
     {
       "category": "product",
@@ -744,16 +814,6 @@
       "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "date": "2026-11-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
-    },
-    {
       "category": "model",
       "lab": "AI",
       "title": "datasette-cluster-map 0.19",
@@ -772,16 +832,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "date": "2026-11-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
     },
     {
       "category": "product",
@@ -1402,56 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/control-room"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
-      "summary": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
-      "date": "2026-11-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "date": "2026-11-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/coderabbit-codex-daybreak"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "date": "2026-11-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/kuken"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "parse_number() as a SQLite extension: C vs Rust",
-      "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-parse-number-c-vs-rust#readme\">parse_number() as a SQLite extension: C vs Rust</a></p> <p>I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite",
-      "date": "2026-11-08",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-      "summary": "<p><strong><a href=\"https://github.com/simonw/datasette/issues/3046\">datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to Firefox for HTML pages</a></strong></p> I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page we",
-      "date": "2026-11-07",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
     }
   ]
 }

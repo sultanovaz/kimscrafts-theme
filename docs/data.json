@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17T07:50:37.782Z",
+  "updated": "2026-11-17T18:31:33.093Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 220
+    "fresh": 225
   },
   "ranking": [
     {
@@ -256,6 +256,236 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
+      "summary": "Isomorphic Labs has raised $5 billion, just six months after a $2.1 billion round. Alphabet's AI drug discovery company, led by Demis Hassabis, plans to use the funding to push its drug pipeline toward clinical trials. The company has no approved drugs yet. The article Isomorphic",
+      "date": "2026-11-17",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "date": "2026-11-17",
+      "importance": 4,
+      "tags": [],
+      "url": "https://openai.com/index/astra-law-6-2"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "As decision model use skyrockets, is customization is the next frontier?",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+      "summary": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each. Companie",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "summary": "<p><a href=\"https://lite.datasette.io/\">Datasette Lite</a> is my port of the <a href=\"https://datasette.io/\">Datasette</a> Python application to run directly in the browser using WebAssembly and <a href=\"https://pyodide.org/\">Pyodide</a>. I've released a complete rewrite of Datas",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+      "summary": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad. A Reuters investigation also reveals how China offset",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+    },
+    {
+      "category": "product",
+      "lab": "OpenAI",
+      "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+      "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+      "summary": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over 400,000 in 2025. Abusers are using tools like nudify apps for blackmail. Childlight CEO Paul Stanfield ",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+      "summary": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July. The article California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face appeared f",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "Quoting Go Proverbs",
       "summary": "<blockquote cite=\"https://go-proverbs.github.io\"><p>A little copying is better than a little dependency.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://go-proverbs.github.io\">Go Proverbs</a>, <a href=\"https://news.ycombinator.com/item?id=50516689#50526408\">via</a></p> ",
       "date": "2026-11-17",
@@ -272,6 +502,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-openai-for-chile"
     },
     {
       "category": "model",
@@ -352,26 +592,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
-      "summary": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects. The article Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML appeared first on The Decoder.",
-      "date": "2026-11-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
-      "summary": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more tha",
-      "date": "2026-11-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/"
     },
     {
       "category": "research",
@@ -514,36 +734,6 @@
       "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
     },
     {
-      "category": "research",
-      "lab": "AI",
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-      "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -552,16 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
     },
     {
       "category": "research",
@@ -586,16 +766,6 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Advancing computer-use agents for healthcare teams",
       "summary": "Advancing computer-use agents for healthcare teams",
       "date": "2026-11-16",
@@ -604,14 +774,14 @@
       "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Apple launches new app to study how people use AI for health",
-      "summary": "Apple's new app for a study will answer everyday medical questions.",
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
       "date": "2026-11-16",
       "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
     },
     {
       "category": "industry",
@@ -632,16 +802,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
-      "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ. Short seller Culper Research estimates Nvidia's actual China revenue share ",
-      "date": "2026-11-15",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/"
     },
     {
       "category": "model",
@@ -675,36 +835,6 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
-      "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application",
-      "date": "2026-11-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
-      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply th",
-      "date": "2026-11-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
-      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and M",
-      "date": "2026-11-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "datasette-agent 0.6a0",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.6a0\">datasette-agent 0.6a0</a></p> <p>Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now add",
@@ -712,16 +842,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
-      "date": "2026-11-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
     },
     {
       "category": "model",
@@ -744,36 +864,6 @@
       "url": "https://openai.com/index/our-new-blog-for-science"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "date": "2026-11-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
-      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-      "date": "2026-11-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday c",
-      "date": "2026-11-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "datasette-llm 0.1a11",
@@ -785,16 +875,6 @@
     },
     {
       "category": "model",
-      "lab": "OpenAI",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "date": "2026-11-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "datasette-vega 0.7",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-vega/releases/tag/0.7\">datasette-vega 0.7</a></p> <p>A new release of Datasette's longest untouched plugin, for rendering charts (using <a href=\"https://vega.github.io/vega-lite/\">Vega-Lite</a>) against dat",
@@ -802,16 +882,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "date": "2026-11-14",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
     },
     {
       "category": "model",
@@ -945,16 +1015,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
-    },
-    {
-      "category": "industry",
       "lab": "Hugging Face",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "summary": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
@@ -1012,6 +1072,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/children-first-declaration"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+      "date": "2026-11-12",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence"
     },
     {
       "category": "industry",
@@ -1382,76 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Hide your slop PR descriptions behind <details><summary>",
-      "summary": "<p>Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished ",
-      "date": "2026-11-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/9/details-summary/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Locating the source of a mysterious beep with Claude",
-      "summary": "<p>Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started <em>intermittently beeping</em>. The beeps were far enough apart that standing in the room and trying to determine the source of the ",
-      "date": "2026-11-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "date": "2026-11-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "date": "2026-11-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "date": "2026-11-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia CEO's affair becomes a national security problem",
-      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-      "date": "2026-11-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "date": "2026-11-09",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/control-room"
     }
   ]
 }

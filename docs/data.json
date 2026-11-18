@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T02:52:37.915Z",
+  "updated": "2026-11-18T11:34:48.811Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 225
+    "fresh": 226
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "product",
+      "lab": "AI",
+      "title": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+      "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The article Suno's new Visuals feature pairs AI-generated music with AI-generated video appeared first on The Decoder.",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia promises that revenue will keep soaring — for now",
@@ -262,6 +272,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
     },
     {
       "category": "hardware",
@@ -282,6 +302,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
     },
     {
       "category": "benchmark",
@@ -412,16 +442,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-      "date": "2026-11-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
     },
     {
       "category": "hardware",
@@ -694,16 +714,6 @@
       "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/"
     },
     {
-      "category": "benchmark",
-      "lab": "Moonshot",
-      "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
-      "summary": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from cod",
-      "date": "2026-11-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Broadening access to AI for scientists",
@@ -816,22 +826,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "Advancing computer-use agents for healthcare teams",
       "summary": "Advancing computer-use agents for healthcare teams",
       "date": "2026-11-16",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "date": "2026-11-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/cogent-security"
     }
   ]
 }

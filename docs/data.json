@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T18:31:33.093Z",
+  "updated": "2026-11-18T02:52:37.915Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+    },
+    {
+      "category": "product",
+      "lab": "Microsoft",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "summary": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">GPT‑6.2 Astra and GPT‑6.2 Sol</a></strong></p> OpenAI:</p> <blockquote> <p>We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile mod",
+      "date": "2026-11-17",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
+    },
+    {
       "category": "industry",
       "lab": "AI",
       "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
@@ -274,9 +314,19 @@
       "url": "https://openai.com/index/astra-law-6-2"
     },
     {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+      "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold f",
+      "date": "2026-11-17",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/"
+    },
+    {
       "category": "model",
       "lab": "AI",
-      "title": "As decision model use skyrockets, is customization is the next frontier?",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
       "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
       "date": "2026-11-17",
       "importance": 3,
@@ -376,12 +426,112 @@
     {
       "category": "hardware",
       "lab": "Nvidia",
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
       "date": "2026-11-17",
-      "importance": 3,
+      "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "External sandboxes for coding agents",
+      "summary": "<p><strong><a href=\"https://blog.primeradiant.com/external-sandboxes-for-coding-agents/\">External sandboxes for coding agents</a></strong></p> I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without ",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "date": "2026-11-17",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
     },
     {
       "category": "industry",
@@ -474,14 +624,14 @@
       "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
       "date": "2026-11-17",
       "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales"
     },
     {
       "category": "industry",
@@ -515,16 +665,6 @@
     },
     {
       "category": "model",
-      "lab": "Moonshot",
-      "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
-      "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba ",
-      "date": "2026-11-16",
-      "importance": 5,
-      "tags": [],
-      "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/"
-    },
-    {
-      "category": "model",
       "lab": "AI",
       "title": "llm 0.37.3",
       "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.3\">llm 0.37.3</a></p> <p>A bug fix release for <a href=\"https://llm.datasette.io\">LLM</a>, mainly to cover a problem with the most recent Homebrew package of the software.</p> <p>Homebrew now sh",
@@ -532,26 +672,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/16/llm/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "date": "2026-11-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "date": "2026-11-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
     },
     {
       "category": "industry",
@@ -644,26 +764,6 @@
       "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "US moves to cut China’s remote access to AI chips",
@@ -674,46 +774,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
     },
     {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Strengthening the fight against online child sexual abuse with new tools and support",
@@ -722,16 +782,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/strengthening-online-child-safety"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
     },
     {
       "category": "hardware",
@@ -766,22 +816,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "summary": "Advancing computer-use agents for healthcare teams",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "More ways to move care forward with ChatGPT for Healthcare",
       "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
       "date": "2026-11-16",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "Advancing computer-use agents for healthcare teams",
+      "date": "2026-11-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
     },
     {
       "category": "industry",
@@ -1324,16 +1374,6 @@
       "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
     },
     {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Helping caregivers use AI in everyday life",
@@ -1412,46 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/cogent-security"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "summary": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Decision Models in Hugging Face",
-      "summary": "Decision Models in Hugging Face",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/decision"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "llm-anthropic 0.31",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.31\">llm-anthropic 0.31</a></p> <p>Anthropic <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\">released Fable 5.2 and Mythos 5.2</a> today. Fable 5.2 is currently <a href=\"ht",
-      "date": "2026-11-09",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=50416456#50421091\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50416456\">The Web Is More Than Enough, by Paul Ford</a> &mdash; Hacker News.</p><p>OK, this comment convinced me to give that a shot.</p> <p>Here's ",
-      "date": "2026-11-09",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/"
     }
   ]
 }

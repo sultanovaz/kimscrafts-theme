@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T11:34:48.811Z",
+  "updated": "2026-11-18T20:27:38.629Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 226
+    "fresh": 235
   },
   "ranking": [
     {
@@ -254,14 +254,134 @@
   ],
   "items": [
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
-      "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The article Suno's new Visuals feature pairs AI-generated music with AI-generated video appeared first on The Decoder.",
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "date": "2026-11-18",
       "importance": 3,
       "tags": [],
-      "url": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/"
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+      "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound. A community gallery allows users ",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/"
+    },
+    {
+      "category": "model",
+      "lab": "Microsoft",
+      "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+      "summary": "Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite. MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost, according to Microsoft. The models are built for running AI agents around the c",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
+      "summary": "Working with AMD, OpenAI achieved up to 14 percent PPA improvement on AMD's flagship GPU IP in less than five months. According to OpenAI, that's roughly a year's worth of progress, and AMD has already folded the changes into a design sent to production. Anthropic is also applyin",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
+      "summary": "The AI detection tool Pangram flags 99 percent of a prize-winning Peruvian novel as AI-generated, but Mexican publisher Almadía is standing by the award after its own review. Pangram also classified over 80 percent of the author's personal texts as machine-written. French publish",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
+      "summary": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems. In tests, the models readily flagged civilians as military targets, and a simple video game framing in the prompt was enough",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "summary": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+    },
+    {
+      "category": "product",
+      "lab": "Mistral",
+      "title": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
+      "summary": "Mistral's AI agent Vibe now has its own desktop app. The article Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems appeared first on The Decoder.",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+      "summary": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps. OpenAI can redact or ",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "Hugging Face now routes model requests through OpenRouter for the best price or speed",
+      "summary": "Hugging Face now routes language model requests through OpenRouter, which automatically selects the cheapest or fastest provider. Bring-your-own API keys for language models are going away. According to OpenRouter, the new routing cut capacity errors by 46 percent. Both partners ",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "More than half the electricity feeding America's largest data centers comes from gas and coal",
+      "summary": "A Harvard study published in Nature Sustainability found that 403 US hyperscale data centers produced roughly 25.7 million metric tons of CO2 between May 2024 and April 2025, more than all of Denmark. Over half of their electricity came from fossil fuels. With 2,000 additional fa",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "KPMG's \"Project Exponential\" put AI agents alongside a real audit team and found the bots dug deeper on individual questions",
+      "summary": "KPMG deployed more than 100 AI agents alongside the regular audit of a UK-listed company. The agents asked \"better questions\" than the audit team in some cases, according to UK head of audit Cath Burnet. The UK's accounting regulator, the FRC, sees a risk in the approach because ",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://openai.com/index/managing-frontier-ai-risk"
     },
     {
       "category": "hardware",
@@ -276,12 +396,162 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
+      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "summary": "Why your fine-tuning job takes longer than the FLOPs say",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "Genie 4 is now available",
+      "summary": "Genie 4 is now available",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "summary": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Daniel Stenberg",
+      "summary": "<blockquote cite=\"https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/\"><p>During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl ",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The PSF end-of-year fundraiser",
+      "summary": "<p><strong><a href=\"https://donate.python.org\">The PSF end-of-year fundraiser</a></strong></p> With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community.</p> <p>",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
       "date": "2026-11-18",
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Inside the Codex sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/inside-the-codex-sandbox"
     },
     {
       "category": "hardware",
@@ -314,6 +584,46 @@
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
     },
     {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/the-silent-consensus"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "summary": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/moe-expert-streaming"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "summary": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/rumble-2-flash"
+    },
+    {
       "category": "benchmark",
       "lab": "Anthropic",
       "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
@@ -322,16 +632,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
-      "summary": "Isomorphic Labs has raised $5 billion, just six months after a $2.1 billion round. Alphabet's AI drug discovery company, led by Demis Hassabis, plans to use the funding to push its drug pipeline toward clinical trials. The company has no approved drugs yet. The article Isomorphic",
-      "date": "2026-11-17",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/"
     },
     {
       "category": "model",
@@ -344,36 +644,6 @@
       "url": "https://openai.com/index/astra-law-6-2"
     },
     {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
-      "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold f",
-      "date": "2026-11-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "As decision model use skyrockets, is customization the next frontier?",
-      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-      "date": "2026-11-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
-      "summary": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each. Companie",
-      "date": "2026-11-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
@@ -382,66 +652,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
-      "summary": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad. A Reuters investigation also reveals how China offset",
-      "date": "2026-11-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
-      "date": "2026-11-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
-      "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (",
-      "date": "2026-11-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
-      "summary": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over 400,000 in 2025. Abusers are using tools like nudify apps for blackmail. Childlight CEO Paul Stanfield ",
-      "date": "2026-11-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
-      "summary": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July. The article California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face appeared f",
-      "date": "2026-11-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-      "date": "2026-11-17",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
     },
     {
       "category": "hardware",
@@ -554,16 +764,6 @@
       "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Introducing GPT-6.2 Astra and Sol",
@@ -572,26 +772,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"
     },
     {
       "category": "model",
@@ -604,16 +784,6 @@
       "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
@@ -622,16 +792,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
     },
     {
       "category": "model",
@@ -692,26 +852,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/16/llm/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
-      "summary": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called \"exploit_agent,\" found on an exposed server, automatically compared code before and after patches, b",
-      "date": "2026-11-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
-      "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of",
-      "date": "2026-11-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/"
     },
     {
       "category": "industry",
@@ -826,22 +966,22 @@
     {
       "category": "industry",
       "lab": "OpenAI",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "summary": "Advancing computer-use agents for healthcare teams",
-      "date": "2026-11-16",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
       "title": "More ways to move care forward with ChatGPT for Healthcare",
       "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
       "date": "2026-11-16",
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "Advancing computer-use agents for healthcare teams",
+      "date": "2026-11-16",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
     },
     {
       "category": "industry",
@@ -1312,146 +1452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/10/muse-ember/"
-    },
-    {
-      "category": "research",
-      "lab": "Google DeepMind",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "date": "2026-11-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "date": "2026-11-10",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/ai-effect-on-freelance-work"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
-    },
-    {
-      "category": "model",
-      "lab": "xAI",
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "What happens to mathematics when AI becomes an oracle?",
-      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "Gemini 4 Carbon is now available",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Google DeepMind",
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "summary": "The new model is up to twice as successful at some tasks.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Helping caregivers use AI in everyday life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Opening the datasets behind our AI weather models",
-      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-businesses-chatgpt"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Closing the AI guidance gap in education",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/singapore-airlines-travel-work"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Quoting Prompting Claude Fable 5.2",
-      "summary": "<blockquote cite=\"https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code\"><p>Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended t",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Yonkers Rises",
-      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/yonkers-rises\">Yonkers Rises</a></p> <p>I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D ",
-      "date": "2026-11-10",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T20:27:38.629Z",
+  "updated": "2026-11-19T02:31:42.437Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 235
+    "fresh": 234
   },
   "ranking": [
     {
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "industry",
+      "lab": "Microsoft",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "date": "2026-11-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
+      "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input tokens and $15 per million output tokens, Neon is ",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/"
+    },
+    {
+      "category": "industry",
       "lab": "Hugging Face",
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "summary": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -364,14 +384,14 @@
       "url": "https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "KPMG's \"Project Exponential\" put AI agents alongside a real audit team and found the bots dug deeper on individual questions",
-      "summary": "KPMG deployed more than 100 AI agents alongside the regular audit of a UK-listed company. The agents asked \"better questions\" than the audit team in some cases, according to UK head of audit Cath Burnet. The UK's accounting regulator, the FRC, sees a risk in the approach because ",
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
       "date": "2026-11-18",
       "importance": 3,
       "tags": [],
-      "url": "https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/"
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier"
     },
     {
       "category": "model",
@@ -395,13 +415,103 @@
     },
     {
       "category": "industry",
+      "lab": "Microsoft",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+    },
+    {
+      "category": "industry",
       "lab": "AI",
-      "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
+    },
+    {
+      "category": "industry",
+      "lab": "Microsoft",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "Introducing Gemini 4 Neon",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
       "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
       "date": "2026-11-18",
       "importance": 2,
       "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/"
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/"
     },
     {
       "category": "model",
@@ -546,6 +656,26 @@
     {
       "category": "industry",
       "lab": "OpenAI",
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/the-silent-consensus"
+    },
+    {
+      "category": "research",
+      "lab": "OpenAI",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/customer-stories/sumitomo-life"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
       "title": "Inside the Codex sandbox",
       "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
       "date": "2026-11-18",
@@ -592,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/advancing-chip-design-with-our-models"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "The Silent Consensus",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/the-silent-consensus"
     },
     {
       "category": "industry",
@@ -654,26 +774,6 @@
       "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
-    },
-    {
       "category": "model",
       "lab": "Anthropic",
       "title": "External sandboxes for coding agents",
@@ -686,82 +786,12 @@
     {
       "category": "hardware",
       "lab": "Nvidia",
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
-    },
-    {
-      "category": "industry",
-      "lab": "Google DeepMind",
-      "title": "Google joins the tech outage trend by announcing it’s not having one",
-      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
       "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
       "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
       "date": "2026-11-17",
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
     },
     {
       "category": "model",
@@ -1422,36 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/jiostar-vijay-seshadri"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "summary": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "date": "2026-11-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/token-pooling"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "llm-gemini 0.36",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.36\">llm-gemini 0.36</a></p> <p>Gemini 4 Carbon was announced <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\">two weeks ago</a> ",
-      "date": "2026-11-10",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "Anthropic",
-      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "summary": "<p><strong><a href=\"https://research.meta.ai/blog/muse-ember\">Introducing Our Smallest, Most Efficient Model: Muse Ember</a></strong></p> Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as:</p> <blockquote> <p>[...] our sma",
-      "date": "2026-11-10",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/"
     }
   ]
 }

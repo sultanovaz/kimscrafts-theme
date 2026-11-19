@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T02:31:42.437Z",
+  "updated": "2026-11-19T11:33:04.104Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 234
+    "fresh": 232
   },
   "ranking": [
     {
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+      "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google's latest AI model is faster, cheaper and smarter than ",
+      "date": "2026-11-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months",
+      "summary": "Pulling text out of scanned books and records has gotten a lot cheaper with freely available AI models. The article OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months appeared first on The Decoder.",
+      "date": "2026-11-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/"
+    },
+    {
       "category": "industry",
       "lab": "Microsoft",
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -262,6 +282,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "llm-gemini 0.38",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.38\">llm-gemini 0.38</a></p> <p>Today Google <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\">introduced Gemini 4 Neon</a>. I <a hr",
+      "date": "2026-11-18",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/"
     },
     {
       "category": "model",
@@ -314,6 +344,16 @@
       "url": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "datasette-arrows 0.1a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-arrows/releases/tag/0.1a0\">datasette-arrows 0.1a0</a></p> <p><a href=\"https://docs.datasette.io/en/latest/changelog.html#a43-2026-11-15\">Datasette 1.0a43</a> added the ability for plugins to implement st",
+      "date": "2026-11-18",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/"
+    },
+    {
       "category": "product",
       "lab": "AI",
       "title": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
@@ -362,26 +402,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Hugging Face now routes model requests through OpenRouter for the best price or speed",
-      "summary": "Hugging Face now routes language model requests through OpenRouter, which automatically selects the cheapest or fastest provider. Bring-your-own API keys for language models are going away. According to OpenRouter, the new routing cut capacity errors by 46 percent. Both partners ",
-      "date": "2026-11-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "More than half the electricity feeding America's largest data centers comes from gas and coal",
-      "summary": "A Harvard study published in Nature Sustainability found that 403 US hyperscale data centers produced roughly 25.7 million metric tons of CO2 between May 2024 and April 2025, more than all of Denmark. Over half of their electricity came from fossil fuels. With 2,000 additional fa",
-      "date": "2026-11-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/"
     },
     {
       "category": "research",
@@ -456,7 +476,7 @@
     {
       "category": "industry",
       "lab": "Anthropic",
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
       "date": "2026-11-18",
       "importance": 2,
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "date": "2026-11-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "date": "2026-11-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/jiostar-vijay-seshadri"
     }
   ]
 }

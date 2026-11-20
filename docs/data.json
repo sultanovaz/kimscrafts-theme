@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-20T11:30:13.611Z",
+  "updated": "2026-11-20T20:09:42.699Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 232
+    "fresh": 230
   },
   "ranking": [
     {
@@ -264,6 +264,66 @@
       "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
     },
     {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+      "summary": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, a",
+      "date": "2026-11-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+      "summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemini can now run Mac apps and finish desktop chores in the bac",
+      "date": "2026-11-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+      "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank advis",
+      "date": "2026-11-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+      "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while raising new barriers for competitors appe",
+      "date": "2026-11-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/"
+    },
+    {
+      "category": "hardware",
+      "lab": "OpenAI",
+      "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+      "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-token generation used by models like ChatG",
+      "date": "2026-11-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+      "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are also launching worldwide. Google Search co-lead Robby",
+      "date": "2026-11-20",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/"
+    },
+    {
       "category": "product",
       "lab": "Microsoft",
       "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
@@ -272,6 +332,86 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "date": "2026-11-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "date": "2026-11-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Ravi Vakil",
+      "summary": "<blockquote cite=\"https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\"><p>Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is",
+      "date": "2026-11-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Chips can survive the space environment — can their financing?",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "date": "2026-11-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting Levent Alpöge",
+      "summary": "<blockquote cite=\"https://alpo.ge/remark.pdf\"><p>I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extende",
+      "date": "2026-11-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in Chi",
+      "date": "2026-11-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "date": "2026-11-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "date": "2026-11-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
     },
     {
       "category": "model",
@@ -294,6 +434,26 @@
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "date": "2026-11-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-medchembench"
+    },
+    {
+      "category": "model",
+      "lab": "Hugging Face",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "date": "2026-11-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "PostgreSQL 19 Released",
@@ -312,16 +472,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
-      "summary": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder. Early investor Dustin Moskovitz is publicly distancing himself, warning that his early funding may have been an act \"that ended the world.\" The article Anthropic's $81.3 billion IPO sh",
-      "date": "2026-11-19",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/"
     },
     {
       "category": "model",
@@ -362,36 +512,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
-      "summary": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries. Even though teams are reluctant to work without these tools, the models still produce a lot of \"AI slop\" beyond routine tasks. The article OpenAI's own r",
-      "date": "2026-11-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
-      "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google's latest AI model is faster, cheaper and smarter than ",
-      "date": "2026-11-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months",
-      "summary": "Pulling text out of scanned books and records has gotten a lot cheaper with freely available AI models. The article OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months appeared first on The Decoder.",
-      "date": "2026-11-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/"
     },
     {
       "category": "industry",
@@ -516,6 +636,16 @@
     {
       "category": "industry",
       "lab": "OpenAI",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "date": "2026-11-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
       "title": "Deploying Daybreak Red",
       "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "date": "2026-11-19",
@@ -532,16 +662,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/business/learn/pr-scans-demo"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Explore the Codex Security Plugin",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "date": "2026-11-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo"
     },
     {
       "category": "industry",
@@ -564,16 +684,6 @@
       "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/"
     },
     {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
-      "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input tokens and $15 per million output tokens, Neon is ",
-      "date": "2026-11-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/"
-    },
-    {
       "category": "industry",
       "lab": "Hugging Face",
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -582,16 +692,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
-      "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound. A community gallery allows users ",
-      "date": "2026-11-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/"
     },
     {
       "category": "model",
@@ -642,56 +742,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
-    },
-    {
-      "category": "industry",
-      "lab": "Microsoft",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
     },
     {
       "category": "model",
@@ -1402,56 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/children-first-declaration"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "ChatGPT Ads increases its market presence in 44 countries",
-      "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "summary": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/3d-lora-finetuning"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Gemini Decisions API",
-      "summary": "<p><strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\">Gemini Decisions API</a></strong></p> Google join <a href=\"https://simonwillison.net/2026/Sep/21/jev/\">Jev</a> and <a href=\"https://simonwillison.net/2026/Oct/6/llm-openai",
-      "date": "2026-11-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "aws-emulator",
-      "summary": "<p><strong><a href=\"https://github.com/aws/aws-emulator\">aws-emulator</a></strong></p> Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so.</p> <p>It's written in Rust by a ",
-      "date": "2026-11-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
     }
   ]
 }

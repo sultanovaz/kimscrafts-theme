@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-19T20:30:52.445Z",
+  "updated": "2026-11-20T02:17:13.552Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 233
+    "fresh": 235
   },
   "ranking": [
     {
@@ -256,7 +256,37 @@
     {
       "category": "industry",
       "lab": "Anthropic",
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "date": "2026-11-20",
+      "importance": 4,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "date": "2026-11-20",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "PostgreSQL 19 Released",
+      "summary": "<p><strong><a href=\"https://www.postgresql.org/about/news/postgresql-19-released-3449/\">PostgreSQL 19 Released</a></strong></p> Most years PostgreSQL ships a new release in September, but this year's release came two months later <a href=\"https://rhaas.blogspot.com/2026/10/postgr",
+      "date": "2026-11-19",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
       "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
       "date": "2026-11-19",
       "importance": 4,
@@ -272,6 +302,16 @@
       "importance": 4,
       "tags": [],
       "url": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+      "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security trainin",
+      "date": "2026-11-19",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/"
     },
     {
       "category": "industry",
@@ -332,6 +372,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/"
+    },
+    {
+      "category": "industry",
+      "lab": "Meta",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "date": "2026-11-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "date": "2026-11-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
     },
     {
       "category": "industry",
@@ -434,6 +494,46 @@
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
     },
     {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "date": "2026-11-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/learn/deploying-daybreak-red"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "date": "2026-11-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/learn/pr-scans-demo"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "date": "2026-11-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Get started with Daybreak Blue",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "date": "2026-11-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "llm-gemini 0.38",
@@ -482,16 +582,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
-      "summary": "Working with AMD, OpenAI achieved up to 14 percent PPA improvement on AMD's flagship GPU IP in less than five months. According to OpenAI, that's roughly a year's worth of progress, and AMD has already folded the changes into a design sent to production. Anthropic is also applyin",
-      "date": "2026-11-18",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/"
     },
     {
       "category": "model",
@@ -605,46 +695,6 @@
     },
     {
       "category": "industry",
-      "lab": "AI",
-      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
-    },
-    {
-      "category": "industry",
       "lab": "Meta",
       "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
       "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
@@ -744,16 +794,6 @@
       "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
     },
     {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
-    },
-    {
       "category": "model",
       "lab": "OpenAI",
       "title": "Advancing chip design with OpenAI models",
@@ -762,6 +802,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
     },
     {
       "category": "industry",
@@ -1402,56 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/11/llm/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic's IPO roadshow video",
-      "summary": "<p><strong><a href=\"https://ipo.anthropic.com/us/#roadshow-video\">Anthropic&#x27;s IPO roadshow video</a></strong></p> Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works.</p> <p>The",
-      "date": "2026-11-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
-    },
-    {
-      "category": "model",
-      "lab": "Hugging Face",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "summary": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "date": "2026-11-11",
-      "importance": 3,
-      "tags": [],
-      "url": "https://huggingface.co/blog/qvac/botpsy"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Browse tools.simonwillison.net by tag",
-      "summary": "<p><strong><a href=\"https://tools.simonwillison.net/#tags\">Browse tools.simonwillison.net by tag</a></strong></p> I've been wanting a better way to browse my <a href=\"\">collection of vibe-coded tools</a> (244 and counting) for a while. I had a few Fable 5.2 credits left over befo",
-      "date": "2026-11-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-      "date": "2026-11-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-      "date": "2026-11-11",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/"
     }
   ]
 }

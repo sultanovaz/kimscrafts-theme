@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T02:10:52.437Z",
+  "updated": "2026-11-21T10:56:32.469Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 230
+    "fresh": 229
   },
   "ranking": [
     {
@@ -254,6 +254,36 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "AI",
+      "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+      "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at ",
+      "date": "2026-11-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Anthropic",
+      "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+      "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and",
+      "date": "2026-11-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+      "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training",
+      "date": "2026-11-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
@@ -342,16 +372,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/"
-    },
-    {
-      "category": "product",
-      "lab": "Microsoft",
-      "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
-      "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill appeared first on The Decoder.",
-      "date": "2026-11-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/"
     },
     {
       "category": "industry",
@@ -532,26 +552,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-      "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security trainin",
-      "date": "2026-11-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "AI industry growth remains strong, but the pace is slowing",
-      "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern: the AI industry i",
-      "date": "2026-11-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/"
     },
     {
       "category": "industry",

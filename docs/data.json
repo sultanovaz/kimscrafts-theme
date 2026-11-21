@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T10:56:32.469Z",
+  "updated": "2026-11-21T19:10:38.518Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 229
+    "fresh": 227
   },
   "ranking": [
     {
@@ -254,6 +254,46 @@
   ],
   "items": [
     {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia researchers argue huge AI context windows are a dead end",
+      "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually matched full-context results at a fraction of the ",
+      "date": "2026-11-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/"
+    },
+    {
+      "category": "hardware",
+      "lab": "AI",
+      "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+      "summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every breath its members take to train an AI in his image. Former me",
+      "date": "2026-11-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+      "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard",
+      "date": "2026-11-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+      "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human",
+      "date": "2026-11-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"
+    },
+    {
       "category": "model",
       "lab": "AI",
       "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
@@ -282,6 +322,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "date": "2026-11-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "date": "2026-11-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
     },
     {
       "category": "industry",
@@ -334,44 +394,14 @@
       "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
-      "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank advis",
-      "date": "2026-11-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
-      "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while raising new barriers for competitors appe",
-      "date": "2026-11-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/"
-    },
-    {
-      "category": "hardware",
-      "lab": "OpenAI",
-      "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
-      "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-token generation used by models like ChatG",
-      "date": "2026-11-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/"
-    },
-    {
-      "category": "product",
+      "category": "model",
       "lab": "Google DeepMind",
-      "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
-      "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are also launching worldwide. Google Search co-lead Robby",
+      "title": "llm-gemini 0.38.1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.38.1\">llm-gemini 0.38.1</a></p> <p>Gemini 4 Carbon only supports <code>low</code>, <code>medium</code> and <code>high</code> reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both h",
       "date": "2026-11-20",
       "importance": 3,
       "tags": [],
-      "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/"
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/"
     },
     {
       "category": "industry",
@@ -675,16 +705,6 @@
     },
     {
       "category": "industry",
-      "lab": "Microsoft",
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-      "date": "2026-11-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
-    },
-    {
-      "category": "industry",
       "lab": "OpenAI",
       "title": "Explore the Codex Security Plugin",
       "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
@@ -782,16 +802,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/managing-frontier-ai-risk"
-    },
-    {
-      "category": "industry",
-      "lab": "Microsoft",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/business/customer-stories/amplitude"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "summary": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
     }
   ]
 }

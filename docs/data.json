@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21T19:10:38.518Z",
+  "updated": "2026-11-22T01:14:54.734Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 227
+    "fresh": 223
   },
   "ranking": [
     {
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Muru",
+      "summary": "<p><strong><a href=\"https://github.com/muruhq/muru\">Muru</a></strong></p> Graham Dumpleton started <a href=\"https://modwsgi.readthedocs.io/\">mod_wsgi</a> 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.</p> <p>Muru",
+      "date": "2026-11-21",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/21/muru/"
+    },
+    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "Nvidia researchers argue huge AI context windows are a dead end",
@@ -322,6 +332,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "date": "2026-11-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "date": "2026-11-21",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
     },
     {
       "category": "industry",
@@ -672,26 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Anthropic",
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-      "date": "2026-11-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-      "date": "2026-11-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/"
-    },
-    {
-      "category": "product",
-      "lab": "OpenAI",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "date": "2026-11-12",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/business/customer-stories/amplitude"
     }
   ]
 }

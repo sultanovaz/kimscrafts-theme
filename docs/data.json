@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-22T01:14:54.734Z",
+  "updated": "2026-11-22T11:15:41.984Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 223
+    "fresh": 222
   },
   "ranking": [
     {
@@ -256,6 +256,26 @@
     {
       "category": "industry",
       "lab": "AI",
+      "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+      "summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier than expected: Terence Tao had predicted it wouldn",
+      "date": "2026-11-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lowe",
+      "date": "2026-11-22",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
       "title": "Muru",
       "summary": "<p><strong><a href=\"https://github.com/muruhq/muru\">Muru</a></strong></p> Graham Dumpleton started <a href=\"https://modwsgi.readthedocs.io/\">mod_wsgi</a> 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.</p> <p>Muru",
       "date": "2026-11-21",
@@ -402,26 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-      "summary": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, a",
-      "date": "2026-11-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
-      "summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemini can now run Mac apps and finish desktop chores in the bac",
-      "date": "2026-11-20",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/"
     },
     {
       "category": "model",

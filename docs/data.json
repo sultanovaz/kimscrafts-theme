@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T19:32:55.506Z",
+  "updated": "2026-11-23T01:39:29.505Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,16 @@
   ],
   "items": [
     {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    },
+    {
       "category": "model",
       "lab": "Google DeepMind",
       "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
@@ -312,6 +322,26 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "date": "2026-11-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Select Styling Specimens",
+      "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/select-styling\">Select Styling Specimens</a></p> <p>I got frustrated at how HTML <code><select></code> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome:</p> <p><img ",
+      "date": "2026-11-22",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/"
     },
     {
       "category": "industry",
@@ -635,16 +665,6 @@
     },
     {
       "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "date": "2026-11-19",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
-    },
-    {
-      "category": "industry",
       "lab": "Meta",
       "title": "Meta’s new Muse Charm device may cost $300",
       "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
@@ -702,16 +722,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "date": "2026-11-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 4,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "date": "2026-11-12",
-      "importance": 3,
-      "tags": [],
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
     }
   ]
 }

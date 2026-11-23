@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T01:39:29.505Z",
+  "updated": "2026-11-23T12:27:37.288Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,26 @@
   ],
   "items": [
     {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+      "summary": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Mathlib. On Autoform-Hard, Astra now leads the leade",
+      "date": "2026-11-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/"
+    },
+    {
       "category": "industry",
       "lab": "Anthropic",
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -402,16 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
-      "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human",
-      "date": "2026-11-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"
     },
     {
       "category": "industry",
@@ -1442,16 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/business/customer-stories/shield"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "llm-gemini 0.37",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.37\">llm-gemini 0.37</a></p> <p>Google launched <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\">Gemini 4 Hydrogen</a> today - ",
-      "date": "2026-11-12",
-      "importance": 4,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
     }
   ]
 }

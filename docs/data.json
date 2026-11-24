@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:10:00.707Z",
+  "updated": "2026-11-24T13:37:10.200Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
@@ -254,6 +254,56 @@
   ],
   "items": [
     {
+      "category": "research",
+      "lab": "AI",
+      "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
+      "summary": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and correctness guarantees. The article German researchers call for",
+      "date": "2026-11-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+      "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on thei",
+      "date": "2026-11-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-charts 0.2a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.2a0\">datasette-charts 0.2a0</a></p> <p>I introduced this new charting plugin for Datasette <a href=\"https://simonwillison.net/2026/Nov/23/datasette-charts/\">yesterday</a>. Today it'",
+      "date": "2026-11-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-agent 0.7a1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.7a1\">datasette-agent 0.7a1</a></p> <p>I small improvement to <a href=\"https://agent.datasette.io/\">Datasette Agent</a>: chat sessions can open an iframe side panel, and that panel ca",
+      "date": "2026-11-24",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "date": "2026-11-24",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+    },
+    {
       "category": "model",
       "lab": "Anthropic",
       "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
@@ -372,16 +422,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/"
-    },
-    {
-      "category": "benchmark",
-      "lab": "OpenAI",
-      "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
-      "summary": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Mathlib. On Autoform-Hard, Astra now leads the leade",
-      "date": "2026-11-23",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/"
     },
     {
       "category": "model",
@@ -602,16 +642,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://huggingface.co/blog/agentic-evals"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
-      "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5 and Astra fall far ",
-      "date": "2026-11-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/"
     },
     {
       "category": "industry",
@@ -1422,36 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/15/datasette-2/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-agent 0.6a0",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.6a0\">datasette-agent 0.6a0</a></p> <p>Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now add",
-      "date": "2026-11-15",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "date": "2026-11-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Our new blog for science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "date": "2026-11-15",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/our-new-blog-for-science"
     }
   ]
 }

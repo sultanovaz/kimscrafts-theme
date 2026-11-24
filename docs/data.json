@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-23T12:27:37.288Z",
+  "updated": "2026-11-24T02:10:00.707Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 222
+    "fresh": 227
   },
   "ranking": [
     {
@@ -254,6 +254,126 @@
   ],
   "items": [
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "summary": "<p><strong><a href=\"https://z.ai/blog/glm-5.4\">GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</a></strong></p> GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this:</p",
+      "date": "2026-11-23",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Anthropic",
+      "title": "Ladybird's first alpha release",
+      "summary": "<p><a href=\"https://ladybird.org\">Ladybird</a> is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - thin",
+      "date": "2026-11-23",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+      "summary": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imag",
+      "date": "2026-11-23",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "OpenAI",
+      "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+      "summary": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far, and Z.",
+      "date": "2026-11-23",
+      "importance": 4,
+      "tags": [],
+      "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+      "summary": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safe",
+      "date": "2026-11-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+      "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation. The metric shows that core capabilities emerge at surprisingly precise thresholds. Pachocki is push",
+      "date": "2026-11-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "date": "2026-11-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+      "summary": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power. The article Chinese military fears AI could let the US find and destroy its nuclear missiles appeared first on The Decoder.",
+      "date": "2026-11-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "date": "2026-11-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia tried life without Jensen Huang and it lasted about two weeks",
+      "summary": "Nvidia's board of directors has reinstated Jensen Huang as president, CEO, and board member, effective immediately. The article Nvidia tried life without Jensen Huang and it lasted about two weeks appeared first on The Decoder.",
+      "date": "2026-11-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/"
+    },
+    {
+      "category": "research",
+      "lab": "Meta",
+      "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+      "summary": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner. The article Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthro",
+      "date": "2026-11-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+      "summary": "US intelligence agencies tracked contacts between Alice Huang and China's Ministry of State Security for over a year, the New York Times reports. The surveillance ran parallel to her secret affair with then-Nvidia CEO Jensen Huang. Federal investigators are now looking into wheth",
+      "date": "2026-11-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/"
+    },
+    {
       "category": "benchmark",
       "lab": "OpenAI",
       "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
@@ -262,6 +382,176 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "datasette-charts 0.1a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.1a0\">datasette-charts 0.1a0</a></p> <p>I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. Th",
+      "date": "2026-11-23",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+    },
+    {
+      "category": "model",
+      "lab": "xAI",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/introducing-shirudo"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "summary": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/allenai/robotrack"
+    },
+    {
+      "category": "product",
+      "lab": "Google DeepMind",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
     },
     {
       "category": "industry",
@@ -275,6 +565,26 @@
     },
     {
       "category": "industry",
+      "lab": "OpenAI",
+      "title": "Connected intelligence for in-house legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+    },
+    {
+      "category": "industry",
       "lab": "Anthropic",
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
@@ -282,6 +592,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "How to build and maintain an agentic evaluation",
+      "summary": "How to build and maintain an agentic evaluation",
+      "date": "2026-11-23",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/agentic-evals"
     },
     {
       "category": "model",
@@ -292,56 +612,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
-      "summary": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader strategy to stand out from an increasingl",
-      "date": "2026-11-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
-      "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though it also says common tests may overestima",
-      "date": "2026-11-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
-      "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply reading customer requests. OpenRouter r",
-      "date": "2026-11-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
-      "summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier than expected: Terence Tao had predicted it wouldn",
-      "date": "2026-11-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
-      "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lowe",
-      "date": "2026-11-22",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/"
     },
     {
       "category": "industry",
@@ -394,36 +664,6 @@
       "url": "https://simonwillison.net/2026/Nov/21/muru/"
     },
     {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Nvidia researchers argue huge AI context windows are a dead end",
-      "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually matched full-context results at a fraction of the ",
-      "date": "2026-11-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/"
-    },
-    {
-      "category": "hardware",
-      "lab": "AI",
-      "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
-      "summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every breath its members take to train an AI in his image. Former me",
-      "date": "2026-11-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
-      "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard",
-      "date": "2026-11-21",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -462,16 +702,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "date": "2026-11-20",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
     },
     {
       "category": "industry",
@@ -516,42 +746,12 @@
     {
       "category": "industry",
       "lab": "AI",
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "date": "2026-11-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-      "date": "2026-11-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
       "title": "Quoting Ravi Vakil",
       "summary": "<blockquote cite=\"https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\"><p>Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is",
       "date": "2026-11-20",
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Chips can survive the space environment — can their financing?",
-      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "date": "2026-11-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
     },
     {
       "category": "model",
@@ -562,26 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in Chi",
-      "date": "2026-11-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "date": "2026-11-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
     },
     {
       "category": "model",
@@ -602,16 +782,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "date": "2026-11-20",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
     },
     {
       "category": "model",
@@ -665,36 +835,6 @@
     },
     {
       "category": "industry",
-      "lab": "Anthropic",
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "date": "2026-11-19",
-      "importance": 4,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
-    },
-    {
-      "category": "industry",
-      "lab": "Meta",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "date": "2026-11-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "date": "2026-11-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
-    },
-    {
-      "category": "industry",
       "lab": "AI",
       "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
       "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
@@ -702,36 +842,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "date": "2026-11-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "date": "2026-11-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
-    },
-    {
-      "category": "product",
-      "lab": "Meta",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-      "date": "2026-11-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
     },
     {
       "category": "industry",
@@ -742,16 +852,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "date": "2026-11-19",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/business/learn/deploying-daybreak-red"
     },
     {
       "category": "industry",
@@ -782,6 +882,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/business/learn/codex-security-plugin-demo"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "date": "2026-11-19",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/business/learn/deploying-daybreak-red"
     },
     {
       "category": "model",
@@ -954,16 +1064,6 @@
       "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
     },
     {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "date": "2026-11-18",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
-    },
-    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
@@ -972,6 +1072,16 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+    },
+    {
+      "category": "model",
+      "lab": "OpenAI",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "date": "2026-11-18",
+      "importance": 2,
+      "tags": [],
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
     },
     {
       "category": "industry",
@@ -1342,116 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://openai.com/index/our-new-blog-for-science"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "datasette-llm 0.1a11",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a11\">datasette-llm 0.1a11</a></p> <p><code>datasette-llm</code> is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.</p> <p>Th",
-      "date": "2026-11-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-vega 0.7",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-vega/releases/tag/0.7\">datasette-vega 0.7</a></p> <p>A new release of Datasette's longest untouched plugin, for rendering charts (using <a href=\"https://vega.github.io/vega-lite/\">Vega-Lite</a>) against dat",
-      "date": "2026-11-14",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-cluster-map 0.19",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-cluster-map/releases/tag/0.19\">datasette-cluster-map 0.19</a></p> <p>One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on <a href=\"https://s",
-      "date": "2026-11-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "datasette-leaflet 0.3",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-leaflet/releases/tag/0.3\">datasette-leaflet 0.3</a></p> <p>OpenStreetMap have a very reasonable policy that hits to their hosted tile server <a href=\"https://wiki.openstreetmap.org/wiki/Referer\">should send",
-      "date": "2026-11-13",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/"
-    },
-    {
-      "category": "product",
-      "lab": "AI",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "date": "2026-11-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "summary": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "date": "2026-11-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "date": "2026-11-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "XYBench: Helping with the problem behind the question",
-      "summary": "XYBench: Helping with the problem behind the question",
-      "date": "2026-11-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/allenai/xybench"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "date": "2026-11-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-chatgpt-wallet"
-    },
-    {
-      "category": "model",
-      "lab": "Meta",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "summary": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "date": "2026-11-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "date": "2026-11-13",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/business/customer-stories/shield"
     }
   ]
 }

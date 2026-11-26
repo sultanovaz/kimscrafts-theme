@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T19:12:59.396Z",
+  "updated": "2026-11-26T03:31:49.790Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 228
+    "fresh": 226
   },
   "ranking": [
     {
@@ -264,6 +264,36 @@
       "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
     },
     {
+      "category": "industry",
+      "lab": "AI",
+      "title": "Quoting Scott Aaronson",
+      "summary": "<blockquote cite=\"https://scottaaronson.blog/?p=10379\"><p>It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoe",
+      "date": "2026-11-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/"
+    },
+    {
+      "category": "model",
+      "lab": "DeepSeek",
+      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+      "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they're already up to nine months behind US models, an",
+      "date": "2026-11-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+      "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governance to AI is a bad idea.\" The article Anthropic CEO Dario Amodei says letting AI govern society would",
+      "date": "2026-11-25",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/"
+    },
+    {
       "category": "product",
       "lab": "OpenAI",
       "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
@@ -342,6 +372,46 @@
       "importance": 3,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "date": "2026-11-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+    },
+    {
+      "category": "industry",
+      "lab": "OpenAI",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "date": "2026-11-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "date": "2026-11-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "date": "2026-11-25",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
     },
     {
       "category": "industry",
@@ -446,42 +516,12 @@
     {
       "category": "model",
       "lab": "Anthropic",
-      "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
-      "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work more independently. The article Anthropic tops 700",
-      "date": "2026-11-24",
-      "importance": 4,
-      "tags": [],
-      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
       "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
       "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, and it can add menu bar items, send notifications, and create transparent windows. The article Anthropic turns Claude Arti",
       "date": "2026-11-24",
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
-      "summary": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up drug development, he says, but it won't beat cancer in a decade. The real value lies \"somewhere in t",
-      "date": "2026-11-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/"
-    },
-    {
-      "category": "hardware",
-      "lab": "Nvidia",
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-      "date": "2026-11-24",
-      "importance": 3,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
     },
     {
       "category": "model",
@@ -654,16 +694,6 @@
       "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
     },
     {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-      "date": "2026-11-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/"
-    },
-    {
       "category": "hardware",
       "lab": "Nvidia",
       "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
@@ -772,26 +802,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/"
-    },
-    {
-      "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "date": "2026-11-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "date": "2026-11-23",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
     },
     {
       "category": "model",
@@ -1442,16 +1452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://openai.com/index/science-at-the-frontier"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "date": "2026-11-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T03:31:49.790Z",
+  "updated": "2026-11-26T16:49:57.695Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 226
+    "fresh": 224
   },
   "ranking": [
     {
@@ -255,6 +255,126 @@
   "items": [
     {
       "category": "industry",
+      "lab": "Anthropic",
+      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+      "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead appeared first on ",
+      "date": "2026-11-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/"
+    },
+    {
+      "category": "industry",
+      "lab": "Google DeepMind",
+      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+      "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Google and Blue Origin are also working on AI infrast",
+      "date": "2026-11-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/"
+    },
+    {
+      "category": "industry",
+      "lab": "Microsoft",
+      "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+      "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Korea, along with criminal organizations, are already ",
+      "date": "2026-11-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/"
+    },
+    {
+      "category": "hardware",
+      "lab": "Nvidia",
+      "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+      "summary": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls targeting Chinese cloud access, dealers are already seeking buyers for thousands of B300 chips, while one cloud executiv",
+      "date": "2026-11-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
+    },
+    {
+      "category": "product",
+      "lab": "AI",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "summary": "<p><strong><a href=\"https://www.sqlite.org/rsync.html\">sqlite3_rsync: Database Remote-Copy Tool For SQLite</a></strong></p> This additional SQLite tool has been around for a while now - it was added as \"experimental\" <a href=\"https://www.sqlite.org/releaselog/3_47_0.html\">in SQLi",
+      "date": "2026-11-26",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/"
+    },
+    {
+      "category": "industry",
+      "lab": "Anthropic",
+      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "date": "2026-11-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+    },
+    {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "Quoting Jack Despain Zhou",
+      "summary": "<blockquote cite=\"https://www.tracingwoodgrains.com/p/spitting-in-the-face-of-glaude\"><p>Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open m",
+      "date": "2026-11-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/"
+    },
+    {
+      "category": "benchmark",
+      "lab": "Meta",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "date": "2026-11-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+    },
+    {
+      "category": "industry",
+      "lab": "AI",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "<p><a href=\"https://news.ycombinator.com/item?id=50647673#50651685\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=50647673\">The New York Times warns photographers not to update Photoshop over AI features</a> &mdash; Hacker News.</p><p>I had a NYT photographer ta",
+      "date": "2026-11-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/"
+    },
+    {
+      "category": "industry",
+      "lab": "Hugging Face",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "summary": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "date": "2026-11-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+    },
+    {
+      "category": "product",
+      "lab": "Hugging Face",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "date": "2026-11-26",
+      "importance": 2,
+      "tags": [],
+      "url": "https://huggingface.co/blog/training-swarms"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-charts 0.3a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.3a0\">datasette-charts 0.3a0</a></p> <p>I added chart annotations to <a href=\"https://github.com/datasette/datasette-charts\">datasette-charts</a>!</p> <p>You can now render a chart a",
+      "date": "2026-11-25",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/"
+    },
+    {
+      "category": "industry",
       "lab": "Meta",
       "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
       "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon's ad business generates $68.6 billion a year, and ",
@@ -324,16 +444,6 @@
       "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/"
     },
     {
-      "category": "product",
-      "lab": "AI",
-      "title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
-      "summary": "The US Financial Crimes Enforcement Network took systems offline as a precaution after unauthorized access. Hours earlier, reports emerged of a separate breach at the CIA, NGA, and ODNI, in which investigators suspect attackers used the AI defense tool Artex. Both incidents land ",
-      "date": "2026-11-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/"
-    },
-    {
       "category": "industry",
       "lab": "AI",
       "title": "AI may soon change what it means to be a theoretical physicist",
@@ -342,26 +452,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
-      "summary": "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model. The article PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values appeared first on The Decoder.",
-      "date": "2026-11-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
-      "summary": "MIT researchers have developed a method that lets AI climate models get by with a single training run instead of the usual six to eight. An algorithm generates deliberately unrealistic scenarios with extreme CO2 or methane swings that make the model more robust. Until now, these ",
-      "date": "2026-11-25",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/"
     },
     {
       "category": "hardware",
@@ -515,13 +605,13 @@
     },
     {
       "category": "model",
-      "lab": "Anthropic",
-      "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
-      "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, and it can add menu bar items, send notifications, and create transparent windows. The article Anthropic turns Claude Arti",
+      "lab": "AI",
+      "title": "datasette-charts 0.2a1",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.2a1\">datasette-charts 0.2a1</a></p> <blockquote> <p>Minor UI improvements:</p> <ul> <li>Collapsing the <strong>suggested charts</strong> section now leaves the chart visible.</li> <",
       "date": "2026-11-24",
       "importance": 3,
       "tags": [],
-      "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/"
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/"
     },
     {
       "category": "model",
@@ -672,26 +762,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
-    },
-    {
-      "category": "industry",
-      "lab": "Hugging Face",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "summary": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "date": "2026-11-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-      "date": "2026-11-24",
-      "importance": 2,
-      "tags": [],
-      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
     },
     {
       "category": "hardware",
@@ -1382,76 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Introducing ChatGPT for Sales",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales"
-    },
-    {
-      "category": "industry",
-      "lab": "AI",
-      "title": "Quoting Go Proverbs",
-      "summary": "<blockquote cite=\"https://go-proverbs.github.io\"><p>A little copying is better than a little dependency.</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://go-proverbs.github.io\">Go Proverbs</a>, <a href=\"https://news.ycombinator.com/item?id=50516689#50526408\">via</a></p> ",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-openai-for-chile"
-    },
-    {
-      "category": "model",
-      "lab": "AI",
-      "title": "llm 0.37.3",
-      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.37.3\">llm 0.37.3</a></p> <p>A bug fix release for <a href=\"https://llm.datasette.io\">LLM</a>, mainly to cover a problem with the most recent Homebrew package of the software.</p> <p>Homebrew now sh",
-      "date": "2026-11-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://simonwillison.net/2026/Nov/16/llm/"
-    },
-    {
-      "category": "industry",
-      "lab": "OpenAI",
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "date": "2026-11-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
-    },
-    {
-      "category": "research",
-      "lab": "OpenAI",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "date": "2026-11-16",
-      "importance": 3,
-      "tags": [],
-      "url": "https://openai.com/index/science-at-the-frontier"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-28T03:16:58.913Z",
+  "updated": "2026-11-28T11:52:45.432Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 215
+    "fresh": 213
   },
   "ranking": [
     {
@@ -255,6 +255,26 @@
   "items": [
     {
       "category": "model",
+      "lab": "OpenAI",
+      "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+      "summary": "Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2 Astra stumble when asked for 16 straight correct answers. Visual perception accounts for 73 percent ",
+      "date": "2026-11-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/"
+    },
+    {
+      "category": "model",
+      "lab": "Google DeepMind",
+      "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+      "summary": "Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor skills in simulation. Google Deepmind, Meta, and MIT researchers are behind the startup as the race for ",
+      "date": "2026-11-28",
+      "importance": 3,
+      "tags": [],
+      "url": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/"
+    },
+    {
+      "category": "model",
       "lab": "Anthropic",
       "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
       "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so much that an early unofficial multiplayer mode is al",
@@ -362,26 +382,6 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
-      "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business users get free Fast Mode through year-end. OpenAI is also tes",
-      "date": "2026-11-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/"
-    },
-    {
-      "category": "industry",
-      "lab": "Anthropic",
-      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
-      "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead appeared first on ",
-      "date": "2026-11-26",
-      "importance": 3,
-      "tags": [],
-      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/"
     },
     {
       "category": "product",

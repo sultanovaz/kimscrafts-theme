@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T21:12:27.058Z",
+  "updated": "2026-11-28T03:16:58.913Z",
   "generator": "fetch-news.mjs",
   "counts": {
     "total": 120,
     "curated": 89,
-    "fresh": 219
+    "fresh": 215
   },
   "ranking": [
     {
@@ -264,6 +264,16 @@
       "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/"
     },
     {
+      "category": "model",
+      "lab": "Anthropic",
+      "title": "datasette-charts 0.4a0",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-charts/releases/tag/0.4a0\">datasette-charts 0.4a0</a></p> <p>The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for an",
+      "date": "2026-11-27",
+      "importance": 4,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/"
+    },
+    {
       "category": "industry",
       "lab": "OpenAI",
       "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
@@ -322,6 +332,16 @@
       "importance": 3,
       "tags": [],
       "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/"
+    },
+    {
+      "category": "model",
+      "lab": "AI",
+      "title": "datasette-mcp 0.4",
+      "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.4\">datasette-mcp 0.4</a></p> <p>Fixed for compatibility with <a href=\"https://docs.datasette.io/en/latest/changelog.html#a44-2026-11-22\">Datasette 1.0a44</a>.</p> <p>Tags: <a href=\"htt",
+      "date": "2026-11-27",
+      "importance": 3,
+      "tags": [],
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/"
     },
     {
       "category": "industry",
@@ -1432,26 +1452,6 @@
       "importance": 2,
       "tags": [],
       "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
-    },
-    {
-      "category": "model",
-      "lab": "OpenAI",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
-    },
-    {
-      "category": "model",
-      "lab": "Google DeepMind",
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-      "date": "2026-11-17",
-      "importance": 2,
-      "tags": [],
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
     }
   ]
 }
